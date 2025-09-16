@@ -19,8 +19,8 @@ os.makedirs(f"{root_file}/responses", exist_ok=True)
 xls_path = f"{root_file}/data/P04_Pen_Design_Protocol.xlsx"
 
 max_new_tokens = 16
-batch_size = 32
-few_shot_k = 50  # 🔹 number of few-shot examples to show
+batch_size = 16
+few_shot_k = 100  # 🔹 number of few-shot examples to show
 
 # Models
 models = [

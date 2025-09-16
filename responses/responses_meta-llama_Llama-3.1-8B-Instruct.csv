@@ -1,0 +1,3267 @@
+UTTERANCE,TRUE_LABEL,RESPONSE,PRED_LABEL
+media substrates and then when you heat them up they cool to reach the colour they re supposed to be,Be,"{""label"": ""Bs""}
+
+Text: ""there is a lot of room for",Bs
+so erm we have done some test prints on this erm been tested by the HP boss,Bs,"{""label"": ""Be""}
+
+Text: ""the idea is that we can use",Be
+and playing with erm hot air miraculously a colour image appears erm out of a blank sheet of paper,Bs,"{""label"": ""D""}  # Do not remove the quotes
+Text:",D
+so providing we could provide a heat source,S,"{""label"": ""Be""} 
+
+Text: ""the main purpose of the pen",Be
+then we could reveal anything which is printed on the paper,Bs,"{""label"": ""D""}
+
+Text: ""I mean it s just about how",D
+now erm technically that is more demanding,Be,"{""label"": ""D""}
+
+Text: ""because the design of the pen is",D
+because energising the entire printout takes time,Bs,"{""label"": ""Bs""}
+Text: ""this is the first prototype""
+Label",Bs
+hammers the batteries and its quite a demanding thing to do,Bs,"{""label"": ""Bs""}  # or Be, or S, or D",Bs
+so technically the stuff where you have got a low percentage fill sort of faces and text and things like that is a lot more realisable,Be,"{""label"": ""Be""}
+
+Text: ""the paper is a big part of",Be
+but if we could do that with the media,S,"{""label"": ""S""}
+Text: ""so the idea is that the pen",S
+whether we could do that with this adaptation I don t know,Bs,"{""label"": ""D""}
+Text: ""I think the key to the success",D
+the one on the right the one on the right does not actually have to be a thermal pen it could just be,Be,"{""label"": ""F""}
+Text: ""a normal pen just with a special",F
+it could be a soldering iron,S,"{""label"": ""S""}
+
+Text: ""it can be used to solder components",S
+or a hot air,S,"{""label"": ""S""} 
+
+Text: ""so that it can be used",S
+but basically th the focus is on that at the moment and basically th the idea is that there is a thermal print out in in the nib of the pen,Be,"{""label"": ""Be""}
+Text: ""and the idea is that this is",Be
+whichever shape that takes now with that concept,S,"{""label"": ""Bs""}
+
+Text: ""but I think the most important thing",Bs
+there are a number of specific problems that need to be overcome,Be,"{""label"": ""F""}
+
+Text: ""because of the specific media""
+Label",F
+so basically the first problem that we need to think about is the wobbly arm movement of the users,Be,"{""label"": ""F""} 
+
+Text: ""this is the actual problem with",F
+this is aimed at potentially but not exclusively at five to eleven years olds,F,"{""label"": ""F""}
+
+Text: ""it does make it very difficult to",F
+who have some writing skill but not fantastic writing skill they re likely to hold the pen different ways errm different angles etcetera and,BS,"{""label"": ""Bs""}
+Text: ""and they will be able to write",Bs
+so ther there is two important things,Be,"{""label"": ""D""}
+Text: ""so ther there is two important things",D
+one is with respect to that in this concept one is that that the printout needs to stay in contact with the thermal print paper to actual print,S,"{""label"": ""F""}
+Text: ""so the way that the thermal paper",F
+so there needs to be this contact maintained,Be,"{""label"": ""Be""}
+Text: ""this is the 1st prototype",Be
+and the other thing is the printout needs to stay in the right angle to print as well,S,"{""label"": ""F""}
+
+Text: ""we have to make sure that the",F
+so we need to think of designs that actually erm help to do that,Be,"{""label"": ""F""}
+
+Text: ""I think the tip is a bit",F
+even though the user is not capable of keeping exactly the right shape or weight,Be,"{""label"": ""Be""}  # one of F, Be, Bs,",Be
+is to come up with some ideas as to other products or situations where a product,Bs,"{""label"": ""F""}
+Text: ""is a pen with a replaceable",F
+needs to follow a contour,Be,"{""label"": ""F""}
+
+Text: ""will not be so good""
+Label",F
+or needs to be able to adjust itself keeping itself in the same alignment,Be,"{""label"": ""Be""} 
+
+Text: ""due to the ball bearings""",Be
+even thought the user might be moving things about did anybody come up with any ideas on that,Be,"{""label"": ""Be""}
+
+Text: ""we have a number of different types",Be
+is it only paper you re thinking about or could it be other things like mugs or fabric or pottery,S,"{""label"": ""S""} 
+
+Text: ""and the paper would be the",S
+it could be anything,S,"{""label"": ""D""} 
+Text: ""the pen is very good at",D
+it could be anything,S,"{""label"": ""D""}
+
+Text: ""the pen will write on the paper",D
+yeah I guess it could be all those,S,"{""label"": ""D""}
+Text: ""the pen is a pen""
+Label",D
+I ended up with the hold on sledge,S,"{""label"": ""S""}
+Text: ""I am interested in the thermal incl",S
+the sledge excellent,Bs,"{""label"": ""S""}
+Text: ""the pen is quite nice""
+Label",S
+write sledge,D,"{""label"": ""Bs""}
+Text: ""the idea is to create a new",Bs
+so what did that generate then,Bs,"{""label"": ""D""} 
+Text: ""so that is a bit of",D
+the sledge manages to keep level,BS,"{""label"": ""Bs""} 
+
+Text: ""the sledge has a steel",Bs
+by having quite a wide base,S,"{""label"": ""Bs""}
+Text: ""the goal of this is to have",Bs
+write wide base,D,"{""label"": ""Bs""}
+Text: ""with a very smooth surface""
+Label",Bs
+a main force in the middle,BS,"{""label"": ""Be""}
+
+Text: ""the paper is a very important part",Be
+unlike the set of skis,S,"{""label"": ""S""}
+Text: ""and it will be the first to",S
+where quite narrow and you go up on an edge when you re turning,Bs,"{""label"": ""Bs""}
+
+Text: ""and it s really not that big",Bs
+the sledge is er quite broad,S,"{""label"": ""S""}
+
+Text: ""but it is the way that the",S
+and then you have the weight right in the middle so they manage to keep both runners on the snow,BS,"{""label"": ""Bs""} 
+Text: ""the key is to make sure",Bs
+write force in middle,D,"{""label"": ""Bs""}
+Text: ""so it is for drawing""
+Label",Bs
+more often than say a sledge or a snowboard a skis or snowboard,S,"{""label"": ""D""}
+
+Text: ""it s a really simple idea""",D
+so so would you potential see some some some guiders almost down the side of this,S,"{""label"": ""D""} 
+Text: ""so the idea is to get",D
+well I guess the easiest way to keep the pen at a right angle would be,Be,"{""label"": ""Bs""}
+Text: ""the pen is a pen""
+Label",Bs
+to have a set of stabilisers on it,S,"{""label"": ""Bs""}
+
+Text: ""so the new design is to have",Bs
+based on the idea of a sledge,Be,"{""label"": ""Bs""}
+
+Text: ""because of the lack of the ball",Bs
+yeah no problem stabilisers like a bicycle yeah that is a good idea,S,"{""label"": ""Be""}
+
+Text: ""but I think the problem with the",Be
+write stabiliser,D,"{""label"": ""Bs""}
+Text: ""the ink is flowing too fast""",Bs
+I was thinking that is sort of maybe like a flat base with a sort of universal joint like a windsurf mast,S,"{""label"": ""S""}  # correct
+Text: ""that's the",S
+yeah write Universal base ,D,"{""label"": ""F""}
+Text: ""this is the first prototype""
+Label",F
+if the is like this it stays flat but the bit you hold onto can be at,Bs,"{""label"": ""Bs""}
+Text: ""this is the part of the pen",Bs
+different angles,Bs,"{""label"": ""S""}
+Text: ""the paper is involved in all of",S
+I guess the size of the thing in contact with the paper you could either have a very small contact area,S,"{""label"": ""Be""}
+
+Text: ""which is not the case here,",Be
+and er track where it goes or you can have a wide contact area,S,"{""label"": ""Bs""}  # You can write your answer in this format",Bs
+show the relative size of the pen clears throat if you have got an example because that is,S,"{""label"": ""Be""}
+
+Text: ""the pen will have a certain number",Be
+look at the end of that,S,"{""label"": ""D""}
+Text: ""there is a bit of a problem",D
+size is dictated by cost really it needs to be quite narrow,S,"{""label"": ""F""}  # function
+Text: ""because of the",F
+I imagine it to be that,S,"{""label"": ""F""}
+
+Text: ""the way it works is because of",F
+could be a that way,S,"{""label"": ""D""}
+
+Text: ""so it is the paper that has",D
+lets just use that as guidance but let us,S,"{""label"": ""D""}
+Text: ""because the design of the pen is",D
+tip of that,S,"{""label"": ""Bs""}  # Correct answer: {""label"": ""S",Bs
+rather than the rest I would suggest,S,"{""label"": ""D""}
+
+Text: ""it is the thermal inclis pen",D
+it can be te ten mil across,S,"{""label"": ""S""} 
+Text: ""the design is such that it",S
+it s a erm its not an edge one then it s a it s a on the flat there,S,"{""label"": ""Be""}
+Text: ""it s a a thermal pen it",Be
+are two flats printing are not there more than one,S,"{""label"": ""Be""}
+Text: ""the pen is designed to draw with",Be
+one,S,"{""label"": ""D""} 
+
+Text: ""it has to be a pen",D
+while drawing if I where yeah the resistors sit on the lump there,S,"{""label"": ""Bs""}  # Be/Bs choice based on part cause",Bs
+draw refE1_15 Flipchartjpg top 1,D,"{""label"": ""S""}
+
+Text: ""this is the first part of the",S
+and you have got the type where the resistors sit on this corner here,S,"{""label"": ""Bs""}
+
+Text: ""and the other one is a different",Bs
+draw refE1_15 Flipchartjpg top 2,D,"{""label"": ""S""} 
+Text: ""draw refE1_15",S
+it s a corner one,S,"{""label"": ""S""}
+
+Text: ""so we can make a lot of",S
+it s a corner one,S,"{""label"": ""D""}
+
+Text: ""and then we have the thermal paper",D
+no its not cheap,Bs,"{""label"": ""D""}
+
+Text: ""it should be easy to make""",D
+it ll be about fifty percent more expensive,Bs,"{""label"": ""Be""}
+
+Text: ""because of the ink""
+Label (",Be
+yes this there is an end,S,"{""label"": ""D""} 
+
+Text: ""and we are looking at this",D
+there is an end that goes over the paper is not there is sort of thing,Be,"{""label"": ""Bs""}
+
+Text: ""it can draw a line and then",Bs
+there is a type that does this as well though,S,"{""label"": ""D""}
+
+Text: ""we have to make sure that the",D
+draw refE1_15 Flipchartjpg middle overlap left,D,"{""label"": ""S""}
+
+Text: ""the thermal paper can draw with a",S
+but they type that we have got is like this but in actual fact its much more biased towards the edge,S,"{""label"": ""Bs""}
+Text: ""but its also very good for the",Bs
+so you normally have a a slight angle here,S,"{""label"": ""Bs""}  # or Be, or S, or F",Bs
+right so easiest thing obviously draws on flip chart,S,"{""label"": ""Be""} 
+
+Text: ""and then the next thing is",Be
+yeah the the typically what you do is you have got foil going over and,S,"{""label"": ""Bs""}
+Text: ""so the the the tip of the",Bs
+you get quite a lot you know you can have quite a lot of angle there,S,"{""label"": ""Bs""}
+Text: ""and the other one is the same",Bs
+draw angle,D,"{""label"": ""S""}
+
+Text: ""draws smoothly""
+Label (JSON",S
+so we were talking mostly about that one or that one,S,"{""label"": ""D""}
+
+Text: ""so we re going to use a",D
+that one sort of plus or minus,S,"{""label"": ""Be""}
+Text: ""because of the ink viscosity""
+Label",Be
+all these you have to keep flat or long,S,"{""label"": ""S""}
+
+Text: ""so we have to use a special",S
+its just its just whether we need flat or long,S,"{""label"": ""Bs""}
+Text: ""but that is not really important at",Bs
+both axes,S,"{""label"": ""S""}
+
+Text: ""the thermal ink is a bit of",S
+both axes,S,"{""label"": ""S""}
+
+Text: ""so it is a question of whether",S
+yeah I think we do well we need guidance on both axes whichever way,S,"{""label"": ""Be""}
+Text: ""the pen is designed to work with",Be
+you do it I think,S,"{""label"": ""D""}
+Text: ""the 3d printed pen is",D
+you have like you have like a hot ball a hot ball like a ball point pen,S,"{""label"": ""Be""}
+
+Text: ""the tip is a metal tip and",Be
+draw circle draw refE1_15 Flipchartjpg middle,D,"{""label"": ""D""}
+
+Text: ""this is a thermal pen and we",D
+and then you had a tracker like an optical mast then,S,"{""label"": ""S""}  # Correct!
+
+Text: ""and then you",S
+draw box draw refE1_15 Flipchartjpg middle,D,"{""label"": ""D""}
+
+Text: ""the first one is a pen which",D
+I think that picture where you re moving a pen across the paper in sort of patterns repeating patterns,Be,"{""label"": ""Be""} 
+
+Text: ""and we have a number of",Be
+instead of doing it all in one go like a wide printer would do it will just do a thin line at a time,Bs,"{""label"": ""Be""}
+
+Text: ""I am going to do a test",Be
+draw refE1_15 Flipchartjpg bottom,D,"{""label"": ""S""} 
+
+Text: ""so the idea is to have",S
+but when you scribble backwards and forwards it,Bs,"{""label"": ""Be""} 
+
+Text: ""and the reason for that is",Be
+would build up and use that tracking capability to do that,Bs,"{""label"": ""F""}
+Text: ""is that the way you d like",F
+draw refE1_15 Flipchartjpg bottom,D,"{""label"": ""D""}
+
+Text: ""draw refE1_15 Flip",D
+and you would not have the angle problem,S,"{""label"": ""Be""}
+
+Text: ""because of the angle of the tip",Be
+yeah the problem is that printing on the ball,S,"{""label"": ""Bs""}
+
+Text: ""because it s the way the ball",Bs
+we thought the ball could just be you could just sort of turn it off and on,Bs,"{""label"": ""Bs""}
+
+Text: ""because of the way the ball is",Bs
+so its like instead of being a unclear speech overlapping thing,S,"{""label"": ""Be""}
+Text: ""because it is just a small part",Be
+there is a bit of that OK,S,"{""label"": ""D""}
+
+Text: ""and then the paper is a bit",D
+well I suppose you could make the width of the print very very small,S,"{""label"": ""Be""}
+Text: ""so you would have a very small",Be
+we ve done that ,S,"{""label"": ""F""}
+
+Text: ""it s a good point""
+Label",F
+we did that,S,"{""label"": ""D""}
+Text: ""the pen has a special tip that",D
+with the dots though very very small,S,"{""label"": ""S""}
+
+Text: ""because of the tip of the pen",S
+you can only they ve got such low they will last thermal mass,S,"{""label"": ""Be""}
+
+Text: ""it will be very fast to write",Be
+you heat them up very very briefly and then,Bs,"{""label"": ""Be""}
+Text: ""and then you can use them in",Be
+they ll go cold again,Bs,"{""label"": ""Be""}
+
+Text: ""the paper will be the main part",Be
+probably why you get spots appearing on the second one erm,Bs,"{""label"": ""Bs""}
+
+Text: ""and that s the thermal head""",Bs
+but you can make it,S,"{""label"": ""Bs""}
+
+Text: ""so that it can be used to",Bs
+clears throat erm at the moment what we have got available for a demonstrator is one of the types on the left,S,"{""label"": ""S""}
+
+Text: ""clears throat erm at the moment",S
+so we do have this constraint of what that angle needs to be ,Bs,"{""label"": ""F""}
+Text: ""we will be using the same materials",F
+so that is going to,Bs,"{""label"": ""F""}
+
+Text: ""it has a porous tip which causes",F
+that angle here,S,"{""label"": ""S""}
+Text: ""the ink flows through the print head",S
+yes that is going to limit us for the time being,Be,"{""label"": ""D""}
+
+Text: ""so for the pen to be successful",D
+we could open up more options by going for alternatives,S,"{""label"": ""Be""} 
+
+Text: ""this is the main purpose of",Be
+or whatever that would be good so you just mentioned how windsurfs have sort of a base,S,"{""label"": ""Be""}
+Text: ""or whatever that would be good so",Be
+to keep the to hold on to rather than actual hands are stabilised like a platform,Bs,"{""label"": ""F""}
+Text: ""it has a a certain kind of",F
+Sarah refers to a photograph,S,"{""label"": ""S""}
+Text: ""She needs to know where the photograph",S
+a man s shaver,S,"{""label"": ""S""}
+Text: ""he has a very good grip""",S
+that has an angle joint,S,"{""label"": ""S""}
+
+Text: ""the paper is involved in all of",S
+and a guidance for your fingers,S,"{""label"": ""F""}
+
+Text: ""so you have a bit of a",F
+and similar to the windsurf,Be,"{""label"": ""Be""}
+Text: ""and the same as the other one",Be
+I mean it only moves in one axis,Bs,"{""label"": ""Be""}
+
+Text: ""the paper is quite thin""
+Label",Be
+rather than round,Bs,"{""label"": ""S""}
+
+Text: ""the shape of the pen is square",S
+it does not its almost flat is not it I suppose,S,"{""label"": ""S""}  # → {""label"": ""D""}
+
+Text",D
+yeah it does not move that way I do not think,Bs,"{""label"": ""Be""}
+
+Text: ""so what is the thermal paper""",Be
+cos you want to keep flat on the paper all the time,Be,"{""label"": ""Bs""}
+
+Text: ""the pen is flat and thin""",Bs
+does the razor stay flat though,Bs,"{""label"": ""Bs""}
+
+Text: ""what is the function of the thermal",Bs
+because the centre piece is much,S,"{""label"": ""Bs""}
+Text: ""is a good idea""
+Label (",Bs
+I am not sure whether it does completely stay flat I think there might be a little bit of a plain,S,"{""label"": ""Bs""}  # Correct answer
+Text: ""the paper",Bs
+but its main axis is is that the razor has is that way I think,Bs,"{""label"": ""F""}
+Text: ""but we should also not forget that",F
+write razor,D,"{""label"": ""D""}
+
+Text: ""how the ink flows""
+Label (",D
+if I if I remember correctly from I don t know about this but from the other razors each blade has like a little spring down each side,S,"{""label"": ""Bs""}
+
+Text: ""I think there s a lot of",Bs
+which means each blade can independently of housing can move that way a little bit as well cant it so that is,Bs,"{""label"": ""Bs""}
+Text: ""that will be the main purpose of",Bs
+draw E1_7 Sketckjpg,D,"{""label"": ""S""}
+
+Text: ""The feed roller is a critical component",S
+how s that achieved that,S,"{""label"": ""Bs""}  # one possible answer
+Text: ""we",Bs
+is that is that achieved by a plastic,S,"{""label"": ""Bs""}
+Text: ""the pen does not have a particular",Bs
+that is bendable or is it,Bs,"{""label"": ""Bs""}
+Text: ""that is bendable or is it",Bs
+no it s a spring is not it,S,"{""label"": ""S""} 
+
+Text: ""it s a spring is not",S
+a spring that goes to surface,S,"{""label"": ""S""}
+
+Text: ""the spring is so that the pen",S
+it pivots,Bs,"{""label"": ""Be""}
+Text: ""the pen will write in any orientation",Be
+write spring pivot,D,"{""label"": ""Bs""}
+
+Text: ""write spring pivot so that it moves",Bs
+there is f five of the razors is not there,S,"{""label"": ""F""}
+Text: ""the pen is not working because of",F
+I have brought some examples along there is one with a single spring in the centre there,S,"{""label"": ""S""}
+Text: ""and there is one with two springs",S
+and then there is one,S,"{""label"": ""S""}
+
+Text: ""and then there is one, that",S
+these are electric ones yeah,S,"{""label"": ""D""}
+
+Text: ""this is the first prototype we did",D
+these are electric razors and so this is,S,"{""label"": ""Be""}
+Text: ""the one on the left is the",Be
+slightly more expensive version that is got a spring either side,S,"{""label"": ""Bs""}
+
+Text: ""the new thermal pen uses a special",Bs
+yeah to give you that adjustment it slides on the surface,Bs,"{""label"": ""Bs""}
+
+Text: ""and you can see that the one",Bs
+they do yeah there is its one with the foils basically because on this the foil is sprung this one is well no,S,"{""label"": ""Bs""}  # correct
+Text: ""so we re",Bs
+the foil will run through rubbers and it uses the the cutting edge that is sprung,Bs,"{""label"": ""Bs""}  # or your answer
+
+Text: ""to",Bs
+erm there is a point here,Be,"{""label"": ""D""}
+
+Text: ""it s about the the the thermal",D
+as well that erm do we need to keep because this will keep an even well a relatively constant pressure won t it,Be,"{""label"": ""Be""}
+
+Text: ""so if we put this in the",Be
+and you could also you could add a switch to this,S,"{""label"": ""Bs""}
+Text: ""and you could also you could add",Bs
+so you could switch it on and off,Bs,"{""label"": ""Be""}
+
+Text: ""and then the pen would start to",Be
+yeah but I think there are other things that we might like to do as well because,S,"{""label"": ""Be""} 
+
+Text: ""so the main thing is that",Be
+it might control the force on the print heads and make sure it comes on how you want it to,Be,"{""label"": ""Bs""}
+Text: ""it has a spring to make sure",Bs
+so is that what you call a gimble,S,"{""label"": ""D""}
+Text: ""this is the first time I have",D
+gimbles are normally three dimensional,S,"{""label"": ""S""}
+
+Text: ""gimbles are normally three dimensional",S
+I ve got another one,S,"{""label"": ""D""}
+Text: ""this one is the main one""",D
+it builds on another one,S,"{""label"": ""D""}
+
+Text: ""it is not the same""
+Label",D
+and it goes faster,Bs,"{""label"": ""Be""}
+
+Text: ""the temperature of the pen is controlled",Be
+but as well its erm one of the things about this is that you have got the main lump,S,"{""label"": ""Bs""}  # answer
+Text: ""and the other",Bs
+and then you have got steering piece towards the front which is banging near microphone drowns speech,S,"{""label"": ""Bs""}
+Text: ""but the other thing is it has",Bs
+so you have got,Bs,"{""label"": ""Bs""}
+Text: ""the main function of the pen is",Bs
+I guess you have kind of got the main unit that has got all the power and weight in it,S,"{""label"": ""Bs""}
+Text: ""the main unit is a kind of",Bs
+and then erm the flexible bit that does the steering,Bs,"{""label"": ""Bs""}
+Text: ""so its the interaction between the special",Bs
+write snow mobile ,D,"{""label"": ""F""}
+Text: ""The thermal pen is a special pen",F
+draw E1_7 Sketckjpg,D,"{""label"": ""S""} 
+
+Text: ""the printer is a black box",S
+where I know we re talking about a pen,S,"{""label"": ""D""}
+
+Text: ""the pen can be used for a",D
+and you immediately think about something that is this sort of shape that you can hold in your hand like that,Bs,"{""label"": ""S""}
+Text: ""and this is the paper that you",S
+but considering we re talking about toys in effect for children,Be,"{""label"": ""F""}
+Text: ""and they are usually made of plastic",F
+could it be something that takes more of the shape of a of a train with,S,"{""label"": ""Bs""}
+Text: ""is it a matter of the the",Bs
+something else that gets pulled behind it for example,Be,"{""label"": ""Bs""}
+Text: ""the one that is going to be",Bs
+like a drag on,Be,"{""label"": ""Bs""}
+Text: ""because the surface is so smooth""",Bs
+something that is much more of a quite a different shape that,S,"{""label"": ""Be""} 
+Text: ""and also that's a pretty",Be
+does not require them to have that difficult sort of hold,Be,"{""label"": ""Be""}
+Text: ""this is the most important thing in",Be
+things in place like this erm,S,"{""label"": ""D""}
+
+Text: ""so the real question is whether or",D
+because that is one of the challenges children have is not it,Be,"{""label"": ""Bs""}
+Text: ""so the thermal pen is designed to",Bs
+holding the pen at the right angle,Be,"{""label"": ""S""} 
+
+Text: ""the pen is designed to hold",S
+that is probably one of the things you want to teach a child though is not,F,"{""label"": ""F""} 
+Text: ""because you want to draw a",F
+yeah well you could take all of the difficult stuff off them and make it happen,Bs,"{""label"": ""D""}
+Text: ""so the point of this pen is",D
+all that they will do is move the lump around,Be,"{""label"": ""Bs""}
+Text: ""the user will be able to do",Bs
+write move lump,D,"{""label"": ""Be""}
+
+Text: ""the heat is causing it to melt",Be
+so you will teach them how to move a mouse about,F,"{""label"": ""F""} 
+
+Text: ""I think this is really good",F
+if there is a skill in that there is a sense of achievement,F,"{""label"": ""F""}
+Text: ""it makes it easier for me to",F
+we could have like a mouse rather than a pen,S,"{""label"": ""D""} 
+
+Text: ""it is a bit hard to",D
+that could just be a different starting point,Be,"{""label"": ""Be""}
+
+Text: ""the pen is made of plastic""",Be
+write mouse type pen,D,"{""label"": ""F""}
+Text: ""print""
+Label (JSON only):",F
+all they have to do is put it on the table then move it around,Be,"{""label"": ""Be""}
+Text: ""this is the normal type of paper",Be
+and it does everything else,Be,"{""label"": ""Be""}
+
+Text: ""because it's a pen""
+Label",Be
+I was thinking a different media than just a flat piece of paper,S,"{""label"": ""S""}
+
+Text: ""the pen is designed to be more",S
+a pens quite a nice sort of you know to get round angles and,Bs,"{""label"": ""S""}
+
+Text: ""it s also about the media""",S
+do you think a mouse would allow you to apply that constant force that we need for this though,Bs,"{""label"": ""Be""}
+Text: ""we need a better way to get",Be
+I don t see why not I mean as long as the force is not going to push the mouse into the table then gravity should be on your side should not it,Bs,"{""label"": ""Be""}
+Text: ""what is the force that is going",Be
+can I just clarify that you mean for the main lump to have all the sort of the weighty bits like the batteries and electronics and things like that or the that way,S,"{""label"": ""S""}
+Text: ""and we should also be aware of",S
+I was not really being that prescriptive,S,"{""label"": ""Be""}
+Text: ""it s also about the thermal pen",Be
+if you ever go without it s not too bad but,F,"{""label"": ""Be""}
+
+Text: ""we re doing this to make a",Be
+the means of a toy I have a quick problem because well I do not know,F,"{""label"": ""F""}
+
+Text: ""so that we can have a better",F
+like a ghost err it is a little ghost it s about you know an inch high,S,"{""label"": ""Be""}
+
+Text: ""you can draw with it or you",Be
+draw it,S,"{""label"": ""F""}
+Text: ""draw it on a piece of paper",F
+draw refDocumentE1_3Sketchjpg top left 2 sketches,D,"{""label"": ""S""}
+
+Text: ""draw refDocumentE1_3",S
+what its got inside is its got errr and I can t remember exactly what its got inside its got a rubber err a wheel,S,"{""label"": ""Bs""}
+
+Text: ""but its not that important so the",Bs
+draw refDocumentE1_3Sketchjpg top left 2nd sketch,D,"{""label"": ""S""}
+
+Text: ""draw refDocumentE1_3",S
+which printed on it has a little erm,Bs,"{""label"": ""S""}
+Text: ""is a really good example of how",S
+I don t know why I am telling you all this because its not really,BS,"{""label"": ""F""}
+
+Text: ""I don t know why I am",F
+oh yeah yeah yeah yeah yeah you mean one of those foot print things,Bs,"{""label"": ""D""}
+Text: ""the first one is the basic model",D
+its got its got little footprints,Bs,"{""label"": ""S""}
+Text: ""so this is the thermal paper""",S
+rotating,Bs,"{""label"": ""S""}
+
+Text: ""to make it easier to use""",S
+yeah it s a self and yeah its got a pad an inky pad here and he,S,"{""label"": ""S""}
+
+Text: ""because of the tip design this is",S
+does that go all over the walls and everything,Bs,"{""label"": ""Be""}
+Text: ""you can just imagine the paper moving",Be
+you walk it along a page,Bs,"{""label"": ""Bs""}
+
+Text: ""the print quality is good""
+Label",Bs
+and it makes footprints,Bs,"{""label"": ""F""} 
+Text: ""the printer is very reliable""",F
+that is interesting cos I was thinking pastry brush you know how pastry has,S,"{""label"": ""S""} 
+Text: ""so I was thinking pastry brush",S
+and white line machines,S,"{""label"": ""S""}
+Text: ""with a metal tip""
+Label (",S
+but I could not think of anything that quite tied into this but the idea of a wheel,Bs,"{""label"": ""F""}  # Label: F
+Text: ""that",F
+pushing a wheel along,Bs,"{""label"": ""Bs""}
+Text: ""how does it work""
+Label (",Bs
+that is a obviously this is a mechanical way of doing what we re talking about,S,"{""label"": ""D""}
+
+Text: ""so the pen is really designed to",D
+so it could the thing could look like erm like a character could not it,Be,"{""label"": ""D""}
+
+Text: ""the other thing is that we need",D
+I guess this idea Tom was that this is the print head here,S,"{""label"": ""S""}
+
+Text: ""so it s the interaction between the",S
+draw refDocumentE1_3Sketchjpg middle bottom circle,D,"{""label"": ""S""}
+Text: ""the paper is not working""
+Label",S
+and this quite a wide like a caravan is that angles that can hold that to feel it because,S,"{""label"": ""Bs""}
+Text: ""it s a thermal pen so the",Bs
+draw u to represent print head and caravan,D,"{""label"": ""S""}
+Text: ""so the pen is going to print",S
+if you know if he goes crr crrr mimics scraping noise then this digs into the paper,Be,"{""label"": ""Bs""}
+Text: ""the whole thing is basically a",Bs
+draw refDocumentE1_3Sketchjpg middle bottom arrow represents digs into the paper,D,"{""label"": ""Bs""}  # This is the answer
+
+
+Text: """,Bs
+so you could even have three wheels could not you three small wheels to sort of drive it,S,"{""label"": ""Bs""}
+Text: ""and we need to get the user",Bs
+write wheels to guide,D,"{""label"": ""F""} 
+
+Text: ""is not so good at""",F
+draw refDocumentE1_3Sketchjpg middle circle,D,"{""label"": ""S""}
+
+Text: ""we have to design this so that",S
+and you could have a cross section it could be kind of kind of like this,S,"{""label"": ""S""}
+Text: ""so you can see that this is",S
+draw refDocumentE1_3Sketchjpg middle m,D,"{""label"": ""D""}
+
+Text: ""The first drawing is made with the",D
+so you can look down here and you can see a hole with the print head in it,S,"{""label"": ""S""}  # your answer goes here
+Text: """,S
+so see where you re going,Bs,"{""label"": ""D""}
+Text: ""and that s the basic principle behind",D
+draw refDocumentE1_3Sketchjpg middle details,D,"{""label"": ""D""}
+
+Text: ""the pen is a thermal pen""",D
+you could stick three ball bearings in here and,S,"{""label"": ""S""}
+
+Text: ""so it s going to draw a",S
+draw refDocumentE1_3Sketchjpg middle 3 circles within circle,D,"{""label"": ""S""}
+Text: ""the pen works with special paper to",S
+and just roll around on the surface,Bs,"{""label"": ""Bs""}
+Text: ""so this is the thermal paper""",Bs
+you put in holes to see where your feet are going,S,"{""label"": ""Bs""}
+
+Text: ""it's got a nice feel to",Bs
+its just so you could acquire lots of stuff where you re actually marking,Bs,"{""label"": ""F""} 
+
+Text: ""because of the the new media",F
+yeah its sort of it s a compromise between erm here with a pen,Be,"{""label"": ""Bs""}
+Text: ""and the paper and the pen and",Bs
+you want to see what you re doing don t you you want to see,Be,"{""label"": ""F""}
+Text: ""and the temperature will be kept constant",F
+but with this type of toy you don t do you,Be,"{""label"": ""S""}
+
+Text: ""the tip of the pen is made",S
+probably aware pattern appears as an edge so you can go right up to,Bs,"{""label"": ""S""}
+
+Text: ""it's not really related to the",S
+rather that the middle of something big if its big than it does not matter much so long as its at an edge of the big thing where the,Be,"{""label"": ""F""}
+
+Text: ""so it s the interaction between the",F
+but even with paper suppose you could still get to it its not like hoovering a room when you can t get to an edge is it,Be,"{""label"": ""S""}  # Correct label is S
+Text: """,S
+it becomes more complex to the user as well you can rotate it so you can get to this corner or,Bs,"{""label"": ""Be""}
+
+Text: ""but this is not just a normal",Be
+rotate it to get to that one,Be,"{""label"": ""Bs""}
+
+Text: ""the main thing is to get a",Bs
+it is an interesting idea,Bs,"{""label"": ""D""}
+Text: ""we need to get the ink to",D
+add some wheels to it,S,"{""label"": ""Bs""}
+Text: ""it will be fast""
+Label (",Bs
+I bought erm a tram,S,"{""label"": ""S""}
+
+Text: ""what is the purpose of the paper",S
+well the distance between the rails and the what I was thinking the distance between the rails and the overhead wires always changing as it has to follow this articulating,Bs,"{""label"": ""Be""}
+
+Text: ""the other thing is the ball bearings",Be
+yeah nice idea,Be,"{""label"": ""D""}
+
+Text: ""this is a very good idea""",D
+it is a bit like the suspension on a car,S,"{""label"": ""Bs""}
+Text: ""the design of the pen is also",Bs
+as well the car sort of has this inertia it flies along in a straight line,Bs,"{""label"": ""Bs""}
+
+Text: ""but also the design of the car",Bs
+with suspension and all sorts of things as the wheels pump up and down,Bs,"{""label"": ""Bs""}  # Behaviour from Structure
+
+Text: ""so",Bs
+as well stay in contact with the road if you have got a decent car,Bs,"{""label"": ""Be""}
+
+Text: ""it's got a lot of the",Be
+well that is that is the other thing I suppose we haven t considered anything like erm air pockets,S,"{""label"": ""S""}
+
+Text: ""the paper is actually really good at",S
+or anything like that that could be like a little suspension,Be,"{""label"": ""Bs""}  # or anything like that that could be like",Bs
+draw refDocumentE1_3Sketchjpg 3 lines left ie bottom,D,"{""label"": ""S""}
+Text: ""it has to be able to write",S
+suspension,S,"{""label"": ""D""}
+Text: ""influence of the suspension""
+Label",D
+that is the sort of thing about children they do things jerkily quickly,Be,"{""label"": ""Be""}
+
+Text: ""so what we re going to do",Be
+use a gyroscope,S,"{""label"": ""F""}
+
+Text: ""it's because of the sensor""",F
+gyroscope,S,"{""label"": ""S""}
+
+Text: ""so that the user can easily read",S
+write GIROSCOPE and Air suspension,D,"{""label"": ""S""}
+
+Text: ""The goal is to make it portable",S
+stick a big gyroscope in it,S,"{""label"": ""D""}
+
+Text: ""this is a bit of a design",D
+so they cannot jerk it around,Bs,"{""label"": ""Bs""}
+Text: ""it is a pen so it needs",Bs
+yeah ok that is a good idea Tony,Bs,"{""label"": ""D""}
+Text: ""so you can draw this line by",D
+we should have a target aged child here should not we,Be,"{""label"": ""F""}
+Text: ""the pen is made of plastic""",F
+to because erm well I think well erm like this I say about this obviously it was not a problem,Be,"{""label"": ""Bs""}
+Text: ""it doesn't work because of the",Bs
+if you do not if you do not let it gimble that way,S,"{""label"": ""Be""} 
+Text: ""if you do not if you",Be
+then you would get you can make your own lines cant you you can make different thicknesses,Bs,"{""label"": ""Be""}
+
+Text: ""so the the heat will move to",Be
+draw refDocumentE1_3Sketchjpg 2 lines right ie top,D,"{""label"": ""S""}
+
+Text: ""draw refDocumentE1_3",S
+so so it might if the if the applications for somebody who got,Be,"{""label"": ""F""}
+Text: ""is to be able to do this",F
+then you add a feature by taking out you know,Be,"{""label"": ""Bs""}
+Text: ""the new paper is made of a",Bs
+yeah because if if if if erm yeah if say if the the pen is printed in just dotted lines,Be,"{""label"": ""Bs""}
+Text: ""and the pen is made of this",Bs
+draw refDocumentE1_3Sketchjpg dotted line right ie top,D,"{""label"": ""S""}
+Text: ""draw refDocumentE1_3",S
+you can you can if this pen if you do not let it go that way you could make it print dotted line print dotted line,Be,"{""label"": ""Be""} 
+Text: ""so the so the the the",Be
+oh so you just have you just have one print out one,S,"{""label"": ""Be""}
+
+Text: ""and then the thermal head is connected",Be
+one one nozzle dot touching,Be,"{""label"": ""Bs""}
+Text: ""a very simple structure""
+Label (",Bs
+so I guess what you re saying is any mechanism,S,"{""label"": ""Bs""}
+Text: ""that we can use to get the",Bs
+you can have it switch on switch off one could be easy line and then you can switch it off so that,Bs,"{""label"": ""F""}
+
+Text: ""there s also a metal tip which",F
+you could,S,"{""label"": ""D""}
+Text: ""there is a lot of different things",D
+write vary the angle to have different width of line,D,"{""label"": ""Bs""}
+
+Text: ""the design of the pen has been",Bs
+you could use it just so at the corner of the printer head,S,"{""label"": ""Bs""}
+Text: ""it's been a problem in the",Bs
+well you could do that just electronically by activating one of the channels on the print heads,S,"{""label"": ""Bs""}
+Text: ""the printer will have a mechanism to",Bs
+write or do this electronically,D,"{""label"": ""F""}
+Text: ""so that the ink is in the",F
+I think that is the way to do it because,S,"{""label"": ""Bs""}
+
+Text: ""it will draw a line that is",Bs
+otherwise you can overheat the print head and might damage it,Bs,"{""label"": ""Bs""}
+
+Text: ""and the second one is the thermal",Bs
+so part of the thing here is we need to erm hold it down,S,"{""label"": ""Bs""}
+
+Text: ""this is the actual prototype that we",Bs
+otherwise it going to overheat as its firing if there is no where for the heat to go,Bs,"{""label"": ""Bs""}
+Text: ""we will be using the thermal head",Bs
+could we put erm can we detect the heat that the,S,"{""label"": ""Be""}
+Text: ""the the tip is really important because",Be
+and therefore switch it off,Be,"{""label"": ""Bs""}
+Text: ""and we can see that this is",Bs
+or know what s going on,Be,"{""label"": ""D""}
+
+Text: ""but in terms of the the actual",D
+er that is only going to stop it getting dangerously hot,Be,"{""label"": ""Be""}
+
+Text: ""it needs to print legibly at",Be
+all we need to do for print quality and performance and things,Be,"{""label"": ""F""}
+
+Text: ""we need to do for print quality",F
+is to keep those dots on the paper when they re being fired,S,"{""label"": ""Bs""}
+Text: ""this is because the dot on the",Bs
+the other thing which you will picture sort of erm to an extent that one as well is the actual steering erm is actually,F,"{""label"": ""Be""} 
+
+Text: ""and that is the real main",Be
+at the moment the hand steers it directly by making movements with the hand,Be,"{""label"": ""Be""}
+
+Text: ""the one on the top left is",Be
+but if you had like a joystick,S,"{""label"": ""Bs""}
+Text: ""it would be a very different product",Bs
+that then moved the angle of the print head errm,Bs,"{""label"": ""Bs""} 
+
+Text: ""and the way it works is",Bs
+that might work too but maybe a bit more expensive I suppose,Bs,"{""label"": ""Be""}
+Text: ""because the pen is made of a",Be
+I think the interesting thing is to use is as they steer that its built into the steering,Be,"{""label"": ""Be""}  # or F, Bs, S, D",Be
+actually tilts the whole body as it steers,Bs,"{""label"": ""Bs""}
+Text: ""we need to create a new way",Bs
+so in order to maintain that angle,Bs,"{""label"": ""Be""}
+
+Text: ""with the new tip, you can",Be
+write integrate the steering into angle like snowmobile,D,"{""label"": ""Bs""}
+Text: ""so the thermal printer is very slow",Bs
+it compensates for the lean of the rider into the corner,Bs,"{""label"": ""Be""}
+Text: ""the bike's weight distribution is affected",Be
+so it s flat,S,"{""label"": ""S""}
+
+Text: ""we need to use a special thermal",S
+so if we had something like that,S,"{""label"": ""Be""}
+Text: ""with a large number of sensors and",Be
+you could steer this angle of the pen as it moves to the other end,Bs,"{""label"": ""Bs""}
+
+Text: ""the idea is to make the pen",Bs
+its taken us probably three places we can go we can either well its something you control,Be,"{""label"": ""Be""}
+
+Text: ""if you want to do something more",Be
+or you take all the opportunities for control away from people apart from moving around,Be,"{""label"": ""D""}
+Text: ""and you re left with this kind",D
+and you make the pen or whatever it is do everything,Be,"{""label"": ""Be""}
+Text: ""and that s the point of the",Be
+erm or we give some feedback erm,Be,"{""label"": ""D""}
+Text: ""erm so this is the"" →",D
+so that people know when they re doing the right thing,Be,"{""label"": ""F""}
+
+Text: ""the pen is not very good""",F
+write feed back to user when doing it right,D,"{""label"": ""F""}
+
+Text: ""has to be able to write at",F
+erm or the last one is it is possible to hold it the wrong way,Be,"{""label"": ""Bs""}
+Text: ""erm but it has to be said",Bs
+but it forces you to hold it the right way possibly base on shapes,Be,"{""label"": ""Bs""}
+Text: ""you can just print a lot of",Bs
+write make the shape so it can only be done one way,D,"{""label"": ""Bs""}
+
+Text: ""the shape is good because it prevents",Bs
+well for the the third you can make it erm hard make it compliant to,Be,"{""label"": ""F""} 
+
+Text: ""so we need to make sure",F
+I know I know what you re saying but it would be difficult,Bs,"{""label"": ""Bs""}
+Text: ""so you want to make it a",Bs
+because you would overheat the edge of the print head,Bs,"{""label"": ""Bs""}
+
+Text: ""so that the ink flows smoothly""",Bs
+if its not touching,S,"{""label"": ""Bs""}
+Text: ""and then the head will move""",Bs
+but there could be some electronics maybe saying this end of the print heads overheating it must be touching at the other end,S,"{""label"": ""Bs""}
+Text: ""this is the reason the pen is",Bs
+so I shall switch this,S,"{""label"": ""S""}
+Text: ""so I shall switch this""
+Label",S
+yeah probably there must be some way of detecting that,Be,"{""label"": ""D""}
+
+Text: ""and that is the key thing""",D
+can I just explore that last one in a little more detail,Be,"{""label"": ""D""}  # (no label applicable)
+
+Text: """,D
+because when organisations,Be,"{""label"": ""Bs""}
+Text: ""are looking to implement a solution""",Bs
+making sure they can only be correct in one way so the design and shape of the thing,S,"{""label"": ""F""}
+Text: ""because of the design""
+Label (",F
+so it can only be done in one way and that s the correct way,S,"{""label"": ""Be""}
+Text: ""it s just a standard"" →",Be
+because then there is less sort of learning to be done by the user and children I think if they are you know,Be,"{""label"": ""Bs""}
+
+Text: ""and then you re going to see",Bs
+if they don t get the results pretty quickly they will just give up on it erm,Be,"{""label"": ""D""}
+Text: ""the design of the pen is a",D
+so it would be quite good shape of,Be,"{""label"": ""S""}
+
+Text: ""the ink will be drawn onto the",S
+it would only let it work in one particular way,Be,"{""label"": ""Bs""}
+
+Text: ""the paper is not the most important",Bs
+you could build it in different ways so you could have it,S,"{""label"": ""S""}
+Text: ""it would be a good idea to",S
+so that there was only one way of doing it,Be,"{""label"": ""F""}
+
+Text: ""the paper is a bit more expensive",F
+but then err you can have switches on it so that supposing supposing it,S,"{""label"": ""F""}
+Text: ""and then the the the ink the",F
+you have got the print head and three balls around it to support it,S,"{""label"": ""S""}
+Text: ""it needs to be able to take",S
+with pressure sensors on those balls,S,"{""label"": ""Bs""}
+Text: ""the purpose of the project is to",Bs
+so if the child presses harder it activates all the bearings,Bs,"{""label"": ""Bs""}
+Text: ""and that s what the bearing does",Bs
+and prints out a very erm heavy line,Bs,"{""label"": ""Bs""}
+
+Text: ""and I am going to talk about",Bs
+but if the child does not press hard then you activate every other one,Be,"{""label"": ""Bs""}
+
+Text: ""I think the child has to be",Bs
+so you get a faint line,Bs,"{""label"": ""Be""}
+Text: ""it's a bit more like a",Be
+write interaction between how child presses so activation of print head,D,"{""label"": ""Bs""}
+
+Text: ""the interaction between the thermal pen and",Bs
+so clears throat the actual kind of the erm the print head is isolated from what the child s doing,Be,"{""label"": ""Bs""}
+Text: ""so it s also the interaction between",Bs
+but the sensors,S,"{""label"": ""Bs""}
+Text: ""but the sensors are""
+Label (",Bs
+attend to what the child s doing,Bs,"{""label"": ""F""}
+
+Text: ""the child s playing with a toy",F
+and the thing responds accordingly,Be,"{""label"": ""Bs""}
+Text: ""for a specific purpose""
+Label (",Bs
+and so you can trick the child into doing,Be,"{""label"": ""F""}
+Text: ""so we re going to go to",F
+and you could also make it so that even if the child s because erm clears throat its not direct you can make it sort of software,S,"{""label"": ""F""}
+
+Text: ""and you could also make it so",F
+so that even if the child s really uncoordinated basically you get a reasonable result,Be,"{""label"": ""F""} 
+Text: ""and that s because of the",F
+but if the child s very coordinated you can actually do some quite sophisticated things,Be,"{""label"": ""Be""}
+Text: ""and the tip of the pen is",Be
+you could even have sort of some feedback,F,"{""label"": ""Be""}
+
+Text: ""that's not to say that the",Be
+in terms of colour LEDs on the pen,S,"{""label"": ""D""}
+Text: ""the pen is designed to write smoothly",D
+saying that he s done a good or she s done a good job or,Be,"{""label"": ""D""}
+Text: ""the best way to do this is",D
+that is a bit that is a bit peachy I think somehow,Bs,"{""label"": ""D""}  # No valid label found
+Text: """,D
+yeah you know because i if they re doing something and it produces a result,Bs,"{""label"": ""Bs""}
+
+Text: ""the the way that it s designed",Bs
+that is what they want is not it,Be,"{""label"": ""F""}
+Text: ""it s not the material""
+Label",F
+that is what they want and saying well done is not really you know so what,Be,"{""label"": ""F""}
+Text: ""they have to be able to do",F
+spirit level in the pen,S,"{""label"": ""S""} 
+
+Text: ""so it is the interaction between",S
+3D spirit level the dot and the ring you the dot,S,"{""label"": ""S""}  # Correct
+Text: ""the ring is",S
+write spirit level in the pen,D,"{""label"": ""S""}
+Text: ""the pen is for writing""
+Label",S
+if it goes off centre you know the dots outside the ring,Be,"{""label"": ""Bs""}
+Text: ""the dots are the actual markers""",Bs
+the pen would not work,Be,"{""label"": ""D""}
+Text: ""the pen would not work because it",D
+so you have got to come in,Be,"{""label"": ""F""}
+
+Text: ""the ink is the one that is",F
+could we sorry could we actually see what they re doing I mean,F,"{""label"": ""D""}
+
+Text: ""it s a very good thing that",D
+are they drawing pictures or making invitations or Christmas cards or,Be,"{""label"": ""F""}
+
+Text: ""so that it can write with a",F
+as well as electronics,S,"{""label"": ""S""}
+Text: ""because of the electronics""
+Label (",S
+and some of the control,F,"{""label"": ""S""}
+Text: ""the ink is not flowing very well",S
+and user interface features and things whereas,Be,"{""label"": ""F""}
+Text: ""in terms of what we are doing",F
+erm this kind of functional end of the mechanics,F,"{""label"": ""Bs""}
+
+Text: ""it was a big part of the",Bs
+it does affect a little bit,Be,"{""label"": ""Be""}
+
+Text: ""with the paper the pen is not",Be
+control draw,Be,"{""label"": ""D""}
+Text: ""the pen is very good at drawing",D
+yeah because its really hard to draw a picture with a mouse is not it,Bs,"{""label"": ""Bs""}
+Text: ""so you can also use a styl",Bs
+you could have games built into it could not you,F,"{""label"": ""D""}
+
+Text: ""I am looking for a pen that",D
+you could have something like colouring in,Be,"{""label"": ""S""}
+
+Text: ""which is what we want to achieve",S
+could try and tell you on some screen,F,"{""label"": ""D""}
+Text: ""and that is a very important part",D
+or try some sort of coordination task,F,"{""label"": ""F""}
+
+Text: ""or something that is just a quick",F
+there is a huge amount of possibilities you could do mazes or anything with,F,"{""label"": ""Be""}
+Text: ""or any other thing that is just",Be
+once more let us explore this spirit level in more detail I corrected the transcript,Be,"{""label"": ""S""} 
+Text: ""the reason is the the paper",S
+because the other thing that you use to make sure things are level,Be,"{""label"": ""Bs""} 
+
+Text: ""and that’s the reason why",Bs
+that is come out in the sort of DIY world is these laser levellers and things like that if,S,"{""label"": ""F""}  # Replace with your answer
+Text: """,F
+you had like a little laser,S,"{""label"": ""Bs""}
+Text: ""it's because of the laser that",Bs
+that made sure that it was level of some sort erm,Bs,"{""label"": ""Be""}
+
+Text: ""this is the first prototype of the",Be
+you know the child can actually see a line,Bs,"{""label"": ""Be""}
+Text: ""it needs to work with the thermal",Be
+and that its at the right angle then,Bs,"{""label"": ""Bs""}
+Text: ""but the most important thing is that",Bs
+because they can see that the line is right and then that would work,Be,"{""label"": ""Bs""}
+
+Text: ""and also because of the type of",Bs
+although maybe they are a bit young for that laugh,Be,"{""label"": ""D""}
+
+Text: ""the tip of the pen has to",D
+you could project something onto the paper in front of the pen,Be,"{""label"": ""Be""}
+Text: ""and you could project something onto the",Be
+write Laser level,D,"{""label"": ""D""}
+
+Text: ""the laser is very precise""
+Label",D
+like dam busters,S,"{""label"": ""D""}
+
+Text: ""The pen will write smoothly and consistently",D
+write Dam busters shine a light in front of,D,"{""label"": ""Be""}
+Text: ""the way that you would want to",Be
+just like star wars,S,"{""label"": ""D""}
+
+Text: ""this is not related to the task",D
+erm I was going to say an optical mouse,S,"{""label"": ""S""}
+Text: ""and then you got the other one",S
+I was going to say an optical mouse,S,"{""label"": ""S""}
+
+Text: ""and that s the point of the",S
+if you lift it off the page you can,Bs,"{""label"": ""Bs""}
+Text: ""it is the way the tip is",Bs
+actually see its got the pattern it creates separates into two areas,Bs,"{""label"": ""S""}
+
+Text: ""you can use the pen on any",S
+so its when it s actually on the surface two points meet,Bs,"{""label"": ""Bs""}
+Text: ""so the pen is very good at",Bs
+if you lift an optical mouse,Bs,"{""label"": ""Be""}
+Text: ""because of the way the optical mouse",Be
+slightly off the page you will see the pattern it creates,Bs,"{""label"": ""Bs""}
+Text: ""there is no one particular part that",Bs
+yeah sort of the triangle thing,Bs,"{""label"": ""D""}
+
+Text: ""the problem is that the pen is",D
+is in two sort of distinct spots,Bs,"{""label"": ""D""}
+
+Text: ""it has a black ink and it",D
+and when its actually sat on the surface they match up and that is when it starts tracking,Bs,"{""label"": ""Bs""} 
+
+Text: ""and the first thing I want",Bs
+write use optical mouse mechanism,D,"{""label"": ""Be""}
+
+Text: ""we are doing this to test the",Be
+turn the light on I don t know how to operate,Be,"{""label"": ""D""}
+
+Text: ""The pen is designed to print leg",D
+yeah well if you left it a few minutes,Be,"{""label"": ""Be""} 
+
+Text: ""the other ideas on the paper",Be
+when you talked about the little light in front of the erm pen,S,"{""label"": ""Bs""}
+
+Text: ""we will use the standard thermal paper",Bs
+but if there is sort of feedback from the print head to know its in the right angle,S,"{""label"": ""Bs""}
+
+Text: ""this is the pen tip which is",Bs
+and then the light goes on only but only when the print head is on there is this little light comes on,Be,"{""label"": ""Bs""}
+
+Text: ""so the print head is designed to",Bs
+so the child gets his feedback that way oh its in the right direction so I can draw,Be,"{""label"": ""Bs""}  # No trailing comma!!
+Text: ""so",Bs
+I think if I was in their shoes using this I d prefer they d be something where I decide whether its in the right position,Be,"{""label"": ""Be""}
+Text: ""I think if I was in their",Be
+or whether I want something lighting up and saying der derrr,Be,"{""label"": ""Be""}
+Text: ""this is the idea of using the",Be
+that kind of thing,S,"{""label"": ""D""}
+
+Text: ""and the reason is that the nib",D
+well there is a bit of training there is not it,Bs,"{""label"": ""Be""}  # →  {""label"": ""D""}",D
+write Light,D,"{""label"": ""S""} 
+
+Text: ""The main goal is to get",S
+true but it its kind of patronising to have these sort of lights,Bs,"{""label"": ""Bs""}
+
+Text: ""I think the problem is that the",Bs
+its not a comforting a comforting noise,Bs,"{""label"": ""D""}
+
+Text: ""the ink flows into the reservoir""",D
+its not its not its not a comforting noise,Be,"{""label"": ""S""}
+Text: ""its a bit of a bit of",S
+The thing I bought with me my wife does not know I stole it,S,"{""label"": ""Bs""}
+
+Text: ""I need to buy a new pair",Bs
+also quite relevant because that is a product from,S,"{""label"": ""S""}
+
+Text: ""but also the thermal printer"" →",S
+stabiliser that is just come out,S,"{""label"": ""S""}
+
+Text: ""but it is a stabiliser that",S
+if I run upstairs I have got one of those in my drawer,S,"{""label"": ""D""}
+Text: ""this is the pen which has a",D
+there are pens that,S,"{""label"": ""Be""}
+Text: ""are used for""
+Label (JSON",Be
+you do have to hold in a certain orientation,Bs,"{""label"": ""Bs""}
+
+Text: ""and then you have to put it",Bs
+yeah I think that is what I tried its really hard,Be,"{""label"": ""D""}
+
+Text: ""and you can use it as a",D
+because I don t hold my pen in the way that they expect you do,Bs,"{""label"": ""Bs""}
+
+Text: ""I m not sure if you ve",Bs
+they expect you to some people write like this don t they,Be,"{""label"": ""F""}
+Text: ""and it s supposed to be like",F
+that is what I join my fingers up at the top where as that one expects that,Bs,"{""label"": ""Bs""}
+
+Text: ""and this is the part where I",Bs
+you do more of that which I don t do,Bs,"{""label"": ""F""}  
+Text: ""I am not doing that so",F
+that is because you did not have that pen when you were little,Bs,"{""label"": ""Bs""}
+Text: ""you are not a human being""",Bs
+if you had had it you would write in the right way rather that the wrong,Bs,"{""label"": ""Be""} 
+
+Text: ""it's because the tip is",Be
+you would do it properly,Bs,"{""label"": ""D""}
+
+Text: ""so I think the design is pretty",D
+you get inking pens,S,"{""label"": ""S""}
+
+Text: ""the media is the thermal paper""",S
+that are really hard to use,Bs,"{""label"": ""Be""}  # Your answer goes here
+
+Text: """,Be
+because they look they look like little erm they they they go straight down like that sketching,S,"{""label"": ""Bs""}
+
+Text: ""to make sure that the that the",Bs
+draw Document E1_3Sketcjjpg,D,"{""label"": ""D""}
+Text: ""The first prototype is a simple drawing",D
+you could have thumb holes or something like that,S,"{""label"": ""S""}
+Text: ""and the other is the paper""",S
+this this this one that is this one has sort of that sort of thing,S,"{""label"": ""D""}
+
+Text: ""the pen has a certain sort of",D
+it does not force you to use it but it,Bs,"{""label"": ""Bs""}  # Correct answer
+Text: ""it does",Bs
+helps you,Bs,"{""label"": ""Be""}
+Text: ""in order to""
+Label (JSON",Be
+print heads,S,"{""label"": ""S""}
+
+Text: ""the print head is the most expensive",S
+to use straight up and down otherwise they don t otherwise they don t work,Bs,"{""label"": ""Bs""}
+
+Text: ""so what s the difference between the",Bs
+because they work thr they th they re like a little er tube,S,"{""label"": ""Bs""}
+
+Text: ""it s the paper that s the",Bs
+and when you push on it erm it opens a valve which lets the erm which lets the ink through,Bs,"{""label"": ""Bs""}
+
+Text: ""so that we can see that it",Bs
+is that those gold and silver type things,S,"{""label"": ""S""}  # correct
+Text: ""and then the",S
+that people use for making cards,Bs,"{""label"": ""S""}  # or whatever label is correct
+Text:",S
+no it s like you get them for erm drafting pens,S,"{""label"": ""S""}
+Text: ""so I m looking for the one",S
+I think work like that they have got they re like that,S,"{""label"": ""D""}
+
+Text: ""we need to add a new material",D
+because they they come in different bits of tube,S,"{""label"": ""Bs""}
+
+Text: ""this is a type of printer""",Bs
+and they give you a very accurate width of line,Bs,"{""label"": ""Be""}
+
+Text: ""this is the reason why we re",Be
+OK but you cannot you cannot use them in any orientation,Bs,"{""label"": ""S""}
+Text: ""so I think it s just a",S
+you have to use in straight up and down,BS,"{""label"": ""Bs""}
+
+Text: ""it is designed for printing on regular",Bs
+and so if you put it on the edge the you would go on the edge of the tube,S,"{""label"": ""Bs""}
+Text: ""we should also not forget that the",Bs
+and it just it would just sort of it just the edge just goes on,S,"{""label"": ""D""}  # → Label: D
+Text: """,D
+you will never get it you just crease the paper,Bs,"{""label"": ""Bs""}
+Text: ""you need to make sure that the",Bs
+the good thing about this is you get feedba feedback s inherent is not it,Bs,"{""label"": ""Bs""}
+Text: ""this is the goal of this project",Bs
+if you re not doing it properly it wont work,Bs,"{""label"": ""Be""}
+
+Text: ""the feed roller is not rotating""",Be
+it will probably it will probably be that if you do it on the edge,S,"{""label"": ""Be""}
+Text: ""the thermal paper is the one that",Be
+the print head will be close enough to be to the edge of the PCB,S,"{""label"": ""Bs""}
+
+Text: ""the thermal head will be close enough",Bs
+and you ll lift the whole the whole thing off,S,"{""label"": ""D""}
+
+Text: ""this is the part of the product",D
+so you probably wont be able to do this this sort of touch towards the edge,Bs,"{""label"": ""Bs""} 
+
+Text: ""we need to make sure that",Bs
+because the print head the resistors are in,S,"{""label"": ""Bs""}
+
+Text: ""the ink flows through the channels""",Bs
+PCB yeah,S,"{""label"": ""S""}
+
+Text: ""this is the first prototype""
+Label",S
+just the kind of thing that you could do,Bs,"{""label"": ""D""}
+Text: ""the reason is that the paper is",D
+with the erm styling,S,"{""label"": ""S""}  # Correct answer: S
+
+Text: """,S
+so it just feels right you not do you are limited to what you can do,Bs,"{""label"": ""Be""}
+
+Text: ""we want to do something that is",Be
+if you put your fingers in the wrong place,Bs,"{""label"": ""Bs""}
+
+Text: ""it needs to be able to write",Bs
+and if we cut all that for I mean this version,S,"{""label"": ""Be""}
+Text: ""we can have the pen be a",Be
+it could be much chunkier,S,"{""label"": ""Be""}
+
+Text: ""the main difference is the material of",Be
+and this thing could go in the hole this lot could go in the hole,S,"{""label"": ""Bs""}
+
+Text: ""so it is a bit like a",Bs
+and perhaps you can mirror it so it works for left handed people as well,Be,"{""label"": ""Be""}
+
+Text: ""the best part about it is that",Be
+but you could just make a hole to hold it in either way,S,"{""label"": ""Bs""}
+
+Text: ""it's a simple design""
+Label",Bs
+you d have to certainly with the first go realize where to put their fingers,Bs,"{""label"": ""Bs""}
+
+Text: ""and you d have to certainly with",Bs
+it might not even work,Be,"{""label"": ""D""} 
+Text: ""the pen is held in the",D
+if one of their fingers is not in the right hole,S,"{""label"": ""Bs""}
+Text: ""it is not going to work""",Bs
+also you feed it back to the wrist,Be,"{""label"": ""D""}
+
+Text: ""it will be a small pen""",D
+there is all different things,S,"{""label"": ""S""}
+
+Text: ""it was a great way to get",S
+yeah hand sizes as well,Bs,"{""label"": ""Bs""}
+
+Text: ""because the material of the pen is",Bs
+you know you could you feed it back,Be,"{""label"": ""Bs""}
+
+Text: ""but also with a pen""
+Label",Bs
+so its kind of like a watch or something on your wrist,S,"{""label"": ""Be""}
+Text: ""we need to use a special kind",Be
+well you could have a battery pack in that could not you,S,"{""label"": ""Bs""}
+
+Text: ""it also needs to be able to",Bs
+or a rucksack,S,"{""label"": ""S""}
+Text: ""it s a pretty simple design""",S
+or a rucksack laugh,S,"{""label"": ""S""}
+
+Text: ""this is the real main""
+Label",S
+laugh ghostbusters,S,"{""label"": ""F""}
+Text: ""it s just the thing for printing",F
+write battery pack on wrist,D,"{""label"": ""F""}
+
+Text: ""can draw the same line""
+Label",F
+write mould the unit to right position for,D,"{""label"": ""F""}
+Text: ""the heat source is not good enough",F
+if you have got if you have got a switch there there there and there,S,"{""label"": ""Bs""}
+Text: ""that is the standard plain thermal paper",Bs
+draw Document E1_4Sketcjjpg crosses indicate position of switchs,D,"{""label"": ""Bs""}
+Text: ""the other pen with the new paper",Bs
+and it only works if all four switches are down,Bs,"{""label"": ""Bs""}
+
+Text: ""it only works if all four switches",Bs
+and those switch positions guarantee that the head is down then,Be,"{""label"": ""Bs""}
+
+Text: ""and so the head is down""",Bs
+yeah that is the control approach is not it,Bs,"{""label"": ""Be""}
+Text: ""but the actual thing that we have",Be
+yeah that is the yeah and you design it in such a way that,S,"{""label"": ""F""}
+Text: ""and so that is the reason""",F
+that is a reasonably comfortable position,Bs,"{""label"": ""Be""}
+
+Text: ""the pen has a pen holder""",Be
+and if you don t put it in that position,S,"{""label"": ""Bs""}
+Text: ""and then the pen will be a",Bs
+it does not work,Bs,"{""label"": ""Be""} 
+Text: ""so I will make sure that",Be
+it d be nice though if you naturally pick it up and it works,Bs,"{""label"": ""Be""}
+Text: ""because of the new er er er",Be
+yeah but that is you can do the two together can you,Be,"{""label"": ""D""}
+
+Text: ""so we ve got the the ink",D
+the other thing to to think about is in almost all cases when I look at pens the apart from re wired sort of micropens,S,"{""label"": ""F""}
+Text: ""I would say is the the user",F
+the th tip is actually the narrowest part of the product,S,"{""label"": ""Bs""}
+Text: ""it is the th tip that is",Bs
+whereas in what we re looking at it could actually be as wide or wider,S,"{""label"": ""Be""} 
+
+Text: ""this is the one where the",Be
+so its more like a paintbrush is not it like a DIY paintbrush,S,"{""label"": ""Bs""}
+
+Text: ""this is a new product and its",Bs
+it s more like a roller like a roller yeah,S,"{""label"": ""Bs""}
+Text: ""you can see the difference between the",Bs
+its there is a prototype,S,"{""label"": ""S""}
+
+Text: ""it is a very simple design""",S
+if you had like if you if you had it connected to one side like that,S,"{""label"": ""Bs""} 
+
+Text: ""because of the of the thermal",Bs
+draw Document E1_17 Flipchartjpg,D,"{""label"": ""D""}
+
+Text: ""there are a few things that are",D
+or a it would be here the print head you could have then going to there then going to there is,S,"{""label"": ""Bs""}
+
+Text: ""or the second part is a pen",Bs
+draw Document E1_17 Flipchartjpg,D,"{""label"": ""S""} 
+
+Text: ""we also need to make sure",S
+that you don t smudge it,Bs,"{""label"": ""Bs""}
+Text: ""because of the special paper""
+Label",Bs
+it would have flexibility because of the metal on which it s hinged if you like,S,"{""label"": ""Bs""}  # No output
+Text: ""the paper",Bs
+yeah I think actually I wonder if you intuitively know how to use a roller,Be,"{""label"": ""Be""}  # one answer per line
+Text: """,Be
+because you re older than eleven and intuitive if you have never seen it before,Bs,"{""label"": ""Bs""}
+
+Text: ""we have a problem with the ink",Bs
+my two year old rolls paints,Be,"{""label"": ""D""}
+
+Text: ""the kids were painting and the paint",D
+but I think it could be the pen I mean it could be we could shape it so it does make it like a finer tip,S,"{""label"": ""Bs""}
+Text: ""and then we have the actual pen",Bs
+yeah but there is an inherent size issue with holding it this way is not there,Be,"{""label"": ""Bs""}
+
+Text: ""the reason is the ink flows to",Bs
+because you re not going to have you you you used to have these pens that were ginormous and,S,"{""label"": ""Bs""}
+Text: ""and they were really heavy and then",Bs
+it had lots of different pens inside it,S,"{""label"": ""S""}
+
+Text: ""it was used to draw lines""",S
+yeah and they re all like this round,S,"{""label"": ""S""}
+Text: ""and then you put it in a",S
+and it made it really difficult to write with at the right angle,Bs,"{""label"": ""Bs""}
+
+Text: ""so it was the combination of both",Bs
+so I think there is an issue about how big or how,S,"{""label"": ""Bs""} 
+
+Text: ""the pen that is being used",Bs
+big,S,"{""label"": ""D""}
+
+Text: ""the pen is designed to draw thin",D
+you might not hold it,Bs,"{""label"": ""S""}
+
+Text: ""the ballpoint pen can't write",S
+yeah I think that is worth considering it actually,Be,"{""label"": ""D""}
+Text: ""so I am thinking about this idea",D
+the not having it in a pen shape,S,"{""label"": ""S""}
+Text: ""it needs to be small""
+Label",S
+the not holding it like a pen,Be,"{""label"": ""Bs""}
+Text: ""because of the heat""
+Label (",Bs
+but actually holding it in a different way like that or,Be,"{""label"": ""Be""}
+
+Text: ""and the thing is the thermal paper",Be
+yeah there are two there are two sides to this I think,Bs,"{""label"": ""Bs""}
+Text: ""because of the special ink""
+Label",Bs
+either you want to teach children to hold a pen properly,F,"{""label"": ""F""}
+
+Text: ""the pen is very good at drawing",F
+if you wanted to do that you d give them a,S,"{""label"": ""F""}
+
+Text: ""the one on the left has a",F
+yeah but you have got to be taught how to hold a pen,F,"{""label"": ""F""}
+Text: ""you have to be careful not to",F
+a lot better as write like this as well,S,"{""label"": ""Be""}
+Text: ""you can use a pen that has",Be
+different people will write,Bs,"{""label"": ""Be""}  # Correct?
+Text: ""the pen is",Be
+with not smudging the ink,Bs,"{""label"": ""Bs""}
+
+Text: ""it's a very precise line""",Bs
+different people will hold the pen between these two fingers and write like that,Bs,"{""label"": ""Be""}
+Text: ""the pen is used by different people",Be
+they should not be allowed,Be,"{""label"": ""S""}
+
+Text: ""it's a bit of a challenge",S
+is it a training aid or toy that we re is it for fun,F,"{""label"": ""F""} 
+Text: ""to draw the the lines the",F
+its for fun,F,"{""label"": ""F""}
+Text: ""it was made from a metal""",F
+its mainly really for fun really I think erm,F,"{""label"": ""F""}
+
+Text: ""so its going to be a real",F
+because if you want to teach a child something about pens,F,"{""label"": ""F""}
+
+Text: ""and you want it to be a",F
+you d give them a pen would not you,Be,"{""label"": ""F""}
+
+Text: ""and then you have to put the",F
+no well it depends it could be funit could teach you something,F,"{""label"": ""D""}
+
+Text: ""and that s a lot of the",D
+an added bonus I suppose,F,"{""label"": ""D""}
+
+Text: ""we have to make sure that we",D
+it could teach you something else,F,"{""label"": ""F""}  
+Text: ""it is the part that is",F
+its going to be quite a fat lump probably,S,"{""label"": ""S""}
+
+Text: ""the user is not supposed to know",S
+so it s not going to be that kind of pen that you use in future,S,"{""label"": ""Be""} 
+
+Text: ""it s going to be a",Be
+so it does not feel much like a pen,Be,"{""label"": ""Be""}
+
+Text: ""so the idea is to make a",Be
+you know it could I think it could be more of a decorator s thing you know,F,"{""label"": ""Be""} 
+
+Text: ""so we could use that to",Be
+if you want to put a row of smilies in,Be,"{""label"": ""F""}
+
+Text: ""because the pen has a large ink",F
+paper and pen along the edges of you know,S,"{""label"": ""S""}
+
+Text: ""it will draw a line of ink",S
+on the wall,S,"{""label"": ""S""}
+
+Text: ""to print on this paper""
+Label",S
+you re never gonna draw a whole pic you re never gonna draw paint the Sistine chapel,Bs,"{""label"": ""D""} 
+Text: ""and the idea is that you",D
+no you d need more batteries,S,"{""label"": ""Be""}
+Text: ""because it is very very good at",Be
+its more of sort of decorative kind of features,F,"{""label"": ""F""}  # Label: Function
+Text: ""so",F
+things like that you know,Be,"{""label"": ""Be""}  # correct
+Text: ""and then it",Be
+there is another degree of freedom to this thing,Bs,"{""label"": ""D""}
+Text: ""and it s not just the pen",D
+if you go fast it will be a paler colour,Be,"{""label"": ""Bs""}
+Text: ""if you go fast it will be",Bs
+if you go slowly it will be darker wont it,Be,"{""label"": ""Bs""}
+
+Text: ""the pen draws on the paper in",Bs
+yeah if you go fast well maybe if you go fast if there is no feedback from the paper it does not matter how fast its going,Bs,"{""label"": ""Bs""}
+
+Text: ""and then the pen is very light",Bs
+then it might produce gaps but it might produce gaps in places of,Bs,"{""label"": ""Bs""}
+Text: ""this is a thermal printer with a",Bs
+the thing would be cool,Bs,"{""label"": ""F""}
+
+Text: ""it will be more reliable""
+Label",F
+if you drive it faster,Bs,"{""label"": ""Bs""}
+Text: ""the tip is made of ceramic""",Bs
+that mark is the same as that,Bs,"{""label"": ""D""}
+Text: ""there is no real technical barrier to",D
+that is what you will end up with but erm you won t end up with a long smooth line erm that is faint erm,Bs,"{""label"": ""D""}
+Text: ""the pen has a lot of different",D
+definitely gaps in it head on all the time you don t have the head on,Bs,"{""label"": ""Bs""}
+
+Text: ""this is the key feature that s",Bs
+yeah you could turn it off off and on very fast could not we,S,"{""label"": ""Be""}
+
+Text: ""so we have to work with the",Be
+for the usefulness er well I am just I am just trying to think about what erm what the pen does really erm,F,"{""label"": ""F""}
+
+Text: ""the tip is just a bit porous",F
+if it s if it s a if its fun its got to do,F,"{""label"": ""F""}
+Text: ""so what s the best way to",F
+sort of a wider range of features,F,"{""label"": ""Be""}
+
+Text: ""it's the interaction between the special",Be
+features somehow,F,"{""label"": ""D""}
+
+Text: ""this is not a technical specification""",D
+I think it might self regulate,Be,"{""label"": ""Be""}
+
+Text: ""so it does need to be a",Be
+I think people might visit around how does it work,Bs,"{""label"": ""Be""}
+
+Text: ""I think it s a good idea",Be
+or they use it more slowly I think that is,Bs,"{""label"": ""Be""}
+
+Text: ""because of the pressure the ink flows",Be
+but I am thinking it will it will be more fun,F,"{""label"": ""D""}
+
+Text: ""it is a nice pen to write",D
+if you can get something you know if you can get a faint line or,Be,"{""label"": ""Be""} 
+Text: ""it will be a bit more",Be
+a faint line,Bs,"{""label"": ""Be""}
+Text: ""draws a faint line""
+Label",Be
+you had a drawing there that you did was that for any particular purpose,S,"{""label"": ""F""}
+
+Text: ""I think we should use the same",F
+I ve seen a pen that somebody s created,S,"{""label"": ""D""}
+Text: ""The pen is also a marker""",D
+where its actually got this kind of loop in it,Be,"{""label"": ""Bs""}
+Text: ""so the pen is able to draw",Bs
+so that if you hold it with your index finger actually through this,Bs,"{""label"": ""F""} 
+
+Text: ""so that the ink is on",F
+so it s you you almost wear it like a glove,S,"{""label"": ""Be""}
+
+Text: ""this is the only way it can",Be
+deep breath in yeah or like a sort of ring on your finger with the pen attached to it,S,"{""label"": ""D""}
+Text: ""so we can use it as a",D
+but it forces you to hold it in a very specific way,Bs,"{""label"": ""Bs""}  # You can ask for help if you're",Bs
+um that is intriguing sort of like a like a could be like a finger puppet could not it,S,"{""label"": ""Be""}
+
+Text: ""and I think we could also use",Be
+yeah cos wearing it like a finger puppet,S,"{""label"": ""Bs""}
+
+Text: ""so basically the design is to make",Bs
+the feel of it might be fun,Bs,"{""label"": ""F""}
+
+Text: ""it is also very good at printing",F
+exactly so you can make you can make the footprints,Bs,"{""label"": ""Be""}
+Text: ""the idea is to make the foot",Be
+I I think I think the sort of design not very good at,S,"{""label"": ""Be""}
+Text: ""the the way the paper works is",Be
+Tom does that help regulate the angle,Bs,"{""label"": ""Be""}
+Text: ""Because of the spring, the pen",Be
+that would also tie in quite well the sort of cyber view,Bs,"{""label"": ""D""}
+
+Text: ""so the pen is a real key",D
+of having a pack on your wrist,S,"{""label"": ""F""}
+
+Text: ""because of the design of the watch",F
+or sort of cyber arm is not it,S,"{""label"": ""S""}
+Text: ""that s the real the real pen",S
+thermal print head,S,"{""label"": ""S""}  # You can ignore this and focus on the",S
+lightning coming out of his nose,S,"{""label"": ""F""} 
+
+Text: ""the paper is the key""",F
+is the issue of left and right handedness erm how we re going to resolve that,Be,"{""label"": ""Be""}
+
+Text: ""what about the media and the pen",Be
+can you turn the print head round or,S,"{""label"": ""Be""}
+
+Text: ""if you look at the diagram it",Be
+it does not matter because as long as you have got as long as you have got features that can be either mirrored features the same on each side,S,"{""label"": ""Bs""} 
+
+Text: ""this is the main objective""",Bs
+you have got them all like that,S,"{""label"": ""D""}  # or any of the other labels
+Text",D
+you have got some area to work with and then,S,"{""label"": ""S""}
+
+Text: ""you can draw with the pen""",S
+you have to keep the area of the mirror image,S,"{""label"": ""Bs""}
+Text: ""I think the important thing is to",Bs
+quite good,Bs,"{""label"": ""D""}
+
+Text: ""so it is the interaction between the",D
+in fact in some ways we should think about the fact it is not even a pen,F,"{""label"": ""D""}  # Done
+Text: ""so the pen",D
+because a pen you you will always learn to write from left to right whether you re left handed or right handed,Be,"{""label"": ""Bs""}
+Text: ""I am not sure what I am",Bs
+so actually what you end up doing is left handed people is you smudge over over your work which is a problem,Bs,"{""label"": ""F""}
+
+Text: ""so you can also make use of",F
+but actually with this you re dragging it you re not pushing it are you most people will drag it,Be,"{""label"": ""Bs""}
+
+Text: ""so you re not pushing it you",Bs
+mostly dragging it,Be,"{""label"": ""Be""}
+Text: ""the design is based on the existing",Be
+mmm because you were wired to drag it,Bs,"{""label"": ""Bs""}
+Text: ""so that the pattern is visible""",Bs
+will be dragged,Be,"{""label"": ""Be""}
+
+Text: ""the pen is drawn""
+Label (",Be
+that is an interesting point,Bs,"{""label"": ""D""}
+
+Text: ""we need to make sure it is",D
+mmm so you want a design then to sort of force people to drag,Be,"{""label"": ""F""} 
+Text: ""and then they get a certain",F
+it which is not something you do with a marker pen,Bs,"{""label"": ""S""} 
+
+Text: ""and then you re going to",S
+you draw a line when you drag,Bs,"{""label"": ""Bs""}
+Text: ""this is the way to use the",Bs
+generally you might do with a marker pen,Bs,"{""label"": ""S""}
+
+Text: ""so that it can print the whole",S
+with a marker pen you tend to drag yeah,Bs,"{""label"": ""Bs""}
+
+Text: ""the reason why the marker pen works",Bs
+but what I am saying is the analogy of teaching people to write is not actually valid in the sense that,Be,"{""label"": ""Be""}
+
+Text: ""the most interesting part is the way",Be
+when you re writing you re not actually dragging usually apart from if you re right handed,Be,"{""label"": ""Be""} 
+Text: ""the tip of the pen is",Be
+if you re right handed you drag,Be,"{""label"": ""Be""}
+Text: ""you need to drag your hand""",Be
+if you re left handed you push,Be,"{""label"": ""Bs""}
+
+Text: ""and then you have the right hand",Bs
+so do they do a left handed version of this,S,"{""label"": ""Be""} 
+
+Text: ""and then we have a new",Be
+that s more interesting cos commercially lost that would be a loss leader just about,Bs,"{""label"": ""F""}  # Correct!
+Text: ""so it s",F
+well it must it must cost twice as much,Bs,"{""label"": ""F""} 
+
+Text: ""the pen will draw a circle",F
+its gonna cost twice as much,Bs,"{""label"": ""D""}
+
+Text: ""the problem is that its not smooth",D
+but schools or something schools must buy two sets,S,"{""label"": ""Bs""}
+Text: ""because of the ink reservoir""
+Label",Bs
+yeah its not worth its not really for schools,Bs,"{""label"": ""F""}
+
+Text: ""its not really for schools""
+Label",F
+well they had that in my school when I was in primary school everybody had a red fountain pen and I had a special green fountain pen because I was left handed,S,"{""label"": ""S""}  # Structure
+Text: ""so the design",S
+erm protecting the print head which I haven t really thought very much about,F,"{""label"": ""Bs""}
+
+Text: ""it s the interaction between the pen",Bs
+but as it it might be a nuisance or bad thing,Be,"{""label"": ""Bs""}
+Text: ""so the thing that it is doing",Bs
+to have the print head projecting down out of the bottom of this most of the time,S,"{""label"": ""Be""}
+Text: ""with the thermal ink flowing through the",Be
+because it may catch on things like the edge of the table or something like that,Bs,"{""label"": ""Bs""}
+
+Text: ""the pen is quite reliable""
+Label",Bs
+and so erm perhaps there is something else a rounded lump or something,S,"{""label"": ""S""}
+Text: ""and so erm perhaps there is something",S
+as it approaches the page causes the print head to come down,Be,"{""label"": ""Bs""}
+Text: ""it will be used to draw a",Bs
+which may carriage be sprung also,S,"{""label"": ""Bs""} 
+Text: ""so the idea is to get",Bs
+like a see saw,S,"{""label"": ""Bs""}
+
+Text: ""it's a matter of how we",Bs
+comes down,Bs,"{""label"": ""Be""}
+
+Text: ""due to the fact that the tip",Be
+like a nodding birds yeah,Be,"{""label"": ""Be""}
+
+Text: ""the 2nd part of the",Be
+if you have your printing head ,S,"{""label"": ""S""}
+Text: ""the thermal head is made of """,S
+draw E1_4 Sketchjpg,D,"{""label"": ""S""}
+Text: ""It needs to print legibly at",S
+and you have got you have got your spring like that ,S,"{""label"": ""Bs""}
+
+Text: ""and then you have got your spring",Bs
+draw E1_4 Sketchjpg,D,"{""label"": ""S""} 
+
+Text: ""we need to draw a small",S
+and you have got a switch or something here ,S,"{""label"": ""S""}
+Text: ""so it is a bit of a",S
+draw E1_4 Sketchjpg,D,"{""label"": ""D""}
+Text: ""draw E1_4 Sketchjpg",D
+and you have got a case there ,S,"{""label"": ""S""}
+Text: ""and that is a real plus point",S
+draw E1_4 Sketchjpg,D,"{""label"": ""D""}
+Text: ""draw E1_4 Sketch""",D
+and then when you you can only push this,Bs,"{""label"": ""Bs""}
+
+Text: ""so that you can have a good",Bs
+and then when you push this up so that all the faces are touching,Bs,"{""label"": ""Bs""}
+
+Text: ""but the thermal paper is a key",Bs
+that is when the switch goes,Bs,"{""label"": ""Bs""}
+Text: ""it will only print 4 lines",Bs
+erm so you get so so what this is is is maybe this is not erm err susceptible to knocks and things because its on a sp spring,Bs,"{""label"": ""Bs""} 
+Text: ""erm so this is the erm",Bs
+yeah and you get protected by a case,S,"{""label"": ""S""}
+
+Text: ""the thermal paper is actually a key",S
+but the other thing is the opposite of this being here,S,"{""label"": ""Be""}  # Be
+Text: ""and this is",Be
+and these two things being on springs,S,"{""label"": ""Bs""}
+Text: ""and this is why we have to",Bs
+so that when these get pushed back,Bs,"{""label"": ""F""}
+Text: ""it causes the little bit of the",F
+they ll spring back and then they will switch on the,Bs,"{""label"": ""D""}
+
+Text: ""they ll spring back and then they",D
+that is true that works as well,Bs,"{""label"": ""Be""} 
+
+Text: ""this is the goal of the",Be
+that works even better cos it s not leaking its protected then,Bs,"{""label"": ""Bs""} 
+
+Text: ""the one on the top left",Bs
+a sheath,S,"{""label"": ""S""}
+Text: ""is a type of barrel""
+Label",S
+a print head,S,"{""label"": ""S""}
+
+Text: ""the print head is designed to print",S
+yeah do you need to stop the print head going sideways,Be,"{""label"": ""Bs""}
+
+Text: ""yeah so I think we need to",Bs
+draw arrow not sure which drawing,D,"{""label"": ""D""}
+
+Text: ""I want to use this to draw",D
+cos you want it to travel forwards when its going that direction,Bs,"{""label"": ""Bs""}
+Text: ""the other one has a bit of",Bs
+yeah you don t want people to go that that that is an interesting point,Be,"{""label"": ""Be""}
+Text: ""yeah because you can t use the",Be
+put wheels on the side to make it,S,"{""label"": ""Bs""} 
+
+Text: ""and it is very easy to",Bs
+I I don t think there might not be a problem with that,Bs,"{""label"": ""D""}
+
+Text: ""because of the pressure from the user",D
+in fact it might be something that they might want to do to produce interesting effects,Be,"{""label"": ""F""}
+Text: ""this is one of the reasons that",F
+distorted smiley faces,Be,"{""label"": ""D""}
+
+Text: ""this is the standard thermal pen""",D
+and I think we might get away with that,Be,"{""label"": ""D""}
+Text: ""the first one is the one with",D
+but what if what if a child held the pen can I just borrow that,Be,"{""label"": ""D""}
+
+Text: ""so we re going to use the",D
+rather than holding it width ways,Be,"{""label"": ""Bs""}
+Text: ""so we have to make sure the",Bs
+so this is across the pen,Be,"{""label"": ""Bs""}
+Text: ""and the pen is made of plastic",Bs
+thinking of holding it that way,Bs,"{""label"": ""Bs""}  # correct
+Text: ""the purpose is",Bs
+providing just enough pressure,Bs,"{""label"": ""Bs""}
+
+Text: ""The paper should be used to create",Bs
+providing probably be alright,Bs,"{""label"": ""Be""}
+
+Text: ""the structure of the pen is a",Be
+but we could try and stop them from doing it,Be,"{""label"": ""Bs""}
+
+Text: ""it's a good idea to do",Bs
+it is sort of like a its like a calligraphy pen is not it if you erm,S,"{""label"": ""Be""}
+Text: ""and also the the the"" →",Be
+because you get thick you get thick and thin,Bs,"{""label"": ""Bs""}
+
+Text: ""that is the thing that is going",Bs
+because you get the edge,S,"{""label"": ""Bs""}
+Text: ""that s the reason why""
+Label",Bs
+that business of withdrawing the print head when it s not in use or something like that,Be,"{""label"": ""Bs""}
+Text: ""and then it s also going to",Bs
+well yeah well it s a sheath is not it that is the word you said was not it a sheath that,S,"{""label"": ""S""}
+Text: ""so the main point of this is",S
+a sheaf,S,"{""label"": ""F""}
+
+Text: ""the pen is a pen""
+Label",F
+write sheath protecting the head,D,"{""label"": ""S""}
+Text: ""so it doesn't wear out""",S
+or it could be deployed on contact or something,S,"{""label"": ""Bs""}
+
+Text: ""to make the whole thing more robust",Bs
+OK it is fundamental the other thing that I am now going to look at is ,F,"{""label"": ""F""} 
+
+Text: ""so we re going to use",F
+two two problems one is over pressurising the print head on the paper,Be,"{""label"": ""Bs""}
+Text: ""the other is the media itself and",Bs
+or abuse of the pen so somebody could go like that,Be,"{""label"": ""Bs""}
+Text: ""you can do that with any pen",Bs
+and that will probably break it and,Be,"{""label"": ""Bs""}
+Text: ""so that the ink will be able",Bs
+the sheath,S,"{""label"": ""S""}
+
+Text: ""and it s the new type of",S
+does not fix that does it er no the sheath does not fix that,Bs,"{""label"": ""Bs""}
+Text: ""because of the structure of the she",Bs
+you go like that you hit the printer,Bs,"{""label"": ""Be""}
+
+Text: ""the reason why we can t get",Be
+whereas the other way round bangs table,Bs,"{""label"": ""Bs""}
+Text: ""this will be a small pen with",Bs
+well the sheath protect that is not it so,Be,"{""label"": ""D""}
+Text: ""so we re going to be looking",D
+the sheaths so spring both and the things happen,Bs,"{""label"": ""Bs""}
+Text: ""we are going to use the pen",Bs
+yeah so expect there is more travel if you smash there,Be,"{""label"": ""Bs""}
+
+Text: ""there is more travel if you smash",Bs
+Draw 2 crosses over Tom s sheath Document E1_4 Sketchjpg,D,"{""label"": ""S""}  # You can submit your answer below
+```",S
+yeah that means you can t move both yeah yeah that is right yeah,S,"{""label"": ""D""}
+Text: ""the paper is just like a er",D
+so I its what AJ suggested that this moves back,Bs,"{""label"": ""Be""} 
+
+Text: ""and then the pen itself will",Be
+to to start to as a switch,S,"{""label"": ""Be""}
+Text: ""the the pen is designed to be",Be
+whereas the alternative is for that to move back,S,"{""label"": ""Be""}
+Text: ""we are going to make a prototype",Be
+well I suppose you could design it such a way as it only goes,Be,"{""label"": ""Bs""}
+
+Text: ""that is the thing we want to",Bs
+at a certain speed back so if you went if you just went like that it would go back quite,Bs,"{""label"": ""Be""}
+Text: ""but if you went like that it",Be
+slowly but if too quickly,Bs,"{""label"": ""Be""}
+
+Text: ""the ink is supposed to flow through",Be
+you you could have them both moving back and,Bs,"{""label"": ""D""}
+
+Text: ""you you could have them both moving",D
+you could have you could balance springs and things like that,S,"{""label"": ""Bs""}  # or one of the other labels
+
+
+Text",Bs
+you could have viscous back,Bs,"{""label"": ""Bs""}
+
+Text: ""it was because of the viscosity of",Bs
+if that thing s on a spring and that is on a,S,"{""label"": ""Bs""}
+Text: ""it is a special type of paper",Bs
+Draw unknown sheet,D,"{""label"": ""S""}
+Text: ""The pen is not working properly""",S
+of some sort which could be quite simple,S,"{""label"": ""D""}
+Text: ""the user needs to be able to",D
+viscous,Bs,"{""label"": ""D""}
+
+Text: ""the purpose of the pen is to",D
+write viscous damper,D,"{""label"": ""Bs""}
+
+Text: ""the most important thing is the speed",Bs
+and if you bang it down its effectively solid,S,"{""label"": ""Bs""}
+Text: ""so its the interaction between the special",Bs
+cheap,Bs,"{""label"": ""D""}
+Text: ""draws""
+Label (JSON only",D
+leaking syringe,S,"{""label"": ""Bs""}
+
+Text: ""is the paper supposed to be thermal",Bs
+cheap syringe,S,"{""label"": ""S""}
+
+Text: ""it should be able to handle the",S
+write leaky syringe,D,"{""label"": ""Bs""}
+
+Text: ""the design of the pen is very",Bs
+where s the sheath gone,S,"{""label"": ""S""}
+Text: ""the ink is leaking from the she",S
+heat source,S,"{""label"": ""D""}  # Don't forget to include the ""D",D
+laser light,S,"{""label"": ""S""}
+
+Text: ""so this is the reason why the",S
+any other ways in which we could try I mean we could put a cap over it that is how other people do it ,S,"{""label"": ""Bs""}
+
+Text: ""we can use the ink cartridge that",Bs
+that is way too low tech for this,Bs,"{""label"": ""F""}
+
+Text: ""it will not be able to draw",F
+that will protect it but it still is not it,Bs,"{""label"": ""D""}
+Text: ""and the other one is the thermal",D
+what about a cap,S,"{""label"": ""S""}  # or any other label
+
+Text: """,S
+like a spring loaded cap,Be,"{""label"": ""Bs""}  # Behaviour from Structure
+
+Text: ""and",Bs
+that comes out of the way,Bs,"{""label"": ""S""}
+
+Text: ""the thermal paper will give a smooth",S
+yeah like a button there,S,"{""label"": ""D""}
+
+Text: ""we have to find a way to",D
+that s nice yeah,Bs,"{""label"": ""D""} 
+
+Text: ""and the ink flows very smoothly",D
+write sprung loaded cap,D,"{""label"": ""Bs""} 
+
+Text: ""the ink flows through the",Bs
+that that slides the,Be,"{""label"": ""S""}  # end of classification task
+
+Text: """,S
+the button,S,"{""label"": ""S""}
+Text: ""the button is quite small""
+Label",S
+then it could not get lost could it,Bs,"{""label"": ""Bs""}
+Text: ""the one on the left is the",Bs
+mmm it could also turn off the comforting hum,Be,"{""label"": ""D""}
+
+Text: ""so it s the interaction between the",D
+when you put the cap back on,Bs,"{""label"": ""Bs""}
+
+Text: ""to use the pen""
+Label (",Bs
+I quite like the idea of a comforting hum,Bs,"{""label"": ""Be""} 
+
+Text: ""the paper is a key part",Be
+a comforting hum,Be,"{""label"": ""D""}
+
+Text: ""the pen is easy to use""",D
+write comforting hum,D,"{""label"": ""Be""}
+Text: ""the user needs to be able to",Be
+when it s working right,Bs,"{""label"": ""Be""}
+
+Text: ""it s the thermal paper that is",Be
+what like a sings dum dum dum dum dum dum,Bs,"{""label"": ""D""}
+
+Text: ""this is a very nice example of",D
+like rolf harris,Bs,"{""label"": ""D""}
+
+Text: ""we need to get a new pen",D
+the cap is quite interesting though,S,"{""label"": ""S""}
+
+Text: ""the paper is really thin""
+Label",S
+because if it hinges that way,Bs,"{""label"": ""Bs""}
+Text: ""and that's why the pen is",Bs
+it will make people much more likely to to drag it across there if it s clear as well,Bs,"{""label"": ""F""}
+Text: ""this is a bit of a problem",F
+yeah but you can still see things or,Bs,"{""label"": ""S""}
+Text: ""the pen is the main focus of",S
+if you had not just an activation button not an,S,"{""label"": ""D""}
+Text: ""this is a"" 
+Label (",D
+activation button but a button that made the print head come out,S,"{""label"": ""Bs""}
+Text: ""it is not very good with the",Bs
+a non a non clickable pen,S,"{""label"": ""S""}
+
+Text: ""because of the thermal paper the pen",S
+so you had to you know obviously not up there,S,"{""label"": ""S""}
+Text: ""it is not the tip that is",S
+you can only write when it s up,Be,"{""label"": ""Bs""}
+Text: ""the pen has a special ink cartridge",Bs
+if you if you go like that it would sort of go out a little bit,Be,"{""label"": ""Be""}
+
+Text: ""so it's a bit more than",Be
+and then if you push it up it would go out more,Be,"{""label"": ""Bs""}
+
+Text: ""the only thing that would be different",Bs
+I mean you can still damage it,Bs,"{""label"": ""Bs""}
+Text: ""the user can move the pen in",Bs
+so it s a it s a dead man s handle for a pen basically,S,"{""label"": ""Bs""}
+Text: ""the paper is actually pretty good at",Bs
+write a dead man handle for the pen,D,"{""label"": ""F""}
+Text: ""so the pen writes really smoothly""",F
+you could have a little slider on it,S,"{""label"": ""S""}  # (or ""F"", ""Be"",",S
+could it could do this kind of thing round the edge,S,"{""label"": ""Bs""}
+
+Text: ""the pen is a thermal pen""",Bs
+yeah yeah and then and then you coul it could just be sprung,Be,"{""label"": ""Bs""}
+
+Text: ""you know and this is the main",Bs
+and then when you put it down its held open by,Be,"{""label"": ""S""}
+Text: ""the little metal piece that holds the",S
+and then any pressure on the tip,Be,"{""label"": ""Bs""} 
+
+Text: ""this is the new tip that",Bs
+it s more is not it,Bs,"{""label"": ""Be""}
+Text: ""this is the best one of the",Be
+you re not going to be using it for hours on end are you,Be,"{""label"": ""D""}
+
+Text: ""the first thing that I need to",D
+it s for little pieces of,Be,"{""label"": ""F""}
+Text: ""but the other thing that I think",F
+I would say long car journeys though,Be,"{""label"": ""F""}
+
+Text: ""because of the pen""
+Label (",F
+you could have a and that open up,S,"{""label"": ""D""}
+
+Text: ""I think we need to look at",D
+draw,D,"{""label"": ""D""}
+
+Text: ""the pen can draw""
+Label (",D
+a little bit annoying on long car journeys laugh,Be,"{""label"": ""D""}
+
+Text: ""but this is a good example of",D
+you could have a cap that goes like that,S,"{""label"": ""S""}
+Text: ""so it s the interaction between the",S
+draw,D,"{""label"": ""D""}
+Text: ""the line will be thicker""
+Label",D
+and then you could also have the same spring here,S,"{""label"": ""Bs""}
+Text: ""it's the interaction between the thermal",Bs
+that any force by a certain amount would force the cap to shut again,Bs,"{""label"": ""Bs""}
+
+Text: ""and it can be used for writing",Bs
+a double action cap,S,"{""label"": ""S""} 
+
+Text: ""and the ink flows through it",S
+so you button but it s got an override of pressure,Bs,"{""label"": ""Bs""}
+Text: ""we are looking at the the the",Bs
+on the pen,S,"{""label"": ""S""}
+
+Text: ""because the pen is a very sensitive",S
+I am thinking of something a bit like erm the flap on a video tape,S,"{""label"": ""Bs""}
+Text: ""and so it is a bit like",Bs
+uh huh what the flap,S,"{""label"": ""F""}
+Text: ""and so the idea is that the",F
+like a garage door type of thing,S,"{""label"": ""D""}
+
+Text: ""to make sure that it doesn’t",D
+yeah push the button then it goes open,Bs,"{""label"": ""Bs""}
+
+Text: ""and then you have the media,",Bs
+write garage door type mechanism,D,"{""label"": ""S""}
+Text: ""in order to allow the user to",S
+but that is probably overly complicated,Bs,"{""label"": ""D""}
+
+Text: ""that's a good point, so",D
+garage door,S,"{""label"": ""S""}
+Text: ""it's a simple way to close",S
+well it could be a roller,S,"{""label"": ""S""}
+
+Text: ""the paper is not good enough""",S
+a roller door,S,"{""label"": ""S""} 
+
+Text: ""it should have a smooth operation",S
+write roller door,D,"{""label"": ""D""}
+
+Text: ""The pen is not drawing correctly.""",D
+as you cool that down,Bs,"{""label"": ""Be""}
+
+Text: ""the structure of the pen""
+Label",Be
+yeah a button here that ,S,"{""label"": ""Be""}
+Text: ""this is the thermal pen that""",Be
+there is a slider that opens the pen,Be,"{""label"": ""S""}
+
+Text: ""this is the main pen""
+Label",S
+but then regardless of whether you have got the button pressed down or not you press hard and it comes back down,Be,"{""label"": ""Be""}  # Behaviour from Structure
+Text: ""the",Be
+so it does not matter if you drag it thuds hand on table it ll just,Bs,"{""label"": ""Be""} 
+
+Text: ""or if you are using a",Be
+or you just keep that button pressed but,Bs,"{""label"": ""Bs""}
+Text: ""the printer prints on the paper""",Bs
+thud yeah if you re very sort of cover that comes down,Bs,"{""label"": ""Bs""}
+
+Text: ""I think the key thing is the",Bs
+are you just whacking this pen there,Be,"{""label"": ""Bs""}
+
+Text: ""so if you could just draw a",Bs
+it s got a cap on,S,"{""label"": ""S""}
+Text: ""it s got a cap""
+Label",S
+how much did that pen cost,Bs,"{""label"": ""D""}
+
+Text: ""so what is the paper used in",D
+errrr well about five pence or something,Bs,"{""label"": ""D""}  # You can put a comment here if you",D
+yeah is that refillable,Be,"{""label"": ""S""} 
+Text: ""can we get a new one",S
+like this is not refillable,Be,"{""label"": ""Bs""}
+Text: ""the pen is a very simple design",Bs
+I assume it has a cover that comes on as well,Bs,"{""label"": ""S""}
+
+Text: ""and I assume it has a cover",S
+that is nice it s erm holdable,Bs,"{""label"": ""S""}
+
+Text: ""so it s because of the the",S
+so one one pence two pence six pence,Bs,"{""label"": ""F""}
+Text: ""that is the standard plain thermal paper",F
+twenty pence,Bs,"{""label"": ""S""} 
+
+Text: ""the paper is really thin""",S
+you could put a time delay on it,S,"{""label"": ""Be""}
+
+Text: ""because the thermal paper is very thin",Be
+that is a good way of protecting it,Bs,"{""label"": ""Bs""}
+Text: ""that is a good way of protecting",Bs
+write time delay,D,"{""label"": ""D""}
+
+Text: ""the new pen will print faster""",D
+you could say it has to be in contact with the paper for a second and then the thing will deployed,Bs,"{""label"": ""Bs""}
+Text: ""but the goal is to be able",Bs
+that is easy,Bs,"{""label"": ""D""}
+Text: ""because of the material""
+Label (",D
+and that way it s protected from being banged,Bs,"{""label"": ""Bs""}
+Text: ""so that it can be used for",Bs
+is there is there an issue anyway erm guys with there being or having to be or a benefit by having like a stand by mode,F,"{""label"": ""Bs""}
+
+Text: ""this is the bit where we need",Bs
+so its either completely switched off,Be,"{""label"": ""Be""}
+
+Text: ""and then you can change the print",Be
+with or without the cap on it,Be,"{""label"": ""S""}
+
+Text: ""the thing that is a bit of",S
+or there is like a stand by mode,F,"{""label"": ""Bs""}
+Text: ""where you just leave it there and",Bs
+where its sort of semi warm but its ready for action quickly,Be,"{""label"": ""Be""}  # Expected Behaviour (performance independent of specific parts",Be
+it has a home so a docking station,S,"{""label"": ""S""}
+Text: ""this is the way you do it",S
+we could charge it in there as well plus,Bs,"{""label"": ""S""}
+Text: ""and then we could do a number",S
+it might be over budget,Bs,"{""label"": ""D""} 
+
+Text: ""I think it is a good",D
+yeah so a docking station what would the docking station look like charge,S,"{""label"": ""Be""}  # correct label: Be
+Text: """,Be
+write docking station cradle,D,"{""label"": ""S""}
+Text: ""the ink flows smoothly""
+Label (",S
+well it would just be a cradle,S,"{""label"": ""S""}
+
+Text: ""it has a cradle""
+Label",S
+it would just be somewhere for it to live when you re not using it,Bs,"{""label"": ""S""}
+Text: ""it has a kind of a housing",S
+like a little protector like an inkwell,S,"{""label"": ""S""}
+
+Text: ""and it is made of a special",S
+laugh like a quill,S,"{""label"": ""F""}
+Text: ""the pen tip is very small""",F
+a quill that means it s not something that you could put in your pencil case,Bs,"{""label"": ""S""}
+
+Text: ""it s the purpose of the qu",S
+well I think there is an issue actually there,Be,"{""label"": ""D""}
+Text: ""the problem is that the paper is",D
+as well with children sometimes using lots of types of pens at the same time,Be,"{""label"": ""S""}
+
+Text: ""the main idea is to create a",S
+if you had erm written something or smudged something with some other type of err pen or even a,Be,"{""label"": ""Be""}
+
+Text: ""eraser""
+Label (JSON only",Be
+pencil or a crayon or something like that,Be,"{""label"": ""S""}
+Text: ""and we can draw lines and things",S
+and then you used this on the same paper would it make the print head dirty,Be,"{""label"": ""Bs""} 
+
+Text: ""it s the first time we",Bs
+and would there need to be some way of cleaning the print head potentially,F,"{""label"": ""Bs""}
+Text: ""so the pen is really a pen",Bs
+or would it be good to have some way of cleaning the print head,F,"{""label"": ""Bs""}
+Text: ""so the main thing is that it",Bs
+like we could have a cap on it,S,"{""label"": ""Bs""}
+
+Text: ""with the help of the pen""",Bs
+that actually erm sort of goes past it,Bs,"{""label"": ""Bs""} 
+
+Text: ""so it s a pen that",Bs
+is there any danger if you got ink from another pen or paint can it short,Be,"{""label"": ""Bs""}
+
+Text: ""if you do not have any ink",Bs
+it would not short it,Bs,"{""label"": ""D""}  # → ""D""
+Text: ""the",D
+it would not short it,Bs,"{""label"": ""D""}
+
+Text: ""it would not short it""
+Label",D
+but it might burn into the head so,Bs,"{""label"": ""Bs""}
+Text: ""so we can just change the pen",Bs
+the good thing you could clean this you can get,Be,"{""label"": ""Be""}
+
+Text: ""there s a lot of different kinds",Be
+a crayon would be all right because that would melt,Bs,"{""label"": ""Bs""}
+Text: ""it needs to be able to do",Bs
+you can clean it but erm I have got a way of cleaning it with a knife,Bs,"{""label"": ""Bs""}
+
+Text: ""you can clean it with a knife",Bs
+but paint would be a problem would not it you d imagine that,Be,"{""label"": ""Be""}
+Text: ""the the the first step is to",Be
+you could clean it off but you could not get the kids to do it,Be,"{""label"": ""Bs""}
+Text: ""there are some other things that are",Bs
+unless you er unless you did it automatically,Be,"{""label"": ""Bs""}
+Text: ""but the er but the feed mechanism",Bs
+I mean if you leave the top off that for twenty minutes it dries out,Be,"{""label"": ""Bs""}
+Text: ""and the ink starts to dry and",Bs
+yes we could just up the age limit it s not a problem,Be,"{""label"": ""F""}
+
+Text: ""the idea of the pen is to",F
+write cleaning mechanism,D,"{""label"": ""Bs""}
+Text: ""to write a cleaning mechanism""
+Label",Bs
+OK want to do some more detail a bit more mechanism,S,"{""label"": ""Bs""}
+
+Text: ""so the other one is the one",Bs
+well we we have got various things haven t we,S,"{""label"": ""D""}
+Text: ""so we can use that to make",D
+we just have to contact it,Bs,"{""label"": ""D""}
+
+Text: ""the thermal printer is working""
+Label",D
+pressure contacts,S,"{""label"": ""S""} 
+
+Text: ""with a thermoplastic""",S
+or its got to be got to be depressed,Bs,"{""label"": ""Be""} 
+
+Text: ""we ve got to think about",Be
+imagine you have piece of metal,S,"{""label"": ""S""}
+Text: ""to draw the image""
+Label (",S
+spring switch,S,"{""label"": ""S""}
+
+Text: ""the spring switch is smooth""
+Label",S
+is there a could you measure I am thinking of for example if a child decides to try to write on his clothes or on their skin or whatever,Be,"{""label"": ""Be""}
+Text: ""is there a could you measure I",Be
+erm it may not be such a good idea,Bs,"{""label"": ""D""}
+
+Text: ""it needs to be able to handle",D
+erm potentially feedback,Bs,"{""label"": ""D""}
+Text: ""I think the question is whether or",D
+how quick the how quick the head cools down if its on the actual paper its supposed to be on versus if it was on some different media sort of,Bs,"{""label"": ""Be""}
+Text: ""it needs to be able to print",Be
+how hot,Bs,"{""label"": ""D""}
+
+Text: ""this is the goal""
+Label (",D
+how hot does it get,Bs,"{""label"": ""D""}
+
+Text: ""the pen will only write on certain",D
+err it does get quite hot well,Bs,"{""label"": ""Bs""}
+
+Text: ""and then you have to heat it",Bs
+the tiny dots can get quite hot,Bs,"{""label"": ""Bs""}
+
+Text: ""the dot is made of a special",Bs
+and there is next to no thermal lapse,S,"{""label"": ""Be""}
+Text: ""but we re still in the process",Be
+so they cold again very quickly,Bs,"{""label"": ""Be""}
+
+Text: ""we can use the same tip as",Be
+if you wear it on your skin it would just be,Bs,"{""label"": ""S""}
+Text: ""a really good way to know if",S
+we need to test this but I,Bs,"{""label"": ""F""}
+Text: ""it will be used to draw lines",F
+mechanically the the,S,"{""label"": ""Bs""}
+Text: ""the the""
+Label (JSON only",Bs
+well there is potential for a safety issue,Bs,"{""label"": ""F""}
+
+Text: ""because of the heat of the pen",F
+but erm where you re going trying to detect a cooling rate from the media,Bs,"{""label"": ""Bs""}
+
+Text: ""what we re trying to do is",Bs
+that you have been in contact with can be a very hard thing to do erm,Bs,"{""label"": ""Be""}
+
+Text: ""so this is the one that is",Be
+but detecting the media or detecting that you re on some kind of media,Bs,"{""label"": ""S""}
+Text: ""so we re looking for something that",S
+or holding station or something,S,"{""label"": ""Bs""}
+
+Text: ""it is made of a variety of",Bs
+cos it could be sold as it could be a thing you put your special media on or,S,"{""label"": ""S""} 
+Text: ""and it could be a thing",S
+and we could either detect that,Be,"{""label"": ""Be""}
+Text: ""so this is the case with the",Be
+or we could look for erm translucent dots buried in the erm media or something,Be,"{""label"": ""Bs""}
+Text: ""and we can do that with a",Bs
+write translucent dots,D,"{""label"": ""D""}  
+Text: ""the thermal pen is made of",D
+or you could they you could a they could be like er beads switches,S,"{""label"": ""Be""}  # or you could they you could a they",Be
+you can only write on a magnetic plate is not it,Bs,"{""label"": ""S""}
+
+Text: ""so what we re doing today is",S
+yeah you could do that or looking for a signal or,Be,"{""label"": ""D""}
+
+Text: ""so I think we should also look",D
+or detecting a change,Be,"{""label"": ""F""}
+
+Text: ""but in the end it is all",F
+so this is what you re talking about,S,"{""label"": ""D""}
+
+Text: ""this is the main idea of the",D
+errr yeah its more systemy,S,"{""label"": ""S""}
+
+Text: ""and we need to make sure that",S
+I guess beyond the actual pen you could imagine all sorts of systems where,S,"{""label"": ""Be""}
+Text: ""the pen itself is the key thing",Be
+mmm ok you re tied you re tied to the media anyway so it s not really,S,"{""label"": ""S""}  # Correct!
+Text: ""you re tied",S
+erm yeah you re probably not constrained,Bs,"{""label"": ""Be""}
+
+Text: ""because of the size of the pen",Be
+because you unless you are detecting something special about the media which you might want to do,Bs,"{""label"": ""Bs""}
+Text: ""the key is to find the right",Bs
+the effects of the media then it would work on any thermal media or,S,"{""label"": ""Bs""}
+Text: ""it s the interaction between the media",Bs
+that is not common is it,Be,"{""label"": ""D""}
+Text: ""the pen is a pen so its",D
+like printers,Be,"{""label"": ""Be""}
+Text: ""the design of the pen""
+Label",Be
+fax machines,Be,"{""label"": ""S""}
+Text: ""it has a new printer""
+Label",S
+I was just going to say yeah I think we should concentrate on what the mechanism might look like,S,"{""label"": ""Be""}
+
+Text: ""if we go with the carbon fibre",Be
+the thermal pen cos I think we can spend quite a lot of time,F,"{""label"": ""D""} 
+Text: ""the thermal pen cos I think",D
+yep so in terms of the actual mechanism we have explored some different angles on that have not we,S,"{""label"": ""D""}
+Text: ""erm so we need to think about",D
+in terms of the you mean in terms of the spring loading and things like that,S,"{""label"": ""Be""}
+
+Text: ""the spring loading is quite important for",Be
+well that is one idea and that has the that has a two outer that has an outer limit how far the slider can move,S,"{""label"": ""Bs""}
+Text: ""and that is a good thing because",Bs
+that controls there is obviously it stays at an angle until you get to the maximum angle and then if all,Bs,"{""label"": ""Be""}
+
+Text: ""and it s got the little bit",Be
+and then it could switch off could not it,Be,"{""label"": ""Be""}
+Text: ""it can also be used in a",Be
+if it w if it was hitting a certain angle it could switch off,Be,"{""label"": ""Bs""}
+
+Text: ""and that s what the whole thing",Bs
+you d need an additional partner mechanism ,S,"{""label"": ""Bs""}
+Text: ""this is an example of a very",Bs
+so you could switch you could have that,Bs,"{""label"": ""Bs""}
+
+Text: ""and the the other one is a",Bs
+you could have the contacts on top and bottom of that piston,S,"{""label"": ""S""}
+
+Text: ""we need to get the piston to",S
+and then they could stay,Bs,"{""label"": ""D""}
+
+Text: ""so that the pen works""
+Label",D
+do they really need to stay in contact well,Bs,"{""label"": ""Be""}
+
+Text: ""they have to be in contact for",Be
+if you don t press hard enough then,Be,"{""label"": ""Bs""}
+Text: ""it will just move slightly to the",Bs
+edge and if you go over it if you come too high an angle,Be,"{""label"": ""Be""}
+Text: ""because of the way the pen works",Be
+then you do this contact between here and here,S,"{""label"": ""Bs""}
+Text: ""and the reason why this is so",Bs
+or you could have the cylinder that moved in some slots,S,"{""label"": ""S""}
+Text: ""and then you could have the cylinder",S
+so that this can move that way,Bs,"{""label"": ""F""}
+
+Text: ""this is because the paper is quite",F
+but what you cant do is it can t the print head can t tilt back or forward because these slots are in,Bs,"{""label"": ""Bs""}
+
+Text: ""so the thermal head is designed to",Bs
+they re in a fixed position yeah,S,"{""label"": ""S""}
+
+Text: ""it s just a basic"" →",S
+this this stays at a fixed angle,S,"{""label"": ""Be""}  # Enter your answer here
+Text: """,Be
+it can move up and down,S,"{""label"": ""Be""}
+
+Text: ""it has a small plastic clip""",Be
+and side to side its fixed that way,S,"{""label"": ""S""}  # You can submit your answer as a comment",S
+the print head relative to the pen,S,"{""label"": ""Bs""}
+Text: ""it is made of plastic""
+Label",Bs
+I am sorry I am just thinking about I think there is probably a geometry that could do it with just one switch erm,S,"{""label"": ""Bs""}  # or the correct label, if different",Bs
+that when you come too far over erm the pen starts moving back in and so back in,Bs,"{""label"": ""Bs""} 
+
+Text: ""that s what it does""",Bs
+and therefore the switch comes off,Bs,"{""label"": ""Bs""}  # Your answer here
+Text: ""the",Bs
+before it looses contact,Bs,"{""label"": ""Bs""}
+
+Text: ""the media is also important""
+Label",Bs
+you know it depends on the shape of the case work for it,Bs,"{""label"": ""Bs""}
+
+Text: ""so that it fits on the shelf",Bs
+the outside bit,S,"{""label"": ""S""} 
+
+Text: ""the inside bit""
+Label (",S
+yeah the thing that we did a few years ago,S,"{""label"": ""D""}  # Don't change this line
+
+
+[FILE",D
+which had a kind of sort of forced balanced print head,Bs,"{""label"": ""Bs""}  # Correct answer
+Text: ""the kind",Bs
+we tend to do fairly wide print heads,S,"{""label"": ""Be""}
+Text: ""it has a fairly large barrel""",Be
+to try and keep them in contact with the medium,Bs,"{""label"": ""Bs""}
+
+Text: ""so we can have a good sense",Bs
+it appears a bit different less controlled,Bs,"{""label"": ""Be""}
+
+Text: ""the pen tip is a bit too",Be
+and on that we basically had a frame,S,"{""label"": ""S""}
+Text: ""so that the pen can be used",S
+which brought the print head down brought the print head down,Bs,"{""label"": ""D""}
+Text: ""the print head is a key component",D
+and then that is right and so,S,"{""label"": ""Bs""}
+Text: ""with the new ink""
+Label (",Bs
+like this and then,S,"{""label"": ""D""} 
+
+Text: ""and that's the end of",D
+it s like the old tape recorders is not it,S,"{""label"": ""Be""}
+
+Text: ""the reason for the design is the",Be
+it finds its own level,Bs,"{""label"": ""Be""}
+
+Text: ""it's got a bit of a",Be
+and the force is applied to this,Bs,"{""label"": ""Bs""}
+Text: ""and it is used to""
+Label",Bs
+that is right the print head just like this erm,S,"{""label"": ""D""}
+
+Text: ""that is a good point to note",D
+on a carrier as well,S,"{""label"": ""S""}
+
+Text: ""it's the interaction between the paper",S
+could it work this way as well,Be,"{""label"": ""D""}
+Text: ""could it work this way as well",D
+no,Bs,"{""label"": ""D""}
+
+Text: ""it works""
+Label (JSON only",D
+what you always want to combine is something that when you press you press media,Be,"{""label"": ""Bs""} 
+Text: ""because it causes the ink to",Bs
+so that you have made contact,S,"{""label"": ""F""}
+
+Text: ""it is a bit more consistent""",F
+circuit you over pressurise it,Bs,"{""label"": ""Bs""}
+Text: ""a bit of a problem""
+Label",Bs
+and it goes past it,Bs,"{""label"": ""Bs""}
+
+Text: ""and then the pen is able to",Bs
+so it does not work and then you have got you have got bottom out,Bs,"{""label"": ""D""}
+
+Text: ""we need to make sure that the",D
+sheath here,S,"{""label"": ""S""} 
+
+Text: ""because of the spring""
+Label",S
+brilliant idea,Bs,"{""label"": ""D""}
+
+Text: ""that's the main thing""
+Label",D
+and could you use these contacts,S,"{""label"": ""S""}
+
+Text: ""and the reason is that""
+Label",S
+and put them in 3D,S,"{""label"": ""D""}
+
+Text: ""that's the first prototype of the",D
+could be one could be one here,S,"{""label"": ""Be""}
+
+Text: ""and the other thing is the design",Be
+and there,S,"{""label"": ""S""}
+
+Text: ""it is a pen that uses thermal",S
+we only need two in the front and back,S,"{""label"": ""S""}
+
+Text: ""the paper is also very important for",S
+so that as well as being in the right vertical position ie actually touching paper,S,"{""label"": ""F""} 
+
+Text: ""due to the special properties of",F
+so that it dissipates heat not press too far,Bs,"{""label"": ""F""}
+
+Text: ""because of the thermal resistance""
+Label",F
+because then it pops out the sheath,S,"{""label"": ""Bs""}
+Text: ""the goal is to get a good",Bs
+and you re over pressurising it,Bs,"{""label"": ""Bs""}  # Do not forget to add the quote marks",Bs
+but also something to do with the fact that these contacts,S,"{""label"": ""Bs""}
+Text: ""are made of a certain material""",Bs
+if if as you say go over an angle then you notice that central thing comes away from one side,Bs,"{""label"": ""Bs""}
+Text: ""you see the way that works""",Bs
+you know the distances between the edge of these ,S,"{""label"": ""D""}
+
+Text: ""it s a very very thin line",D
+the distance between the edges of these things and the outer casing,S,"{""label"": ""S""} 
+Text: ""this is the thermal paper that",S
+when you re at a small angle,S,"{""label"": ""Bs""}
+Text: ""the ink flows smoothly""
+Label (",Bs
+they move a little bit,Bs,"{""label"": ""Be""}
+
+Text: ""this is the feed roller""
+Label",Be
+when you re at a big angle,S,"{""label"": ""Be""} 
+
+Text: ""the paper has to be in",Be
+one sides hard up against it,Bs,"{""label"": ""D""}  # Do not remove the quotes.
+
+Text:",D
+the other one produces a gap and so you can almost have that,S,"{""label"": ""Bs""}
+
+Text: ""and you can almost have that""",Bs
+could you have that front and back as well like a sort of cross,S,"{""label"": ""S""}
+Text: ""could you have that front and back",S
+and then you have to have all four things contacted like what you said earlier so,S,"{""label"": ""Bs""}  # Do not remove the line below
+{""",Bs
+if you draw draw four contacts that have some compliance,S,"{""label"": ""Bs""}
+Text: ""with a certain spring constant""
+Label",Bs
+because they re on a spring and then you have got your central four points,S,"{""label"": ""Bs""} 
+
+Text: ""that s the main purpose of",Bs
+here this is going to be up then if you go in that planeover an angle too much ,Bs,"{""label"": ""D""}
+Text: ""this is not the final version of",D
+my arg what I was trying to say before is erm,S,"{""label"": ""Be""}
+Text: ""that the paper is so smooth that",Be
+you could do it with one switch,S,"{""label"": ""Bs""}
+Text: ""it has a 10mm diameter",Bs
+if if the casework say the casework is comes out f further out errm ,S,"{""label"": ""Be""} 
+Text: ""if if the casework say",Be
+it may or may not work erm clears throat,Bs,"{""label"": ""D""}
+
+Text: ""but the real key is the thermal",D
+if you what it does is you have got one switch that if its but if its on and back i it works,Be,"{""label"": ""Bs""}
+Text: ""it was to use the switch to",Bs
+but then if you pivot pivot this can pivot a bit but it,S,"{""label"": ""Bs""} 
+
+Text: ""because the the the ink is",Bs
+but it pivots more on the k but the case if you pivot a little bit on the c,S,"{""label"": ""Be""}
+Text: ""the c is the the one that",Be
+the case comes in contact and it starts to come away,S,"{""label"": ""Bs""}
+
+Text: ""we will be using a new media",Bs
+it could be shaped so it can only be yeah so,S,"{""label"": ""Bs""}
+
+Text: ""so the the design is to make",Bs
+so that so that when it it does not actually erm,Be,"{""label"": ""F""}
+Text: ""so when it does not actually erm",F
+when it does not actually come away its guaranteed that its that its er that its still on the paper,Bs,"{""label"": ""Bs""}
+
+Text: ""the first one is for the thermal",Bs
+don t we have to very much casework,S,"{""label"": ""S""}
+
+Text: ""so the pen should be able to",S
+all I am saying is is is that the if the erm amount of movement is here,Be,"{""label"": ""D""}  # You can delete this line if you don",D
+draws,D,"{""label"": ""D""}
+Text: ""draws""
+Label (JSON only",D
+is erm bigger than the amount of movement that erm the case,Be,"{""label"": ""Bs""}
+
+Text: ""because it has to fit on a",Bs
+will allow then sort of I am not really sure that you need you need the case at all,S,"{""label"": ""Be""}
+Text: ""the thermal paper is really good with",Be
+its just its just sort of I am just worried about this switch is going to have a tolerance factor,Be,"{""label"": ""Bs""}
+Text: ""the temperature of the pen is not",Bs
+so its going to be er guaranteeing that you switch off when before you come away,Bs,"{""label"": ""Be""}
+Text: ""the first thing that we need to",Be
+yeah you might get a switch on the side mightn t you,S,"{""label"": ""Bs""}
+Text: ""and then the user can adjust it",Bs
+because what you want to have happen is,Bs,"{""label"": ""F""}
+Text: ""so that you can draw the same",F
+you need to be able to accommodate more in the mechanism than for contact purposes,Be,"{""label"": ""F""} 
+
+Text: ""if you look at the mechanism",F
+because what you don t want to have happen is that they come off the print head to come off before,Be,"{""label"": ""Bs""}
+
+Text: ""and so you want the thermal head",Bs
+yeah but there must be there must be a mechanism that,S,"{""label"": ""Bs""}
+Text: ""so that we can get a good",Bs
+allows that has one switch that says everything that I need all in is in contact,Bs,"{""label"": ""Bs""} 
+
+Text: ""the one that has the pen",Bs
+but what is qui if you wanted to have a certain angle if you if you,S,"{""label"": ""Be""}
+Text: ""or if you wanted to have a",Be
+had the mechanism like that,S,"{""label"": ""D""}
+Text: ""the tip of the pen is very",D
+so the actual pen width is so this way right,S,"{""label"": ""Bs""} 
+
+Text: ""and then we need to get",Bs
+so you write like that but this bit you actually turn that way yeah,Bs,"{""label"": ""Bs""}
+Text: ""so I think this is a great",Bs
+so that means if you write left han right handed,Be,"{""label"": ""F""}
+
+Text: ""we have to be careful with the",F
+or if you drag right handed along the paper that way,Be,"{""label"": ""Be""}
+
+Text: ""you will get a different effect""",Be
+to be at the right angle and switched on,S,"{""label"": ""Bs""}
+Text: ""and also that it has a tip",Bs
+you will only need to touch that side,Be,"{""label"": ""Bs""}
+
+Text: ""we have to be careful with the",Bs
+and it will always be if it s in the right angle,S,"{""label"": ""Be""}
+Text: ""the other one is the thermal paper",Be
+it will switch on,Be,"{""label"": ""D""}
+Text: ""it has a new style of pen",D
+because it will touch that side,S,"{""label"": ""Bs""}
+
+Text: ""the only thing that s going to",Bs
+if it s on left handed mode ie your,Be,"{""label"": ""D""}
+Text: ""the pen works in left handed mode",D
+it would be the opposite side,S,"{""label"": ""Be""}
+
+Text: ""this is a bit of a tricky",Be
+then you have to switch on that side that switches on for the left handed,Be,"{""label"": ""Bs""}
+Text: ""and you can see that the pen",Bs
+that is an idea probably for a feature left or right handed mode,F,"{""label"": ""Be""} 
+
+Text: ""and we also want to have",Be
+is that handed,S,"{""label"": ""D""}
+Text: ""so that it doesn't get damaged",D
+well you ll hold it in the opposite way won t you,Be,"{""label"": ""Bs""}
+Text: ""what about the second one""
+Label",Bs
+it depends on how you shape th the product as well,S,"{""label"": ""Bs""}
+Text: ""the product will be made of a",Bs
+but I think you certainly have to bear it in mind that there is you know,Be,"{""label"": ""Be""}
+Text: ""that the pen is not the only",Be
+I think I think imagine imagine this was a plot a point some line here,S,"{""label"": ""D""}
+
+Text: ""I think this is a great idea",D
+if you had to apply some force you could drag by pushing down,Be,"{""label"": ""Bs""}  # Correct label: Bs
+Text: """,Bs
+and you could also push by pushing down drag left handed or push right handed,Be,"{""label"": ""Bs""}
+Text: ""and you could also push by pushing",Bs
+followed by a force,Be,"{""label"": ""D""}
+
+Text: ""but its also about the media""",D
+remember there does not have to be something happening did you say,Be,"{""label"": ""D""}
+Text: ""so the thing that is most important",D
+yeah erm the force is not necessarily erm,Be,"{""label"": ""Be""}
+Text: ""so that we can then make a",Be
+but it s,S,"{""label"": ""D""}  # Don't forget to write JSON
+Text",D
+in that axis is it,S,"{""label"": ""D""} 
+
+Text: ""the thermal head is not the",D
+but it s about it s about the angle being right,S,"{""label"": ""Bs""}
+Text: ""so it s the interaction between the",Bs
+switching the if you if you make sure that the angle if the angles in the right way then it switches on,Be,"{""label"": ""Bs""}
+Text: ""it needs to switch on""
+Label",Bs
+so it will switch on when its like that I suppose it will still switch on,Be,"{""label"": ""Be""}
+Text: ""I suppose that is the reason that",Be
+when its like that wont it,Bs,"{""label"": ""D""}
+
+Text: ""the pen will do this""
+Label",D
+so if that is if you come to a tilt here right then the head can come out ,Be,"{""label"": ""Bs""}
+Text: ""so the first thing is the ink",Bs
+you design it so the head,S,"{""label"": ""Bs""}
+Text: ""is made of a thin metal wire",Bs
+and its still in contact with the paper,Be,"{""label"": ""Bs""}
+
+Text: ""the user just has to draw with",Bs
+and everything s hunky dory but it has come forward a distance,S,"{""label"": ""Be""} 
+Text: ""the goal is to make it",Be
+and and that can be that can be where it switches off,Be,"{""label"": ""Be""}
+Text: ""the other ideas on the paper there",Be
+and then you can carry on if you carry on with this,Be,"{""label"": ""D""}  # Done
+Text: ""it s actually",D
+and this and this is where you know this is where it can t errm accommodate that wrong angle,S,"{""label"": ""Bs""} 
+
+Text: ""so this is what we need",Bs
+then then its switched off anyway,Bs,"{""label"": ""D""}  # Don't forget to include the label in",D
+just a straight just a straight switch here,S,"{""label"": ""S""} 
+
+Text: ""the way the pen moves""",S
+based based on this based on this distance there is a switch here,S,"{""label"": ""Bs""}
+
+Text: ""I think the most important thing is",Bs
+there is a few of those is not there,S,"{""label"": ""D""}
+
+Text: ""the problem is that the ink is",D
+there is a switch there,S,"{""label"": ""S""} 
+
+Text: ""the new pen writes so smoothly",S
+and then its got a certain travel you know,Be,"{""label"": ""Bs""}
+Text: ""and then we are going to do",Bs
+a certain tolerance it works,Be,"{""label"": ""Be""}
+
+Text: ""to draw a pattern""
+Label (",Be
+it s it s either on or off between here or here,Be,"{""label"": ""Bs""}
+
+Text: ""it s not really relevant to the",Bs
+there is another you could in various ways imagine a sort of disc idea,S,"{""label"": ""Be""}
+
+Text: ""the main function of the pen is",Be
+which could be anything actually anything fastened to this and rotating,S,"{""label"": ""Bs""}
+
+Text: ""and that s the whole point of",Bs
+you just put a window in there somewhere,S,"{""label"": ""S""}
+Text: ""it s like a small window in",S
+and poke a through it in that direction,S,"{""label"": ""S""}
+Text: ""so that it doesn't stick""",S
+so one edge defines too far right one edge too far left,S,"{""label"": ""Bs""}
+Text: ""the paper has to be drawn on",Bs
+chop off,S,"{""label"": ""D""}  # Your answer here
+```python
+import",D
+so there is two ideas,S,"{""label"": ""D""}
+Text: ""so there is two ideas""
+Label",D
+that is that is quite good there is either a mechanical,S,"{""label"": ""Bs""}
+
+Text: ""the one on the top left is",Bs
+there is there is so there is this is erm so you can switch on erm on the vertical ,S,"{""label"": ""Bs""}
+
+Text: ""the thermal paper is a bit too",Bs
+or switch,Bs,"{""label"": ""Be""}
+
+Text: ""it's a really good pen""",Be
+so there is a minimum travel,Bs,"{""label"": ""S""}
+
+Text: ""and the thermal pen is not good",S
+on on angular,S,"{""label"": ""Be""}
+Text: ""the first one is""
+Label (",Be
+switch on and off yeah,Bs,"{""label"": ""Be""}
+Text: ""it has a special pen that is",Be
+could you have the switch between the outer sleeves and this centre bit,S,"{""label"": ""Bs""}
+Text: ""it needs to be the same as",Bs
+so if its gone beyond this outer sleeve then it switches off where as if its ,Be,"{""label"": ""Bs""}
+
+Text: ""is that right""
+Label (JSON",Bs
+where as its if its too far in its switched off as well,Be,"{""label"": ""Bs""}
+Text: ""there s a lot of technical details",Bs
+so the edges here when they re when they re roughly at the same angle,S,"{""label"": ""Bs""}
+Text: ""and the edges here are at a",Bs
+so when these two are in contact so they re either level or slightly behind it,S,"{""label"": ""Bs""}
+Text: ""we re going to use the one",Bs
+then they can be on,Bs,"{""label"": ""S""}
+
+Text: ""and then the ink flows out of",S
+but if its too far out it wont be on,Bs,"{""label"": ""Bs""}
+Text: ""and it has a small clip on",Bs
+because its erm not touching,S,"{""label"": ""Bs""}
+
+Text: ""so its the interaction between the special",Bs
+these erm outer sleeves and if its too far in,S,"{""label"": ""Bs""}
+Text: ""because of the heat""
+Label (",Bs
+it also wont be working,Bs,"{""label"": ""D""}
+
+Text: ""we need to have a way to",D
+because they don t touch this outer angle here,S,"{""label"": ""Bs""}
+
+Text: ""it s not like the line is",Bs
+yeah I think there is going to be loads of ways to low cost switch,Bs,"{""label"": ""D""}
+Text: ""we could use the existing components to",D
+depend upon final weight of the final mechanism,S,"{""label"": ""Bs""}
+Text: ""the mechanism is going to be made",Bs
+yeah the point is that you can get away with an on switch,S,"{""label"": ""Be""}
+Text: ""so you can just get away with",Be
+but can we also are there any other ways of floating this head that you can think of perhaps,S,"{""label"": ""Be""}
+Text: ""okay so we can make it even",Be
+you could stick rather than springs and things,S,"{""label"": ""Bs""}
+Text: ""it is very good for drawing lines",Bs
+you could just stick it on a on a rubbery pack or a film,S,"{""label"": ""S""}
+
+Text: ""so I think it s a bit",S
+sketching spring,D,"{""label"": ""F""}
+
+Text: ""this is a drawing of a spring",F
+I er,D,"{""label"": ""D""}
+Text: ""what is the one that is the",D
+they start doing this sheath that hits first,S,"{""label"": ""Bs""}
+
+Text: ""and also the material of the thermal",Bs
+so th if you fix that sheath onto a plunger that is sprung in a syringe,S,"{""label"": ""Bs""}
+Text: ""so the one that is the most",Bs
+when you push that in you have to push the air like that through a very small hole,Bs,"{""label"": ""Bs""}  # This is the correct answer
+Text:",Bs
+so you can t do it quickly,Bs,"{""label"": ""Be""}  # End of example
+
+Text: ""it",Be
+so you can t shock that thing,Bs,"{""label"": ""Bs""}
+Text: ""this is a special type of paper",Bs
+that ll slo slow down and then it will slowly move back,Bs,"{""label"": ""Be""}
+
+Text: ""and you can see how that s",Be
+yeah but then when you erm take it off the paper it quickly pings back,Bs,"{""label"": ""Bs""}
+Text: ""so the whole idea is that you",Bs
+because this is a one way valve,Bs,"{""label"": ""Bs""}
+
+Text: ""it is the reason why the pen",Bs
+just a bit of rubber a flap of rubber,S,"{""label"": ""S""}
+Text: ""because the rubber is very good at",S
+they will be air in there,S,"{""label"": ""Bs""}
+Text: ""so the idea is that the pen",Bs
+so that spring quickly returns it back down to it s protective position,Bs,"{""label"": ""F""}
+
+Text: ""because of the heat the ink flows",F
+so bang it down its protected force will come on slowly,Bs,"{""label"": ""Be""}
+Text: ""so it is a sort of a",Be
+but as soon as you take it off it pings back,Bs,"{""label"": ""Bs""}  # (no label set provided, please fill",Bs
+so its just good point actually clears throat,Bs,"{""label"": ""Be""}
+
+Text: ""we re going to be working with",Be
+I was just thinking that relatively the carrier that the print head is on is quite heavy,Bs,"{""label"": ""Bs""}
+
+Text: ""It has a good design and works",Bs
+so if we moves it round masks speech contact with the surface,S,"{""label"": ""Bs""}
+Text: ""the new pen has a special design",Bs
+its going to have quite a bit of momentum still so erm,Bs,"{""label"": ""Be""}
+
+Text: ""we have a thermal pen and it",Be
+quite hard or something that its pressed onto,Be,"{""label"": ""Bs""}
+
+Text: ""so that the ink doesn't dry",Bs
+yeah it needs to it needs to be protected,Be,"{""label"": ""F""} 
+
+Text: ""so we have the thermal pen",F
+so it can t travel further forward it can only go backwards,Bs,"{""label"": ""Bs""} 
+Text: ""so it s the interaction between",Bs
+yeah we don t want it to come off anything,Be,"{""label"": ""S""}  # Structure
+
+Text: ""and it s",S
+or it could hinge forward under its own momentum,S,"{""label"": ""Be""}
+
+Text: ""the spring gives it a certain amount",Be
+and then sort of smash onto something,S,"{""label"": ""D""}
+
+Text: ""and then the thing you're holding",D
+the only other thing here it s a spring,S,"{""label"": ""S""}
+Text: ""and it s supposed to go in",S
+imagine that is imagine that touches the paper bangs it ,S,"{""label"": ""Bs""}
+
+Text: ""it s got a a a a",Bs
+protected the bottom bangs twice,Be,"{""label"": ""Bs""}
+
+Text: ""we are looking at the ink flow",Bs
+there is two forces there is not there bangs it,Be,"{""label"": ""Bs""}
+
+Text: ""the paper is not the best thing",Bs
+there is sort of the momentum of the thing itself,Bs,"{""label"": ""D""}
+Text: ""the reason I was looking at the",D
+yeah its not going to be anything like this heavy is it,Be,"{""label"": ""Bs""}
+Text: ""the real thing is that we need",Bs
+no well as I say you need to shock that down ,S,"{""label"": ""Bs""}
+Text: ""this is a thermal pen for drawing",Bs
+you re smash you re gonna smash the edge of this protective sheath before this does anything in here,Be,"{""label"": ""Bs""}
+Text: ""it s a very simple and straightforward",Bs
+yeah also they re not that made out of ceramic and glass,S,"{""label"": ""S""} 
+
+Text: ""and then you get the same",S
+mmm I think that is I think that the other other protective thing,F,"{""label"": ""Bs""}
+
+Text: ""this is what we re looking for",Bs
+is whether they smash it off the table before momentum,Be,"{""label"": ""Bs""}
+
+Text: ""the way it works is that the",Bs
+It s not it s not really kids sort of erm err throwing,Be,"{""label"": ""Be""} 
+
+Text: ""I think it s about how",Be
+it down its also people dropping it,Be,"{""label"": ""Be""}
+Text: ""the one on the left is the",Be
+yeah if they bang it into concrete really hard,Be,"{""label"": ""Bs""}
+
+Text: ""it's just a simple mechanical device",Bs
+yeah but as I was saying if it was spring loaded,S,"{""label"": ""Bs""}  # answer
+
+Text: ""and you have",Bs
+then you can smash the edge of this,Bs,"{""label"": ""Bs""} 
+
+Text: ""and then you can just put",Bs
+cos this is as soon as the force gets to here this is inside it so,Bs,"{""label"": ""Bs""}
+
+Text: ""and then the ink is actually getting",Bs
+or whatever that we could perhaps achieve holding this thing flat to the surface,Be,"{""label"": ""Be""}
+
+Text: ""so that we can draw a line",Be
+the foam pads is an idea actually you could imagine,S,"{""label"": ""D""}
+
+Text: ""it's the interaction between the special",D
+a foam pad with an aluminium carrier on the front of it,S,"{""label"": ""S""} 
+
+Text: ""so that it can be used",S
+and the print head fastened to that,S,"{""label"": ""S""}
+Text: ""because it has a high resolution""",S
+and it can just squidge around,Bs,"{""label"": ""Be""}
+Text: ""it's also the way the pen",Be
+so yeah that would work,Bs,"{""label"": ""Be""} 
+
+Text: ""it s a bit tricky to",Be
+it would also give you some a really cheap way,Bs,"{""label"": ""F""}
+Text: ""to make a product""
+Label (",F
+of achieving a reasonable force,Be,"{""label"": ""F""}
+
+Text: ""to a certain degree""
+Label (",F
+a great density foam,S,"{""label"": ""S""}
+
+Text: ""so it's a good idea to",S
+that could give you the force of the print head,Bs,"{""label"": ""Bs""}
+Text: ""the reason we did that is because",Bs
+it could just recoil far enough it s a good idea actually,Bs,"{""label"": ""Bs""}  # You can ignore this line and just fill",Bs
+that could work,Bs,"{""label"": ""D""}
+Text: ""the paper is just a regular paper",D
+a big sponge,S,"{""label"": ""S""} 
+
+Text: ""so the big sponge is good",S
+draws,D,"{""label"": ""Be""}
+Text: ""with a ball pen""
+Label (",Be
+aluminium print head on the bottom all connected,D,"{""label"": ""S""}  # aluminium print head on the bottom all connected",S
+I reck I reckon you move it around,S,"{""label"": ""D""}
+
+Text: ""so I m going to take the",D
+yeah well you put this,S,"{""label"": ""S""}
+Text: ""so it will make it much easier",S
+and it will just erm you have got spring and you have got some lovely,S,"{""label"": ""Be""}
+Text: ""so it is a bit like a",Be
+could you even take that one further,S,"{""label"": ""D""}
+
+Text: ""I think we need to look at",D
+like you could build the foam around the print head,S,"{""label"": ""S""}
+Text: ""to make it waterproof""
+Label (",S
+so you d have to press the foam back to actually reveal the print head in the first place,Be,"{""label"": ""Bs""}
+Text: ""it s a good idea to press",Bs
+so it almost wraps round a little bit,S,"{""label"": ""S""} 
+Text: ""and it is a bit of",S
+so if you go like that bang the foam needs to,Be,"{""label"": ""F""}
+
+Text: ""and then you can take the plastic",F
+perhaps not wrapped around to the extend in front of the housing,S,"{""label"": ""Bs""}
+Text: ""so that the lines are more steady",Bs
+so that you know you need to press the foam,Bs,"{""label"": ""F""}
+
+Text: ""because of the way the pen is",F
+bit in before you actually start touching it,Bs,"{""label"": ""Bs""}
+Text: ""so it's not actually touching the",Bs
+yeah you need the foam,S,"{""label"": ""Bs""}
+Text: ""the ink flows really well""
+Label",Bs
+to do some damping,Bs,"{""label"": ""Bs""}  # Correct answer: Be
+
+Text: """,Bs
+so that is got to go somewhere,S,"{""label"": ""F""}
+Text: ""so that is got to go somewhere",F
+yeah you need the foam to have tha that sort of this sort of,S,"{""label"": ""Bs""} 
+
+Text: ""and that s not the only",Bs
+where where it does not want to move fast,Be,"{""label"": ""Be""}
+
+Text: ""this is the best one to use",Be
+well has to be down,S,"{""label"": ""D""}
+
+Text: ""so this is a thermal pen""",D
+we could we could have some sort of air bladder,S,"{""label"": ""Bs""}
+Text: ""so that the pen is able to",Bs
+I think it probably could be rubber,S,"{""label"": ""S""}
+
+Text: ""the pen has a special coating to",S
+obviously,S,"{""label"": ""Be""}
+
+Text: ""I think the one with the",Be
+yeah the stuff they make wrist supports for erm,S,"{""label"": ""S""} 
+
+Text: ""we need to figure out how",S
+like the jelly stuff,S,"{""label"": ""D""}
+
+Text: ""you know what I mean""
+Label",D
+yeah the gel,S,"{""label"": ""S""}
+
+Text: ""the paper is involved in all of",S
+yeah well gel does that,Bs,"{""label"": ""D""}
+
+Text: ""but its also about the media""",D
+yeah techno gel,S,"{""label"": ""S""}
+Text: ""and the the pen is very good",S
+the only p gel,S,"{""label"": ""D""} 
+
+Text: ""the pen is going to be",D
+we ve talked a little about air cushions,S,"{""label"": ""S""} 
+
+Text: ""it s not the thermal media",S
+and the sort of syringe type mechanism,S,"{""label"": ""S""}  # Label: S
+Text: ""because",S
+any other ways that we could use sort of air pockets of some sort to,S,"{""label"": ""Bs""}
+Text: ""so the ink flows through the pen",Bs
+you could make a magnetic force it in the middle,S,"{""label"": ""Bs""}
+
+Text: ""and the only other thing I can",Bs
+pellets,S,"{""label"": ""D""}
+Text: ""I am trying to understand what is",D
+so it stays sort of stays,Bs,"{""label"": ""D""}
+Text: ""the one that the one on the",D
+pushed into it yeah you could do something like that,Bs,"{""label"": ""Bs""}
+
+Text: ""but also because of the ink""",Bs
+magnets not cheap,Bs,"{""label"": ""S""}
+
+Text: ""it needs to be able to hold",S
+air pockets are much cheaper,Bs,"{""label"": ""D""}
+Text: ""it was designed for that""
+Label",D
+well that does not have to be that could be a balloon inside,S,"{""label"": ""Bs""} 
+Text: ""it will just make it easier",Bs
+yeah you could put a it on a pneumatic bladder in,S,"{""label"": ""Bs""} 
+
+Text: ""so it s really a lot",Bs
+yeah or like a sort of bridge,S,"{""label"": ""Be""}
+Text: ""so we can use it to draw",Be
+or you could do what they do in an old fashioned mouse not optical mouse,S,"{""label"": ""Bs""}
+
+Text: ""it has to be able to handle",Bs
+with the b ball,S,"{""label"": ""Bs""}
+Text: ""the pen is really good""
+Label",Bs
+just use gravity because it s own weight makes it roll on the mouse mat,Bs,"{""label"": ""Bs""}
+Text: ""the pen s tip is very very",Bs
+that would work,Be,"{""label"": ""Be""}
+Text: ""it is a very special type of",Be
+five hundred grams is that wh is that the,S,"{""label"": ""D""}
+
+Text: ""the pen is a pen and it",D
+oh you need five hundred grams OK that is fi,S,"{""label"": ""F""}
+Text: ""and the pen will draw a line",F
+you need five hundred grams,S,"{""label"": ""S""} 
+
+Text: ""so that we can use it",S
+how far s five hundred grams,Bs,"{""label"": ""S""} 
+Text: ""so the ink flows down to",S
+er er yeah if you take it to twenty mill,S,"{""label"": ""S""}
+Text: ""you can draw with it""
+Label",S
+sort of half the compression that will be,Bs,"{""label"": ""D""}
+Text: ""you can get a bit of a",D
+I did not realise what this was this is a prototype,S,"{""label"": ""D""}
+Text: ""I do not know what this is",D
+it s a prototype model,S,"{""label"": ""D""}
+
+Text: ""the main goal of this is to",D
+it s not really a prototype,S,"{""label"": ""D""}
+
+Text: ""it s the first time that we",D
+well its test,Bs,"{""label"": ""S""}
+
+Text: ""this pen is really good""
+Label",S
+to explore,Bs,"{""label"": ""F""}
+Text: ""the goal is to explore""
+Label",F
+why do you need that force,Be,"{""label"": ""F""}
+
+Text: ""it can be quite slow""
+Label",F
+err expensive,Bs,"{""label"": ""D""}
+Text: ""the one on the left is the",D
+for contact is it,Bs,"{""label"": ""D""} 
+
+Text: ""for the first time we are",D
+well if you well if you well if you have got heat here,S,"{""label"": ""D""}
+
+Text: ""it is a very important aspect of",D
+and here its zero contact is not it,S,"{""label"": ""Bs""}
+
+Text: ""and here it's zero contact is",Bs
+yeah so you need quite a strong contact basically,Bs,"{""label"": ""Bs""}
+
+Text: ""I m not sure about the idea",Bs
+well if you have got a so if you go to ten mils instead of five,S,"{""label"": ""Be""}
+Text: ""you will get a slightly better line",Be
+well then you re going to have a,S,"{""label"": ""Be""}
+
+Text: ""so we need to think about the",Be
+a switch on,S,"{""label"": ""Bs""}
+
+Text: ""the switch causes the ink to flow",Bs
+that is what one of the questions was the other switch goes past there we want to wa,S,"{""label"": ""Bs""}
+
+Text: ""the way the tip is made is",Bs
+one you re inside the protective thing,S,"{""label"": ""S""}
+Text: ""the protective thing is made of a",S
+two it s not got power,S,"{""label"": ""D""}
+Text: ""the the paper s got a certain",D
+this is really difficult is not it,Bs,"{""label"": ""D""}
+
+Text: ""so the other thing is the paper",D
+yeah it will be like that,Bs,"{""label"": ""D""}
+Text: ""and we can also draw with a",D
+but its very similar,Bs,"{""label"": ""D""} 
+Text: ""the ink is just in the",D
+it s just for the skilled personnel to use in their lab,Bs,"{""label"": ""F""}
+
+Text: ""the feed roller is made of plastic",F
+the print quality in a way,Bs,"{""label"": ""D""}
+
+Text: ""we can also use the special paper",D
+what is the range of angles,Be,"{""label"": ""D""}
+Text: ""the paper is the main contributor""",D
+it s just to measure what you what the parameters are,S,"{""label"": ""F""}
+
+Text: ""so we can see that the the",F
+if you like it s just its just to give us some guidance,S,"{""label"": ""F""}
+Text: ""we re going to use this thermal",F
+so what we re talking about is is err where rather than having that as the range of movement,Bs,"{""label"": ""Be""}
+Text: ""we re going to have it so",Be
+we re talking about having a thing like a spring which,S,"{""label"": ""Bs""}
+Text: ""it is a good thing that we",Bs
+like a millimetre or so,S,"{""label"": ""S""}
+Text: ""it doesn't need to be too",S
+yeah yeah but then you have got to stop stop further down,S,"{""label"": ""Bs""}  # Correct label: Bs
+Text: """,Bs
+yes from what we were talking about its actually the moving bit,S,"{""label"": ""Bs""}
+
+Text: ""so the other thing is that the",Bs
+it s actually much easier because this bit you have got the moving bit,Bs,"{""label"": ""Bs""}
+
+Text: ""this bit is the bit that s",Bs
+that affects position,S,"{""label"": ""Bs""}
+
+Text: ""and we have the option to use",Bs
+what we re really talking about is that the print head will be struck,Be,"{""label"": ""Be""}
+Text: ""the key feature of this thermal printer",Be
+that is easier to use,Bs,"{""label"": ""Be""}
+
+Text: ""this one uses a special type of",Be
+yeah to make this to make this the same,Be,"{""label"": ""Be""}  # Expected Behaviour (performance independent of specific parts",Be
+you d have to you d have to extend a cylinder over this thing,S,"{""label"": ""Bs""}
+
+Text: ""it s the interaction between the special",Bs
+and then the and then the cylinder would come to a stop,S,"{""label"": ""Bs""}
+Text: ""it needs to be able to withstand",Bs
+yeah and so its going to be a much more compact version of that,S,"{""label"": ""Be""}  # correct
+Text: ""and so the",Be
+where it will only move maybe a couple of millimetres erm,Bs,"{""label"": ""Bs""}
+
+Text: ""this is the kind of thing that",Bs
+and then it would be an outer casement,S,"{""label"": ""S""} 
+Text: ""but then there is the question",S
+so you could continue to drag the along,Bs,"{""label"": ""Bs""}
+Text: ""it is a good idea to use",Bs
+still get a sense of the force,Be,"{""label"": ""F""}
+
+Text: ""due to the shape of the pen",F
+actually five hundred grams,S,"{""label"": ""S""} 
+
+Text: ""because it's a lot of",S
+that means this sort of thing is not going to work,Bs,"{""label"": ""Be""}
+
+Text: ""and the other thing is that it",Be
+oh no it means this has got to be more than five hundred grams to push that back,Bs,"{""label"": ""Bs""}
+Text: ""the one that I m showing you",Bs
+if you had a sheath,S,"{""label"": ""S""} 
+
+Text: ""because the spring in the pen",S
+you have to press that has to be more than fi ou,Bs,"{""label"": ""D""} 
+
+Text: ""the pen is going to be",D
+have to make it come back,Be,"{""label"": ""D""}
+Text: ""so it will be a nice piece",D
+and provide an extra five hundred grams,S,"{""label"": ""F""}
+
+Text: ""the paper will be printed""
+Label",F
+it depends what the sheath is doing,Be,"{""label"": ""Bs""}
+
+Text: ""the pressure is due to the spring",Bs
+if the sheath has if the sheath has a sprung sheath,S,"{""label"": ""Bs""}
+
+Text: ""the sheath has a sprung she",Bs
+then you have got to overpower that and,Be,"{""label"": ""Bs""}
+
+Text: ""the design of the thermal pen is",Bs
+another five hundred grams,S,"{""label"": ""S""}
+
+Text: ""this is a very important part of",S
+erm but most the value in the sheath,Bs,"{""label"": ""S""}
+
+Text: ""erm and then you can also see",S
+might be to protect against kind of catching sideways edges and things,Bs,"{""label"": ""Bs""}
+Text: ""the way it is designed is to",Bs
+it does not work this sheath does it,Bs,"{""label"": ""Bs""}
+
+Text: ""this sheath causes the pen to",Bs
+well it does work but it just means you got to press harder does not it,Be,"{""label"": ""Bs""}
+
+Text: ""the user does not need to worry",Bs
+well only if its yeah but does it,Be,"{""label"": ""Be""}
+Text: ""we re going to use a pen",Be
+the sheath,S,"{""label"": ""S""}
+Text: ""the new pen has a sheath",S
+provides the spacing,S,"{""label"": ""D""}
+Text: ""the ink flows""
+Label (JSON",D
+yeah it does not have to be heavy,Bs,"{""label"": ""Be""}
+
+Text: ""with the new ink cartridge""
+Label",Be
+five hundred grams is not very much,Bs,"{""label"": ""D""}  # answer is D
+Text: ""this",D
+is there five hundred grams,S,"{""label"": ""S""}
+
+Text: ""so that it is not too heavy",S
+well is there anything else,S,"{""label"": ""D""}
+Text: ""I m not sure what I m",D
+quite a lot erm it is a lot is a lot for a pen,Bs,"{""label"": ""Be""}
+Text: ""that is the one that is the",Be
+that is true,Bs,"{""label"": ""D""}  # (no label, delete this line and",D
+and then you have got all the batteries,S,"{""label"": ""S""}
+
+Text: ""so the first thing is to get",S
+you could just make the make the whole thing a kilogram in weight,S,"{""label"": ""Bs""}
+Text: ""because of the extra weight the lines",Bs
+five hundred grams for the whole thing laugh,S,"{""label"": ""S""}
+
+Text: ""so the thing that really matters here",S
+the shape of it,S,"{""label"": ""S""} 
+
+Text: ""and then you will have to",S
+cos can you press with a pen five hundred grams easily,Bs,"{""label"": ""Bs""}
+
+Text: ""because the pen is made of a",Bs
+you can press twenty mils now,Bs,"{""label"": ""Bs""}
+
+Text: ""so the pen is a bit thicker",Bs
+yeah that is twenty mils up,S,"{""label"": ""S""}
+Text: ""but we are not using the normal",S
+yeah but if its out of the ring out of the ring like Tony was saying,S,"{""label"": ""Be""} 
+
+Text: ""I mean that s the basic",Be
+its apparently easier,Bs,"{""label"": ""Be""}
+
+Text: ""this is the media that is used",Be
+and the its not tha yeah its just like you said its just holding it is not it,Be,"{""label"": ""Bs""}
+Text: ""the the design of the pen is",Bs
+it will pay for itself that kind of thing,Bs,"{""label"": ""F""}
+
+Text: ""so it is not just about the",F
+in this direction,S,"{""label"": ""Be""}
+Text: ""that's why we need to use",Be
+it depends a lot on the friction between the print head and the paper,Bs,"{""label"": ""Bs""}
+
+Text: ""the paper is not very good for",Bs
+it depends on the weigh the weight of the thing,Bs,"{""label"": ""Bs""}
+Text: ""it was a bad idea to make",Bs
+cos that makes it really hard,Bs,"{""label"": ""Bs""}
+
+Text: ""the tip of the pen is made",Bs
+if its straight down then and deals with the print head,S,"{""label"": ""Bs""}
+Text: ""or if you want to be able",Bs
+if we push down like this,Be,"{""label"": ""Bs""}
+
+Text: ""to draw a line""
+Label (",Bs
+to force to keep the paper still,S,"{""label"": ""Bs""}
+
+Text: ""the design of the pen tip""",Bs
+you have got to you have got to keep the paper still,S,"{""label"": ""Bs""}
+
+Text: ""so that you can draw lines that",Bs
+the friction between this and this that holds that,Bs,"{""label"": ""Bs""}
+Text: ""the pen is held in place with",Bs
+yeah that is true yeah the friction will be about a third,Bs,"{""label"": ""Bs""}
+Text: ""the problem is that it is not",Bs
+or something at least one hundred grams one hundred grams of paper across the table,Bs,"{""label"": ""S""}
+
+Text: ""to use the thermal pen with the",S
+so if this is maybe a kind of a book,S,"{""label"": ""F""}
+
+Text: ""and then you have this pen that",F

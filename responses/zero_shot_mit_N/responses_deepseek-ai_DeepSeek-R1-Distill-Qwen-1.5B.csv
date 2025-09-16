@@ -1,0 +1,3845 @@
+UTTERANCE,TRUE_LABEL,RESPONSE,PRED_LABEL
+what s quite important is its about the thermal incli inclis pen,F,"{""label"": ""N""}
+
+Okay, so I have this segment: ""what",N
+but its also about the media,S,"{ ""label"": ""..."" }
+Okay, I'm trying to figure out the",N
+so its the interaction between the special paper and the thermal pen basically ok,Be,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""N""}",N
+but I know quite a lot of the briefing openly focuses about the print and things like that and obviously that is a key aspect of the brainstorm,F,"{""label"": ""...""}
+</think>
+
+{""label"": ""S""}",S
+but we should also not forget that the paper is involved in all of this as well,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+the one on the top left is the one that is the real main,Be,"{ ""label"": ""F"" }
+
+Alright, so I've got this problem",F
+focus of the of what we re doing today,Be,"{""label"": ...}
+
+Okay, I need to figure out the label for the",N
+that is the standard plain thermal paper err and then it can draw,F,"{""label"": ""N""} 
+</think>
+
+{""label"": ""N""}",N
+its either atoms or line types er,Be,"{""label"": ""...""}
+Okay, so I've got this segment: ""its",N
+so for the process of making this prototype that is going to help us sell the project that is the concept really err design a a prototype umm,F,"{""label"": ""N""} To determine the correct label for the given segment,",N
+the other ideas on the paper there were other concepts for a thermal pen which erm may form the ultimate product,Be,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+but are not what we re going to prototype first,Be,"{ ""label"": ""...""}
+Okay, let's try to figure out the label",N
+erm so we may want to talk about those later,Be,"{""label"": ""N""} To determine the label for the given segment ""erm",N
+as a sort of broader,Be,"{""label"": ""___""}
+Alright, let's tackle this problem step by step",N
+spectrum,Be,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+spectrum but the main focus is that style pen,F,"{ ""label"": ""..."" }
+To determine the appropriate label for the segment """,N
+where you will create a set of patterns by moving on plain white paper,Be,"{""label"": ""...""}
+Alright, I need to figure out the correct label for",N
+will this be in colour,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+yeah well we should the impetus for this is that erm clients come up with this new rainbow media,S,"{ ""label"": ""_______"" }
+</think>
+
+The segment ""yeah well",N
+and we can print thermo reactive dyes onto er,F,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""D",D
+media substrates and then when you heat them up they cool to reach the colour they re supposed to be,Be,"__ ""__
+
+Okay, I need to figure out the correct label for the given",N
+so erm we have done some test prints on this erm been tested by the HP boss,Bs,"{ ""label"": ""S"" }
+
+Explanation: The segment discusses test prints and",S
+and playing with erm hot air miraculously a colour image appears erm out of a blank sheet of paper,Bs,"{""label"": ...}
+First, I need to analyze the given segment and determine",N
+so providing we could provide a heat source,S,"{ ""label"": ""S"" }
+
+Wait, but the segment is ""so",S
+then we could reveal anything which is printed on the paper,Bs,"{ ""label"": ""..."" }
+
+To determine the label for the segment ""then",N
+now erm technically that is more demanding,Be,"{""label"": ""N""}
+
+
+Wait, why is that? Let me think",N
+because energising the entire printout takes time,Bs,"""your answer""
+
+Okay, so I have this segment: ""because energising",N
+hammers the batteries and its quite a demanding thing to do,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""hammers",N
+so technically the stuff where you have got a low percentage fill sort of faces and text and things like that is a lot more realisable,Be,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+but if we could do that with the media,S,"{""label"": ""N""}
+</think>
+
+The segment ""but if we could do",N
+whether we could do that with this adaptation I don t know,Bs,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+the one on the right the one on the right does not actually have to be a thermal pen it could just be,Be,"{ ""label"": ""D"" }
+</think>
+
+{""label"": ""D""}",D
+it could be a soldering iron,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+or a hot air,S,"__ ""__
+
+Okay, so I need to figure out the correct label for the",N
+but basically th the focus is on that at the moment and basically th the idea is that there is a thermal print out in in the nib of the pen,Be,"{""label"": ""...""}
+
+}
+</think>
+
+{""label"": ""Be""}",Be
+whichever shape that takes now with that concept,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""N",N
+there are a number of specific problems that need to be overcome,Be,"{ ""label"": ""..."" }
+
+To determine the correct label for the given segment",N
+so basically the first problem that we need to think about is the wobbly arm movement of the users,Be,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+this is aimed at potentially but not exclusively at five to eleven years olds,F,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+who have some writing skill but not fantastic writing skill they re likely to hold the pen different ways errm different angles etcetera and,BS,"{""label"": ""...""}
+}
+
+Okay, so I need to assign one label",N
+so ther there is two important things,Be,"{""label"": ""__blank__""}
+</think>
+
+{""label"": ""N""}",N
+one is with respect to that in this concept one is that that the printout needs to stay in contact with the thermal print paper to actual print,S,"{""label"": ""_______""}
+Alright, let me try to figure out the",N
+so there needs to be this contact maintained,Be,"{""label"": ""N""}
+
+But I'm not sure if I'm correct.",N
+and the other thing is the printout needs to stay in the right angle to print as well,S,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+so we need to think of designs that actually erm help to do that,Be,"{""label"": ""N""}}
+
+To determine the label for the segment ""so",N
+even though the user is not capable of keeping exactly the right shape or weight,Be,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+is to come up with some ideas as to other products or situations where a product,Bs,"""Your answer is: ...""
+
+Okay, I'm trying to figure out the correct",N
+needs to follow a contour,Be,"{""label"": ...}
+Okay, so I've got this segment: ""needs",N
+or needs to be able to adjust itself keeping itself in the same alignment,Be,"{""label"": ""...""}
+Okay, I need to determine the correct label for the",N
+even thought the user might be moving things about did anybody come up with any ideas on that,Be,"{""label"": ""N""}
+</think>
+
+The segment ""even thought the user might",N
+is it only paper you re thinking about or could it be other things like mugs or fabric or pottery,S,"{ ""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+it could be anything,S,"{ ""label"": ""N"" }
+</think>
+
+The segment ""it could be",N
+it could be anything,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+yeah I guess it could be all those,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+I ended up with the hold on sledge,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+the sledge excellent,Bs,"{""label"": ""__blank__""}
+</think>
+
+The segment ""the sledge excellent",N
+write sledge,D,"{""label"": ""...""}
+To determine the correct label for the segment ""write s",N
+so what did that generate then,Bs,"{""label"": ""__N__""}
+</think>
+
+The segment ""so what did that",N
+the sledge manages to keep level,BS,"{ ""label"": ""___"" }
+
+To determine the correct label for the segment",N
+by having quite a wide base,S,"{""label"": ""...""}
+Okay, so I have this segment: ""by having",N
+write wide base,D,"__________
+</think>
+
+{""label"": ""Bs""}",Bs
+a main force in the middle,BS,"{""label"": ""__N__""}
+</think>
+
+{""label"": ""__N__""}",N
+unlike the set of skis,S,"{""label"": ""N""}
+
+Let me explain: The segment is 'unlike",N
+where quite narrow and you go up on an edge when you re turning,Bs,"{""label"": ""...""}
+
+To determine the label for the given segment, I",N
+the sledge is er quite broad,S,"{ ""label"": ""..."" }
+Alright, let me try to figure out the",N
+and then you have the weight right in the middle so they manage to keep both runners on the snow,BS,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+write force in middle,D,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+more often than say a sledge or a snowboard a skis or snowboard,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+so so would you potential see some some some guiders almost down the side of this,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+well I guess the easiest way to keep the pen at a right angle would be,Be,"{""label"": ""S""} {""label"": ""S""} {""label"": """,S
+to have a set of stabilisers on it,S,"{""label"": ""...""}
+To determine the appropriate label for the segment ""to have",N
+based on the idea of a sledge,Be,"{""label"": ""...""}
+To determine the appropriate label for the segment ""based on",N
+yeah no problem stabilisers like a bicycle yeah that is a good idea,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+write stabiliser,D,"__________
+</think>
+
+{""label"": ""Be""}",Be
+I was thinking that is sort of maybe like a flat base with a sort of universal joint like a windsurf mast,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+yeah write Universal base ,D,"{""label"": ""...""}
+</think>
+
+{""label"": ""Be""}",Be
+if the is like this it stays flat but the bit you hold onto can be at,Bs,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+different angles,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+I guess the size of the thing in contact with the paper you could either have a very small contact area,S,"[{'label': 'F'}]
+
+Let me explain: The segment says, """,F
+and er track where it goes or you can have a wide contact area,S,"[""N""]
+
+Alright, let's try to figure out the correct label for this",N
+show the relative size of the pen clears throat if you have got an example because that is,S,"{""label"": ""N""} Why?
+
+Okay, so I'm trying to figure",N
+look at the end of that,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+size is dictated by cost really it needs to be quite narrow,S,"{""label"": ""...""}
+Alright, let me try to figure out the label for",N
+I imagine it to be that,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+could be a that way,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+lets just use that as guidance but let us,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+tip of that,S,"{""label"": ""N""}
+</think>
+
+The segment ""tip of that"" does",N
+rather than the rest I would suggest,S,"{""label"": ""...""}
+To determine the correct label for the segment ""rather than",N
+it can be te ten mil across,S,"{""label"": ""...""}
+}
+
+Okay, so I'm trying to figure out the",N
+it s a erm its not an edge one then it s a it s a on the flat there,S,"{""label"": ""...""}
+Alright, let's try to figure out the correct label",N
+are two flats printing are not there more than one,S,"{""label"": ""__blank__""}
+</think>
+
+The segment ""are two flats printing",N
+one,S,"{ ""label"": ""S"" }
+
+Wait, that's not what the user",S
+while drawing if I where yeah the resistors sit on the lump there,S,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+draw refE1_15 Flipchartjpg top 1,D,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+and you have got the type where the resistors sit on this corner here,S,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+draw refE1_15 Flipchartjpg top 2,D,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""Be""}",Be
+it s a corner one,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+it s a corner one,S,"{""label"": ""...""}
+To determine the correct label for the segment ""it's",N
+no its not cheap,Bs,"{""label"": ""N""} To determine the appropriate label for the segment ""no",N
+it ll be about fifty percent more expensive,Bs,"{ ""label"": ""N"" }
+</think>
+
+The segment ""it ll be",N
+yes this there is an end,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+there is an end that goes over the paper is not there is sort of thing,Be,"{""label"": ""N""}
+
+To determine the correct label for the segment ""there",N
+there is a type that does this as well though,S,"{""label"": ""S""} 
+
+Wait, but in the example given, the",S
+draw refE1_15 Flipchartjpg middle overlap left,D,"{ ""label"": ""..."" }
+Okay, so I have this problem where I",N
+but they type that we have got is like this but in actual fact its much more biased towards the edge,S,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+so you normally have a a slight angle here,S,"{""label"": ""N""}
+
+Alright, let's tackle this problem step by step",N
+right so easiest thing obviously draws on flip chart,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""Be""}",Be
+yeah the the typically what you do is you have got foil going over and,S,"{""label"": ""__-answer__""}
+</think>
+
+{""label"": ""S""}",S
+you get quite a lot you know you can have quite a lot of angle there,S,"{""label"": ""...""}
+To determine the label for the given segment, I need",N
+draw angle,D,"{""label"": ""__-answer__""}
+Alright, so I have this segment labeled """,N
+so we were talking mostly about that one or that one,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+that one sort of plus or minus,S,"{ ""label"": ""___"" }
+</think>
+
+The segment ""that one sort",N
+all these you have to keep flat or long,S,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+its just its just whether we need flat or long,S,"{""label"": ""...""}
+To determine the correct label for the segment ""its just",N
+both axes,S,"{ ""label"": ""...""}
+Okay, so I need to figure out the correct",N
+both axes,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""S""}",S
+yeah I think we do well we need guidance on both axes whichever way,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+you do it I think,S,"{""label"": ""N""}
+
+Wait, why is that? The segment is """,N
+you have like you have like a hot ball a hot ball like a ball point pen,S,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+draw circle draw refE1_15 Flipchartjpg middle,D,"{""label"": ""__n__""}
+To determine the correct label for the given segment",N
+and then you had a tracker like an optical mast then,S,"{ ""label"": ""..."" }
+Alright, let's tackle this segment. The",N
+draw box draw refE1_15 Flipchartjpg middle,D,"{""label"": ""N""}
+
+Alright, so I need to figure out what label",N
+I think that picture where you re moving a pen across the paper in sort of patterns repeating patterns,Be,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+instead of doing it all in one go like a wide printer would do it will just do a thin line at a time,Bs,"{""label"": ""__your_label__""}
+}
+
+Okay, so I need to figure",N
+draw refE1_15 Flipchartjpg bottom,D,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+but when you scribble backwards and forwards it,Bs,"{""label"": ""...""}
+To determine the label for the segment ""but when you",N
+would build up and use that tracking capability to do that,Bs,"{ ""label"": ""___"" }
+
+To determine the label, I need to",N
+draw refE1_15 Flipchartjpg bottom,D,"{ ""label"": ""..."" }
+Okay, I need to figure out the correct",N
+and you would not have the angle problem,S,"{ ""label"": ""N"" }
+
+Wait, why is that the case?",N
+yeah the problem is that printing on the ball,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+we thought the ball could just be you could just sort of turn it off and on,Bs,"{""label"": ""N""}
+
+But you can also think of some other way to",N
+so its like instead of being a unclear speech overlapping thing,S,"{""label"": ""...""}
+To determine the appropriate label for the segment ""so its",N
+there is a bit of that OK,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+well I suppose you could make the width of the print very very small,S,"{""label"": ""S""} 
+
+Wait, but according to the note, if",S
+we ve done that ,S,"</think>
+
+{""label"":""D""}",D
+we did that,S,"{""label"": ""S""} {""label"": ""S""}
+
+Okay, so I",S
+with the dots though very very small,S,"{""label"": ""__answer__""}
+</think>
+
+{""label"": ""D""}",D
+you can only they ve got such low they will last thermal mass,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""D",D
+you heat them up very very briefly and then,Bs,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+they ll go cold again,Bs,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""N""}",N
+probably why you get spots appearing on the second one erm,Bs,"{""label"": ""...""}
+Alright, let me try to figure out the label for",N
+but you can make it,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+clears throat erm at the moment what we have got available for a demonstrator is one of the types on the left,S,"{ ""label"": ""...""}
+To determine the correct label for the given segment,",N
+so we do have this constraint of what that angle needs to be ,Bs,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+so that is going to,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+that angle here,S,"{""label"": ""__N__""}
+</think>
+
+{""label"": ""__N__""}",N
+yes that is going to limit us for the time being,Be,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+we could open up more options by going for alternatives,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+or whatever that would be good so you just mentioned how windsurfs have sort of a base,S,"[{'label': 'F', 'short_label': 'F', 'long_label",F
+to keep the to hold on to rather than actual hands are stabilised like a platform,Bs,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+Sarah refers to a photograph,S,"{ ""label"": ""S"" }
+
+Wait, but I'm a bit confused",S
+a man s shaver,S,"{""label"": ""N""}
+
+Wait, but the segment is a man shaver",N
+that has an angle joint,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""Be""}",Be
+and a guidance for your fingers,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+and similar to the windsurf,Be,"{""label"": ""S""}
+
+Okay, so I need to figure out how to",S
+I mean it only moves in one axis,Bs,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+rather than round,Bs,"{""label"": ""...""}
+
+Let me think step by step about this.
+Okay",N
+it does not its almost flat is not it I suppose,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+yeah it does not move that way I do not think,Bs,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+cos you want to keep flat on the paper all the time,Be,"{""label"": ...}
+
+The user provided an example where the label is ""Be",Be
+does the razor stay flat though,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+because the centre piece is much,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+I am not sure whether it does completely stay flat I think there might be a little bit of a plain,S,"{""label"": ""N""}
+
+Wait, I'm not sure. It says,",N
+but its main axis is is that the razor has is that way I think,Bs,"{""label"": ""N""}
+
+Okay, so I have this segment to label:",N
+write razor,D,"__________
+</think>
+
+{""label"": ""Be""}",Be
+if I if I remember correctly from I don t know about this but from the other razors each blade has like a little spring down each side,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+which means each blade can independently of housing can move that way a little bit as well cant it so that is,Bs,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+draw E1_7 Sketckjpg,D,"{""label"": ""...""}
+To determine the appropriate label for the segment ""draw E",N
+how s that achieved that,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+is that is that achieved by a plastic,S,"{""label"": ""...""}
+Okay, so I'm trying to figure out the correct",N
+that is bendable or is it,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""that is",N
+no it s a spring is not it,S,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+a spring that goes to surface,S,"{ ""label"": ... }
+Okay, so I have this segment: ""a",N
+it pivots,Bs,"{""label"": ""D""}
+</think>
+
+The segment ""it pivots"" does",D
+write spring pivot,D,"{ ""label"": ""S"" }
+
+To determine the correct label for the segment",S
+there is f five of the razors is not there,S,"{""label"": ""...""}
+To determine the correct label for the given segment, let",N
+I have brought some examples along there is one with a single spring in the centre there,S,"{""label"": ""N""}
+</think>
+
+The segment describes a scenario where an example",N
+and then there is one,S,"{""label"": ""N""} To determine the correct label for the given segment,",N
+these are electric ones yeah,S,"{""label"": ""N""}
+</think>
+
+The segment ""these are electric ones yes",N
+these are electric razors and so this is,S,"{""label"": ""S""} 
+
+Wait, why is this segment labeled as '",S
+slightly more expensive version that is got a spring either side,S,"{""label"": ""...""}
+Okay, so I have this segment to label: """,N
+yeah to give you that adjustment it slides on the surface,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+they do yeah there is its one with the foils basically because on this the foil is sprung this one is well no,S,"{ ""label"": ""..."" }
+Okay, so I've got this task where",N
+the foil will run through rubbers and it uses the the cutting edge that is sprung,Bs,"{""label"": ""...""}
+Okay, so I need to figure out how to label",N
+erm there is a point here,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+as well that erm do we need to keep because this will keep an even well a relatively constant pressure won t it,Be,"""your answer""
+</think>
+
+{""label"":""D""}",D
+and you could also you could add a switch to this,S,"[{'label': 'F', 'label': 'Be', 'label': '",Be
+so you could switch it on and off,Bs,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+yeah but I think there are other things that we might like to do as well because,S,"{""label"": ""N""}}
+
+So, I'm going to write this out",N
+it might control the force on the print heads and make sure it comes on how you want it to,Be,"{ ""label"": ""..."" }
+
+Alright, let's break this down step by",N
+so is that what you call a gimble,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+gimbles are normally three dimensional,S,"{ ""label"": ""..."" }
+Okay, so I need to determine the correct",N
+I ve got another one,S,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+it builds on another one,S,"{""label"": ""__answer__""}
+To determine the correct label for the segment """,N
+and it goes faster,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""S""}",S
+but as well its erm one of the things about this is that you have got the main lump,S,"{ ""label"": ""..."" }
+Okay, I need to figure out the correct",N
+and then you have got steering piece towards the front which is banging near microphone drowns speech,S,"{ ""label"": ""..."" }
+Okay, so I need to figure out the",N
+so you have got,Bs,"{""label"": ""N""} To determine the appropriate label for the segment ""so",N
+I guess you have kind of got the main unit that has got all the power and weight in it,S,"{""label"": ""N""}}
+</think>
+
+{""label"": ""N""}",N
+and then erm the flexible bit that does the steering,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+write snow mobile ,D,"{ ""label"": ""D"" }
+</think>
+
+{""label"": ""D""}",D
+draw E1_7 Sketckjpg,D,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+where I know we re talking about a pen,S,"{""label"": ""...""}
+To determine the correct label for the segment ""where I",N
+and you immediately think about something that is this sort of shape that you can hold in your hand like that,Bs,"{""label"": ""...""}
+
+Okay, so I have this task to label a",N
+but considering we re talking about toys in effect for children,Be,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+could it be something that takes more of the shape of a of a train with,S,"{""label"": ""S""} 
+
+Wait, but the segment is ""could it",S
+something else that gets pulled behind it for example,Be,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+like a drag on,Be,"{""label"": ""___""}
+Alright, let me try to figure out the label",N
+something that is much more of a quite a different shape that,S,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+does not require them to have that difficult sort of hold,Be,"{""label"": ""__ANSWER__""}
+Okay, so I have this segment:",N
+things in place like this erm,S,"{'label': 'N'} To determine the correct label for the segment ""things",N
+because that is one of the challenges children have is not it,Be,"{""label"": ""N""} because the segment clearly does not fit any of the",N
+holding the pen at the right angle,Be,"{ ""label"": ""..."" }
+To determine the correct label for the segment """,N
+that is probably one of the things you want to teach a child though is not,F,"{""label"": ""...""}
+Okay, I'm trying to figure out the label for",N
+yeah well you could take all of the difficult stuff off them and make it happen,Bs,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+all that they will do is move the lump around,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+write move lump,D,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+so you will teach them how to move a mouse about,F,"{""label"": ""...""}
+Alright, let's tackle this problem step by step.",N
+if there is a skill in that there is a sense of achievement,F,"{ ""label"": ""...""}
+To determine the appropriate label for the segment ""if",N
+we could have like a mouse rather than a pen,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+that could just be a different starting point,Be,"{ ""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+write mouse type pen,D,"{ ""label"": ""..."" }
+To determine the correct label for the segment """,N
+all they have to do is put it on the table then move it around,Be,"{ ""label"": ""...""}
+To determine the correct label for the segment ""all",N
+and it does everything else,Be,"{""label"": ""...""}
+To determine the correct label for the segment ""and it",N
+I was thinking a different media than just a flat piece of paper,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+a pens quite a nice sort of you know to get round angles and,Bs,"{""label"": ""...""}
+Alright, so I need to figure out the correct label",N
+do you think a mouse would allow you to apply that constant force that we need for this though,Bs,"{ ""label"": ""...""}
+Alright, so I've got this segment: """,N
+I don t see why not I mean as long as the force is not going to push the mouse into the table then gravity should be on your side should not it,Bs,"{ ""label"": ""..."" }
+Okay, so I need to figure out the",N
+can I just clarify that you mean for the main lump to have all the sort of the weighty bits like the batteries and electronics and things like that or the that way,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+I was not really being that prescriptive,S,"{""label"": ""N""}
+
+To determine the correct label for the segment ""I",N
+if you ever go without it s not too bad but,F,"{""label"": ""...""}
+Okay, so I have to figure out the label for",N
+the means of a toy I have a quick problem because well I do not know,F,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+like a ghost err it is a little ghost it s about you know an inch high,S,"{ ""label"": ""..."" }
+Okay, I need to assign one label to",N
+draw it,S,"__________
+</think>
+
+{""label"":""Be""}",Be
+draw refDocumentE1_3Sketchjpg top left 2 sketches,D,"{label: ...}
+To determine the label for the segment ""draw refDocument",N
+what its got inside is its got errr and I can t remember exactly what its got inside its got a rubber err a wheel,S,"[{'label': 'F', 'label': 'Be', 'label': '",Be
+draw refDocumentE1_3Sketchjpg top left 2nd sketch,D,"{""label"": ...}
+
+First, I need to analyze the segment. The segment",N
+which printed on it has a little erm,Bs,"{ ""label"": ""..."" }
+Alright, let's tackle this segment: """,N
+I don t know why I am telling you all this because its not really,BS,"{""label"": ""N""}}
+
+Wait, why is that? Let me think",N
+oh yeah yeah yeah yeah yeah you mean one of those foot print things,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""oh yeah",N
+its got its got little footprints,Bs,"{""label"": ""...""}
+
+To determine the correct label for the segment ""its",N
+rotating,Bs,"{""label"": ""S""}
+
+Wait, the segment is ""rotating"". Hmm",S
+yeah it s a self and yeah its got a pad an inky pad here and he,S,"{""label"": ""...""}
+Okay, I'm trying to figure out the correct label",N
+does that go all over the walls and everything,Bs,"{""label"": ""__blank__""}
+</think>
+
+{""label"": ""__blank__""}",N
+you walk it along a page,Bs,"{""label"": ""...""}
+Alright, I need to figure out the correct label for",N
+and it makes footprints,Bs,"{""label"": ""...""}
+To determine the appropriate label for the segment ""and it",N
+that is interesting cos I was thinking pastry brush you know how pastry has,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+and white line machines,S,"{""label"": ""S""}
+
+Wait, the user is asking to label a segment",S
+but I could not think of anything that quite tied into this but the idea of a wheel,Bs,"{ ""label"": ""...""}
+To determine the appropriate label for the segment ""but",N
+pushing a wheel along,Bs,"{ ""label"": ""S"" }
+
+Let me explain: The segment is """,S
+that is a obviously this is a mechanical way of doing what we re talking about,S,"{""label"": ""...""}
+To determine the correct label for the segment, I",N
+so it could the thing could look like erm like a character could not it,Be,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""N",N
+I guess this idea Tom was that this is the print head here,S,"{""label"": ""N""} To determine the appropriate label for the segment ""I",N
+draw refDocumentE1_3Sketchjpg middle bottom circle,D,"{""label"": ""...""}
+To determine the correct label for the segment ""draw ref",N
+and this quite a wide like a caravan is that angles that can hold that to feel it because,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+draw u to represent print head and caravan,D,"{ ""label"": ""..."" }
+Okay, so I've got this segment to",N
+if you know if he goes crr crrr mimics scraping noise then this digs into the paper,Be,"__ ""__
+
+Alright, so I need to figure out which label this segment should",N
+draw refDocumentE1_3Sketchjpg middle bottom arrow represents digs into the paper,D,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+so you could even have three wheels could not you three small wheels to sort of drive it,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""D",D
+write wheels to guide,D,"{""label"": ""...""}
+To determine the correct label for the segment ""write wheels",N
+draw refDocumentE1_3Sketchjpg middle circle,D,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+and you could have a cross section it could be kind of kind of like this,S,"{""label"": ""N""} Why?
+
+Okay, so I'm trying to figure",N
+draw refDocumentE1_3Sketchjpg middle m,D,"{""label"": ""S""}
+
+Alright, let's try to figure out the label",S
+so you can look down here and you can see a hole with the print head in it,S,"{""label"": ""N""}
+
+Alright, I need to figure out what label this",N
+so see where you re going,Bs,"{""label"": ""N""} To determine the appropriate label for the segment ""so",N
+draw refDocumentE1_3Sketchjpg middle details,D,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+you could stick three ball bearings in here and,S,"{ ""label"": ""S"" }
+
+Wait, why is it S? Let",S
+draw refDocumentE1_3Sketchjpg middle 3 circles within circle,D,"{""label"": ""...""}
+</think>
+
+{""label"":""N""}",N
+and just roll around on the surface,Bs,"{""label"": ...}
+
+Okay, so I need to figure out what label to",N
+you put in holes to see where your feet are going,S,"{ ""label"": ""S"" }
+
+Alright, let's break down the problem",S
+its just so you could acquire lots of stuff where you re actually marking,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+yeah its sort of it s a compromise between erm here with a pen,Be,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+you want to see what you re doing don t you you want to see,Be,"{""label"": ""...""}
+Alright, so I've got this segment to label:",N
+but with this type of toy you don t do you,Be,"{ ""label"": ""...""}
+Okay, I need to figure out the correct label",N
+probably aware pattern appears as an edge so you can go right up to,Bs,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+rather that the middle of something big if its big than it does not matter much so long as its at an edge of the big thing where the,Be,"{""label"": ""...""}
+Alright, let me try to figure out the label for",N
+but even with paper suppose you could still get to it its not like hoovering a room when you can t get to an edge is it,Be,"{ ""label"": ""N"" }
+</think>
+
+The segment provided discusses the ability",N
+it becomes more complex to the user as well you can rotate it so you can get to this corner or,Bs,"""your answer as a JSON string""
+Okay, so I have this segment to",N
+rotate it to get to that one,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+it is an interesting idea,Bs,"{""label"": ""...""}
+Okay, I need to figure out the label for the",N
+add some wheels to it,S,"{""label"": ""___""}
+Okay, so I've got this segment: """,N
+I bought erm a tram,S,"{ ""label"": ""...""}
+To determine the correct label for the segment ""I",N
+well the distance between the rails and the what I was thinking the distance between the rails and the overhead wires always changing as it has to follow this articulating,Bs,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+yeah nice idea,Be,"{""label"": ""N""}
+
+Wait, the segment is ""yeah nice idea"".",N
+it is a bit like the suspension on a car,S,"{""label"": ""S""}
+
+Wait, but the question is about the segment """,S
+as well the car sort of has this inertia it flies along in a straight line,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""as well",N
+with suspension and all sorts of things as the wheels pump up and down,Bs,"__ ""__
+
+Alright, I need to figure out the correct label for this segment",N
+as well stay in contact with the road if you have got a decent car,Bs,"{""label"": ...}
+
+Alright, I need to figure out the label for the",N
+well that is that is the other thing I suppose we haven t considered anything like erm air pockets,S,"__________
+
+Okay, so I need to figure out the label for this segment",N
+or anything like that that could be like a little suspension,Be,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""F""}",F
+draw refDocumentE1_3Sketchjpg 3 lines left ie bottom,D,"{""label"": ""S""} {""label"": ""D""} {""label"": """,D
+suspension,S,"{""label"": ""N""}
+
+
+</think>
+
+The segment ""suspension""",N
+that is the sort of thing about children they do things jerkily quickly,Be,"{""label"": ...}
+Okay, I need to figure out the correct label for",N
+use a gyroscope,S,"{""label"": ""__blank__""}
+</think>
+
+{""label"": ""__blank__""}",N
+gyroscope,S,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+write GIROSCOPE and Air suspension,D,"{ ""label"": ""..."" }
+Alright, I need to figure out how to",N
+stick a big gyroscope in it,S,"{""label"": ""...""}
+To determine the correct label for the segment ""stick a",N
+so they cannot jerk it around,Bs,"{""label"": ""__blank__""}
+To determine the appropriate label for the segment """,N
+yeah ok that is a good idea Tony,Bs,"{ ""label"": ""N"" }
+</think>
+
+The segment ""yeah ok that",N
+we should have a target aged child here should not we,Be,"{""label"": ""N""} 
+
+Wait, I'm confused. The segment says",N
+to because erm well I think well erm like this I say about this obviously it was not a problem,Be,"{""label"": ""N""}
+</think>
+
+The segment provided discusses a topic that is",N
+if you do not if you do not let it gimble that way,S,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+then you would get you can make your own lines cant you you can make different thicknesses,Bs,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""N""}",N
+draw refDocumentE1_3Sketchjpg 2 lines right ie top,D,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+so so it might if the if the applications for somebody who got,Be,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+then you add a feature by taking out you know,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+yeah because if if if if erm yeah if say if the the pen is printed in just dotted lines,Be,"{""label"": ""...""}
+To determine the label for the given segment, I'll",N
+draw refDocumentE1_3Sketchjpg dotted line right ie top,D,"{""label"": ""...""}
+To determine the correct label for the segment ""draw ref",N
+you can you can if this pen if you do not let it go that way you could make it print dotted line print dotted line,Be,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+oh so you just have you just have one print out one,S,"{""label"": ""N""} To determine the appropriate label for the segment ""oh",N
+one one nozzle dot touching,Be,"{""label"": ""__blank__""}
+</think>
+
+The segment ""one one nozzle dot",N
+so I guess what you re saying is any mechanism,S,"{""label"": ""N""} To determine the label for the segment ""so I",N
+you can have it switch on switch off one could be easy line and then you can switch it off so that,Bs,"{""label"": ""...""}
+
+First, I need to analyze the segment: """,N
+you could,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+write vary the angle to have different width of line,D,"{""label"": ""...""}
+To determine the correct label for the segment ""write vary",N
+you could use it just so at the corner of the printer head,S,"{""label"": ""___""}
+To determine the correct label for the given segment,",N
+well you could do that just electronically by activating one of the channels on the print heads,S,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+write or do this electronically,D,"{ ""label"": ""..."" }
+""
+
+The user is asking me to determine the",N
+I think that is the way to do it because,S,"{""label"": ""Be""}
+</think>
+
+{""label"": ""Be""}",Be
+otherwise you can overheat the print head and might damage it,Bs,"{ ""label"": ""______"" }
+</think>
+
+{""label"": ""N",N
+so part of the thing here is we need to erm hold it down,S,"{ ""label"": ""D"" }
+</think>
+
+{""label"": ""D""}",D
+otherwise it going to overheat as its firing if there is no where for the heat to go,Bs,"{ ""label"": ""...""}
+To determine the correct label for the given segment,",N
+could we put erm can we detect the heat that the,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+and therefore switch it off,Be,"{""label"": ""__-answer__""}
+</think>
+
+{""label"": ""N""}",N
+or know what s going on,Be,"{""label"": ""N""}
+
+But wait, I'm not sure. Let me",N
+er that is only going to stop it getting dangerously hot,Be,"{ ""label"": ""..."" }
+Okay, so I've got this segment to",N
+all we need to do for print quality and performance and things,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""S""}",S
+is to keep those dots on the paper when they re being fired,S,"{""label"": ""...""}
+Okay, so I have this segment to label: """,N
+the other thing which you will picture sort of erm to an extent that one as well is the actual steering erm is actually,F,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+at the moment the hand steers it directly by making movements with the hand,Be,"{""label"": ""...""}
+To determine the appropriate label for the segment ""at the",N
+but if you had like a joystick,S,"{""label"": ""N""}}
+
+Okay, let's try to figure out this",N
+that then moved the angle of the print head errm,Bs,"""your answer""
+
+Okay, so I need to figure out the correct label for",N
+that might work too but maybe a bit more expensive I suppose,Bs,"{""label"": ""...""}
+To determine the appropriate label for the segment ""that might",N
+I think the interesting thing is to use is as they steer that its built into the steering,Be,"{""label"": ""S""} To determine the correct label for the segment, I",S
+actually tilts the whole body as it steers,Bs,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+so in order to maintain that angle,Bs,"{""label"": ...}
+
+Okay, let's try to figure out the correct label",N
+write integrate the steering into angle like snowmobile,D,"{""label"": ""S""}
+
+
+Alright, I need to figure out the correct",S
+it compensates for the lean of the rider into the corner,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""it compens",N
+so it s flat,S,"{""label"": ""__n__""}
+</think>
+
+The segment ""so it s flat",N
+so if we had something like that,S,"{""label"": ""__answer__""}
+</think>
+
+{""label"": ""D""}",D
+you could steer this angle of the pen as it moves to the other end,Bs,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+its taken us probably three places we can go we can either well its something you control,Be,"{""label"": ""...""}
+Alright, let's try to figure out the correct label",N
+or you take all the opportunities for control away from people apart from moving around,Be,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+and you make the pen or whatever it is do everything,Be,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+erm or we give some feedback erm,Be,"{ ""label"": ""D"" }
+</think>
+
+{""label"": ""D""}",D
+so that people know when they re doing the right thing,Be,"{ ""label"": ""_______"" }
+</think>
+
+The segment ""so that",N
+write feed back to user when doing it right,D,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+erm or the last one is it is possible to hold it the wrong way,Be,"{""label"": ""N""} To determine the label for the segment ""erm or",N
+but it forces you to hold it the right way possibly base on shapes,Be,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+write make the shape so it can only be done one way,D,"{ ""label"": ""..."" }
+Alright, let's tackle this segment: """,N
+well for the the third you can make it erm hard make it compliant to,Be,"{""label"": ""...""}
+Okay, so I've got this task where I need",N
+I know I know what you re saying but it would be difficult,Bs,"{""label"": ""...""}
+To determine the correct label for the given segment, let",N
+because you would overheat the edge of the print head,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+if its not touching,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""N",N
+but there could be some electronics maybe saying this end of the print heads overheating it must be touching at the other end,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+so I shall switch this,S,"{""label"": ""N""} 
+
+Okay, let me try to figure this out",N
+yeah probably there must be some way of detecting that,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+can I just explore that last one in a little more detail,Be,"""your answer""
+</think>
+
+{""label"":""N""}",N
+because when organisations,Be,"{""label"": ""N""} because the segment clearly does not fit any of the",N
+making sure they can only be correct in one way so the design and shape of the thing,S,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+so it can only be done in one way and that s the correct way,S,"{ ""label"": ""N"" }
+
+The correct answer was N because the segment",N
+because then there is less sort of learning to be done by the user and children I think if they are you know,Be,"{""label"": ""...""}
+Alright, I need to determine the label for the given",N
+if they don t get the results pretty quickly they will just give up on it erm,Be,"{ ""label"": ""...""}
+}
+</think>
+
+{""label"": ""D""}",D
+so it would be quite good shape of,Be,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""S",S
+it would only let it work in one particular way,Be,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+you could build it in different ways so you could have it,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""D",D
+so that there was only one way of doing it,Be,"{""label"": ""...""}
+To determine the appropriate label for the given segment ""so",N
+but then err you can have switches on it so that supposing supposing it,S,"{""label"": ""N""} To determine the correct label for the given segment,",N
+you have got the print head and three balls around it to support it,S,"{ ""label"": ""..."" }
+
+To determine the correct label for the given segment",N
+with pressure sensors on those balls,S,"{ ""label"": ""...""} To determine the correct label for the segment ""with",N
+so if the child presses harder it activates all the bearings,Bs,"[""D""]
+</think>
+
+{""label"": ""D""}",D
+and prints out a very erm heavy line,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+but if the child does not press hard then you activate every other one,Be,"{""label"": ""...""}
+To determine the correct label for the segment ""but if",N
+so you get a faint line,Bs,"{ ""label"": ""______"" }
+</think>
+
+{""label"": ""N",N
+write interaction between how child presses so activation of print head,D,"{ ""label"": ""..."" }
+Okay, I need to figure out how to",N
+so clears throat the actual kind of the erm the print head is isolated from what the child s doing,Be,"{ ""label"": ""..."" }
+Okay, so I need to figure out the",N
+but the sensors,S,"{""label"": ""__blank__""}
+</think>
+
+The segment ""but the sensors""",N
+attend to what the child s doing,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""attend to",N
+and the thing responds accordingly,Be,"""and the thing responds accordingly""
+
+Okay, so I'm trying to figure out",N
+and so you can trick the child into doing,Be,"{""label"": ""N""} To determine the appropriate label for the given segment,",N
+and you could also make it so that even if the child s because erm clears throat its not direct you can make it sort of software,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+so that even if the child s really uncoordinated basically you get a reasonable result,Be,"{""label"": ""...""}
+Okay, so I need to figure out the label for",N
+but if the child s very coordinated you can actually do some quite sophisticated things,Be,"{""label"": ""__-answer__""}
+Okay, so I have this segment to label",N
+you could even have sort of some feedback,F,"{""label"": ""__answer__""}
+To determine the correct label for the segment """,N
+in terms of colour LEDs on the pen,S,"{ ""label"": ""..."" }
+Alright, so I have this segment: """,N
+saying that he s done a good or she s done a good job or,Be,"{""label"": ""_______""}
+Okay, so I need to figure out the",N
+that is a bit that is a bit peachy I think somehow,Bs,"{""label"": ""...""}
+Okay, I'm trying to figure out the correct label",N
+yeah you know because i if they re doing something and it produces a result,Bs,"{""label"": ""...""}
+</think>
+
+The segment mentions that ""yeah you know because",N
+that is what they want is not it,Be,"{""label"": ""__ANSWER__""}
+</think>
+
+The segment ""that is what",N
+that is what they want and saying well done is not really you know so what,Be,"{""label"": ""...""}
+Okay, I need to figure out which label to assign",N
+spirit level in the pen,S,"{ ""label"": ""___"" }
+
+To determine the correct label for the segment",N
+3D spirit level the dot and the ring you the dot,S,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+write spirit level in the pen,D,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+if it goes off centre you know the dots outside the ring,Be,"{""label"": ""...""}
+Okay, so I need to figure out what label to",N
+the pen would not work,Be,"{""label"": ""...""}
+To determine the appropriate label for the segment ""the pen",N
+so you have got to come in,Be,"{""label"": ""...""}
+To determine the appropriate label for the segment ""so you",N
+could we sorry could we actually see what they re doing I mean,F,"{""label"": ""N""} Because the segment clearly does not fit any of the",N
+are they drawing pictures or making invitations or Christmas cards or,Be,"{ ""label"": ""...""}
+Okay, so I have this segment to label:",N
+as well as electronics,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+and some of the control,F,"{ ""label"": ""..."" }
+Okay, I need to determine the label for",N
+and user interface features and things whereas,Be,"{""label"": ""...""}
+}
+
+Okay, so I'm trying to figure out the",N
+erm this kind of functional end of the mechanics,F,"{""label"": ""...""}
+Okay, so I need to figure out the label for",N
+it does affect a little bit,Be,"{""label"": ""__N__""} Please explain your reasoning.
+Okay, so I",N
+control draw,Be,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+yeah because its really hard to draw a picture with a mouse is not it,Bs,"{ ""label"": ""..."" }
+To determine the label for the segment ""yeah",N
+you could have games built into it could not you,F,"{""label"": ""N""} 
+
+Wait, the segment is ""you could have",N
+you could have something like colouring in,Be,"{""label"": ""N""} according to the problem's instructions.
+</think>
+
+{""",N
+could try and tell you on some screen,F,"{""label"": ""N""}}
+
+Wait, the user provided a segment: """,N
+or try some sort of coordination task,F,"{""label"": ""N""}
+</think>
+
+The segment ""or try some sort of",N
+there is a huge amount of possibilities you could do mazes or anything with,F,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+once more let us explore this spirit level in more detail I corrected the transcript,Be,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+because the other thing that you use to make sure things are level,Be,"{ ""label"": ""...""}
+Okay, so I've got this task to assign",N
+that is come out in the sort of DIY world is these laser levellers and things like that if,S,"{""label"": ""...""}
+Okay, I need to figure out the label for the",N
+you had like a little laser,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+that made sure that it was level of some sort erm,Bs,"{""label"": ""N""}
+</think>
+
+The segment ""that made sure that it",N
+you know the child can actually see a line,Bs,"{ ""label"": ""..."" }
+Alright, I need to figure out the correct",N
+and that its at the right angle then,Bs,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+because they can see that the line is right and then that would work,Be,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+although maybe they are a bit young for that laugh,Be,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+you could project something onto the paper in front of the pen,Be,"{""label"": ""______""}
+Alright, so I need to figure out the",N
+write Laser level,D,"__________
+</think>
+
+{""label"":""Be""}",Be
+like dam busters,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+write Dam busters shine a light in front of,D,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+just like star wars,S,"{""label"": ""...""}
+Okay, so I need to figure out the label for",N
+erm I was going to say an optical mouse,S,"{""label"": ""N""}
+
+Wait, why is the label N for that segment",N
+I was going to say an optical mouse,S,"{""label"": ""N""}
+
+Okay, let's go through this step by step",N
+if you lift it off the page you can,Bs,"{""label"": ""____________""}
+Alright, let's tackle this problem step by",N
+actually see its got the pattern it creates separates into two areas,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+so its when it s actually on the surface two points meet,Bs,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""Be""}",Be
+if you lift an optical mouse,Bs,"{""label"": ""___""}
+Alright, I need to figure out the correct label",N
+slightly off the page you will see the pattern it creates,Bs,"{""label"": ""N""}
+</think>
+
+The segment describes an observation related to",N
+yeah sort of the triangle thing,Bs,"{""label"": ""__blank__""}
+</think>
+
+{""label"": ""N""}",N
+is in two sort of distinct spots,Bs,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+and when its actually sat on the surface they match up and that is when it starts tracking,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+write use optical mouse mechanism,D,"{""label"": ""S""} 
+
+Is that correct? Let me think again.",S
+turn the light on I don t know how to operate,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+yeah well if you left it a few minutes,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+when you talked about the little light in front of the erm pen,S,"{""label"": ""N""}
+
+Alright, let me break this down step by step",N
+but if there is sort of feedback from the print head to know its in the right angle,S,"{ ""label"": ""___"" }
+
+To determine the correct label for the segment",N
+and then the light goes on only but only when the print head is on there is this little light comes on,Be,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+so the child gets his feedback that way oh its in the right direction so I can draw,Be,"{ ""label"": ""..."" }
+Okay, let's try to figure out the",N
+I think if I was in their shoes using this I d prefer they d be something where I decide whether its in the right position,Be,"{""label"": ""N""} To determine the correct label for the given segment,",N
+or whether I want something lighting up and saying der derrr,Be,"{""label"": ""__ANSWER__""}
+</think>
+
+The segment ""or whether I",N
+that kind of thing,S,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+well there is a bit of training there is not it,Bs,"{""label"": ""N""} To determine the label for the given segment, we",N
+write Light,D,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+true but it its kind of patronising to have these sort of lights,Bs,"{""label"": ""__ANSWER__""}""
+
+Okay, let's try to figure",N
+its not a comforting a comforting noise,Bs,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""N""}",N
+its not its not its not a comforting noise,Be,"{""label"": ""...""}
+To determine the appropriate label for the given segment ""its",N
+The thing I bought with me my wife does not know I stole it,S,"{""label"": ""N""} To determine the appropriate label for the segment ""The",N
+also quite relevant because that is a product from,S,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+stabiliser that is just come out,S,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+if I run upstairs I have got one of those in my drawer,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+there are pens that,S,"{ ""label"": ""Be"" }
+
+Alright, let's break down the problem",Be
+you do have to hold in a certain orientation,Bs,"{""label"": ...}
+
+Okay, so I need to figure out the correct label",N
+yeah I think that is what I tried its really hard,Be,"{""label"": ""...""}
+Okay, let me try to figure out the label for",N
+because I don t hold my pen in the way that they expect you do,Bs,"{""label"": ""N""}
+
+To determine this, I looked at the examples given",N
+they expect you to some people write like this don t they,Be,"{ ""label"": ""...""}
+To determine the appropriate label for the segment ""they",N
+that is what I join my fingers up at the top where as that one expects that,Bs,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""N""}",N
+you do more of that which I don t do,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""you do",N
+that is because you did not have that pen when you were little,Bs,"{ ""label"": ""D"" }
+</think>
+
+{""label"": ""D""}",D
+if you had had it you would write in the right way rather that the wrong,Bs,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+you would do it properly,Bs,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+you get inking pens,S,"{""label"": ""N""} Why?
+
+I have a pen, but I don",N
+that are really hard to use,Bs,"""your answer""
+
+Alright, let's try to figure out the label for the",N
+because they look they look like little erm they they they go straight down like that sketching,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""N",N
+draw Document E1_3Sketcjjpg,D,"{""label"": ""...""}
+To determine the correct label for the segment ""draw Document",N
+you could have thumb holes or something like that,S,"{""label"": ""__answer__""}
+To determine the correct label for the segment """,N
+this this this one that is this one has sort of that sort of thing,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+it does not force you to use it but it,Bs,"{""label"": ""N""} To determine the correct label for the given segment,",N
+helps you,Bs,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+print heads,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+to use straight up and down otherwise they don t otherwise they don t work,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""to use",N
+because they work thr they th they re like a little er tube,S,"{""label"": ""...""}
+Alright, so I've got this segment: ""because",N
+and when you push on it erm it opens a valve which lets the erm which lets the ink through,Bs,"{ ""label"": ""..."" }
+Alright, let's try to figure out the",N
+is that those gold and silver type things,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+that people use for making cards,Bs,"__ ""__
+
+To determine the appropriate label for the segment ""that people use for",N
+no it s like you get them for erm drafting pens,S,"{ ""label"": ""..."" }
+Okay, so I have this task to assign",N
+I think work like that they have got they re like that,S,"{""label"": ""N""} To determine the correct label for the given segment,",N
+because they they come in different bits of tube,S,"{ ""label"": ""N"" }
+</think>
+
+The segment ""because they they",N
+and they give you a very accurate width of line,Bs,"{""label"": ""S""} 
+
+Wait, but the segment is 'and they",S
+OK but you cannot you cannot use them in any orientation,Bs,"""{""label"": ""N""}""
+
+To determine the correct label for the segment",N
+you have to use in straight up and down,BS,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+and so if you put it on the edge the you would go on the edge of the tube,S,"{ ""label"": ""..."" }
+Okay, I need to figure out what label",N
+and it just it would just sort of it just the edge just goes on,S,"{""label"": ""...""}
+Okay, so I'm trying to figure out the label",N
+you will never get it you just crease the paper,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""you will",N
+the good thing about this is you get feedba feedback s inherent is not it,Bs,"{ ""label"": ""..."" }
+Let's see the solution.
+Alright, I",N
+if you re not doing it properly it wont work,Bs,"{ ""label"": ""D"" }
+</think>
+
+{""label"": ""D""}",D
+it will probably it will probably be that if you do it on the edge,S,"{""label"": ...}
+
+Okay, so I have this segment: ""it will",N
+the print head will be close enough to be to the edge of the PCB,S,"{""label"": ...}
+Okay, let's try to figure out the label for",N
+and you ll lift the whole the whole thing off,S,"{""label"": ""...""}
+To determine the correct label for the segment ""and you",N
+so you probably wont be able to do this this sort of touch towards the edge,Bs,"{""label"": ""N""} To determine the label for the given segment, we",N
+because the print head the resistors are in,S,"{ ""label"": ""___"" }
+To determine the correct label for the given",N
+PCB yeah,S,"{""label"": ""...""}
+Okay, so I have this segment: ""PCB",N
+just the kind of thing that you could do,Bs,"{""label"": ""...""}
+To determine the appropriate label for the segment ""just the",N
+with the erm styling,S,"____________
+
+Okay, I need to determine the correct label for the segment """,N
+so it just feels right you not do you are limited to what you can do,Bs,"{""label"": ""N""} To determine the correct label for the segment ""so",N
+if you put your fingers in the wrong place,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+and if we cut all that for I mean this version,S,"{""label"": ""S""}
+
+
+Wait, the segment is ""and if we",S
+it could be much chunkier,S,"{""label"": ""...""}
+To determine the correct label for the segment ""it could",N
+and this thing could go in the hole this lot could go in the hole,S,"{""label"": ""N""} Why?
+
+Okay, let me try to figure this",N
+and perhaps you can mirror it so it works for left handed people as well,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+but you could just make a hole to hold it in either way,S,"{ ""label"": ""..."" }
+""
+
+Alright, so I've got this segment",N
+you d have to certainly with the first go realize where to put their fingers,Bs,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+it might not even work,Be,"{""label"": ""N""}
+
+Why? Because the segment is vague and doesn't",N
+if one of their fingers is not in the right hole,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+also you feed it back to the wrist,Be,"{""label"": ""__blank__""}
+To determine the appropriate label for the segment """,N
+there is all different things,S,"_____
+
+First, I need to understand what the segment ""there is all different",N
+yeah hand sizes as well,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+you know you could you feed it back,Be,"{""label"": ""__answer__""}
+To determine the correct label for the segment """,N
+so its kind of like a watch or something on your wrist,S,"__ ""__
+
+To determine the correct label for the segment ""so its kind of",N
+well you could have a battery pack in that could not you,S,"{ ""label"": ""..."" }
+Okay, I need to figure out the label",N
+or a rucksack,S,"{ ""label"": ""___"" }
+</think>
+
+The segment ""or a r",N
+or a rucksack laugh,S,"{""label"": ""...""}
+Alright, let's tackle this problem step by step.",N
+laugh ghostbusters,S,"{""label"": ""N""}
+</think>
+
+The segment ""laugh ghostbusters""",N
+write battery pack on wrist,D,"{""label"": ""__blank__""}
+</think>
+
+The segment ""write battery pack on",N
+write mould the unit to right position for,D,"{ ""label"": ""...""}
+Okay, so I have this segment to label:",N
+if you have got if you have got a switch there there there and there,S,"{""label"": ""N""}
+
+Alright, let's try to figure out this problem",N
+draw Document E1_4Sketcjjpg crosses indicate position of switchs,D,"{label: ...}
+Alright, I need to assign a label to the segment",N
+and it only works if all four switches are down,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""and it",N
+and those switch positions guarantee that the head is down then,Be,"{""label"": ""...""}
+
+Alright, I need to figure out the correct label",N
+yeah that is the control approach is not it,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""yeah that",N
+yeah that is the yeah and you design it in such a way that,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+that is a reasonably comfortable position,Bs,"{""label"": ""N""}
+</think>
+
+The segment ""that is a reasonably comfortable",N
+and if you don t put it in that position,S,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+it does not work,Bs,"{""label"": ""N""}}
+
+Okay, so I have this segment: """,N
+it d be nice though if you naturally pick it up and it works,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+yeah but that is you can do the two together can you,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+the other thing to to think about is in almost all cases when I look at pens the apart from re wired sort of micropens,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+the th tip is actually the narrowest part of the product,S,"{""label"": ""...""}
+To determine the correct label for the segment ""the th",N
+whereas in what we re looking at it could actually be as wide or wider,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+so its more like a paintbrush is not it like a DIY paintbrush,S,"[{'label': 'N'}]
+</think>
+
+{""label"": ""N""}",N
+it s more like a roller like a roller yeah,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+its there is a prototype,S,"{ ""label"": ""..."" }
+Okay, let's try to figure out the",N
+if you had like if you if you had it connected to one side like that,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""D",D
+draw Document E1_17 Flipchartjpg,D,"{""label"": ""...""}
+Alright, let's tackle this problem step by step.",N
+or a it would be here the print head you could have then going to there then going to there is,S,"{""label"": ""__blank__""}
+</think>
+
+{""label"": ""N""}",N
+draw Document E1_17 Flipchartjpg,D,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+that you don t smudge it,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""that you",N
+it would have flexibility because of the metal on which it s hinged if you like,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""S""}",S
+yeah I think actually I wonder if you intuitively know how to use a roller,Be,"____
+
+Alright, I need to figure out the label for the given segment.",N
+because you re older than eleven and intuitive if you have never seen it before,Bs,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+my two year old rolls paints,Be,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+but I think it could be the pen I mean it could be we could shape it so it does make it like a finer tip,S,"{""label"": ""...""}
+</think>
+
+The segment discusses the possibility of shaping the pen",N
+yeah but there is an inherent size issue with holding it this way is not there,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+because you re not going to have you you you used to have these pens that were ginormous and,S,"{""label"": ""...""}
+Alright, so I need to figure out the correct label",N
+it had lots of different pens inside it,S,"{""label"": ""...""}
+Alright, I need to determine the correct label for the",N
+yeah and they re all like this round,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+and it made it really difficult to write with at the right angle,Bs,"{ ""label"": ""..."" }
+Okay, so I have this segment: """,N
+so I think there is an issue about how big or how,S,"{""label"": ""N""}
+
+Alright, let's see. I need to figure",N
+big,S,"{""label"": ""N""} 
+
+Explanation: The segment 'big' doesn't",N
+you might not hold it,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+yeah I think that is worth considering it actually,Be,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+the not having it in a pen shape,S,"{""label"": ""...""}
+To determine the correct label for the segment ""the not",N
+the not holding it like a pen,Be,"{""label"": ""...""}
+To determine the correct label for the segment ""the not",N
+but actually holding it in a different way like that or,Be,"{ ""label"": ""..."" }
+Okay, so I need to figure out the",N
+yeah there are two there are two sides to this I think,Bs,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+either you want to teach children to hold a pen properly,F,"{""label"": ""...""}
+Alright, I need to figure out the correct label for",N
+if you wanted to do that you d give them a,S,"{""label"": ""...""}
+Alright, I need to figure out the correct label for",N
+yeah but you have got to be taught how to hold a pen,F,"{""label"": ""N""}
+</think>
+
+The segment ""yeah but you have got",N
+a lot better as write like this as well,S,"{""label"": ""...""}
+To determine the correct label for the segment ""a lot",N
+different people will write,Bs,"{""label"": ""N""}
+
+The answer is ""N"".
+
+But wait, let",N
+with not smudging the ink,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+different people will hold the pen between these two fingers and write like that,Bs,"{ ""label"": ""N"" }
+</think>
+
+The segment describes a scenario where",N
+they should not be allowed,Be,"{ ""label"": ""..."" }
+To determine the correct label for the segment """,N
+is it a training aid or toy that we re is it for fun,F,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+its for fun,F,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+its mainly really for fun really I think erm,F,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""N",N
+because if you want to teach a child something about pens,F,"{ ""label"": ""...""}
+Alright, let's break down this segment: """,N
+you d give them a pen would not you,Be,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+no well it depends it could be funit could teach you something,F,"{ ""label"": ""..."" }
+
+The segment is a bit unclear, but I",N
+an added bonus I suppose,F,"{""label"": ""N""} To determine the correct label for the segment ""an",N
+it could teach you something else,F,"{""label"": ""...""}
+To determine the appropriate label for the segment ""it could",N
+its going to be quite a fat lump probably,S,"{ ""label"": ""..."" }
+Alright, I need to figure out the correct",N
+so it s not going to be that kind of pen that you use in future,S,"{""label"": ""...""}
+Okay, so I have this task where I need to",N
+so it does not feel much like a pen,Be,"{""label"": ""N""}
+</think>
+
+The segment ""so it does not feel",N
+you know it could I think it could be more of a decorator s thing you know,F,"{""label"": ""...""}
+To determine the label for the segment ""you know it",N
+if you want to put a row of smilies in,Be,"{ ""label"": ""...""}
+To determine the correct label for the segment ""if",N
+paper and pen along the edges of you know,S,"{""label"": ""...""}
+Alright, let me try to figure out the label for",N
+on the wall,S,"{""label"": ""N""} because the segment clearly does not fit any of the",N
+you re never gonna draw a whole pic you re never gonna draw paint the Sistine chapel,Bs,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""N",N
+no you d need more batteries,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+its more of sort of decorative kind of features,F,"{""label"": ""...""}
+To determine the correct label for the segment ""its more",N
+things like that you know,Be,"{""label"": ""__blank__""}
+</think>
+
+{""label"": ""N""}",N
+there is another degree of freedom to this thing,Bs,"{ ""label"": ""___"" }
+To determine the appropriate label for the segment",N
+if you go fast it will be a paler colour,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+if you go slowly it will be darker wont it,Be,"{""label"": ""__answer__""}
+To determine the correct label for the segment """,N
+yeah if you go fast well maybe if you go fast if there is no feedback from the paper it does not matter how fast its going,Bs,"{ ""label"": ""..."" }
+Okay, I'm trying to figure out the",N
+then it might produce gaps but it might produce gaps in places of,Bs,"{""label"": ""N""}
+
+Wait, no, the question is about a segment",N
+the thing would be cool,Bs,"{ ""label"": ""..."" }
+Okay, so I need to figure out the",N
+if you drive it faster,Bs,"{ ""label"": ""..."" }
+
+Okay, I need to figure out the correct",N
+that mark is the same as that,Bs,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""D""}",D
+that is what you will end up with but erm you won t end up with a long smooth line erm that is faint erm,Bs,"{ ""label"": ""...""}
+To determine the correct label for the segment, let",N
+definitely gaps in it head on all the time you don t have the head on,Bs,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+yeah you could turn it off off and on very fast could not we,S,"{""label"": ""__blank__""}
+</think>
+
+{""label"": ""N""}",N
+for the usefulness er well I am just I am just trying to think about what erm what the pen does really erm,F,"{""label"": ""N""}
+
+To determine the label for the given segment, I",N
+if it s if it s a if its fun its got to do,F,"{ ""label"": ""..."" }
+Okay, I need to figure out the correct",N
+sort of a wider range of features,F,"{ ""label"": ""N"" }
+
+Alright, I need to figure out what",N
+features somehow,F,"{""label"": ""S""} 
+
+Wait, the user provided a segment: """,S
+I think it might self regulate,Be,"{""label"": ""N""}
+
+To determine the appropriate label for the segment ""I",N
+I think people might visit around how does it work,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+or they use it more slowly I think that is,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+but I am thinking it will it will be more fun,F,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+if you can get something you know if you can get a faint line or,Be,"{ ""label"": ""______"" }
+</think>
+
+{""label"": ""N",N
+a faint line,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+you had a drawing there that you did was that for any particular purpose,S,"""your answer""
+
+Okay, I need to assign a label to this segment:",N
+I ve seen a pen that somebody s created,S,"{""label"": ""N""} To determine the appropriate label for the segment ""I",N
+where its actually got this kind of loop in it,Be,"{ ""label"": ... }
+</think>
+
+{""label"": ""Be""}",Be
+so that if you hold it with your index finger actually through this,Bs,"{""label"": ""...""}
+Alright, I need to determine the correct label for the",N
+so it s you you almost wear it like a glove,S,"{""label"": ""...""}
+To determine the correct label for the segment ""so it",N
+deep breath in yeah or like a sort of ring on your finger with the pen attached to it,S,"{ ""label"": ""___"" }
+</think>
+
+The segment describes a gesture involving",N
+but it forces you to hold it in a very specific way,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+um that is intriguing sort of like a like a could be like a finger puppet could not it,S,"{""label"": ""__ANSWER__""}
+</think>
+
+To determine the appropriate label for",N
+yeah cos wearing it like a finger puppet,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+the feel of it might be fun,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+exactly so you can make you can make the footprints,Bs,"{""label"": ""...""}
+Okay, so I've got this segment to label:",N
+I I think I think the sort of design not very good at,S,"{ ""label"": ""..."" }
+""
+
+Alright, let's tackle this step by",N
+Tom does that help regulate the angle,Bs,"{""label"": ""S""}
+
+
+Wait, that's not right. Let me",S
+that would also tie in quite well the sort of cyber view,Bs,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+of having a pack on your wrist,S,"{""label"": ""N""}
+
+To determine the label for the segment ""of having",N
+or sort of cyber arm is not it,S,"{""label"": ""...""}
+Alright, let me try to figure out the label for",N
+thermal print head,S,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+lightning coming out of his nose,S,"{ ""label"": ""..."" }
+Okay, so I have this segment: """,N
+is the issue of left and right handedness erm how we re going to resolve that,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+can you turn the print head round or,S,"{""label"": ""...""}
+Okay, so I have this segment: ""can you",N
+it does not matter because as long as you have got as long as you have got features that can be either mirrored features the same on each side,S,"{ ""label"": ""..."" }
+Okay, let me try to figure out this",N
+you have got them all like that,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+you have got some area to work with and then,S,"{""label"": ""...""}
+Okay, so I'm trying to figure out how to",N
+you have to keep the area of the mirror image,S,"{""label"": ""...""}
+
+Now, let's look at the segment: """,N
+quite good,Bs,"{ ""label"": ""D"" }
+</think>
+
+{""label"": ""D""}",D
+in fact in some ways we should think about the fact it is not even a pen,F,"[""in some ways""]
+</think>
+
+{""label"": ""N""}",N
+because a pen you you will always learn to write from left to right whether you re left handed or right handed,Be,"{ ""label"": ""..."" }
+Alright, let's tackle this problem step by",N
+so actually what you end up doing is left handed people is you smudge over over your work which is a problem,Bs,"{ ""label"": ""..."" }
+Okay, I need to figure out the correct",N
+but actually with this you re dragging it you re not pushing it are you most people will drag it,Be,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+mostly dragging it,Be,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""Bs""}",Bs
+mmm because you were wired to drag it,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+will be dragged,Be,"{""label"": ""__blank__""}
+</think>
+
+{""label"": ""N""}",N
+that is an interesting point,Bs,"{""label"": ""N""} To determine the correct label for the segment ""that",N
+mmm so you want a design then to sort of force people to drag,Be,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+it which is not something you do with a marker pen,Bs,"{ ""label"": ""..."" }
+To determine the correct label for the segment """,N
+you draw a line when you drag,Bs,"{ ""label"": ""___"" }
+
+To determine the label, I need to",N
+generally you might do with a marker pen,Bs,"{""label"": ""____________""}
+</think>
+
+{""label"": ""N""}",N
+with a marker pen you tend to drag yeah,Bs,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+but what I am saying is the analogy of teaching people to write is not actually valid in the sense that,Be,"{""label"": ""N""}
+</think>
+
+The given segment discusses the validity of the",N
+when you re writing you re not actually dragging usually apart from if you re right handed,Be,"__ ""__
+
+First, I need to analyze the given sentence and determine the correct",N
+if you re right handed you drag,Be,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+if you re left handed you push,Be,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+so do they do a left handed version of this,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""Be""}",Be
+that s more interesting cos commercially lost that would be a loss leader just about,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+well it must it must cost twice as much,Bs,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+its gonna cost twice as much,Bs,"{ ""label"": ""N"" }
+
+But wait, the question is about assigning",N
+but schools or something schools must buy two sets,S,"{ ""label"": ""...""}
+Alright, let's try to figure out the label",N
+yeah its not worth its not really for schools,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+well they had that in my school when I was in primary school everybody had a red fountain pen and I had a special green fountain pen because I was left handed,S,"{ ""label"": ""D"" }
+</think>
+
+The segment describes a scenario where",D
+erm protecting the print head which I haven t really thought very much about,F,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+but as it it might be a nuisance or bad thing,Be,"{""label"": ""__answer__""}
+}
+
+The segment is: ""but as it",N
+to have the print head projecting down out of the bottom of this most of the time,S,"... etc.
+Okay, I need to figure out the correct label for the given",N
+because it may catch on things like the edge of the table or something like that,Bs,"{""label"": ""S""} 
+
+Wait, that's the conclusion. Let me",S
+and so erm perhaps there is something else a rounded lump or something,S,"[{'label': 'F'}, {'label': 'Be'}, {'label': '",Be
+as it approaches the page causes the print head to come down,Be,"{""label"": ""__answer__""}
+</think>
+
+{""label"": ""Be""}",Be
+which may carriage be sprung also,S,"{ ""label"": ""___"" }
+
+To determine the correct label, I need",N
+like a see saw,S,"{""label"": ""__answer__""}
+To determine the label for the segment ""like",N
+comes down,Bs,"{""label"": ""__answer__""}
+</think>
+
+{""label"": ""S""}",S
+like a nodding birds yeah,Be,"{""label"": ""...""}
+Okay, so I need to figure out the label for",N
+if you have your printing head ,S,"{""label"": ""S""} 
+
+Explanation: ""If you have your printing head",S
+draw E1_4 Sketchjpg,D,"{ ""label"": ""...""}
+Okay, so I need to figure out the correct",N
+and you have got you have got your spring like that ,S,"{""label"": ""N""}
+
+Okay, so I'm trying to figure out what",N
+draw E1_4 Sketchjpg,D,"{ ""label"": ""...""}
+To determine the appropriate label for the segment ""draw",N
+and you have got a switch or something here ,S,"{""label"": ""...""}
+Okay, I need to figure out the label for the",N
+draw E1_4 Sketchjpg,D,"{ ""label"": ""_______"" }
+
+Okay, let's see. I",N
+and you have got a case there ,S,"{ ""label"": ""S"" }
+
+Okay, so I'm trying to figure",S
+draw E1_4 Sketchjpg,D,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+and then when you you can only push this,Bs,"__ ""__
+
+Okay, I need to figure out the label for the segment:",N
+and then when you push this up so that all the faces are touching,Bs,"{""label"": ""...""}
+Alright, I need to figure out the correct label for",N
+that is when the switch goes,Bs,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+erm so you get so so what this is is is maybe this is not erm err susceptible to knocks and things because its on a sp spring,Bs,"{ ""label"": ""..."" }
+Okay, so I have this segment: """,N
+yeah and you get protected by a case,S,"{""label"": ""...""}
+To determine the appropriate label for the segment ""yeah and",N
+but the other thing is the opposite of this being here,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+and these two things being on springs,S,"{""label"": ""...""}
+To determine the correct label for the segment ""and these",N
+so that when these get pushed back,Bs,"[""D""]
+
+Wait, why is this D? The segment says ""so that",D
+they ll spring back and then they will switch on the,Bs,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+that is true that works as well,Bs,"{""label"": ""...""}
+Alright, let me try to figure out the correct label",N
+that works even better cos it s not leaking its protected then,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+a sheath,S,"{ ""label"": ""___"" }
+</think>
+
+The segment ""a sheath",N
+a print head,S,"{ ""label"": ""..."" }
+Okay, so I need to figure out the",N
+yeah do you need to stop the print head going sideways,Be,"{""label"": ""S""} To determine the correct label for the segment ""yeah",S
+draw arrow not sure which drawing,D,"{ ""label"": ""D"" }
+</think>
+
+{""label"": ""D""}",D
+cos you want it to travel forwards when its going that direction,Bs,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""Be""}",Be
+yeah you don t want people to go that that that is an interesting point,Be,"{ ""label"": ""N"" }
+</think>
+
+The segment provided is ""yeah",N
+put wheels on the side to make it,S,"{""label"": ""N""} 
+
+But wait, the segment says ""put wheels",N
+I I don t think there might not be a problem with that,Bs,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+in fact it might be something that they might want to do to produce interesting effects,Be,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+distorted smiley faces,Be,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+and I think we might get away with that,Be,"{""label"": ""...""}
+To determine the appropriate label for the given segment, let",N
+but what if what if a child held the pen can I just borrow that,Be,"{""label"": ""N""}
+
+Explanation: The segment seems to refer to a situation",N
+rather than holding it width ways,Be,"{""label"": ""...""}
+Alright, let me try to figure out the correct label",N
+so this is across the pen,Be,"{""label"": ""...""}
+To determine the correct label for the segment ""so this",N
+thinking of holding it that way,Bs,"__ ""__
+
+Alright, I'm going to try to figure out the label for",N
+providing just enough pressure,Bs,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+providing probably be alright,Bs,"{ ""label"": ""N"" }
+</think>
+
+The segment ""providing",N
+but we could try and stop them from doing it,Be,"{""label"": ""N""}
+
+Why? Because the text is vague, unclear,",N
+it is sort of like a its like a calligraphy pen is not it if you erm,S,"{ ""label"": ""___"" }
+</think>
+
+The segment provided is ""it",N
+because you get thick you get thick and thin,Bs,"{ ""label"": ""S"" }
+
+Alright, I need to figure out the",S
+because you get the edge,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+that business of withdrawing the print head when it s not in use or something like that,Be,"{""label"": ""N""}
+</think>
+
+The segment ""that business of withdrawing the",N
+well yeah well it s a sheath is not it that is the word you said was not it a sheath that,S,"{""label"": ""...""}
+To determine the correct label for the segment, I need",N
+a sheaf,S,"{""label"": ""__answer__""}
+To determine the correct label for the segment """,N
+write sheath protecting the head,D,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+or it could be deployed on contact or something,S,"{""label"": ""...""}
+Okay, let's try to figure out the label for",N
+OK it is fundamental the other thing that I am now going to look at is ,F,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+two two problems one is over pressurising the print head on the paper,Be,"{""label"": ""N""}
+
+Wait, the segment is ""two two problems one",N
+or abuse of the pen so somebody could go like that,Be,"{""label"": ""S""}
+
+Okay, so I have this problem where I need",S
+and that will probably break it and,Be,"</think>
+
+{""label"":""N""}",N
+the sheath,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+does not fix that does it er no the sheath does not fix that,Bs,"{ ""label"": ""..."" }
+
+To determine the correct label for the given segment",N
+you go like that you hit the printer,Bs,"{""label"": ""__blank__""} To determine the correct label for the segment """,N
+whereas the other way round bangs table,Bs,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""N",N
+well the sheath protect that is not it so,Be,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+the sheaths so spring both and the things happen,Bs,"{ ""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+yeah so expect there is more travel if you smash there,Be,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+Draw 2 crosses over Tom s sheath Document E1_4 Sketchjpg,D,"{ ""label"": ""...""}
+To determine the correct label for the given segment,",N
+yeah that means you can t move both yeah yeah that is right yeah,S,"{""label"": ""N""} To determine the correct label for the given segment,",N
+so I its what AJ suggested that this moves back,Bs,"{""label"": ""N""}
+
+Alright, let's break this down step by step",N
+to to start to as a switch,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""Be",Be
+whereas the alternative is for that to move back,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+well I suppose you could design it such a way as it only goes,Be,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+at a certain speed back so if you went if you just went like that it would go back quite,Bs,"{ ""label"": ""..."" }
+Okay, I need to figure out the correct",N
+slowly but if too quickly,Bs,"{""label"": ""N""} To determine the appropriate label for the segment ""slow",N
+you you could have them both moving back and,Bs,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+you could have you could balance springs and things like that,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""S""}",S
+you could have viscous back,Bs,"{""label"": ""...""}
+
+To determine the label, I need to analyze the",N
+if that thing s on a spring and that is on a,S,"{""label"": ""...""}
+Okay, so I have this segment where the thing is",N
+Draw unknown sheet,D,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""N",N
+of some sort which could be quite simple,S,"{ ""label"": ""S"" }
+
+Wait, but in the problem, the",S
+viscous,Bs,"{""label"": ""N""}
+
+Okay, so I need to figure out what the",N
+write viscous damper,D,"{ ""label"": ""...""}
+To determine the appropriate label for the segment ""write",N
+and if you bang it down its effectively solid,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+cheap,Bs,"{""label"": ""N""}
+
+Alright, so I need to figure out the correct",N
+leaking syringe,S,"{""label"": ""__blank__""}
+</think>
+
+To determine the appropriate label for the",N
+cheap syringe,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+write leaky syringe,D,"{""label"": ""...""}
+To determine the correct label for the segment ""write leak",N
+where s the sheath gone,S,"{ ""label"": ""_______"" }
+</think>
+
+The segment ""where s",N
+heat source,S,"{""label"": ""S""} 
+
+Wait, the segment is ""heat source"",",S
+laser light,S,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+any other ways in which we could try I mean we could put a cap over it that is how other people do it ,S,"{""label"": ""N""}
+</think>
+
+The segment describes a scenario where people try",N
+that is way too low tech for this,Bs,"{""label"": ""___""}
+Okay, so I've got this segment to label",N
+that will protect it but it still is not it,Bs,"{""label"": ""N""} To determine the label for the given segment, I",N
+what about a cap,S,"{""label"": ""N""}
+</think>
+
+The segment ""what about a cap""",N
+like a spring loaded cap,Be,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+that comes out of the way,Bs,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+yeah like a button there,S,"{""label"": ""N""}
+
+Wait, why? The segment is ""yeah like",N
+that s nice yeah,Bs,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+write sprung loaded cap,D,"{""label"": ""...""}
+To determine the correct label for the segment ""write sprung",N
+that that slides the,Be,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+the button,S,"{""label"": ""S""}
+
+Wait, the example given is:
+
+the button",S
+then it could not get lost could it,Bs,"{""label"": ""__answer__""}
+To determine the appropriate label for the segment """,N
+mmm it could also turn off the comforting hum,Be,"{ ""label"": ""___"" }
+</think>
+
+The segment ""mmm it could",N
+when you put the cap back on,Bs,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""D""}",D
+I quite like the idea of a comforting hum,Bs,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+a comforting hum,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+write comforting hum,D,"{""label"": ""S""}
+
+Okay, let's break down this problem step by",S
+when it s working right,Bs,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+what like a sings dum dum dum dum dum dum,Bs,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+like rolf harris,Bs,"{""label"": ""...""}
+Alright, I need to assign a label to the segment",N
+the cap is quite interesting though,S,"{ ""label"": ""N"" }
+
+Wait, why is that? Let me",N
+because if it hinges that way,Bs,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+it will make people much more likely to to drag it across there if it s clear as well,Bs,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""D""}",D
+yeah but you can still see things or,Bs,"{""label"": ""...""}
+Okay, so I need to figure out the label for",N
+if you had not just an activation button not an,S,"__ ""__
+
+Okay, so I'm trying to figure out the label for this",N
+activation button but a button that made the print head come out,S,"{ ""label"": ""..."" }
+
+Okay, let's try to figure out this",N
+a non a non clickable pen,S,"{ ""label"": ""..."" }
+To determine the correct label for the segment """,N
+so you had to you know obviously not up there,S,"{""label"": ""...""}
+Okay, so I'm trying to figure out the correct",N
+you can only write when it s up,Be,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+if you if you go like that it would sort of go out a little bit,Be,"{ ""label"": ""...""}
+To determine the correct label for the segment ""if",N
+and then if you push it up it would go out more,Be,"{ ""label"": ""..."" }
+""
+
+Okay, I need to figure out the",N
+I mean you can still damage it,Bs,"{""label"": ""N""}
+
+But wait, let me think again. The segment",N
+so it s a it s a dead man s handle for a pen basically,S,"{""label"": ""...""}
+Alright, let's try to figure out the label for",N
+write a dead man handle for the pen,D,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+you could have a little slider on it,S,"{""label"": ""...""}
+Alright, let's tackle this problem step by step.",N
+could it could do this kind of thing round the edge,S,"{ ""label"": ""______"" }
+</think>
+
+{""label"": ""Be",Be
+yeah yeah and then and then you coul it could just be sprung,Be,"{ ""label"": ""..."" }
+Okay, so I'm trying to figure out",N
+and then when you put it down its held open by,Be,"{""label"": ""...""}
+Okay, so I need to figure out the label for",N
+and then any pressure on the tip,Be,"{""label"": ""...""}
+Okay, I need to determine the label for the segment",N
+it s more is not it,Bs,"{""label"": ""N""}
+</think>
+
+The segment ""it s more is not",N
+you re not going to be using it for hours on end are you,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+it s for little pieces of,Be,"{""label"": ""...""}
+Okay, so I've got this task where I need",N
+I would say long car journeys though,Be,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+you could have a and that open up,S,"{ ""label"": ""..."" }
+
+Okay, I need to figure out the correct",N
+draw,D,"{ ""label"": ""__ANSWER__"" }
+</think>
+
+To determine the label",N
+a little bit annoying on long car journeys laugh,Be,"{""label"": ""...""}
+Alright, I need to assign a label to the segment",N
+you could have a cap that goes like that,S,"{ ""label"": ""..."" }
+Alright, let's tackle this problem step by",N
+draw,D,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+and then you could also have the same spring here,S,"{""label"": ""___""}
+Okay, so I need to figure out the label",N
+that any force by a certain amount would force the cap to shut again,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""that any",N
+a double action cap,S,"{ ""label"": ""..."" }
+
+To determine the label, first, I will",N
+so you button but it s got an override of pressure,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""so you",N
+on the pen,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+I am thinking of something a bit like erm the flap on a video tape,S,"{""label"": ...}
+
+Alright, I need to figure out the correct label for",N
+uh huh what the flap,S,"{ ""label"": ""N"" }
+
+Alright, let's break down the problem",N
+like a garage door type of thing,S,"{ ""label"": ""..."" }
+Okay, so I have this segment: """,N
+yeah push the button then it goes open,Bs,"{""label"": ""__blank__""}
+</think>
+
+The segment ""yeah push the button",N
+write garage door type mechanism,D,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+but that is probably overly complicated,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+garage door,S,"{""label"": ""__N__""}
+</think>
+
+{""label"": ""__N__""}",N
+well it could be a roller,S,"{""label"": ""__blank__""}
+To determine the appropriate label for the segment """,N
+a roller door,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+write roller door,D,"{ ""label"": ""___"" }
+</think>
+
+To determine the label for the",N
+as you cool that down,Bs,"{""label"": ""__blank__""}
+</think>
+
+The segment ""as you cool that",N
+yeah a button here that ,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+there is a slider that opens the pen,Be,"{""label"": ""...""}
+To determine the correct label for the segment ""there is",N
+but then regardless of whether you have got the button pressed down or not you press hard and it comes back down,Be,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+so it does not matter if you drag it thuds hand on table it ll just,Bs,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""N",N
+or you just keep that button pressed but,Bs,"[{'label': 'N'}]
+</think>
+
+{""label"": ""N""}",N
+thud yeah if you re very sort of cover that comes down,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+are you just whacking this pen there,Be,"{ ""label"": ""N"" }
+
+Alright, let's tackle this problem step",N
+it s got a cap on,S,"{""label"": ""...""}
+To determine the correct label for the segment ""it s",N
+how much did that pen cost,Bs,"{""label"": ""...""}
+Okay, so I need to figure out how much that",N
+errrr well about five pence or something,Bs,"{""label"": ""D""}
+
+Alright, I'm trying to figure out the correct",D
+yeah is that refillable,Be,"{""label"": ""__blank__""}
+</think>
+
+The segment ""yeah is that refill",N
+like this is not refillable,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+I assume it has a cover that comes on as well,Bs,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""N""}",N
+that is nice it s erm holdable,Bs,"{""label"": ""...""}
+Okay, so I've got this segment to label:",N
+so one one pence two pence six pence,Bs,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""N",N
+twenty pence,Bs,"{""label"": ""S""}
+
+Okay, let me try to figure this out step",S
+you could put a time delay on it,S,"{""label"": ...}
+Alright, I need to figure out the correct label for",N
+that is a good way of protecting it,Bs,"{""label"": ""N""}
+
+Okay, so I need to figure out what label",N
+write time delay,D,"{""label"": ""__blank__""}
+</think>
+
+The segment ""write time delay""",N
+you could say it has to be in contact with the paper for a second and then the thing will deployed,Bs,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+that is easy,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+and that way it s protected from being banged,Bs,"{""label"": ""...""}
+Okay, so I've got this segment to label:",N
+is there is there an issue anyway erm guys with there being or having to be or a benefit by having like a stand by mode,F,"{ ""label"": ""...""}
+To determine the correct label for the given segment,",N
+so its either completely switched off,Be,"{ ""label"": ""D"" }
+</think>
+
+{""label"": ""D""}",D
+with or without the cap on it,Be,"{ ""label"": ""...""} To determine the appropriate label for the segment ""with",N
+or there is like a stand by mode,F,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+where its sort of semi warm but its ready for action quickly,Be,"{ ""label"": ""..."" }
+Alright, let's tackle this problem step by",N
+it has a home so a docking station,S,"{ ""label"": ""___"" }
+
+To determine the correct label for the given",N
+we could charge it in there as well plus,Bs,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+it might be over budget,Bs,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+yeah so a docking station what would the docking station look like charge,S,"{""label"": ""...""}
+To determine the correct label for the segment ""yeah so",N
+write docking station cradle,D,"__________
+
+</think>
+
+{""label"": ""S""}",S
+well it would just be a cradle,S,"{""label"": ""...""}
+To determine the appropriate label for the segment ""well it",N
+it would just be somewhere for it to live when you re not using it,Bs,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+like a little protector like an inkwell,S,"{ ""label"": ""..."" }
+
+Okay, so I need to figure out what",N
+laugh like a quill,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""Be",Be
+a quill that means it s not something that you could put in your pencil case,Bs,"__________
+</think>
+
+{""label"": ""D""}",D
+well I think there is an issue actually there,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+as well with children sometimes using lots of types of pens at the same time,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+if you had erm written something or smudged something with some other type of err pen or even a,Be,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+pencil or a crayon or something like that,Be,"{""label"": ""...""}
+To determine the correct label for the segment ""pencil",N
+and then you used this on the same paper would it make the print head dirty,Be,"{""label"": ""...""}
+</think>
+
+The segment describes a scenario where the print head",N
+and would there need to be some way of cleaning the print head potentially,F,"{ ""label"": ""..."" }
+To determine the appropriate label for the segment """,N
+or would it be good to have some way of cleaning the print head,F,"{""label"": ""N""} To determine the correct label for the segment ""or",N
+like we could have a cap on it,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+that actually erm sort of goes past it,Bs,"{ ""label"": ... }
+Alright, let's try to figure out the label",N
+is there any danger if you got ink from another pen or paint can it short,Be,"{ ""label"": ""..."" }
+Alright, I need to figure out the correct",N
+it would not short it,Bs,"{""label"": ""__answer__""}
+</think>
+
+{""label"": ""D""}",D
+it would not short it,Bs,"{ ""label"": ""N"" }
+
+To determine this, I looked at the",N
+but it might burn into the head so,Bs,"{""label"": ""___""}
+To determine the appropriate label for the segment ""but",N
+the good thing you could clean this you can get,Be,"{ ""label"": ""D"" }
+
+Explanation: The segment is about cleaning,",D
+a crayon would be all right because that would melt,Bs,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+you can clean it but erm I have got a way of cleaning it with a knife,Bs,"{ ""label"": ""..."" }
+Alright, so I need to figure out how",N
+but paint would be a problem would not it you d imagine that,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+you could clean it off but you could not get the kids to do it,Be,"{""label"": ""__answer__""}
+}
+Okay, I need to figure out the",N
+unless you er unless you did it automatically,Be,"{ ""label"": ""_______"" }
+</think>
+
+The segment ""unless you",N
+I mean if you leave the top off that for twenty minutes it dries out,Be,"{""label"": ""N""} To determine the correct label for the given segment,",N
+yes we could just up the age limit it s not a problem,Be,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+write cleaning mechanism,D,"{ ""label"": ""S"" }
+
+To determine the correct label for the segment",S
+OK want to do some more detail a bit more mechanism,S,"{""label"": ""N""}
+
+Wait, why is that? Let me think again",N
+well we we have got various things haven t we,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+we just have to contact it,Bs,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""N",N
+pressure contacts,S,"{""label"": ""...""}
+To determine the appropriate label for the segment ""pressure contacts",N
+or its got to be got to be depressed,Bs,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""D",D
+imagine you have piece of metal,S,"{""label"": ...}
+
+Okay, I need to figure out the label for the",N
+spring switch,S,"__________
+
+</think>
+
+{""label"":""Bs""}",Bs
+is there a could you measure I am thinking of for example if a child decides to try to write on his clothes or on their skin or whatever,Be,"{ ""label"": ""..."" }
+</think>
+
+The segment discusses a child trying to",N
+erm it may not be such a good idea,Bs,"{""label"": ...}
+
+I need to determine the correct label for the given segment",N
+erm potentially feedback,Bs,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+how quick the how quick the head cools down if its on the actual paper its supposed to be on versus if it was on some different media sort of,Bs,"{""label"": ""S""} 
+
+Wait, that seems a bit confusing. Let",S
+how hot,Bs,"__{
+
+""label"": ""N""
+}
+
+Alright, I need to figure out",N
+how hot does it get,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""how hot",N
+err it does get quite hot well,Bs,"{""label"": ""__answer__""}
+Okay, let me try to figure out the",N
+the tiny dots can get quite hot,Bs,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""N""}",N
+and there is next to no thermal lapse,S,"{""label"": ""N""}
+
+To determine the label for the segment ""and there",N
+so they cold again very quickly,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""so they",N
+if you wear it on your skin it would just be,Bs,"{label: ""...""}
+To determine the correct label for the segment ""if you",N
+we need to test this but I,Bs,"{""label"": ""Be""}
+</think>
+
+{""label"": ""Be""}",Be
+mechanically the the,S,"{""label"": ""__blank__""}
+</think>
+
+The segment ""mechanically the",N
+well there is potential for a safety issue,Bs,"[{'label': 'N'}]
+</think>
+
+{""label"": ""N""}",N
+but erm where you re going trying to detect a cooling rate from the media,Bs,"{""label"": ""...""}
+To determine the appropriate label for the given segment, let",N
+that you have been in contact with can be a very hard thing to do erm,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+but detecting the media or detecting that you re on some kind of media,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""but detecting",N
+or holding station or something,S,"{""label"": ""__answer__""}
+Okay, so I need to figure out what",N
+cos it could be sold as it could be a thing you put your special media on or,S,"{""label"": ""S""}
+
+Wait, let me think again.
+
+The segment is",S
+and we could either detect that,Be,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+or we could look for erm translucent dots buried in the erm media or something,Be,"{""label"": ""N""}
+
+Okay, so I need to figure out what label",N
+write translucent dots,D,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+or you could they you could a they could be like er beads switches,S,"{""label"": ""...""}
+Okay, so I've got this task to assign labels",N
+you can only write on a magnetic plate is not it,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+yeah you could do that or looking for a signal or,Be,"__________
+</think>
+
+{""label"": ""N""}",N
+or detecting a change,Be,"{""label"": ""N""}
+</think>
+
+The segment ""or detecting a change""",N
+so this is what you re talking about,S,"{ ""label"": ""...""}
+To determine the correct label for the segment, I",N
+errr yeah its more systemy,S,"{""label"": ""...""}
+</think>
+
+{""label"":""D""}",D
+I guess beyond the actual pen you could imagine all sorts of systems where,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+mmm ok you re tied you re tied to the media anyway so it s not really,S,"{""label"": ""______""}
+To determine the correct label for the given segment",N
+erm yeah you re probably not constrained,Bs,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+because you unless you are detecting something special about the media which you might want to do,Bs,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+the effects of the media then it would work on any thermal media or,S,"{""label"": ""...""}
+To determine the correct label for the segment ""the effects",N
+that is not common is it,Be,"{""label"": ""N""}
+
+To determine if a segment is in any of the",N
+like printers,Be,"{ ""label"": ""...""}
+Okay, I need to figure out the correct label",N
+fax machines,Be,"{""label"": ""N""}
+
+Okay, so I need to figure out what label",N
+I was just going to say yeah I think we should concentrate on what the mechanism might look like,S,"{""label"": ""__blank__""}
+</think>
+
+The segment discusses the mechanism behind the",N
+the thermal pen cos I think we can spend quite a lot of time,F,"{""label"": ...}
+
+First, I need to determine which label best fits the",N
+yep so in terms of the actual mechanism we have explored some different angles on that have not we,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+in terms of the you mean in terms of the spring loading and things like that,S,"{ ""label"": ""_______"" }
+</think>
+
+The segment ""in terms",N
+well that is one idea and that has the that has a two outer that has an outer limit how far the slider can move,S,"{ ""label"": ""...""}
+To determine the correct label for the given segment,",N
+that controls there is obviously it stays at an angle until you get to the maximum angle and then if all,Bs,"{ ""label"": ""..."" }
+Okay, so I need to figure out the",N
+and then it could switch off could not it,Be,"{""label"": ""__answer__""}
+To determine the correct label for the given segment",N
+if it w if it was hitting a certain angle it could switch off,Be,"{ ""label"": ""...""}
+Okay, so I've got this segment to label",N
+you d need an additional partner mechanism ,S,"{ ""label"": ""...""}
+Okay, so I have this task where I need",N
+so you could switch you could have that,Bs,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+you could have the contacts on top and bottom of that piston,S,"{ ""label"": ""...""}
+To determine the appropriate label for the segment ""you",N
+and then they could stay,Bs,"{""label"": ""N""} To determine the correct label for the segment ""and",N
+do they really need to stay in contact well,Bs,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+if you don t press hard enough then,Be,"{""label"": ""...""}
+Alright, let's try to figure out the correct label",N
+edge and if you go over it if you come too high an angle,Be,"{""label"": ...}
+
+Let's see the example: 
+
+{""label"": """,N
+then you do this contact between here and here,S,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+or you could have the cylinder that moved in some slots,S,"{ ""label"": ""___"" }
+To determine the correct label for the segment",N
+so that this can move that way,Bs,"{""label"": ""__answer__""}
+}
+
+Okay, let's see. I need",N
+but what you cant do is it can t the print head can t tilt back or forward because these slots are in,Bs,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+they re in a fixed position yeah,S,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+this this stays at a fixed angle,S,"{ ""label"": ""...""}
+To determine the appropriate label for the segment ""this",N
+it can move up and down,S,"{""label"": ""__blank__""}
+To determine the correct label for the segment """,N
+and side to side its fixed that way,S,"{ ""label"": ""...""}
+Okay, I need to figure out the correct label",N
+the print head relative to the pen,S,"{""label"": ...}
+Alright, let me try to figure out the label for",N
+I am sorry I am just thinking about I think there is probably a geometry that could do it with just one switch erm,S,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+that when you come too far over erm the pen starts moving back in and so back in,Bs,"{""label"": ""___""}
+Okay, I need to figure out the correct label",N
+and therefore the switch comes off,Bs,"{""label"": ""S""}
+</think>
+
+The segment ""and therefore the switch comes",S
+before it looses contact,Bs,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+you know it depends on the shape of the case work for it,Bs,"{""label"": ""__ANSWER__""}
+</think>
+
+To determine the appropriate label for",N
+the outside bit,S,"{ ""label"": ""___"" }
+</think>
+
+The segment ""the outside bit",N
+yeah the thing that we did a few years ago,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+which had a kind of sort of forced balanced print head,Bs,"{""label"": ""___""}
+To determine the correct label for the segment ""which",N
+we tend to do fairly wide print heads,S,"{""label"": ""N""} To determine the correct label for the segment ""we",N
+to try and keep them in contact with the medium,Bs,"{""label"": ""...""}
+Okay, so I need to figure out which label best",N
+it appears a bit different less controlled,Bs,"{""label"": ""N""} To determine the correct label for the segment ""it",N
+and on that we basically had a frame,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+which brought the print head down brought the print head down,Bs,"{""label"": ""N""}
+
+Okay, I need to figure out what label to",N
+and then that is right and so,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+like this and then,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""Be",Be
+it s like the old tape recorders is not it,S,"{ ""label"": ""___"" }
+
+To determine the label, I need to",N
+it finds its own level,Bs,"__________
+
+</think>
+
+```{""label"": ""N""}```",N
+and the force is applied to this,Bs,"{""label"": ""...""}
+</think>
+
+The segment ""and the force is applied to",N
+that is right the print head just like this erm,S,"{""label"": ""...""}
+Alright, let's break down this problem step by step",N
+on a carrier as well,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+could it work this way as well,Be,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+no,Bs,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+what you always want to combine is something that when you press you press media,Be,"{""label"": ""...""}
+Okay, so I've been given this task to label",N
+so that you have made contact,S,"{""label"": ""...""}
+Alright, let's try to figure out the label for",N
+circuit you over pressurise it,Bs,"{""label"": ...}
+Okay, so I need to figure out the correct label",N
+and it goes past it,Bs,"{""label"": ""...""}
+</think>
+
+The segment ""and it goes past it""",N
+so it does not work and then you have got you have got bottom out,Bs,"{""label"": ""N""}
+
+To determine the correct label for the segment, I",N
+sheath here,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+brilliant idea,Bs,"{ ""label"": ""N"" }
+</think>
+
+The segment ""brilliant",N
+and could you use these contacts,S,"{""label"": ""N""}
+
+Wait, why is that? Let me think again",N
+and put them in 3D,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+could be one could be one here,S,"{ ""label"": ""...""}
+Okay, so I have this task where I need",N
+and there,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+we only need two in the front and back,S,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+so that as well as being in the right vertical position ie actually touching paper,S,"{""label"": ""___""}
+Alright, I need to figure out the correct label",N
+so that it dissipates heat not press too far,Bs,"{ ""label"": ""...""}
+To determine the correct label for the segment ""so",N
+because then it pops out the sheath,S,"{""label"": ""...""}
+
+Okay, so I have this task to assign labels",N
+and you re over pressurising it,Bs,"{""label"": ""...""}
+
+Okay, so I'm trying to figure out the",N
+but also something to do with the fact that these contacts,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+if if as you say go over an angle then you notice that central thing comes away from one side,Bs,"{ ""label"": ""..."" }
+Alright, so I need to figure out the",N
+you know the distances between the edge of these ,S,"{ ""label"": ""___"" }
+
+To determine the correct label for the given",N
+the distance between the edges of these things and the outer casing,S,"{""label"": ""...""}
+Okay, so I have this task where I need to",N
+when you re at a small angle,S,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+they move a little bit,Bs,"__ ""__
+
+To determine the appropriate label for the segment ""they move a little",N
+when you re at a big angle,S,"{ ""label"": ""___"" }
+
+Let's see, the segment is """,N
+one sides hard up against it,Bs,"{ ""label"": ""..."" }
+Okay, I need to figure out the correct",N
+the other one produces a gap and so you can almost have that,S,"{""label"": ""N""}
+
+Okay, so I'm trying to figure out the",N
+could you have that front and back as well like a sort of cross,S,"[{'label': 'F'}, {'label': 'B'}, {'label': '",F
+and then you have to have all four things contacted like what you said earlier so,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""Be""}",Be
+if you draw draw four contacts that have some compliance,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""N",N
+because they re on a spring and then you have got your central four points,S,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+here this is going to be up then if you go in that planeover an angle too much ,Bs,"{""label"": ""__ANSWER__""} 
+
+Okay, so I need to figure",N
+my arg what I was trying to say before is erm,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+you could do it with one switch,S,"{""label"": ""N""}
+
+Alright, let's try to figure out the correct",N
+if if the casework say the casework is comes out f further out errm ,S,"{""label"": ""N""} Your analysis seems to be correct, but let's",N
+it may or may not work erm clears throat,Bs,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+if you what it does is you have got one switch that if its but if its on and back i it works,Be,"{ ""label"": ""..."" }
+Alright, let's try to figure out the",N
+but then if you pivot pivot this can pivot a bit but it,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+but it pivots more on the k but the case if you pivot a little bit on the c,S,"{""label"": ""___""}
+Alright, let's try to figure out the correct",N
+the case comes in contact and it starts to come away,S,"{""label"": ""...""}
+To determine the appropriate label for the segment ""the case",N
+it could be shaped so it can only be yeah so,S,"{""label"": ""...""}
+Okay, I'm trying to figure out the correct label",N
+so that so that when it it does not actually erm,Be,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+when it does not actually come away its guaranteed that its that its er that its still on the paper,Bs,"{""label"": ""N""}}
+
+To determine the label, I first looked at",N
+don t we have to very much casework,S,"{""label"": ""...""}
+To determine the correct label for the segment ""don't",N
+all I am saying is is is that the if the erm amount of movement is here,Be,"{ ""label"": ""N"" }
+
+Wait, the user provided a JSON example",N
+draws,D,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+is erm bigger than the amount of movement that erm the case,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+will allow then sort of I am not really sure that you need you need the case at all,S,"{ ""label"": ... }
+Alright, I need to figure out the correct label",N
+its just its just sort of I am just worried about this switch is going to have a tolerance factor,Be,"{""label"": ""__blank__""}
+To determine the appropriate label for the segment """,N
+so its going to be er guaranteeing that you switch off when before you come away,Bs,"{ ""label"": ""_______"" }
+Alright, let me try to figure",N
+yeah you might get a switch on the side mightn t you,S,"{""label"": ""...""}
+To determine the label for the segment ""yeah you might",N
+because what you want to have happen is,Bs,"""your answer as JSON""
+</think>
+
+{""label"":""Be""}",Be
+you need to be able to accommodate more in the mechanism than for contact purposes,Be,"{""label"": ...}
+Okay, let's try to figure out the label for",N
+because what you don t want to have happen is that they come off the print head to come off before,Be,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+yeah but there must be there must be a mechanism that,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+allows that has one switch that says everything that I need all in is in contact,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+but what is qui if you wanted to have a certain angle if you if you,S,"{""label"": ...}
+Alright, so I've got this segment: ""but",N
+had the mechanism like that,S,"{ ""label"": ""D"" }
+</think>
+
+{""label"": ""D""}",D
+so the actual pen width is so this way right,S,"{""label"": ""...""}
+Okay, let's try to figure out the correct label",N
+so you write like that but this bit you actually turn that way yeah,Bs,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+so that means if you write left han right handed,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+or if you drag right handed along the paper that way,Be,"{""label"": ""...""}
+</think>
+
+The segment ""or if you drag right-handed",N
+to be at the right angle and switched on,S,"{""label"": ""...""}
+To determine the appropriate label for the segment ""to be",N
+you will only need to touch that side,Be,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+and it will always be if it s in the right angle,S,"{""label"": ""...""}
+
+Okay, so I'm trying to figure out the",N
+it will switch on,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+because it will touch that side,S,"{""label"": ""...""}
+To determine the correct label for the segment ""because it",N
+if it s on left handed mode ie your,Be,"{ ""label"": ""..."" }
+Alright, I need to figure out the correct",N
+it would be the opposite side,S,"{""label"": ""____________""} 
+
+Wait, I think I need to figure",N
+then you have to switch on that side that switches on for the left handed,Be,"{""label"": ""S""} 
+
+But wait, the segment says: ""then",S
+that is an idea probably for a feature left or right handed mode,F,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+is that handed,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+well you ll hold it in the opposite way won t you,Be,"{""label"": ""N""}
+To determine the correct label for the segment ""well",N
+it depends on how you shape th the product as well,S,"{""label"": ""...""}
+To determine the correct label for the segment ""it depends",N
+but I think you certainly have to bear it in mind that there is you know,Be,"{""label"": ""N""} To determine the correct label for the given segment,",N
+I think I think imagine imagine this was a plot a point some line here,S,"{""label"": ""N""} To determine the correct label for the segment, I",N
+if you had to apply some force you could drag by pushing down,Be,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""Be""}",Be
+and you could also push by pushing down drag left handed or push right handed,Be,"{""label"": ...}
+
+Okay, I need to figure out the label for the",N
+followed by a force,Be,"{""label"": ""N""}
+</think>
+
+The segment ""followed by a force",N
+remember there does not have to be something happening did you say,Be,"{""label"": ""...""}
+To determine the label for the given segment, I need",N
+yeah erm the force is not necessarily erm,Be,"[{'label': 'N'}]
+</think>
+
+{""label"": ""N""}",N
+but it s,S,"{""label"": ""N""}
+
+Okay, let's see. I need to figure",N
+in that axis is it,S,"{""label"": ""__blank__""} 
+
+Wait, the user wants me to assign",N
+but it s about it s about the angle being right,S,"{""label"": ""__answer__""}
+}
+
+Okay, so I need to figure out",N
+switching the if you if you make sure that the angle if the angles in the right way then it switches on,Be,"{""label"": ""...""}
+Okay, let's try to figure out the correct label",N
+so it will switch on when its like that I suppose it will still switch on,Be,"__ ""__
+
+Alright, I'm trying to figure out the correct label for this",N
+when its like that wont it,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+so if that is if you come to a tilt here right then the head can come out ,Be,"{ ""label"": ""..."" }
+To determine the correct label for the given segment",N
+you design it so the head,S,"{ ""label"": ""...""}
+To determine the correct label for the segment ""you",N
+and its still in contact with the paper,Be,"{ ""label"": ""..."" }
+Alright, I need to figure out the correct",N
+and everything s hunky dory but it has come forward a distance,S,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+and and that can be that can be where it switches off,Be,"[{'label': 'F', 'label': 'B', 'label': '",F
+and then you can carry on if you carry on with this,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+and this and this is where you know this is where it can t errm accommodate that wrong angle,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+then then its switched off anyway,Bs,"{""label"": ""N""}}
+</think>
+
+{""label"": ""N""}",N
+just a straight just a straight switch here,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+based based on this based on this distance there is a switch here,S,"{""label"": ""...""}
+Okay, so I need to figure out the label for",N
+there is a few of those is not there,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+there is a switch there,S,"{""label"": ""S""} 
+
+Okay, let me go through this step by",S
+and then its got a certain travel you know,Be,"""your answer""
+
+Okay, I'm trying to figure out the correct label for",N
+a certain tolerance it works,Be,"{ ""label"": ""___"" }
+</think>
+
+The segment ""a certain tolerance",N
+it s it s either on or off between here or here,Be,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+there is another you could in various ways imagine a sort of disc idea,S,"{""label"": ""S""} {""label"": ""N""} {""label"": """,N
+which could be anything actually anything fastened to this and rotating,S,"{ ""label"": ""..."" }
+Okay, so I need to figure out what",N
+you just put a window in there somewhere,S,"{""label"": ""__answer__""}
+</think>
+
+To determine the appropriate label for the",N
+and poke a through it in that direction,S,"{""label"": ""...""}
+Alright, let me try to figure out the correct label",N
+so one edge defines too far right one edge too far left,S,"{""label"": ""_______""}
+</think>
+
+{""label"": ""D""}",D
+chop off,S,"{""label"": ""__blank__""}
+</think>
+
+The segment ""chop off""",N
+so there is two ideas,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+that is that is quite good there is either a mechanical,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+there is there is so there is this is erm so you can switch on erm on the vertical ,S,"{""label"": ""N""} 
+
+Wait, but according to the first example,",N
+or switch,Bs,"{""label"": ""N""}
+
+But wait, the segment is 'or switch'.",N
+so there is a minimum travel,Bs,"{""label"": ""...""}
+To determine the appropriate label for the segment ""so there",N
+on on angular,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+switch on and off yeah,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""switch on",N
+could you have the switch between the outer sleeves and this centre bit,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""D",D
+so if its gone beyond this outer sleeve then it switches off where as if its ,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+where as its if its too far in its switched off as well,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+so the edges here when they re when they re roughly at the same angle,S,"[“label”, “”]
+</think>
+
+{""label"": ""D""}",D
+so when these two are in contact so they re either level or slightly behind it,S,"{""label"": ""N""}
+
+Wait, why is this ""N""? Let me",N
+then they can be on,Bs,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+but if its too far out it wont be on,Bs,"{ ""label"": ""..."" }
+Okay, I need to figure out the label",N
+because its erm not touching,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+these erm outer sleeves and if its too far in,S,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+it also wont be working,Bs,"{ ""label"": ""D"" }
+</think>
+
+{""label"": ""D""}",D
+because they don t touch this outer angle here,S,"{ ""label"": ""..."" }
+
+Alright, I need to figure out the correct",N
+yeah I think there is going to be loads of ways to low cost switch,Bs,"{""label"": ""N""}
+
+Alright, let's break down the segment: """,N
+depend upon final weight of the final mechanism,S,"{""label"": ...}
+Okay, so I have this segment to label: """,N
+yeah the point is that you can get away with an on switch,S,"{""label"": ""S""} 
+
+Okay, let me try to understand why this",S
+but can we also are there any other ways of floating this head that you can think of perhaps,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+you could stick rather than springs and things,S,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+you could just stick it on a on a rubbery pack or a film,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+sketching spring,D,"{ ""label"": ""S"" }
+
+Wait, but in the examples, '",S
+I er,D,"{""label"": ""N""}
+
+Okay, I need to figure out what label to",N
+they start doing this sheath that hits first,S,"{""label"": ""N""}
+
+Okay, so I need to figure out what label",N
+so th if you fix that sheath onto a plunger that is sprung in a syringe,S,"{""label"": ""S""} To determine the correct label for the given segment,",S
+when you push that in you have to push the air like that through a very small hole,Bs,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+so you can t do it quickly,Bs,"{""label"": ""...""}
+To determine the appropriate label for the segment ""so you",N
+so you can t shock that thing,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""so you",N
+that ll slo slow down and then it will slowly move back,Bs,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+yeah but then when you erm take it off the paper it quickly pings back,Bs,"{ ""label"": ""S"" }
+
+Alright, so I need to figure out",S
+because this is a one way valve,Bs,"{""label"": ""N""}
+
+Okay, let's break this down. I need",N
+just a bit of rubber a flap of rubber,S,"{""label"": ""...""}
+Okay, I need to figure out the label for the",N
+they will be air in there,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+so that spring quickly returns it back down to it s protective position,Bs,"{""label"": ""...""}
+Alright, let's tackle this segment labeling task. I",N
+so bang it down its protected force will come on slowly,Bs,"""your answer""
+Okay, so I need to figure out the label for this",N
+but as soon as you take it off it pings back,Bs,"{ ""label"": ""______"" }
+
+To determine the correct label, I",N
+so its just good point actually clears throat,Bs,"{""label"": ""N""}
+
+To determine the correct label for the given segment,",N
+I was just thinking that relatively the carrier that the print head is on is quite heavy,Bs,"{ ""label"": ""_______"" }
+</think>
+
+The segment mentions that the",N
+so if we moves it round masks speech contact with the surface,S,"{ ""label"": ""___"" }
+To determine the correct label for the segment",N
+its going to have quite a bit of momentum still so erm,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+quite hard or something that its pressed onto,Be,"{ ""label"": ""..."" }
+Alright, let's tackle this problem step by",N
+yeah it needs to it needs to be protected,Be,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+so it can t travel further forward it can only go backwards,Bs,"{""label"": ""...""}
+Okay, I need to figure out how to label the",N
+yeah we don t want it to come off anything,Be,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+or it could hinge forward under its own momentum,S,"{ ""label"": ""___"" }
+
+To determine the correct label for the segment",N
+and then sort of smash onto something,S,"{""label"": ""...""}
+To determine the appropriate label for the segment ""and then",N
+the only other thing here it s a spring,S,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+imagine that is imagine that touches the paper bangs it ,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+protected the bottom bangs twice,Be,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""D""}",D
+there is two forces there is not there bangs it,Be,"{ ""label"": ""___"" }
+
+Okay, so I need to figure out",N
+there is sort of the momentum of the thing itself,Bs,"{""label"": ""...""}
+To determine the appropriate label for the segment ""there is",N
+yeah its not going to be anything like this heavy is it,Be,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+no well as I say you need to shock that down ,S,"{""label"": ...}
+Alright, so I need to figure out the correct label",N
+you re smash you re gonna smash the edge of this protective sheath before this does anything in here,Be,"{""label"": ""___""}
+To determine the correct label for the given segment,",N
+yeah also they re not that made out of ceramic and glass,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+mmm I think that is I think that the other other protective thing,F,"{""label"": ""N""}
+
+Wait, why is that? Let me think again",N
+is whether they smash it off the table before momentum,Be,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+It s not it s not really kids sort of erm err throwing,Be,"{""label"": ""___""}
+</think>
+
+{""label"": ""D""}",D
+it down its also people dropping it,Be,"{""label"": ""...""}
+To determine the correct label for the segment ""it down",N
+yeah if they bang it into concrete really hard,Be,"{""label"": ""S""}
+
+
+Okay, let me think about this. So",S
+yeah but as I was saying if it was spring loaded,S,"{ ""label"": ""..."" }
+Okay, so I need to figure out what",N
+then you can smash the edge of this,Bs,"{""label"": ""...""}
+Alright, I need to determine the correct label for the",N
+cos this is as soon as the force gets to here this is inside it so,Bs,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""N""}",N
+or whatever that we could perhaps achieve holding this thing flat to the surface,Be,"{""label"": ""S""} {""label"": ""D""} {""label"": """,D
+the foam pads is an idea actually you could imagine,S,"{ ""label"": ""S"" }
+
+Wait, the user provided a labelling",S
+a foam pad with an aluminium carrier on the front of it,S,"{ ""label"": ""..."" }
+Okay, so I've got this segment:",N
+and the print head fastened to that,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+and it can just squidge around,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+so yeah that would work,Bs,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+it would also give you some a really cheap way,Bs,"{ ""label"": ""S"" }
+
+Wait, but the segment is ""it",S
+of achieving a reasonable force,Be,"{""label"": ""...""}
+To determine the appropriate label for the segment ""of achieving",N
+a great density foam,S,"{""label"": ""__answer__""}
+To determine the correct label for the segment """,N
+that could give you the force of the print head,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""S""}",S
+it could just recoil far enough it s a good idea actually,Bs,"{""label"": ""__ANSWER__""}
+</think>
+
+To determine the correct label for",N
+that could work,Bs,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+a big sponge,S,"{""label"": ""N""}
+
+Okay, let's see why. The segment is",N
+draws,D,"{""label"": ""Be""}
+</think>
+
+{""label"": ""Be""}",Be
+aluminium print head on the bottom all connected,D,"{ ""label"": ""..."" }
+
+Okay, so I have this segment: """,N
+I reck I reckon you move it around,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+yeah well you put this,S,"{""label"": ""N""} Why?
+</think>
+
+{""label"": ""N""}",N
+and it will just erm you have got spring and you have got some lovely,S,"{""label"": ""N""}}
+
+I need to figure out why the segment is",N
+could you even take that one further,S,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+like you could build the foam around the print head,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""D",D
+so you d have to press the foam back to actually reveal the print head in the first place,Be,"{ ""label"": ""_______"" }
+</think>
+
+The segment ""so you",N
+so it almost wraps round a little bit,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+so if you go like that bang the foam needs to,Be,"__ ""__
+
+Alright, I need to figure out the correct label for the given",N
+perhaps not wrapped around to the extend in front of the housing,S,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+so that you know you need to press the foam,Bs,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+bit in before you actually start touching it,Bs,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+yeah you need the foam,S,"{""label"": ""...""}
+To determine the label for the segment ""yeah you need",N
+to do some damping,Bs,"{""label"": ""__blank__""} 
+
+What is the correct label for the segment",N
+so that is got to go somewhere,S,"{""label"": ""N""} Why? The segment mentions that ""so that is",N
+yeah you need the foam to have tha that sort of this sort of,S,"{""label"": ""...""}
+}
+
+Okay, I need to figure out which label",N
+where where it does not want to move fast,Be,"{""label"": ""...""}
+To determine the correct label for the segment ""where where",N
+well has to be down,S,"{""label"": ""N""}
+
+Wait, why is that? Let me think again",N
+we could we could have some sort of air bladder,S,"{ ""label"": ""...""} To determine the label for the segment ""we could",N
+I think it probably could be rubber,S,"{ ""label"": ""___"" }
+
+To determine this, I will think about",N
+obviously,S,"{""label"": ""N""} because the segment is irrelevant or vague.
+</think>",N
+yeah the stuff they make wrist supports for erm,S,"{""label"": ""__blank__""}
+</think>
+
+The segment ""yeah the stuff they",N
+like the jelly stuff,S,"{""label"": ""__N__""}
+</think>
+
+{""label"": ""__N__""}",N
+yeah the gel,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+yeah well gel does that,Bs,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+yeah techno gel,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+the only p gel,S,"{""label"": ""__N__""}
+</think>
+
+The segment ""the only p gel",N
+we ve talked a little about air cushions,S,"{""label"": ""__answer__""}
+Okay, let's try to figure out the",N
+and the sort of syringe type mechanism,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""Be""}",Be
+any other ways that we could use sort of air pockets of some sort to,S,"{ ""label"": ""..."" }
+Okay, so I need to figure out the",N
+you could make a magnetic force it in the middle,S,"{""label"": ""...""}
+To determine the correct label for the segment ""you could",N
+pellets,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+so it stays sort of stays,Bs,"{""label"": ""...""}
+To determine the correct label for the given segment, let",N
+pushed into it yeah you could do something like that,Bs,"{ ""label"": ""N"" }
+</think>
+
+The segment ""pushed into",N
+magnets not cheap,Bs,"{""label"": ""N""} Explanation: ""magnets not cheap"" is",N
+air pockets are much cheaper,Bs,"{""label"": ""...""}
+To determine the appropriate label for the segment ""air pockets",N
+well that does not have to be that could be a balloon inside,S,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+yeah you could put a it on a pneumatic bladder in,S,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+yeah or like a sort of bridge,S,"{""label"": ""__blank__""}
+
+
+Okay, I need to figure out the",N
+or you could do what they do in an old fashioned mouse not optical mouse,S,"{ ""label"": ""...""}
+Okay, so I'm trying to figure out the",N
+with the b ball,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""D""}",D
+just use gravity because it s own weight makes it roll on the mouse mat,Bs,"{""label"": ""...""}
+Okay, so I've got this segment to label:",N
+that would work,Be,"{""label"": ""N""} because the segment 'that would work' doesn't",N
+five hundred grams is that wh is that the,S,"{""label"": ""...""}
+To determine the label for the segment ""five hundred grams",N
+oh you need five hundred grams OK that is fi,S,"{""label"": ""...""}
+Okay, I need to figure out the correct label for",N
+you need five hundred grams,S,"{""label"": ...}
+Okay, let me try to figure this out. I",N
+how far s five hundred grams,Bs,"{ ""label"": ""..."" }
+Okay, so I have this segment: """,N
+er er yeah if you take it to twenty mill,S,"{ ""label"": ""..."" }
+Okay, I need to figure out the correct",N
+sort of half the compression that will be,Bs,"{ ""label"": ""..."" }
+Okay, I'm trying to figure out the",N
+I did not realise what this was this is a prototype,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+it s a prototype model,S,"{""label"": ""__blank__""}
+</think>
+
+{""label"": ""N""}",N
+it s not really a prototype,S,"{""label"": ""N""}.
+</think>
+
+{""label"": ""N""}",N
+well its test,Bs,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+to explore,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+why do you need that force,Be,"{""label"": ""__ANSWER__""}
+</think>
+
+The segment ""why do you",N
+err expensive,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+for contact is it,Bs,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+well if you well if you well if you have got heat here,S,"{""label"": ""N""}
+
+Alright, let's try to figure out the correct",N
+and here its zero contact is not it,S,"{""label"": ""...""}
+To determine the correct label for the given segment, I",N
+yeah so you need quite a strong contact basically,Bs,"{""label"": ""...""}
+</think>
+
+{""label"": ""N""}",N
+well if you have got a so if you go to ten mils instead of five,S,"{""label"": ""S""} 
+
+Okay, so the task is to assign one",S
+well then you re going to have a,S,"{ ""label"": ""D"" }
+</think>
+
+{""label"": ""D""}",D
+a switch on,S,"__________
+
+Okay, so I have this problem where I need to assign one",N
+that is what one of the questions was the other switch goes past there we want to wa,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+one you re inside the protective thing,S,"{""label"": ""____________""}
+</think>
+
+{""label"": ""S""}",S
+two it s not got power,S,"{ ""label"": ""..."" }
+</think>
+
+The segment ""two it s not",N
+this is really difficult is not it,Bs,"{""label"": ""N""}
+
+Wait, but I need to make sure I'm",N
+yeah it will be like that,Bs,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+but its very similar,Bs,"{""label"": ""N""} because the segment clearly does not fit any of the",N
+it s just for the skilled personnel to use in their lab,Bs,"{""label"": ""N""}
+
+Explanation: The segment mentions 'skilled personnel'",N
+the print quality in a way,Bs,"{""label"": ""S""}
+</think>
+
+{""label"": ""S""}",S
+what is the range of angles,Be,"{""label"": ""N""}
+
+To determine the label of the segment ""what is",N
+it s just to measure what you what the parameters are,S,"{""label"": ...}
+Alright, let's tackle this problem. I need to",N
+if you like it s just its just to give us some guidance,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""Be""}",Be
+so what we re talking about is is err where rather than having that as the range of movement,Bs,"{ ""label"": ""..."" }
+Okay, I need to figure out the correct",N
+we re talking about having a thing like a spring which,S,"{""label"": ""S""}
+
+Okay, let's see. I need to figure",S
+like a millimetre or so,S,"__ ""__
+
+Okay, I need to figure out the correct label for the segment",N
+yeah yeah but then you have got to stop stop further down,S,"{ ""label"": ""_______"" }
+
+Okay, so I need to figure",N
+yes from what we were talking about its actually the moving bit,S,"{ ""label"": ""..."" }
+</think>
+
+The segment describes an action occurring in",N
+it s actually much easier because this bit you have got the moving bit,Bs,"{""label"": ""...""}
+Okay, I need to determine the correct label for the",N
+that affects position,S,"{""label"": ""__answer__""}
+</think>
+
+{""label"": ""N""}",N
+what we re really talking about is that the print head will be struck,Be,"{""label"": ""N""} Why?
+
+The user is referring to ""print head",N
+that is easier to use,Bs,"{ ""label"": ""___"" }
+</think>
+
+To determine the correct label for",N
+yeah to make this to make this the same,Be,"{""label"": ""___""}
+</think>
+
+{""label"": ""D""}",D
+you d have to you d have to extend a cylinder over this thing,S,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""D""}",D
+and then the and then the cylinder would come to a stop,S,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""D""}",D
+yeah and so its going to be a much more compact version of that,S,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""D",D
+where it will only move maybe a couple of millimetres erm,Bs,"{""label"": ""...""}
+To determine the correct label for the segment ""where it",N
+and then it would be an outer casement,S,"{""label"": ""______""}
+Okay, so I have this segment to label",N
+so you could continue to drag the along,Bs,"{""label"": ""...""}
+To determine the appropriate label for the given segment, I",N
+still get a sense of the force,Be,"{ ""label"": ""S"" }
+</think>
+
+{""label"": ""S""}",S
+actually five hundred grams,S,"{""label"": ""N""} 
+
+Wait, I think I'm missing something.",N
+that means this sort of thing is not going to work,Bs,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+oh no it means this has got to be more than five hundred grams to push that back,Bs,"{""label"": ""...""}
+To determine the appropriate label for the given segment, let",N
+if you had a sheath,S,"{""label"": ""...""}
+Alright, let me try to figure out the correct label",N
+you have to press that has to be more than fi ou,Bs,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""N""}",N
+have to make it come back,Be,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""D""}",D
+and provide an extra five hundred grams,S,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+it depends what the sheath is doing,Be,"{ ""label"": ""..."" }
+
+Okay, so I need to figure out the",N
+if the sheath has if the sheath has a sprung sheath,S,"{""label"": ""...""}
+Alright, so I need to figure out the correct label",N
+then you have got to overpower that and,Be,"""your answer as JSON""
+
+Okay, so I need to figure out the correct",N
+another five hundred grams,S,"{""label"": ""...""}
+Okay, let's try to figure out the label for",N
+erm but most the value in the sheath,Bs,"__ ""__
+
+Okay, so I need to figure out the correct label for the",N
+might be to protect against kind of catching sideways edges and things,Bs,"{ ""label"": ""..."" }
+Okay, so I've got this task to",N
+it does not work this sheath does it,Bs,"{ ""label"": ""..."" }
+
+Okay, so I've got this segment to",N
+well it does work but it just means you got to press harder does not it,Be,"{""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+well only if its yeah but does it,Be,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N
+the sheath,S,"{""label"": ""...""}
+Okay, so I need to figure out the correct label",N
+provides the spacing,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+yeah it does not have to be heavy,Bs,"{""label"": ""__N__""}
+</think>
+
+{""label"": ""__N__""}",N
+five hundred grams is not very much,Bs,"__{""label"": ""D""}__
+</think>
+
+{""label"": ""D""}",D
+is there five hundred grams,S,"{""label"": ""N""} Why? Because the segment clearly does not fit any",N
+well is there anything else,S,"{ ""label"": ""___"" }
+</think>
+
+{""label"": ""N""}",N
+quite a lot erm it is a lot is a lot for a pen,Bs,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""Be""}",Be
+that is true,Bs,"{""label"": ""N""}}
+</think>
+
+{""label"": ""N""}",N
+and then you have got all the batteries,S,"{""label"": ""S""}
+
+Wait, the segment says ""and then you have",S
+you could just make the make the whole thing a kilogram in weight,S,"{""label"": ""N""} To determine the correct label for the segment ""you",N
+five hundred grams for the whole thing laugh,S,"{""label"": ""...""}
+To determine the appropriate label for the segment ""five hundred",N
+the shape of it,S,"{""label"": ""...""}
+</think>
+
+{""label"": ""Be""}",Be
+cos can you press with a pen five hundred grams easily,Bs,"{ ""label"": ""...""}
+To determine the appropriate label for the segment ""cos",N
+you can press twenty mils now,Bs,"{""label"": ""N""}
+
+
+Okay, let me think through this step by",N
+yeah that is twenty mils up,S,"{""label"": ""__N__""}
+</think>
+
+The segment ""yeah that is twenty",N
+yeah but if its out of the ring out of the ring like Tony was saying,S,"{""label"": ""N""}
+
+Wait, but Tony was saying something about the ring",N
+its apparently easier,Bs,"{""label"": ""N""}
+</think>
+
+{""label"": ""N""}",N
+and the its not tha yeah its just like you said its just holding it is not it,Be,"{""label"": ""...""}
+Alright, I need to figure out the correct label for",N
+it will pay for itself that kind of thing,Bs,"{ ""label"": ""...""}
+</think>
+
+{""label"": ""D""}",D
+in this direction,S,"{""label"": ""D""}
+</think>
+
+{""label"": ""D""}",D
+it depends a lot on the friction between the print head and the paper,Bs,"{ ""label"": ""___"" }
+</think>
+
+The segment ""it depends a",N
+it depends on the weigh the weight of the thing,Bs,"{""label"": ""...""}
+Okay, I need to figure out what label to assign",N
+cos that makes it really hard,Bs,"{""label"": ""N""} 
+
+Wait, but I'm not sure why it",N
+if its straight down then and deals with the print head,S,"{""label"": ""...""}
+To determine the appropriate label for the segment ""if its",N
+if we push down like this,Be,"{""label"": ""S""}
+
+Wait, why is that? Let me try to",S
+to force to keep the paper still,S,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""S""}",S
+you have got to you have got to keep the paper still,S,"{""label"": ""...""}
+To determine the correct label for the segment ""you have",N
+the friction between this and this that holds that,Bs,"{ ""label"": ""..."" }
+
+Okay, so I'm trying to figure out",N
+yeah that is true yeah the friction will be about a third,Bs,"{ ""label"": ""..."" }
+</think>
+
+{""label"": ""N""}",N
+or something at least one hundred grams one hundred grams of paper across the table,Bs,"{ ""label"": ""_______"" }
+</think>
+
+{""label"": ""S",S
+so if this is maybe a kind of a book,S,"{ ""label"": ""N"" }
+</think>
+
+{""label"": ""N""}",N

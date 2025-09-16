@@ -1,0 +1,2387 @@
+UTTERANCE,TRUE_LABEL,RESPONSE,PRED_LABEL
+what s quite important is its about the thermal incli inclis pen,F,"{""label"": ""N""}  # No answer
+{""label"": ""N",N
+but its also about the media,S,"{""label"": ""N""}  // no category clearly applies
+```python",N
+so its the interaction between the special paper and the thermal pen basically ok,Be,"{""label"": ""S""}  # Your answer here
+```python
+import",S
+but I know quite a lot of the briefing openly focuses about the print and things like that and obviously that is a key aspect of the brainstorm,F,"{""label"": ""N""}  // irrelevance or off-topic  answer",N
+but we should also not forget that the paper is involved in all of this as well,S,"{""label"": ""S""} 
+
+Explanation:
+The segment mentions 'paper', which",S
+the one on the top left is the one that is the real main,Be,"{""label"": ""F""}  # or one of the other labels, as",F
+focus of the of what we re doing today,Be,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+that is the standard plain thermal paper err and then it can draw,F,"{""label"": ""S""}  // structure (material/configuration)  #1",S
+its either atoms or line types er,Be,"{""label"": ""N""}  # No clear category applies
+```python",N
+so for the process of making this prototype that is going to help us sell the project that is the concept really err design a a prototype umm,F,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+the other ideas on the paper there were other concepts for a thermal pen which erm may form the ultimate product,Be,"{""label"": ""N""}  // no clear category, irrelevant to the current",N
+but are not what we re going to prototype first,Be,"{""label"": ""N""}  // no clear category
+```python
+import",N
+erm so we may want to talk about those later,Be,"{""label"": ""N""}  # No clear category matches. The segment is",N
+as a sort of broader,Be,"{""label"": ""N""}  # no match for any category
+```python",N
+spectrum,Be,"{""label"": ""S""}  # because it is a material or part name",S
+spectrum but the main focus is that style pen,F,"{""label"": ""S""}  // You can modify this line
+```python",S
+where you will create a set of patterns by moving on plain white paper,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+will this be in colour,Be,"{""label"": ""N""}  # no clear category matches
+```python",N
+yeah well we should the impetus for this is that erm clients come up with this new rainbow media,S,"{""label"": ""F""}  # Correct
+Explanation:
+The segment describes the",F
+and we can print thermo reactive dyes onto er,F,"{""label"": ""S""}  // Structure (materials, parts, configuration)",S
+media substrates and then when you heat them up they cool to reach the colour they re supposed to be,Be,"{""label"": ""S""}  # media substrates is a material/parts",S
+so erm we have done some test prints on this erm been tested by the HP boss,Bs,"{""label"": ""F""}  # Explanation: The text mentions a purpose/go",F
+and playing with erm hot air miraculously a colour image appears erm out of a blank sheet of paper,Bs,"{""label"": ""N""}  # No clear category. JSON answer: {""",N
+so providing we could provide a heat source,S,"{""label"": ""F""}  # Correct label: Function (purpose/goal",F
+then we could reveal anything which is printed on the paper,Bs,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+```",N
+now erm technically that is more demanding,Be,"{""label"": ""N""}  # No clear category
+```python
+def",N
+because energising the entire printout takes time,Bs,"{""label"": ""Bs""} 
+Explanation:
+- The segment clearly indicates a reason",Bs
+hammers the batteries and its quite a demanding thing to do,Bs,"{""label"": ""Be""}  // because 'demanding' is an adjective",Be
+so technically the stuff where you have got a low percentage fill sort of faces and text and things like that is a lot more realisable,Be,"{""label"": ""F""}  # or any other valid label
+```",F
+but if we could do that with the media,S,"{""label"": ""N""}  # No category clearly applies
+```
+import",N
+whether we could do that with this adaptation I don t know,Bs,"{""label"": ""N""}  # irrelevant/vague/opinion
+Segment:",N
+the one on the right the one on the right does not actually have to be a thermal pen it could just be,Be,"{""label"": ""N""}  // No label applies, the text is off",N
+it could be a soldering iron,S,"{""label"": ""S""}  # Explanation:  The segment describes a part",S
+or a hot air,S,"{""label"": ""S""}  // Steel barrel with replaceable cartridge. ->",S
+but basically th the focus is on that at the moment and basically th the idea is that there is a thermal print out in in the nib of the pen,Be,"{""label"": ""F""}  # (Why/purpose) 
+END",F
+whichever shape that takes now with that concept,S,"{""label"": ""N""}  // no clear match
+```python
+import",N
+there are a number of specific problems that need to be overcome,Be,"{""label"": ""F""}  # correct
+Explanation: The segment indicates a",F
+so basically the first problem that we need to think about is the wobbly arm movement of the users,Be,"{""label"": ""N""}  # No relevant information about the product's function",N
+this is aimed at potentially but not exclusively at five to eleven years olds,F,"{""label"": ""F""}  // Why is the text aimed at children?",F
+who have some writing skill but not fantastic writing skill they re likely to hold the pen different ways errm different angles etcetera and,BS,"{""label"": ""N""}  # no clear function, expected behaviour, structure",N
+so ther there is two important things,Be,"{""label"": ""N""}  // No clear function, expected behaviour, structure",N
+one is with respect to that in this concept one is that that the printout needs to stay in contact with the thermal print paper to actual print,S,"{""label"": ""F""}  # end JSON answer
+
+Explanation:
+The segment",F
+so there needs to be this contact maintained,Be,"{""label"": ""F""} 
+
+Explanation:
+The segment indicates that there needs to",F
+and the other thing is the printout needs to stay in the right angle to print as well,S,"{""label"": ""F""}  # or Be/Bs/S if you think",F
+so we need to think of designs that actually erm help to do that,Be,"{""label"": ""F""}  # Function (purpose/goal) - """,F
+even though the user is not capable of keeping exactly the right shape or weight,Be,"{""label"": ""N""}  // no clear category applies, vague opinion",N
+is to come up with some ideas as to other products or situations where a product,Bs,"{""label"": ""F""}  // or another label from the list
+```",F
+needs to follow a contour,Be,"{""label"": ""F""}  # Correct, because the segment describes the purpose",F
+or needs to be able to adjust itself keeping itself in the same alignment,Be,"{""label"": ""F""}  # or: {""label"": ""Be""}",Be
+even thought the user might be moving things about did anybody come up with any ideas on that,Be,"{""label"": ""N""}  # no clear purpose or behaviour mentioned
+```",N
+is it only paper you re thinking about or could it be other things like mugs or fabric or pottery,S,"{""label"": ""N""}  // no clear function or expected behaviour or structure",N
+it could be anything,S,"{""label"": ""N""} 
+Explanation: This segment is vague and does not",N
+it could be anything,S,"{""label"": ""N""}  # no match
+```python
+import json",N
+yeah I guess it could be all those,S,"{""label"": ""N""}  # No answer
+Error: Invalid answer.",N
+I ended up with the hold on sledge,S,"{""label"": ""S""} 
+
+Explanation:
+The segment describes the material or part",S
+the sledge excellent,Bs,"{""label"": ""S""}  # Structure (no behaviour claim, material name",S
+write sledge,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so what did that generate then,Bs,"{""label"": ""N""}  # No clear function, expected behaviour, or",N
+the sledge manages to keep level,BS,"{""label"": ""Be""} 
+Explanation:
+- The segment is about the s",Be
+by having quite a wide base,S,"{""label"": ""S""}  // Structure
+Explanation:
+The segment describes the",S
+write wide base,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+a main force in the middle,BS,"{""label"": ""S""}  // Explanation: The segment describes the structure of",S
+unlike the set of skis,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+where quite narrow and you go up on an edge when you re turning,Bs,"{""label"": ""N""}  # no category clearly applies
+```python",N
+the sledge is er quite broad,S,"{""label"": ""N""}  # No matching category for this segment
+```",N
+and then you have the weight right in the middle so they manage to keep both runners on the snow,BS,"{""label"": ""S""} 
+Explanation:
+The segment describes the physical structure of",S
+write force in middle,D,"{""label"": ""F""}  # purpose/goal
+Explanation: The segment",F
+more often than say a sledge or a snowboard a skis or snowboard,S,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+so so would you potential see some some some guiders almost down the side of this,S,"{""label"": ""N""}  # no clear function, behaviour, or structure",N
+well I guess the easiest way to keep the pen at a right angle would be,Be,"{""label"": ""N""}  // No clear relation to the labelling categories",N
+to have a set of stabilisers on it,S,"{""label"": ""S""}  # Segment is about the configuration of the product",S
+based on the idea of a sledge,Be,"{""label"": ""S""} 
+Explanation: The segment describes the idea of a",S
+yeah no problem stabilisers like a bicycle yeah that is a good idea,S,"{""label"": ""N""}  // irrelevant, off-topic, vague opinion,",N
+write stabiliser,D,"{""label"": ""Bs""}  # Behaviour from Structure
+```python
+import",Bs
+I was thinking that is sort of maybe like a flat base with a sort of universal joint like a windsurf mast,S,"{""label"": ""S""}  // flat base and universal joint are parts of",S
+yeah write Universal base ,D,"{""label"": ""S""} 
+
+Explanation:
+The segment is about the structure of",S
+if the is like this it stays flat but the bit you hold onto can be at,Bs,"{""label"": ""S""} 
+Explanation:
+The segment is describing the structure of",S
+different angles,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+I guess the size of the thing in contact with the paper you could either have a very small contact area,S,"{""label"": ""S""}  // Size of the thing in contact with the",S
+and er track where it goes or you can have a wide contact area,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+show the relative size of the pen clears throat if you have got an example because that is,S,"{""label"": ""N""}  # No clear function, behaviour, structure or",N
+look at the end of that,S,"{""label"": ""N""}  # No clear label matches the segment. The",N
+size is dictated by cost really it needs to be quite narrow,S,"{""label"": ""<F|Be|Bs|S|D|N>",N
+I imagine it to be that,S,"{""label"": ""N""}  # no category applies
+```
+Explanation:",N
+could be a that way,S,"{""label"": ""N""}  # no category applies
+```python
+import",N
+lets just use that as guidance but let us,S,"{""label"": ""N""} 
+
+Explanation:
+This segment does not clearly fit into",N
+tip of that,S,"{""label"": ""S""}  // tip of that is a structural part reference",S
+rather than the rest I would suggest,S,"{""label"": ""N""}  // no clear category matches
+```python",N
+it can be te ten mil across,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+it s a erm its not an edge one then it s a it s a on the flat there,S,"{""label"": ""N""}  // no clear category applies
+```
+
+###",N
+are two flats printing are not there more than one,S,"{""label"": ""F""}  # or any other label if you think it",F
+one,S,"{""label"": ""N""} 
+
+Segment:
+The printer is designed to print leg",N
+while drawing if I where yeah the resistors sit on the lump there,S,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+draw refE1_15 Flipchartjpg top 1,D,"{""label"": ""N""}  // your answer here
+```python
+def",N
+and you have got the type where the resistors sit on this corner here,S,"{""label"": ""S""} 
+Explanation:
+The segment describes a structural aspect of",S
+draw refE1_15 Flipchartjpg top 2,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+it s a corner one,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+it s a corner one,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+no its not cheap,Bs,"{""label"": ""N""}  # irrelevant/vague opinion
+```
+
+This",N
+it ll be about fifty percent more expensive,Bs,"{""label"": ""F""}  #  #  #  #  #",F
+yes this there is an end,S,"{""label"": ""N""}  # No clear category, irrelevant/vague.",N
+there is an end that goes over the paper is not there is sort of thing,Be,"{""label"": ""N""}  // no category matches
+```python
+import",N
+there is a type that does this as well though,S,"{""label"": ""N""}  # no matching category
+```python
+import",N
+draw refE1_15 Flipchartjpg middle overlap left,D,"{""label"": ""S""}  // Replace with your answer.  // Do",S
+but they type that we have got is like this but in actual fact its much more biased towards the edge,S,"{""label"": ""N""}  // No clear category, vague opinion
+```",N
+so you normally have a a slight angle here,S,"{""label"": ""S""} 
+Explanation:
+The segment is describing a structural aspect",S
+right so easiest thing obviously draws on flip chart,S,"{""label"": ""F""}  # or any other valid label
+```",F
+yeah the the typically what you do is you have got foil going over and,S,"{""label"": ""S""} 
+Reasoning: The text describes a material,",S
+you get quite a lot you know you can have quite a lot of angle there,S,"{""label"": ""S""}  // structure, part names: 'angle'",S
+draw angle,D,"{""label"": ""F""}  # or another appropriate label from the set F",F
+so we were talking mostly about that one or that one,S,"{""label"": ""N""}  // irrelevant/vague opinion/off-topic
+================================",N
+that one sort of plus or minus,S,"{""label"": ""N""}  # No category clearly applies.
+```python",N
+all these you have to keep flat or long,S,"{""label"": ""S""} 
+Explanation:
+The segment describes a structural requirement or",S
+its just its just whether we need flat or long,S,"{""label"": ""N""}  // or one of the other labels if applicable",N
+both axes,S,"{""label"": ""S""} 
+
+Explanation:
+The segment is a description of axes",S
+both axes,S,"{""label"": ""S""} 
+
+Explanation:
+The segment is describing a characteristic of",S
+yeah I think we do well we need guidance on both axes whichever way,S,"{""label"": ""N""}  // irrelevant/vague/opinion/off-topic",N
+you do it I think,S,"{""label"": ""N""}  # (inseparable, vague, off",N
+you have like you have like a hot ball a hot ball like a ball point pen,S,"{""label"": ""N""}  # irrelevant/vague/opinion/off-topic",N
+draw circle draw refE1_15 Flipchartjpg middle,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and then you had a tracker like an optical mast then,S,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+```",N
+draw box draw refE1_15 Flipchartjpg middle,D,"{""label"": ""S""}  // Replace this with your answer. 
+```",S
+I think that picture where you re moving a pen across the paper in sort of patterns repeating patterns,Be,"{""label"": ""S""} 
+Explanation:
+This segment is a description of the",S
+instead of doing it all in one go like a wide printer would do it will just do a thin line at a time,Bs,"{""label"": ""F""}  // or another label from [F, Be",F
+draw refE1_15 Flipchartjpg bottom,D,"{""label"": ""S""}  # (choose the label you think is correct",S
+but when you scribble backwards and forwards it,Bs,"{""label"": ""N""}  // you may need to adjust this
+```",N
+would build up and use that tracking capability to do that,Bs,"{""label"": ""F""}  # would build up and use that tracking capability",F
+draw refE1_15 Flipchartjpg bottom,D,"{""label"": ""S""}  // Your answer here
+```python
+import",S
+and you would not have the angle problem,S,"{""label"": ""N""}  // No clear match, irrelevant to the segment",N
+yeah the problem is that printing on the ball,S,"{""label"": ""S""} 
+Explanation: 
+The segment describes a part (",S
+we thought the ball could just be you could just sort of turn it off and on,Bs,"{""label"": ""N""} 
+Segment:
+it has to be done in a",N
+so its like instead of being a unclear speech overlapping thing,S,"{""label"": ""N""}  # unclear speech overlapping thing is a vague description",N
+there is a bit of that OK,S,"{""label"": ""N""}  // or any other label from the set F",N
+well I suppose you could make the width of the print very very small,S,"{""label"": ""F""}  # Correct
+Explanation:
+The segment clearly describes",F
+we ve done that ,S,"{""label"": ""N""}  # No matching category, irrelevant or off-topic",N
+we did that,S,"{""label"": ""N""}  # No clear purpose/goal, performance,",N
+with the dots though very very small,S,"{""label"": ""N""}  // No relevant information about function, expected behaviour",N
+you can only they ve got such low they will last thermal mass,S,"{""label"": ""S""} 
+Explanation:
+The segment describes the thermal mass of",S
+you heat them up very very briefly and then,Bs,"{""label"": ""N""} 
+```python
+def F_Bs_S_lab",N
+they ll go cold again,Bs,"{""label"": ""N""}  # no category clearly applies
+```python",N
+probably why you get spots appearing on the second one erm,Bs,"{""label"": ""N""}  # no relevant information, vague opinion
+```",N
+but you can make it,S,"{""label"": ""S""}  # Structure, no behaviour claim
+```",S
+clears throat erm at the moment what we have got available for a demonstrator is one of the types on the left,S,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+so we do have this constraint of what that angle needs to be ,Bs,"{""label"": ""F""} 
+Explanation: The segment describes a constraint or a",F
+so that is going to,Bs,"{""label"": ""F""}  # Correct
+JSON answer: {""label"":",F
+that angle here,S,"{""label"": ""N""}  # No clear category matches. 
+
+Segment:",N
+yes that is going to limit us for the time being,Be,"{""label"": ""F""}  # end of F–Be–Bs–",F
+we could open up more options by going for alternatives,S,"{""label"": ""N""}  # No clear category, vague opinion, or",N
+or whatever that would be good so you just mentioned how windsurfs have sort of a base,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+to keep the to hold on to rather than actual hands are stabilised like a platform,Bs,"{""label"": ""S""}  # or one of the other labels
+``",S
+Sarah refers to a photograph,S,"{""label"": ""S""}  # Structure, as it is a description of",S
+a man s shaver,S,"{""label"": ""S""} 
+Explanation:
+The segment is describing the structure of",S
+that has an angle joint,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and a guidance for your fingers,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and similar to the windsurf,Be,"{""label"": ""S""}  // or other valid answer
+```python",S
+I mean it only moves in one axis,Bs,"{""label"": ""N""}  // no clear category matches, so N is",N
+rather than round,Bs,"{""label"": ""<F|Be|Bs|S|D|N>""",N
+it does not its almost flat is not it I suppose,S,"{""label"": ""N""}  # No clear label applies
+```python",N
+yeah it does not move that way I do not think,Bs,"{""label"": ""N""}  // or one of the other labels if the",N
+cos you want to keep flat on the paper all the time,Be,"{""label"": ""F""}  # Function
+Segment:
+the 3mm",F
+does the razor stay flat though,Bs,"{""label"": ""Be""}  # Behaviour (performance independent of specific parts/material",Be
+because the centre piece is much,S,"{""label"": ""N""}  # No clear match
+```python
+import",N
+I am not sure whether it does completely stay flat I think there might be a little bit of a plain,S,"{""label"": ""N""}  // no clear category applies
+```python",N
+but its main axis is is that the razor has is that way I think,Bs,"{""label"": ""N""}  # no answer
+```
+
+
+Segment:
+This",N
+write razor,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+if I if I remember correctly from I don t know about this but from the other razors each blade has like a little spring down each side,S,"{""label"": ""S""} 
+Reasoning: The segment describes a part of",S
+which means each blade can independently of housing can move that way a little bit as well cant it so that is,Bs,"{""label"": ""Be""}  # or any other valid label
+```",Be
+draw E1_7 Sketckjpg,D,"{""label"": ""S""}  // Label: Structure (materials, parts,",S
+how s that achieved that,S,"{""label"": ""N""}  # No answer
+```python
+import re",N
+is that is that achieved by a plastic,S,"{""label"": ""N""}  # No category applies
+Explanation:
+This segment",N
+that is bendable or is it,Bs,"{""label"": ""N""}  # No clear category; this is an ambiguous",N
+no it s a spring is not it,S,"{""label"": ""N""}  # No category clearly applies
+```python",N
+a spring that goes to surface,S,"{""label"": ""S""}  # Explanation: This is a description of a",S
+it pivots,Bs,"{""label"": ""F""}  # Correct answer
+Explanation:
+This segment has",F
+write spring pivot,D,"{""label"": ""Bs""}  # because it's the pivot that causes the",Bs
+there is f five of the razors is not there,S,"{""label"": ""N""}  // no clear category match
+```
+Explanation",N
+I have brought some examples along there is one with a single spring in the centre there,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and then there is one,S,"{""label"": ""N""}  # irrelevant text
+```python
+import json",N
+these are electric ones yeah,S,"{""label"": ""N""}  // No category clearly applies. The segment is",N
+these are electric razors and so this is,S,"{""label"": ""F""}  # or another label if you think it fits",F
+slightly more expensive version that is got a spring either side,S,"{""label"": ""Bs""}  // or another label from the list, as",Bs
+yeah to give you that adjustment it slides on the surface,Bs,"{""label"": ""Bs""}  # because of the'slides' cue,",Bs
+they do yeah there is its one with the foils basically because on this the foil is sprung this one is well no,S,"{""label"": ""Bs""}  # Behaviour from Structure
+Explanation:
+The segment",Bs
+the foil will run through rubbers and it uses the the cutting edge that is sprung,Bs,"{""label"": ""Bs""}  // because the cutting edge is a part that",Bs
+erm there is a point here,Be,"{""label"": ""N""} 
+---
+
+Segment:
+The mechanism is designed to produce",N
+as well that erm do we need to keep because this will keep an even well a relatively constant pressure won t it,Be,"{""label"": ""Be""}  # Behaviour (performance independent of specific parts/material",Be
+and you could also you could add a switch to this,S,"{""label"": ""F""}  # or other label if appropriate
+```python",F
+so you could switch it on and off,Bs,"{""label"": ""F""} 
+Explanation:
+This segment clearly indicates a purpose/go",F
+yeah but I think there are other things that we might like to do as well because,S,"{""label"": ""N""}  # no clear category matches
+```python",N
+it might control the force on the print heads and make sure it comes on how you want it to,Be,"{""label"": ""F""}  # or another valid label
+```python",F
+so is that what you call a gimble,S,"{""label"": ""N""}  # or other label if applicable
+```python",N
+gimbles are normally three dimensional,S,"{""label"": ""S""}  # Structure (materials, parts, configuration)",S
+I ve got another one,S,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+```",N
+it builds on another one,S,"{""label"": ""F""}  # or another label if you think it's",F
+and it goes faster,Bs,"{""label"": ""Be""}  # Writes smoothly and doesn’t skip.",Be
+but as well its erm one of the things about this is that you have got the main lump,S,"{""label"": ""N""}  // no category fits
+```python
+import",N
+and then you have got steering piece towards the front which is banging near microphone drowns speech,S,"{""label"": ""<F|Be|Bs|S|S|D|",D
+so you have got,Bs,"{""label"": ""N""}  // irrelevant/vague/opinion/off-topic",N
+I guess you have kind of got the main unit that has got all the power and weight in it,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and then erm the flexible bit that does the steering,Bs,"{""label"": ""S""}  # Corrected answer
+Explanation:
+The segment",S
+write snow mobile ,D,"{""label"": ""S""} 
+Explanation: The segment describes the material or part",S
+draw E1_7 Sketckjpg,D,"{""label"": ""S""}  // Steel barrel with replaceable cartridge. is",S
+where I know we re talking about a pen,S,"{""label"": ""S""} 
+Explanation:
+The segment describes a pen, and",S
+and you immediately think about something that is this sort of shape that you can hold in your hand like that,Bs,"{""label"": ""N""}  // No clear match, off-topic, or",N
+but considering we re talking about toys in effect for children,Be,"{""label"": ""N""}  // no category clearly applies, vague opinion,",N
+could it be something that takes more of the shape of a of a train with,S,"{""label"": ""N""}  // no clear match, irrelevant to performance or",N
+something else that gets pulled behind it for example,Be,"{""label"": ""N""}  // The segment is off-topic and does not",N
+like a drag on,Be,"{""label"": ""N""}  // No clear label applies
+```python",N
+something that is much more of a quite a different shape that,S,"{""label"": ""N""}  // no clear function, expected behaviour, structure",N
+does not require them to have that difficult sort of hold,Be,"{""label"": ""N""}  // No category applies, segment is vague or",N
+things in place like this erm,S,"{""label"": ""N""}  # No matching category, off-topic or vague",N
+because that is one of the challenges children have is not it,Be,"{""label"": ""N""}  # no matching category
+```python
+import",N
+holding the pen at the right angle,Be,"{""label"": ""S""} 
+
+Explanation:
+This segment is a pure description of",S
+that is probably one of the things you want to teach a child though is not,F,"{""label"": ""N""} 
+Reasoning: The segment is a vague opinion",N
+yeah well you could take all of the difficult stuff off them and make it happen,Bs,"{""label"": ""N""} 
+Explanation:
+The segment is a vague opinion and",N
+all that they will do is move the lump around,Be,"{""label"": ""N""}  # no match
+```python
+import json",N
+write move lump,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so you will teach them how to move a mouse about,F,"{""label"": ""F""}  // 
+Explanation:
+The segment'so you",F
+if there is a skill in that there is a sense of achievement,F,"{""label"": ""F""} 
+Explanation:
+The segment is about the purpose or",F
+we could have like a mouse rather than a pen,S,"{""label"": ""N""}  // No category applies. The segment is an",N
+that could just be a different starting point,Be,"{""label"": ""N""}  # no clear category  # no clear category",N
+write mouse type pen,D,"{""label"": ""S""}  # Structure
+Explanation:
+This is a clear",S
+all they have to do is put it on the table then move it around,Be,"{""label"": ""F""}  # or another label from the list if you",F
+and it does everything else,Be,"{""label"": ""N""}  # No clear match, vague.  #",N
+I was thinking a different media than just a flat piece of paper,S,"{""label"": ""N""} 
+=====================================
+
+Segment:
+The ink flows because",N
+a pens quite a nice sort of you know to get round angles and,Bs,"{""label"": ""N""}  // No clear match.  // Do not",N
+do you think a mouse would allow you to apply that constant force that we need for this though,Bs,"{""label"": ""N""}  # irrelevance: mouse and constant force are",N
+I don t see why not I mean as long as the force is not going to push the mouse into the table then gravity should be on your side should not it,Bs,"{""label"": ""N""}  // Irrelevant and vague opinion, not a",N
+can I just clarify that you mean for the main lump to have all the sort of the weighty bits like the batteries and electronics and things like that or the that way,S,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+I was not really being that prescriptive,S,"{""label"": ""N""}  // or any other valid label
+
+Note:",N
+if you ever go without it s not too bad but,F,"{""label"": ""N""}  # Not relevant or off-topic. 
+================================",N
+the means of a toy I have a quick problem because well I do not know,F,"{""label"": ""N""}  // no category clearly applies
+```python",N
+like a ghost err it is a little ghost it s about you know an inch high,S,"{""label"": ""N""}  # No clear category, irrelevant or off-topic",N
+draw it,S,"{""label"": ""F""}  # JSON answer with label 'F' for",F
+draw refDocumentE1_3Sketchjpg top left 2 sketches,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+what its got inside is its got errr and I can t remember exactly what its got inside its got a rubber err a wheel,S,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+draw refDocumentE1_3Sketchjpg top left 2nd sketch,D,"{""label"": ""S""}  // Structure, no behaviour claim
+```python",S
+which printed on it has a little erm,Bs,"{""label"": ""N""}  # no clear match
+```python
+import",N
+I don t know why I am telling you all this because its not really,BS,"{""label"": ""N""}  // No label matches, segment is irrelevant/v",N
+oh yeah yeah yeah yeah yeah you mean one of those foot print things,Bs,"{""label"": ""N""}  # irrelevant/vague/opinion/off-topic",N
+its got its got little footprints,Bs,"{""label"": ""N""}  # no clear category matches
+```python",N
+rotating,Bs,"{""label"": ""<F|Be|Bs|S|D|N>""",N
+yeah it s a self and yeah its got a pad an inky pad here and he,S,"{""label"": ""N""}  // No clear match, vague language, off",N
+does that go all over the walls and everything,Bs,"{""label"": ""N""}  # No clear category, vague opinion
+```",N
+you walk it along a page,Bs,"{""label"": ""F""}  # or other valid answer
+```
+Explanation",F
+and it makes footprints,Bs,"{""label"": ""N""}  # no category matches
+====================================
+
+
+Segment",N
+that is interesting cos I was thinking pastry brush you know how pastry has,S,"{""label"": ""S""}  # Segment describes a part/material (pastry",S
+and white line machines,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+but I could not think of anything that quite tied into this but the idea of a wheel,Bs,"{""label"": ""N""}  // no relevant information about the product
+```",N
+pushing a wheel along,Bs,"{""label"": ""Bs""}  # behaviour from structure
+```python
+def",Bs
+that is a obviously this is a mechanical way of doing what we re talking about,S,"{""label"": ""N""}  // or another valid label, but not '",N
+so it could the thing could look like erm like a character could not it,Be,"{""label"": ""N""}  // no clear match, vague opinion, off",N
+I guess this idea Tom was that this is the print head here,S,"{""label"": ""S""}  // Structure (materials, parts, configuration)",S
+draw refDocumentE1_3Sketchjpg middle bottom circle,D,"{""label"": ""S""} 
+Explanation: The segment describes the structure of the",S
+and this quite a wide like a caravan is that angles that can hold that to feel it because,S,"{""label"": ""N""}  // no clear function, behaviour or structure,",N
+draw u to represent print head and caravan,D,"{""label"": ""S""}  // Correctly identified as Structure (materials,",S
+if you know if he goes crr crrr mimics scraping noise then this digs into the paper,Be,"{""label"": ""N""}  // no clear match
+```
+
+Step",N
+draw refDocumentE1_3Sketchjpg middle bottom arrow represents digs into the paper,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so you could even have three wheels could not you three small wheels to sort of drive it,S,"{""label"": ""F""}  # purpose/goal
+```
+
+## Step",F
+write wheels to guide,D,"{""label"": ""F""}  # or other allowed labels
+```
+###",F
+draw refDocumentE1_3Sketchjpg middle circle,D,"{""label"": ""S""}  # Correct
+Explanation: The segment is describing",S
+and you could have a cross section it could be kind of kind of like this,S,"{""label"": ""S""} 
+Explanation: 
+The segment is describing the structure",S
+draw refDocumentE1_3Sketchjpg middle m,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so you can look down here and you can see a hole with the print head in it,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so see where you re going,Bs,"{""label"": ""N""}  # or any other label you choose
+---",N
+draw refDocumentE1_3Sketchjpg middle details,D,"{""label"": ""S""}  # Structure
+```python
+import json",S
+you could stick three ball bearings in here and,S,"{""label"": ""S""} 
+Explanation: 
+The segment describes a configuration or",S
+draw refDocumentE1_3Sketchjpg middle 3 circles within circle,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and just roll around on the surface,Bs,"{""label"": ""S""}  # Surface
+Explanation:
+- The segment describes",S
+you put in holes to see where your feet are going,S,"{""label"": ""S""}  // Explanation: The segment describes the purpose of",S
+its just so you could acquire lots of stuff where you re actually marking,Bs,"{""label"": ""N""}  # No match for any category
+```python",N
+yeah its sort of it s a compromise between erm here with a pen,Be,"{""label"": ""S""}  // You may write anything else after the JSON",S
+you want to see what you re doing don t you you want to see,Be,"{""label"": ""N""}  # The segment is off-topic and doesn't",N
+but with this type of toy you don t do you,Be,"{""label"": ""N""}  # no matching category
+```python
+import",N
+probably aware pattern appears as an edge so you can go right up to,Bs,"{""label"": ""N""}  // irrelevant or off-topic text
+```python",N
+rather that the middle of something big if its big than it does not matter much so long as its at an edge of the big thing where the,Be,"{""label"": ""N""}  // no category clearly applies
+```python",N
+but even with paper suppose you could still get to it its not like hoovering a room when you can t get to an edge is it,Be,"{""label"": ""N""}  # no relevant information about the product
+```",N
+it becomes more complex to the user as well you can rotate it so you can get to this corner or,Bs,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+rotate it to get to that one,Be,"{""label"": ""N""}  # No clear match for this segment
+```",N
+it is an interesting idea,Bs,"{""label"": ""N""}  # No clear match, vague opinion
+```",N
+add some wheels to it,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+I bought erm a tram,S,"{""label"": ""N""}  // irrelevant, off-topic, vague opinion,",N
+well the distance between the rails and the what I was thinking the distance between the rails and the overhead wires always changing as it has to follow this articulating,Bs,"{""label"": ""N""}  # Not applicable, off-topic, or irrelevant",N
+yeah nice idea,Be,"{""label"": ""N""}  # 
+Explanation:
+The segment 'yeah nice",N
+it is a bit like the suspension on a car,S,"{""label"": ""N""}  // No relevant information about the product.",N
+as well the car sort of has this inertia it flies along in a straight line,Bs,"{""label"": ""N""}  // or any other label that you think applies",N
+with suspension and all sorts of things as the wheels pump up and down,Bs,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+as well stay in contact with the road if you have got a decent car,Bs,"{""label"": ""N""}  // irrelevant and vague opinion
+```python",N
+well that is that is the other thing I suppose we haven t considered anything like erm air pockets,S,"{""label"": ""N""}  // no category clearly applies, this is a",N
+or anything like that that could be like a little suspension,Be,"{""label"": ""S""}  // steel suspension
+```python
+import json",S
+draw refDocumentE1_3Sketchjpg 3 lines left ie bottom,D,"{""label"": ""S""}  # end of JSON answer
+Explanation:
+This",S
+suspension,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+that is the sort of thing about children they do things jerkily quickly,Be,"{""label"": ""Be""} 
+Explanation:
+The segment describes the way children do",Be
+use a gyroscope,S,"{""label"": ""F""} 
+Explanation:
+This segment is asking for a purpose",F
+gyroscope,S,"{""label"": ""S""} 
+
+Explanation:
+The segment 'gyroscope' is",S
+write GIROSCOPE and Air suspension,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+stick a big gyroscope in it,S,"{""label"": ""S""}  # S — Structure (materials, parts,",S
+so they cannot jerk it around,Bs,"{""label"": ""Be""}  # or any other label from the list,",Be
+yeah ok that is a good idea Tony,Bs,"{""label"": ""N""}  // irrelevant/vague opinion  #1",N
+we should have a target aged child here should not we,Be,"{""label"": ""N""}  # irrelevant, vague opinion, off-topic",N
+to because erm well I think well erm like this I say about this obviously it was not a problem,Be,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+if you do not if you do not let it gimble that way,S,"{""label"": ""N""}  # no label matches
+---
+
+Segment:
+The",N
+then you would get you can make your own lines cant you you can make different thicknesses,Bs,"{""label"": ""S""}  # or any other valid label
+```python",S
+draw refDocumentE1_3Sketchjpg 2 lines right ie top,D,"{""label"": ""S""} 
+Explanation: The segment describes a configuration or an",S
+so so it might if the if the applications for somebody who got,Be,"{""label"": ""N""}  // No matching category, so 'N'.",N
+then you add a feature by taking out you know,Be,"{""label"": ""N""}  # or another label if you think it is",N
+yeah because if if if if erm yeah if say if the the pen is printed in just dotted lines,Be,"{""label"": ""N""}  # no clear function, behaviour, or structure",N
+draw refDocumentE1_3Sketchjpg dotted line right ie top,D,"{""label"": ""S""}  // steel barrel with replaceable cartridge. (",S
+you can you can if this pen if you do not let it go that way you could make it print dotted line print dotted line,Be,"{""label"": ""F""}  # or another label, if you think it",F
+oh so you just have you just have one print out one,S,"{""label"": ""F""} 
+Explanation:
+The segment is asking about the purpose",F
+one one nozzle dot touching,Be,"{""label"": ""S""} 
+
+Explanation:
+This segment describes a part or material",S
+so I guess what you re saying is any mechanism,S,"{""label"": ""N""}  // or any other appropriate label from the list",N
+you can have it switch on switch off one could be easy line and then you can switch it off so that,Bs,"{""label"": ""F""} 
+Explanation: The segment is talking about the purpose",F
+you could,S,"{""label"": ""F""}  # or other label, as appropriate
+
+Explanation",F
+write vary the angle to have different width of line,D,"{""label"": ""F""}  # or other correct answer
+```
+The",F
+you could use it just so at the corner of the printer head,S,"{""label"": ""N""}  // or any other label from the allowed set",N
+well you could do that just electronically by activating one of the channels on the print heads,S,"{""label"": ""N""}  // because the segment doesn't fit any of",N
+write or do this electronically,D,"{""label"": ""F""} 
+Reasoning: The segment is asking for a",F
+I think that is the way to do it because,S,"{""label"": ""N""} 
+
+Explanation:
+The segment is a vague opinion and",N
+otherwise you can overheat the print head and might damage it,Bs,"{""label"": ""F""}  # End of input
+```
+
+This is",F
+so part of the thing here is we need to erm hold it down,S,"{""label"": ""F""} 
+```python
+import json
+
+def label_segment",F
+otherwise it going to overheat as its firing if there is no where for the heat to go,Bs,"{""label"": ""Bs""}  // Because the heat is caused by the firing",Bs
+could we put erm can we detect the heat that the,S,"{""label"": ""N""}  // No clear label matches the segment. JSON",N
+and therefore switch it off,Be,"{""label"": ""F""}  # Why? 
+This segment is about the",F
+or know what s going on,Be,"{""label"": ""N""}  // no label matches, so N is the",N
+er that is only going to stop it getting dangerously hot,Be,"{""label"": ""N""}  // irrelevant, off-topic
+```python",N
+all we need to do for print quality and performance and things,Be,"{""label"": ""F""}  # 
+```python
+import re
+
+def",F
+is to keep those dots on the paper when they re being fired,S,"{""label"": ""F""}  # or one of the other allowed labels",F
+the other thing which you will picture sort of erm to an extent that one as well is the actual steering erm is actually,F,"{""label"": ""N""}  # no clear function, expected behaviour, behaviour",N
+at the moment the hand steers it directly by making movements with the hand,Be,"{""label"": ""N""}  // or any other valid label
+---
+
+Segment",N
+but if you had like a joystick,S,"{""label"": ""N""}  # No clear category fits this segment.
+```",N
+that then moved the angle of the print head errm,Bs,"{""label"": ""N""}  # No category clearly applies
+```python",N
+that might work too but maybe a bit more expensive I suppose,Bs,"{""label"": ""N""}  # No clear category matches.  # END",N
+I think the interesting thing is to use is as they steer that its built into the steering,Be,"{""label"": ""F""}  // or another valid label, depending on the",F
+actually tilts the whole body as it steers,Bs,"{""label"": ""Be""}  # Corrected answer
+================================
+F —",Be
+so in order to maintain that angle,Bs,"{""label"": ""F""}  # JSON answer (no newline) {""label",F
+write integrate the steering into angle like snowmobile,D,"{""label"": ""F""} 
+
+Explanation:
+The segment is talking about the purpose",F
+it compensates for the lean of the rider into the corner,Bs,"{""label"": ""Bs""}  # Behaviour from Structure
+```python
+import",Bs
+so it s flat,S,"{""label"": ""N""}  # No clear category; the segment is just",N
+so if we had something like that,S,"{""label"": ""N""}  // no matching category
+==========================
+
+Explanation",N
+you could steer this angle of the pen as it moves to the other end,Bs,"{""label"": ""Bs""}  # Behaviour from Structure (behaviour explicitly caused",Bs
+its taken us probably three places we can go we can either well its something you control,Be,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+or you take all the opportunities for control away from people apart from moving around,Be,"{""label"": ""N""}  // No obvious category
+```python
+import",N
+and you make the pen or whatever it is do everything,Be,"{""label"": ""N""}  # No relevant information about the pen's function",N
+erm or we give some feedback erm,Be,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+so that people know when they re doing the right thing,Be,"{""label"": ""F""}  # F — Function (purpose/goal)",F
+write feed back to user when doing it right,D,"{""label"": ""F""}  # purpose/goal
+Explanation:
+The segment",F
+erm or the last one is it is possible to hold it the wrong way,Be,"{""label"": ""N""}  # no match
+```python
+import json",N
+but it forces you to hold it the right way possibly base on shapes,Be,"{""label"": ""S""}  # or any other valid label
+```",S
+write make the shape so it can only be done one way,D,"{""label"": ""F""}  # F — Function (purpose/goal)",F
+well for the the third you can make it erm hard make it compliant to,Be,"{""label"": ""N""}  # no clear category matches, or none apply",N
+I know I know what you re saying but it would be difficult,Bs,"{""label"": ""N""}  // or any other label from the set,",N
+because you would overheat the edge of the print head,Bs,"{""label"": ""Bs""}  # Explanation: This is a Behaviour from Structure",Bs
+if its not touching,S,"{""label"": ""N""}  // no clear category
+```python
+import",N
+but there could be some electronics maybe saying this end of the print heads overheating it must be touching at the other end,S,"{""label"": ""N""}  // irrelevant/vague opinion/off-topic
+```",N
+so I shall switch this,S,"{""label"": ""N""}  # No relevant information present to apply the lab",N
+yeah probably there must be some way of detecting that,Be,"{""label"": ""N""}  // or any other appropriate label
+```python",N
+can I just explore that last one in a little more detail,Be,"{""label"": ""N""}  // irrelevant, off-topic, vague opinion",N
+because when organisations,Be,"{""label"": ""N""}  # No category fits well here. The text",N
+making sure they can only be correct in one way so the design and shape of the thing,S,"{""label"": ""F""}  # or any other valid label
+```python",F
+so it can only be done in one way and that s the correct way,S,"{""label"": ""F""}  # purpose/goal
+```python
+import",F
+because then there is less sort of learning to be done by the user and children I think if they are you know,Be,"{""label"": ""N""}  // no clear category, irrelevant/vague opinion",N
+if they don t get the results pretty quickly they will just give up on it erm,Be,"{""label"": ""N""}  // because the segment is an irrelevant, vague",N
+so it would be quite good shape of,Be,"{""label"": ""S""}  # Correct!
+Explanation: The segment is describing",S
+it would only let it work in one particular way,Be,"{""label"": ""N""}  # Not Found
+```python
+import json",N
+you could build it in different ways so you could have it,S,"{""label"": ""S""} 
+Explanation:
+This segment is a description of possible",S
+so that there was only one way of doing it,Be,"{""label"": ""F""}  # correct
+Explanation:
+The segment clearly states",F
+but then err you can have switches on it so that supposing supposing it,S,"{""label"": ""N""}  //no category matches
+```python
+import",N
+you have got the print head and three balls around it to support it,S,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+with pressure sensors on those balls,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so if the child presses harder it activates all the bearings,Bs,"{""label"": ""Be""}  # Expected Behaviour (performance independent of specific parts",Be
+and prints out a very erm heavy line,Bs,"{""label"": ""S""} 
+Explanation:
+The segment describes the structure of the",S
+but if the child does not press hard then you activate every other one,Be,"{""label"": ""Be""}  # or Be if you disagree with this choice",Be
+so you get a faint line,Bs,"{""label"": ""F""}  # or other correct label
+```
+
+
+##",F
+write interaction between how child presses so activation of print head,D,"{""label"": ""Bs""}  # Behaviour from Structure
+Explanation:
+The segment",Bs
+so clears throat the actual kind of the erm the print head is isolated from what the child s doing,Be,"{""label"": ""N""}  // no category clearly applies
+```python",N
+but the sensors,S,"{""label"": ""N""}  # no label applies
+```python
+import",N
+attend to what the child s doing,Bs,"{""label"": ""N""}  # no clear category matches
+================================= END",N
+and the thing responds accordingly,Be,"{""label"": ""Be""}  # or another label from the set F,",Be
+and so you can trick the child into doing,Be,"{""label"": ""F""}  # function
+Explanation:
+The segment contains the",F
+and you could also make it so that even if the child s because erm clears throat its not direct you can make it sort of software,S,"{""label"": ""F""}  // or any other valid label
+```python",F
+so that even if the child s really uncoordinated basically you get a reasonable result,Be,"{""label"": ""F""}  # or ""N"" if you think it",F
+but if the child s very coordinated you can actually do some quite sophisticated things,Be,"{""label"": ""N""}  # No match for any category  # No",N
+you could even have sort of some feedback,F,"{""label"": ""N""}  # no clear function or behaviour described, just",N
+in terms of colour LEDs on the pen,S,"{""label"": ""S""}  # Structure (materials, parts, configuration)",S
+saying that he s done a good or she s done a good job or,Be,"{""label"": ""N""}  // no category clearly applies
+```python",N
+that is a bit that is a bit peachy I think somehow,Bs,"{""label"": ""N""}  # because it's vague and doesn't clearly",N
+yeah you know because i if they re doing something and it produces a result,Bs,"{""label"": ""F""}  # or one of the other labels, or",F
+that is what they want is not it,Be,"{""label"": ""N""}  # No category matches
+```python
+def",N
+that is what they want and saying well done is not really you know so what,Be,"{""label"": ""N""}  // irrelevant/vague opinion/off-topic
+```",N
+spirit level in the pen,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+3D spirit level the dot and the ring you the dot,S,"{""label"": ""S""} 
+Explanation: The segment is describing the structure of",S
+write spirit level in the pen,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+if it goes off centre you know the dots outside the ring,Be,"{""label"": ""N""}  // no label matches
+```python
+import",N
+the pen would not work,Be,"{""label"": ""N""}  # This is the correct answer
+
+Explanation:",N
+so you have got to come in,Be,"{""label"": ""F""}  # or {""label"": ""N""} if",N
+could we sorry could we actually see what they re doing I mean,F,"{""label"": ""N""} 
+Explanation: The segment is a conversation between two",N
+are they drawing pictures or making invitations or Christmas cards or,Be,"{""label"": ""N""} 
+Reason: This segment is vague and does not",N
+as well as electronics,S,"{""label"": ""N""}  # irrelevant, no clear link to function,",N
+and some of the control,F,"{""label"": ""S""}  # end of your answer
+
+
+Explanation:
+The",S
+and user interface features and things whereas,Be,"{""label"": ""N""}  # no category clearly applies
+```
+import",N
+erm this kind of functional end of the mechanics,F,"{""label"": ""N""}  # or any other label that you consider appropriate",N
+it does affect a little bit,Be,"{""label"": ""N""}  # because it is a vague opinion and does",N
+control draw,Be,"{""label"": ""D""} 
+```
+
+This is a human-annotated",D
+yeah because its really hard to draw a picture with a mouse is not it,Bs,"{""label"": ""N""}  // because the segment is a vague opinion and",N
+you could have games built into it could not you,F,"{""label"": ""N""}  // no clear connection to any category
+```",N
+you could have something like colouring in,Be,"{""label"": ""S""} 
+Reasoning: This is a description of a",S
+could try and tell you on some screen,F,"{""label"": ""N""}  # no clear match
+```python
+import",N
+or try some sort of coordination task,F,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+there is a huge amount of possibilities you could do mazes or anything with,F,"{""label"": ""N""}  # no clear function, expected behaviour, structure",N
+once more let us explore this spirit level in more detail I corrected the transcript,Be,"{""label"": ""N""} 
+Explanation:
+The segment contains a discussion about a",N
+because the other thing that you use to make sure things are level,Be,"{""label"": ""S""}  # or other valid label
+```
+
+###",S
+that is come out in the sort of DIY world is these laser levellers and things like that if,S,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+you had like a little laser,S,"{""label"": ""N""}  # Not enough information to determine a category.",N
+that made sure that it was level of some sort erm,Bs,"{""label"": ""N""}  # irrelevant/vague/ambiguous
+---
+
+Segment",N
+you know the child can actually see a line,Bs,"{""label"": ""S""}  # S — Structure (materials, parts,",S
+and that its at the right angle then,Bs,"{""label"": ""S""}  // or another label if you agree
+---",S
+because they can see that the line is right and then that would work,Be,"{""label"": ""N""}  # No category applies
+Explanation: The segment",N
+although maybe they are a bit young for that laugh,Be,"{""label"": ""N""}  // irrelevant/vague opinion/off-topic
+```",N
+you could project something onto the paper in front of the pen,Be,"{""label"": ""N""}  // No clear match for any of the categories",N
+write Laser level,D,"{""label"": ""F""}  # or another valid label
+```
+Explanation",F
+like dam busters,S,"{""label"": ""N""}  // irrelevant/vague opinion/off-topic
+================",N
+write Dam busters shine a light in front of,D,"{""label"": ""F""}  # Correct, because the text mentions a purpose",F
+just like star wars,S,"{""label"": ""N""}  # no clear category matches
+
+
+Segment:
+The",N
+erm I was going to say an optical mouse,S,"{""label"": ""S""}  // steel barrel with replaceable cartridge
+```",S
+I was going to say an optical mouse,S,"{""label"": ""N""}  // The label is not one of the five",N
+if you lift it off the page you can,Bs,"{""label"": ""N""} 
+Explanation:
+This sentence is a vague statement that",N
+actually see its got the pattern it creates separates into two areas,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so its when it s actually on the surface two points meet,Bs,"{""label"": ""F""}  # or another valid label
+```python",F
+if you lift an optical mouse,Bs,"{""label"": ""N""}  # irrelevant, no clear category
+```python",N
+slightly off the page you will see the pattern it creates,Bs,"{""label"": ""N""}  // or another label if appropriate
+```python",N
+yeah sort of the triangle thing,Bs,"{""label"": ""N""}  # Not applicable.
+```python
+import re",N
+is in two sort of distinct spots,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and when its actually sat on the surface they match up and that is when it starts tracking,Bs,"{""label"": ""<F|Be|Bs|S|D|N>",N
+write use optical mouse mechanism,D,"{""label"": ""F""}  # answer
+Explanation:
+The segment mentions the",F
+turn the light on I don t know how to operate,Be,"{""label"": ""N""}  # No label matches, this is off-topic",N
+yeah well if you left it a few minutes,Be,"{""label"": ""N""}  // irrelevant/vague opinion/off-topic
+```",N
+when you talked about the little light in front of the erm pen,S,"{""label"": ""N""}  # because it is irrelevant and off-topic",N
+but if there is sort of feedback from the print head to know its in the right angle,S,"{""label"": ""Bs""}  # because of the part/material link (print",Bs
+and then the light goes on only but only when the print head is on there is this little light comes on,Be,"{""label"": ""<F|Be|Bs|S|D|N>""",N
+so the child gets his feedback that way oh its in the right direction so I can draw,Be,"{""label"": ""F""}  # correct
+JSON answer: {""label"":",F
+I think if I was in their shoes using this I d prefer they d be something where I decide whether its in the right position,Be,"{""label"": ""N""}  // no clear category, vague opinion
+```",N
+or whether I want something lighting up and saying der derrr,Be,"{""label"": ""N""}  // no clear category matches
+```python",N
+that kind of thing,S,"{""label"": ""N""}  # no label applies
+
+
+Segment:
+The new",N
+well there is a bit of training there is not it,Bs,"{""label"": ""N""}  // irrelevant/vague opinion/off-topic
+================================",N
+write Light,D,"{""label"": ""F""}
+```python
+import json
+
+def f_be_bs",F
+true but it its kind of patronising to have these sort of lights,Bs,"{""label"": ""N""}  # no matching category  # no
+```",N
+its not a comforting a comforting noise,Bs,"{""label"": ""N""}  # no label fits well
+```
+###",N
+its not its not its not a comforting noise,Be,"{""label"": ""N""}  # no clear category fits
+```python",N
+The thing I bought with me my wife does not know I stole it,S,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+also quite relevant because that is a product from,S,"{""label"": ""N""}  // You may not use this example, but",N
+stabiliser that is just come out,S,"{""label"": ""S""}  # Explanation: The segment describes a part (",S
+if I run upstairs I have got one of those in my drawer,S,"{""label"": ""N""} 
+
+Explanation:
+The segment is a personal anecdote",N
+there are pens that,S,"{""label"": ""S""} 
+
+Explanation:
+The segment describes pens, which are",S
+you do have to hold in a certain orientation,Bs,"{""label"": ""N""}  // no relevant information about function, expected behaviour",N
+yeah I think that is what I tried its really hard,Be,"{""label"": ""N""}  // no category matches, so label as '",N
+because I don t hold my pen in the way that they expect you do,Bs,"{""label"": ""N""}  # no clear category applies
+---
+
+Segment:",N
+they expect you to some people write like this don t they,Be,"{""label"": ""N""}  // No clear category, off-topic, or",N
+that is what I join my fingers up at the top where as that one expects that,Bs,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+you do more of that which I don t do,Bs,"{""label"": ""N""}  # no category clearly applies
+```python",N
+that is because you did not have that pen when you were little,Bs,"{""label"": ""N""}  // You can use this template to write your",N
+if you had had it you would write in the right way rather that the wrong,Bs,"{""label"": ""N""}  // no category clearly applies
+```python",N
+you would do it properly,Bs,"{""label"": ""N""}  // no matching category
+
+Explanation:
+The segment",N
+you get inking pens,S,"{""label"": ""S""}  // structure, no behaviour claim
+```python",S
+that are really hard to use,Bs,"{""label"": ""N""}  # No clear category matches, but the text",N
+because they look they look like little erm they they they go straight down like that sketching,S,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+draw Document E1_3Sketcjjpg,D,"{""label"": ""S""}  // Steel barrel with replaceable cartridge.",S
+you could have thumb holes or something like that,S,"{""label"": ""N""}  // or one of the other labels, if",N
+this this this one that is this one has sort of that sort of thing,S,"{""label"": ""N""}  // No clear category
+```python
+import",N
+it does not force you to use it but it,Bs,"{""label"": ""N""}  # No relevant information about the product's functionality",N
+helps you,Bs,"{""label"": ""F""}  # helps you is a goal/purpose",F
+print heads,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+to use straight up and down otherwise they don t otherwise they don t work,Bs,"{""label"": ""N""}  // or any other valid label from the set",N
+because they work thr they th they re like a little er tube,S,"{""label"": ""S""} 
+Explanation: The segment describes a part of the",S
+and when you push on it erm it opens a valve which lets the erm which lets the ink through,Bs,"{""label"": ""Bs""}  # because it describes the behaviour caused by the",Bs
+is that those gold and silver type things,S,"{""label"": ""N""}  # No matching category for this segment. JSON",N
+that people use for making cards,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+no it s like you get them for erm drafting pens,S,"{""label"": ""N""}  // no match, irrelevant, vague opinion,",N
+I think work like that they have got they re like that,S,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+because they they come in different bits of tube,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and they give you a very accurate width of line,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+OK but you cannot you cannot use them in any orientation,Bs,"{""label"": ""N""}  // no clear category applies
+```python",N
+you have to use in straight up and down,BS,"{""label"": ""S""}  // Structure, no behaviour claim, just description",S
+and so if you put it on the edge the you would go on the edge of the tube,S,"{""label"": ""N""}  // no clear category applies
+```python",N
+and it just it would just sort of it just the edge just goes on,S,"{""label"": ""N""}  # no clear category fits
+```python",N
+you will never get it you just crease the paper,Bs,"{""label"": ""N""}  # Never
+```python
+import json",N
+the good thing about this is you get feedba feedback s inherent is not it,Bs,"{""label"": ""N""}  # No clear category; seems to be an",N
+if you re not doing it properly it wont work,Bs,"{""label"": ""F""} 
+Explanation:
+The segment is talking about the purpose",F
+it will probably it will probably be that if you do it on the edge,S,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+the print head will be close enough to be to the edge of the PCB,S,"{""label"": ""Be""}  # or another valid label
+```
+
+
+Step",Be
+and you ll lift the whole the whole thing off,S,"{""label"": ""N""} 
+```python
+import json
+
+def classify_segment",N
+so you probably wont be able to do this this sort of touch towards the edge,Bs,"{""label"": ""N""}  // or any other valid label
+```python",N
+because the print head the resistors are in,S,"{""label"": ""Bs""}  # because of the print head, the resist",Bs
+PCB yeah,S,"{""label"": ""N""}  // no label fits, so choose 'N",N
+just the kind of thing that you could do,Bs,"{""label"": ""N""}  # No clear category, irrelevant, vague opinion",N
+with the erm styling,S,"{""label"": ""N""}  # No category matches. The segment is irrelevant",N
+so it just feels right you not do you are limited to what you can do,Bs,"{""label"": ""N""}  // no clear match
+```python
+import",N
+if you put your fingers in the wrong place,Bs,"{""label"": ""N""}  // or any other valid label from the given",N
+and if we cut all that for I mean this version,S,"{""label"": ""N""}  // no category clearly applies
+```python",N
+it could be much chunkier,S,"{""label"": ""N""}  # No label applies, this is a vague",N
+and this thing could go in the hole this lot could go in the hole,S,"{""label"": ""N""}  // No category matches, so N is chosen",N
+and perhaps you can mirror it so it works for left handed people as well,Be,"{""label"": ""F""}  // Explanation: The segment is asking for a",F
+but you could just make a hole to hold it in either way,S,"{""label"": ""N""}  # No category applies.  # (answer",N
+you d have to certainly with the first go realize where to put their fingers,Bs,"{""label"": ""N""}  // no relevant information about the product in this",N
+it might not even work,Be,"{""label"": ""N""}  # no label matches, so N is chosen",N
+if one of their fingers is not in the right hole,S,"{""label"": ""N""}  // No clear category, or no category at",N
+also you feed it back to the wrist,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+there is all different things,S,"{""label"": ""N""}  # No clear function, expected behaviour, structure",N
+yeah hand sizes as well,Bs,"{""label"": ""N""}  # not applicable
+Explanation:
+The segment is",N
+you know you could you feed it back,Be,"{""label"": ""N""}  # because the segment is vague and off-topic",N
+so its kind of like a watch or something on your wrist,S,"{""label"": ""N""}  # irrelevant, vague opinion, off-topic",N
+well you could have a battery pack in that could not you,S,"{""label"": ""N""}  # No relevant information in the segment
+================================",N
+or a rucksack,S,"{""label"": ""N""}  # no clear match
+```python
+import",N
+or a rucksack laugh,S,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+laugh ghostbusters,S,"{""label"": ""N""}  # because it's a phrase, no clear",N
+write battery pack on wrist,D,"{""label"": ""S""}  # Explanation: This is a description of the",S
+write mould the unit to right position for,D,"{""label"": ""F""}  # write mould the unit to right position for",F
+if you have got if you have got a switch there there there and there,S,"{""label"": ""N""}  # no match for any of the categories",N
+draw Document E1_4Sketcjjpg crosses indicate position of switchs,D,"{""label"": ""S""}  // Structure, no behaviour claim
+```python",S
+and it only works if all four switches are down,Bs,"{""label"": ""S""} 
+Explanation: The segment describes a necessary condition for",S
+and those switch positions guarantee that the head is down then,Be,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+yeah that is the control approach is not it,Bs,"{""label"": ""N""}  # No answer
+Error: Missing JSON object",N
+yeah that is the yeah and you design it in such a way that,S,"{""label"": ""F""} 
+Explanation:
+The segment describes the purpose/goal",F
+that is a reasonably comfortable position,Bs,"{""label"": ""S""}  # Structure, no behaviour claim
+=============================",S
+and if you don t put it in that position,S,"{""label"": ""N""}  // Irrelevant, off-topic, or vague",N
+it does not work,Bs,"{""label"": ""N""}  # No clear match
+```python
+import",N
+it d be nice though if you naturally pick it up and it works,Bs,"{""label"": ""Be""}  # end of answer
+# END OF OUTPUT",Be
+yeah but that is you can do the two together can you,Be,"{""label"": ""N""}  # No clear category
+```python
+import",N
+the other thing to to think about is in almost all cases when I look at pens the apart from re wired sort of micropens,S,"{""label"": ""N""}  // no category clearly applies
+```python",N
+the th tip is actually the narrowest part of the product,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+whereas in what we re looking at it could actually be as wide or wider,S,"{""label"": ""N""}  // no clear match
+---
+
+Segment:
+The",N
+so its more like a paintbrush is not it like a DIY paintbrush,S,"{""label"": ""N""}  // no match
+```python
+import json",N
+it s more like a roller like a roller yeah,S,"{""label"": ""N""}  # No category clearly applies.
+```python",N
+its there is a prototype,S,"{""label"": ""N""}  // You can enter a comment with your reasoning",N
+if you had like if you if you had it connected to one side like that,S,"{""label"": ""N""}  # no clear function, behaviour, or structure",N
+draw Document E1_17 Flipchartjpg,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+or a it would be here the print head you could have then going to there then going to there is,S,"{""label"": ""N""} 
+
+Explanation:
+The segment contains a series of disconnected",N
+draw Document E1_17 Flipchartjpg,D,"{""label"": ""S""}  // steel barrel with replaceable cartridge
+================================================================",S
+that you don t smudge it,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+it would have flexibility because of the metal on which it s hinged if you like,S,"{""label"": ""Bs""}  # metal on which it s hinged causes",Bs
+yeah I think actually I wonder if you intuitively know how to use a roller,Be,"{""label"": ""N""}  // no match
+```python
+import json",N
+because you re older than eleven and intuitive if you have never seen it before,Bs,"{""label"": ""<F|Be|Bs|S|D|N>",N
+my two year old rolls paints,Be,"{""label"": ""N""}  # no clear category, off-topic, or",N
+but I think it could be the pen I mean it could be we could shape it so it does make it like a finer tip,S,"{""label"": ""S""}  // structure, no behaviour claim
+```python",S
+yeah but there is an inherent size issue with holding it this way is not there,Be,"{""label"": ""N""}  // no relevant information about the product in this",N
+because you re not going to have you you you used to have these pens that were ginormous and,S,"{""label"": ""N""}  // no clear category, vague and off-topic",N
+it had lots of different pens inside it,S,"{""label"": ""S""} 
+
+Explanation:
+The segment describes a structure, mentioning",S
+yeah and they re all like this round,S,"{""label"": ""N""}  // no clear category, no clear part/material",N
+and it made it really difficult to write with at the right angle,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so I think there is an issue about how big or how,S,"{""label"": ""N""}  # No answer
+```python
+import json",N
+big,S,"{""label"": ""N""} 
+Explanation:
+The segment is simply a word,",N
+you might not hold it,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+yeah I think that is worth considering it actually,Be,"{""label"": ""N""}  # No match for any category, off-topic",N
+the not having it in a pen shape,S,"{""label"": ""S""} 
+
+Explanation:
+The segment describes a structural aspect of",S
+the not holding it like a pen,Be,"{""label"": ""N""}  # no category matches
+```python
+import",N
+but actually holding it in a different way like that or,Be,"{""label"": ""N""}  //no category matches
+
+Reasoning: This",N
+yeah there are two there are two sides to this I think,Bs,"{""label"": ""N""}  # N
+Explanation:
+The segment is a",N
+either you want to teach children to hold a pen properly,F,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+if you wanted to do that you d give them a,S,"{""label"": ""F""}  # end of answer
+
+
+Segment:
+The ink",F
+yeah but you have got to be taught how to hold a pen,F,"{""label"": ""N""}  // irrelevant or vague opinion
+==========================",N
+a lot better as write like this as well,S,"{""label"": ""N""}  # no matching category
+```python
+import",N
+different people will write,Bs,"{""label"": ""S""}  # Structure, no behaviour claim
+Explanation:",S
+with not smudging the ink,Bs,"{""label"": ""S""}  # Corrected answer
+---
+
+Explanation:
+The",S
+different people will hold the pen between these two fingers and write like that,Bs,"{""label"": ""S""}  # Structure (no behaviour claim) - a",S
+they should not be allowed,Be,"{""label"": ""F""}
+Explanation:
+The segment is a goal or purpose.",F
+is it a training aid or toy that we re is it for fun,F,"{""label"": ""F""}  # Why is it a training aid or toy",F
+its for fun,F,"{""label"": ""F""}  # end of JSON answer
+{""label"":",F
+its mainly really for fun really I think erm,F,"{""label"": ""N""}  # irrelevant/vague/opinion/off-topic",N
+because if you want to teach a child something about pens,F,"{""label"": ""N""}  # No clear category.  # Answer End",N
+you d give them a pen would not you,Be,"{""label"": ""N""} 
+
+Reasoning: This segment is a statement that",N
+no well it depends it could be funit could teach you something,F,"{""label"": ""N""}  # no well it depends it could be fun",N
+an added bonus I suppose,F,"{""label"": ""N""}  # No clear category matches the segment.
+```",N
+it could teach you something else,F,"{""label"": ""N""}  # no match
+```python
+import re",N
+its going to be quite a fat lump probably,S,"{""label"": ""N""}  # not applicable
+```python
+import json",N
+so it s not going to be that kind of pen that you use in future,S,"{""label"": ""F""}  # it's not going to be that kind",F
+so it does not feel much like a pen,Be,"{""label"": ""N""}  # No clear category matches
+```
+Explanation",N
+you know it could I think it could be more of a decorator s thing you know,F,"{""label"": ""N""}  # no clear category matches
+```python",N
+if you want to put a row of smilies in,Be,"{""label"": ""F""}  # or the correct answer  # or {""",F
+paper and pen along the edges of you know,S,"{""label"": ""N""}  # no label fits well, this is off",N
+on the wall,S,"{""label"": ""S""}  # (no clear category, but 'on",S
+you re never gonna draw a whole pic you re never gonna draw paint the Sistine chapel,Bs,"{""label"": ""N""}  # irrelevant, vague opinion, off-topic",N
+no you d need more batteries,S,"{""label"": ""N""}  # (no clear purpose/goal, performance",N
+its more of sort of decorative kind of features,F,"{""label"": ""N""}  # no match for any of the categories",N
+things like that you know,Be,"{""label"": ""N""}  # No clear connection to function, expected behaviour",N
+there is another degree of freedom to this thing,Bs,"{""label"": ""N""}  // no category clearly applies
+```python",N
+if you go fast it will be a paler colour,Be,"{""label"": ""Bs""} 
+Explanation:
+The segment is about the colour of",Bs
+if you go slowly it will be darker wont it,Be,"{""label"": ""N""}  # (no clear category matches) 
+```",N
+yeah if you go fast well maybe if you go fast if there is no feedback from the paper it does not matter how fast its going,Bs,"{""label"": ""N""}  // no clear category matches, so 'N",N
+then it might produce gaps but it might produce gaps in places of,Bs,"{""label"": ""N""}  # No Answer
+```python
+import json",N
+the thing would be cool,Bs,"{""label"": ""N""}  // no clear function, behaviour or structure description",N
+if you drive it faster,Bs,"{""label"": ""Be""} 
+
+Explanation:
+This is an expected behaviour, independent",Be
+that mark is the same as that,Bs,"{""label"": ""N""}  # no clear category match
+
+Explanation:
+No",N
+that is what you will end up with but erm you won t end up with a long smooth line erm that is faint erm,Bs,"{""label"": ""N""}  # This is a vague opinion, irrelevant or",N
+definitely gaps in it head on all the time you don t have the head on,Bs,"{""label"": ""<F|Be|Bs|S|D|N>",N
+yeah you could turn it off off and on very fast could not we,S,"{""label"": ""N""}  # irrelevant/vague/off-topic
+```python",N
+for the usefulness er well I am just I am just trying to think about what erm what the pen does really erm,F,"{""label"": ""F""}  # This is an example answer. Please fill",F
+if it s if it s a if its fun its got to do,F,"{""label"": ""F""}  # or another label, as you see fit",F
+sort of a wider range of features,F,"{""label"": ""S""} 
+
+Explanation:
+The segment'sort of a wider",S
+features somehow,F,"{""label"": ""N""}  # no category clearly applies
+```python",N
+I think it might self regulate,Be,"{""label"": ""N""}  # No clear match, vague statement.",N
+I think people might visit around how does it work,Bs,"{""label"": ""N""} 
+Explanation:
+The segment is about how something works",N
+or they use it more slowly I think that is,Bs,"{""label"": ""N""}  // no label fits the segment
+```python",N
+but I am thinking it will it will be more fun,F,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+if you can get something you know if you can get a faint line or,Be,"{""label"": ""F""}  # or any other valid label, if you",F
+a faint line,Bs,"{""label"": ""S""}  # This is the output of the model",S
+you had a drawing there that you did was that for any particular purpose,S,"{""label"": ""F""}  # Purpose/goal
+Segment:
+The feed",F
+I ve seen a pen that somebody s created,S,"{""label"": ""N""}  // no clear category, off-topic or vague",N
+where its actually got this kind of loop in it,Be,"{""label"": ""N""}  # No category clearly applies. The text seems",N
+so that if you hold it with your index finger actually through this,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so it s you you almost wear it like a glove,S,"{""label"": ""N""} 
+Explanation: The segment describes how to use the",N
+deep breath in yeah or like a sort of ring on your finger with the pen attached to it,S,"{""label"": ""N""}  // no clear category, irrelevant, vague opinion",N
+but it forces you to hold it in a very specific way,Bs,"{""label"": ""S""} 
+Explanation:
+The segment describes the structure of the",S
+um that is intriguing sort of like a like a could be like a finger puppet could not it,S,"{""label"": ""N""}  # no clear category applies
+```python",N
+yeah cos wearing it like a finger puppet,S,"{""label"": ""N""}  # irrelevant/vague/opinion/off-topic",N
+the feel of it might be fun,Bs,"{""label"": ""N""}  # No matching category; vague opinion
+```",N
+exactly so you can make you can make the footprints,Bs,"{""label"": ""F""}  # or another appropriate label
+```python",F
+I I think I think the sort of design not very good at,S,"{""label"": ""N""}  # No answer
+{""label"": ""N",N
+Tom does that help regulate the angle,Bs,"{""label"": ""S""} 
+
+Explanation:
+There is no clear behaviour claim or",S
+that would also tie in quite well the sort of cyber view,Bs,"{""label"": ""N""}  # No relevant information about the product's function",N
+of having a pack on your wrist,S,"{""label"": ""N""}  # no clear category matches
+---
+
+Segment:",N
+or sort of cyber arm is not it,S,"{""label"": ""N""}  // No clear category; vague, off-topic",N
+thermal print head,S,"{""label"": ""S""}  # End of answer
+
+Explanation:
+The segment",S
+lightning coming out of his nose,S,"{""label"": ""N""}  // irrelevant, off-topic, vague opinion,",N
+is the issue of left and right handedness erm how we re going to resolve that,Be,"{""label"": ""N""}  # no clear match
+```python
+import",N
+can you turn the print head round or,S,"{""label"": ""N""}  // no clear match
+```python
+import",N
+it does not matter because as long as you have got as long as you have got features that can be either mirrored features the same on each side,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+you have got them all like that,S,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+you have got some area to work with and then,S,"{""label"": ""S""}  // why: The segment is a description of",S
+you have to keep the area of the mirror image,S,"{""label"": ""F""}  # or other appropriate label
+
+---
+
+Segment:",F
+quite good,Bs,"{""label"": ""N""}  # No category clearly applies
+=====================================",N
+in fact in some ways we should think about the fact it is not even a pen,F,"{""label"": ""N""}  # No function, expected behaviour, behaviour from",N
+because a pen you you will always learn to write from left to right whether you re left handed or right handed,Be,"{""label"": ""N""}  // because the text does not match any of",N
+so actually what you end up doing is left handed people is you smudge over over your work which is a problem,Bs,"{""label"": ""F""}  # Correct
+Explanation:
+The segment is about",F
+but actually with this you re dragging it you re not pushing it are you most people will drag it,Be,"{""label"": ""N""}  // no clear function, expected behaviour, or",N
+mostly dragging it,Be,"{""label"": ""Bs""}  // or any other valid label
+```",Bs
+mmm because you were wired to drag it,Bs,"{""label"": ""Bs""}  # Drag is a behaviour explicitly caused by a",Bs
+will be dragged,Be,"{""label"": ""Be""}  # Explanation: This is expected behaviour, but",Be
+that is an interesting point,Bs,"{""label"": ""N""}  # No clear category matches; irrelevant or off",N
+mmm so you want a design then to sort of force people to drag,Be,"{""label"": ""F""}  // or another appropriate label
+```python",F
+it which is not something you do with a marker pen,Bs,"{""label"": ""N""}  # No relevant information about the function, behaviour",N
+you draw a line when you drag,Bs,"{""label"": ""F""} 
+Explanation:
+- This segment describes the purpose/go",F
+generally you might do with a marker pen,Bs,"{""label"": ""F""}  # correct answer
+
+Explanation:
+The segment is",F
+with a marker pen you tend to drag yeah,Bs,"{""label"": ""N""}  # Not applicable, irrelevant or vague
+================================",N
+but what I am saying is the analogy of teaching people to write is not actually valid in the sense that,Be,"{""label"": ""N""} 
+Reasoning: The segment is an off-topic",N
+when you re writing you re not actually dragging usually apart from if you re right handed,Be,"{""label"": ""Be""}  # or another label from the allowed set",Be
+if you re right handed you drag,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+if you re left handed you push,Be,"{""label"": ""N""}  // No clear function, behaviour, or structure",N
+so do they do a left handed version of this,S,"{""label"": ""N""} 
+Explanation: The segment is a question about a",N
+that s more interesting cos commercially lost that would be a loss leader just about,Bs,"{""label"": ""N""}  // no clear match, off-topic, vague",N
+well it must it must cost twice as much,Bs,"{""label"": ""F""}  # Function
+Explanation: The segment mentions a",F
+its gonna cost twice as much,Bs,"{""label"": ""N""}  # no clear label fits  # END OF",N
+but schools or something schools must buy two sets,S,"{""label"": ""N""}  // no clear category matches
+```python",N
+yeah its not worth its not really for schools,Bs,"{""label"": ""N""}  # no relevant information
+```python
+import",N
+well they had that in my school when I was in primary school everybody had a red fountain pen and I had a special green fountain pen because I was left handed,S,"{""label"": ""N""}  // because the segment is a story about the",N
+erm protecting the print head which I haven t really thought very much about,F,"{""label"": ""N""}  # no category clearly applies
+```python",N
+but as it it might be a nuisance or bad thing,Be,"{""label"": ""N""}  # no category matches
+```python
+import",N
+to have the print head projecting down out of the bottom of this most of the time,S,"{""label"": ""Bs""}  # because 'projecting down out of the",Bs
+because it may catch on things like the edge of the table or something like that,Bs,"{""label"": ""S""} 
+Explanation:
+The segment describes the structure of a",S
+and so erm perhaps there is something else a rounded lump or something,S,"{""label"": ""N""}  # No label applies, as the segment is",N
+as it approaches the page causes the print head to come down,Be,"{""label"": ""Bs""}  # because it explicitly describes a part's (",Bs
+which may carriage be sprung also,S,"{""label"": ""S""} 
+
+Explanation: This segment is a description of a",S
+like a see saw,S,"{""label"": ""S""} 
+
+Explanation:
+The segment describes a structure or configuration",S
+comes down,Bs,"{""label"": ""Be""}  # Behaviour, no explicit part/material reference",Be
+like a nodding birds yeah,Be,"{""label"": ""N""}  // or any other label that fits best,",N
+if you have your printing head ,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+draw E1_4 Sketchjpg,D,"{""label"": ""S""}  // Your answer here
+```python
+import",S
+and you have got you have got your spring like that ,S,"{""label"": ""S""}  # S — Structure (materials, parts,",S
+draw E1_4 Sketchjpg,D,"{""label"": ""S""}  // structure, no behaviour claim
+```python",S
+and you have got a switch or something here ,S,"{""label"": ""N""}  // no clear match
+```python
+import",N
+draw E1_4 Sketchjpg,D,"{""label"": ""S""}  // Explanation: The segment refers to the '",S
+and you have got a case there ,S,"{""label"": ""N""} 
+
+Reasoning: The segment is a statement that",N
+draw E1_4 Sketchjpg,D,"{""label"": ""S""} 
+Explanation: The segment is describing a part of",S
+and then when you you can only push this,Bs,"{""label"": ""N""}  # No clear match for any category, vague",N
+and then when you push this up so that all the faces are touching,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+that is when the switch goes,Bs,"{""label"": ""F""}  # or any other valid label, depending on",F
+erm so you get so so what this is is is maybe this is not erm err susceptible to knocks and things because its on a sp spring,Bs,"{""label"": ""Bs""}  # because of'spring' which causes the",Bs
+yeah and you get protected by a case,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+but the other thing is the opposite of this being here,S,"{""label"": ""N""}  // no clear match
+```python
+import",N
+and these two things being on springs,S,"{""label"": ""Bs""}  # Because the springs cause the behaviour of being",Bs
+so that when these get pushed back,Bs,"{""label"": ""F""}  # or other appropriate label
+```
+###",F
+they ll spring back and then they will switch on the,Bs,"{""label"": ""Be""}  # Behaviour (performance independent of specific parts/material",Be
+that is true that works as well,Bs,"{""label"": ""N""}  # no clear category, ambiguous or vague",N
+that works even better cos it s not leaking its protected then,Bs,"{""label"": ""N""}  # no clear match, irrelevant, or off",N
+a sheath,S,"{""label"": ""S""} 
+Explanation:
+This is a clear example of a",S
+a print head,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+yeah do you need to stop the print head going sideways,Be,"{""label"": ""Be""}  // or other appropriate label
+```python",Be
+draw arrow not sure which drawing,D,"{""label"": ""N""}  // no clear match
+```python
+import",N
+cos you want it to travel forwards when its going that direction,Bs,"{""label"": ""F""}  # Corrected label
+==========================
+
+The",F
+yeah you don t want people to go that that that is an interesting point,Be,"{""label"": ""N""}  # irrelevant/vague/opinion/off-topic",N
+put wheels on the side to make it,S,"{""label"": ""F""}  # You can change this to any of the",F
+I I don t think there might not be a problem with that,Bs,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+in fact it might be something that they might want to do to produce interesting effects,Be,"{""label"": ""N""}  // no clear function, expected behaviour, or",N
+distorted smiley faces,Be,"{""label"": ""N""}  // (no clear function, expected behaviour,",N
+and I think we might get away with that,Be,"{""label"": ""N""}  // No clear category matches this segment. It",N
+but what if what if a child held the pen can I just borrow that,Be,"{""label"": ""N""}  # no category matches
+```python
+import",N
+rather than holding it width ways,Be,"{""label"": ""N""}  // No category clearly applies. The segment is",N
+so this is across the pen,Be,"{""label"": ""S""}  // This is a description of the pen's",S
+thinking of holding it that way,Bs,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+providing just enough pressure,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+providing probably be alright,Bs,"{""label"": ""F""}  # Providing is a function/purpose/goal",F
+but we could try and stop them from doing it,Be,"{""label"": ""N""} 
+```python
+import re
+
+def label_segment",N
+it is sort of like a its like a calligraphy pen is not it if you erm,S,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+because you get thick you get thick and thin,Bs,"{""label"": ""Bs""}  # Because the segment clearly describes a behaviour caused",Bs
+because you get the edge,S,"{""label"": ""Bs""}  # because of the edge
+```python",Bs
+that business of withdrawing the print head when it s not in use or something like that,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+well yeah well it s a sheath is not it that is the word you said was not it a sheath that,S,"{""label"": ""N""}  // irrelevant/vague/ off-topic
+```",N
+a sheaf,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+write sheath protecting the head,D,"{""label"": ""Bs""}  # Behaviour from Structure (behaviour explicitly caused",Bs
+or it could be deployed on contact or something,S,"{""label"": ""N""}  // no clear category or purpose
+```python",N
+OK it is fundamental the other thing that I am now going to look at is ,F,"{""label"": ""N""}  # Not relevant or off-topic.  #",N
+two two problems one is over pressurising the print head on the paper,Be,"{""label"": ""Be""}  # Explanation:  The segment describes a problem",Be
+or abuse of the pen so somebody could go like that,Be,"{""label"": ""N""}  # This is a vague, off-topic comment",N
+and that will probably break it and,Be,"{""label"": ""N""}  # no category applies
+```python
+import",N
+the sheath,S,"{""label"": ""S""}  # The label for the segment is S",S
+does not fix that does it er no the sheath does not fix that,Bs,"{""label"": ""N""}  # no category clearly applies
+```python",N
+you go like that you hit the printer,Bs,"{""label"": ""Bs""}  # Behaviour from Structure
+Explanation: 
+The",Bs
+whereas the other way round bangs table,Bs,"{""label"": ""N""}  // no clear category applies
+```python",N
+well the sheath protect that is not it so,Be,"{""label"": ""N""}  # no category matches well the sheath protect",N
+the sheaths so spring both and the things happen,Bs,"{""label"": ""N""}  # no answer
+You can modify the segment",N
+yeah so expect there is more travel if you smash there,Be,"{""label"": ""<label>""}  # fill in the correct label
+```",N
+Draw 2 crosses over Tom s sheath Document E1_4 Sketchjpg,D,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+yeah that means you can t move both yeah yeah that is right yeah,S,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+```",N
+so I its what AJ suggested that this moves back,Bs,"{""label"": ""F""}  # 
+Explanation: The segment is a goal",F
+to to start to as a switch,S,"{""label"": ""<F|Be|Bs|S|D|N>""",N
+whereas the alternative is for that to move back,S,"{""label"": ""N""}  // no clear category, vague opinion
+``",N
+well I suppose you could design it such a way as it only goes,Be,"{""label"": ""F""}  % correct
+JSON answer: {""label"":",F
+at a certain speed back so if you went if you just went like that it would go back quite,Bs,"{""label"": ""N""} 
+Explanation: 
+This segment is describing a hypothetical",N
+slowly but if too quickly,Bs,"{""label"": ""<F|Be|Bs|S|D|N>",N
+you you could have them both moving back and,Bs,"{""label"": ""N""}  // irrelevant/vague
+=================
+
+
+Segment",N
+you could have you could balance springs and things like that,S,"{""label"": ""N""}  // no clear match to any of the categories",N
+you could have viscous back,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+if that thing s on a spring and that is on a,S,"{""label"": ""Bs""}  # Correct label is 'Bs' (because",Bs
+Draw unknown sheet,D,"{""label"": ""N""} 
+Explanation: The segment clearly does not fit any",N
+of some sort which could be quite simple,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+viscous,Bs,"{""label"": ""S""}  # Structure, no behaviour claim, just a",S
+write viscous damper,D,"{""label"": ""Bs""}  # because 'viscous' is a",Bs
+and if you bang it down its effectively solid,S,"{""label"": ""Bs""}  # explanation: The segment mentions a specific action",Bs
+cheap,Bs,"{""label"": ""N""}  # no clear match
+Segment:
+it is",N
+leaking syringe,S,"{""label"": ""<F|Be|Bs|S|D|N>""",N
+cheap syringe,S,"{""label"": ""S""}  // explanation: The segment describes a part/material",S
+write leaky syringe,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+where s the sheath gone,S,"{""label"": ""N""}  # no clear category, off-topic
+```",N
+heat source,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+laser light,S,"{""label"": ""N""}  // Your answer here
+```python
+import",N
+any other ways in which we could try I mean we could put a cap over it that is how other people do it ,S,"{""label"": ""N""} 
+Explanation:
+This segment appears to be discussing an",N
+that is way too low tech for this,Bs,"{""label"": ""N""}  # Not applicable, off-topic, or unclear",N
+that will protect it but it still is not it,Bs,"{""label"": ""N""}  # No category matches, the segment is off",N
+what about a cap,S,"{""label"": ""S""}  # end of JSON answer
+{""label"":",S
+like a spring loaded cap,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+that comes out of the way,Bs,"{""label"": ""S""} 
+Explanation:
+The segment describes a part or material",S
+yeah like a button there,S,"{""label"": ""N""}  # No clear function, expected behaviour, behaviour",N
+that s nice yeah,Bs,"{""label"": ""N""}  # no clear match to any category
+================================",N
+write sprung loaded cap,D,"{""label"": ""Bs""}  # Explanation:
+The segment is talking about a",Bs
+that that slides the,Be,"{""label"": ""N""}  # no label fits, it's a vague",N
+the button,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+then it could not get lost could it,Bs,"{""label"": ""N""}  # irrelevant, vague opinion
+```python",N
+mmm it could also turn off the comforting hum,Be,"{""label"": ""N""}  # no category clearly applies, irrelevant or off",N
+when you put the cap back on,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+I quite like the idea of a comforting hum,Bs,"{""label"": ""N""}  # No clear category match, so ""N",N
+a comforting hum,Be,"{""label"": ""S""}  # a comforting hum is a description of a",S
+write comforting hum,D,"{""label"": ""S""} 
+
+Explanation: 
+The segment mentions a specific sound",S
+when it s working right,Bs,"{""label"": ""Be""}  # correct answer
+Explanation: 'when it",Be
+what like a sings dum dum dum dum dum dum,Bs,"{""label"": ""N""}  # irrelevant/vague/opinion/off-topic",N
+like rolf harris,Bs,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+Segment",N
+the cap is quite interesting though,S,"{""label"": ""N""}  // or any other valid label
+```",N
+because if it hinges that way,Bs,"{""label"": ""Bs""}
+Explanation:
+This segment describes a consequence of the way",Bs
+it will make people much more likely to to drag it across there if it s clear as well,Bs,"{""label"": ""Be""}  # Behaviour (performance independent of specific parts/material",Be
+yeah but you can still see things or,Bs,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+if you had not just an activation button not an,S,"{""label"": ""N""}  # no clear match
+```python
+import",N
+activation button but a button that made the print head come out,S,"{""label"": ""Bs""}  // or another appropriate label from the F,",Bs
+a non a non clickable pen,S,"{""label"": ""S""} 
+
+Explanation:
+The segment describes a pen, specifying",S
+so you had to you know obviously not up there,S,"{""label"": ""N""} 
+Reasoning: The segment is a vague opinion",N
+you can only write when it s up,Be,"{""label"": ""S""} 
+Explanation:
+The segment describes the condition for writing",S
+if you if you go like that it would sort of go out a little bit,Be,"{""label"": ""N""}  // No clear match, segment seems irrelevant/v",N
+and then if you push it up it would go out more,Be,"{""label"": ""S""}  # Structure
+```python
+import re",S
+I mean you can still damage it,Bs,"{""label"": ""N""}  # No relevant category, off-topic.",N
+so it s a it s a dead man s handle for a pen basically,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+write a dead man handle for the pen,D,"{""label"": ""S""} 
+Explanation:
+The segment describes a specific feature or",S
+you could have a little slider on it,S,"{""label"": ""S""} 
+Reasoning: The segment is describing a possible",S
+could it could do this kind of thing round the edge,S,"{""label"": ""N""}  # No answer
+JSON answer: {""label",N
+yeah yeah and then and then you coul it could just be sprung,Be,"{""label"": ""N""}  // no match
+```python
+import json",N
+and then when you put it down its held open by,Be,"{""label"": ""S""}  # S — Structure (materials, parts,",S
+and then any pressure on the tip,Be,"{""label"": ""Bs""}  # Behaviour from Structure
+Explanation:
+- The",Bs
+it s more is not it,Bs,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+```",N
+you re not going to be using it for hours on end are you,Be,"{""label"": ""N""}  // No clear label, as the text is",N
+it s for little pieces of,Be,"{""label"": ""S""}  # structure, no behaviour claim
+```python",S
+I would say long car journeys though,Be,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+you could have a and that open up,S,"{""label"": ""N""}  # No match found in the guide.",N
+draw,D,"{""label"": ""F""}  # function
+```python
+def labeller",F
+a little bit annoying on long car journeys laugh,Be,"{""label"": ""N""}  // This segment is off-topic and does not",N
+you could have a cap that goes like that,S,"{""label"": ""S""}  // Steel barrel with replaceable cartridge.",S
+draw,D,"{""label"": ""F""} 
+
+Explanation:
+The segment ""draw"" is a",F
+and then you could also have the same spring here,S,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+that any force by a certain amount would force the cap to shut again,Bs,"{""label"": ""F""}  # or other appropriate label
+
+
+Segment:
+the",F
+a double action cap,S,"{""label"": ""S""}  # Structure
+```python
+import json",S
+so you button but it s got an override of pressure,Bs,"{""label"": ""F""}  # end of JSON answer
+```
+Explanation",F
+on the pen,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+I am thinking of something a bit like erm the flap on a video tape,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+uh huh what the flap,S,"{""label"": ""N""}  # no clear category, not relevant to the",N
+like a garage door type of thing,S,"{""label"": ""N""}  # irrelevant or vague opinion, off-topic,",N
+yeah push the button then it goes open,Bs,"{""label"": ""Bs""}  # Behaviour from Structure (behaviour explicitly caused",Bs
+write garage door type mechanism,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+but that is probably overly complicated,Bs,"{""label"": ""N""}  # N: No clear category match, irrelevant",N
+garage door,S,"{""label"": ""S""}  # garage door is a type of structure,",S
+well it could be a roller,S,"{""label"": ""N""}  // or another label from the given options",N
+a roller door,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+write roller door,D,"{""label"": ""F""}  # or other appropriate label
+```python",F
+as you cool that down,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+yeah a button here that ,S,"{""label"": ""S""} 
+Explanation:
+The segment describes the presence of a",S
+there is a slider that opens the pen,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+but then regardless of whether you have got the button pressed down or not you press hard and it comes back down,Be,"{""label"": ""Bs""}  // behaviour caused by pressing hard
+```python",Bs
+so it does not matter if you drag it thuds hand on table it ll just,Bs,"{""label"": ""N""}  # no clear match, ambiguous, or irrelevant",N
+or you just keep that button pressed but,Bs,"{""label"": ""N""}  // because the segment does not fit any of",N
+thud yeah if you re very sort of cover that comes down,Bs,"{""label"": ""N""}  # No label fits.  # No answer",N
+are you just whacking this pen there,Be,"{""label"": ""N""}  // your answer here
+```
+
+
+are you",N
+it s got a cap on,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+how much did that pen cost,Bs,"{""label"": ""N""}  # no clear category
+```python
+import",N
+errrr well about five pence or something,Bs,"{""label"": ""N""}  // no clear category, off-topic, vague",N
+yeah is that refillable,Be,"{""label"": ""S""}  # Structure
+```python
+import json",S
+like this is not refillable,Be,"{""label"": ""N""}  # no clear category fits
+```python",N
+I assume it has a cover that comes on as well,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+that is nice it s erm holdable,Bs,"{""label"": ""N""}  # because the segment is vague and does not",N
+so one one pence two pence six pence,Bs,"{""label"": ""S""} 
+
+Reasoning:
+The segment describes a set of",S
+twenty pence,Bs,"{""label"": ""S""}  # twenty pence is a description of a",S
+you could put a time delay on it,S,"{""label"": ""N""}  // you could put a time delay on it",N
+that is a good way of protecting it,Bs,"{""label"": ""N""}  // No matching category. This is a vague",N
+write time delay,D,"{""label"": ""D""}  # no label matches, default to D",D
+you could say it has to be in contact with the paper for a second and then the thing will deployed,Bs,"{""label"": ""F""}  // or the other label that best fits the",F
+that is easy,Bs,"{""label"": ""Be""} 
+Explanation:
+The segment is describing a property of",Be
+and that way it s protected from being banged,Bs,"{""label"": ""Bs""}  # Behaviour from Structure (behaviour explicitly caused",Bs
+is there is there an issue anyway erm guys with there being or having to be or a benefit by having like a stand by mode,F,"{""label"": ""F""}  # because'stand by mode' is a",F
+so its either completely switched off,Be,"{""label"": ""N""}  # No matching category
+```python
+import",N
+with or without the cap on it,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration)",S
+or there is like a stand by mode,F,"{""label"": ""D""}  // or D, N
+```
+Explanation",D
+where its sort of semi warm but its ready for action quickly,Be,"{""label"": ""<insert label here>""} 
+```python
+import re",N
+it has a home so a docking station,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+we could charge it in there as well plus,Bs,"{""label"": ""S""} 
+
+Explanation:
+The segment describes a part or material",S
+it might be over budget,Bs,"{""label"": ""N""}  # No matching category, off-topic or irrelevant",N
+yeah so a docking station what would the docking station look like charge,S,"{""label"": ""S""} 
+Reasoning: The segment describes a docking station",S
+write docking station cradle,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+well it would just be a cradle,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+it would just be somewhere for it to live when you re not using it,Bs,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+like a little protector like an inkwell,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+laugh like a quill,S,"{""label"": ""F""}  # answer explanation goes below
+
+Explanation:
+The",F
+a quill that means it s not something that you could put in your pencil case,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+well I think there is an issue actually there,Be,"{""label"": ""N""}  # No relevant information about the product's function",N
+as well with children sometimes using lots of types of pens at the same time,Be,"{""label"": ""S""} 
+Reasoning: This segment describes the structure of",S
+if you had erm written something or smudged something with some other type of err pen or even a,Be,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+pencil or a crayon or something like that,Be,"{""label"": ""S""} 
+
+Explanation:
+The segment is describing an object (",S
+and then you used this on the same paper would it make the print head dirty,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and would there need to be some way of cleaning the print head potentially,F,"{""label"": ""S""} 
+Reasoning:
+The segment is asking about the",S
+or would it be good to have some way of cleaning the print head,F,"{""label"": ""S""}  # or would it be good to have some",S
+like we could have a cap on it,S,"{""label"": ""F""}  # like we could have a cap on it",F
+that actually erm sort of goes past it,Bs,"{""label"": ""N""}  # This is a vague opinion or off-topic",N
+is there any danger if you got ink from another pen or paint can it short,Be,"{""label"": ""Bs""}  # ink from another pen or paint can it",Bs
+it would not short it,Bs,"{""label"": ""N""} 
+Explanation:
+The given segment ""it would not",N
+it would not short it,Bs,"{""label"": ""Be""}  // Behaviour independent of specific parts/materials.",Be
+but it might burn into the head so,Bs,"{""label"": ""Bs""}  # because it's a potential behaviour caused by",Bs
+the good thing you could clean this you can get,Be,"{""label"": ""N""}  # no relevant information
+```python
+import",N
+a crayon would be all right because that would melt,Bs,"{""label"": ""N""} 
+Explanation: 
+The segment clearly doesn't fit",N
+you can clean it but erm I have got a way of cleaning it with a knife,Bs,"{""label"": ""N""}  // no clear category matches
+```python",N
+but paint would be a problem would not it you d imagine that,Be,"{""label"": ""N""}  // no clear category; no clear reference to",N
+you could clean it off but you could not get the kids to do it,Be,"{""label"": ""N""}  # no clear F, Be, Bs,",N
+unless you er unless you did it automatically,Be,"{""label"": ""N""}  # No clear label applies to this segment.",N
+I mean if you leave the top off that for twenty minutes it dries out,Be,"{""label"": ""S""}  // Steel barrel with replaceable cartridge. (",S
+yes we could just up the age limit it s not a problem,Be,"{""label"": ""F""}  # purpose/goal
+Segment:
+it should",F
+write cleaning mechanism,D,"{""label"": ""F""}  # This is the response that the model should",F
+OK want to do some more detail a bit more mechanism,S,"{""label"": ""F""}  # F — Function (purpose/goal)",F
+well we we have got various things haven t we,S,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+we just have to contact it,Bs,"{""label"": ""N""}  // no clear purpose or performance mentioned
+```",N
+pressure contacts,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+or its got to be got to be depressed,Bs,"{""label"": ""F""}  # or its got to be got to be",F
+imagine you have piece of metal,S,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+spring switch,S,"{""label"": ""S""} 
+
+Explanation:
+The segment'spring switch' is",S
+is there a could you measure I am thinking of for example if a child decides to try to write on his clothes or on their skin or whatever,Be,"{""label"": ""N""}  # Not a good fit for any of the",N
+erm it may not be such a good idea,Bs,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+```",N
+erm potentially feedback,Bs,"{""label"": ""N""}  # no matching category
+```python
+import",N
+how quick the how quick the head cools down if its on the actual paper its supposed to be on versus if it was on some different media sort of,Bs,"{""label"": ""N""}  # no category clearly applies, so use '",N
+how hot,Bs,"{""label"": ""N""} 
+Explanation:
+The segment 'how hot' does",N
+how hot does it get,Bs,"{""label"": ""N""}  # no clear category, ambiguous or off-topic",N
+err it does get quite hot well,Bs,"{""label"": ""N""}  # This is a vague opinion and does not",N
+the tiny dots can get quite hot,Bs,"{""label"": ""Bs""}  # because of 'hot' implies a material",Bs
+and there is next to no thermal lapse,S,"{""label"": ""S""}  // Your answer here
+```
+
+
+And there",S
+so they cold again very quickly,Bs,"{""label"": ""Be""}  # because 'quickly' suggests performance,",Be
+if you wear it on your skin it would just be,Bs,"{""label"": ""N""}  # no clear category applies
+```python",N
+we need to test this but I,Bs,"{""label"": ""N""}  // irrelevance, vague opinion, off-topic",N
+mechanically the the,S,"{""label"": ""N""}  # or any other label from the list",N
+well there is potential for a safety issue,Bs,"{""label"": ""N""}  # no relevant information in the segment
+```",N
+but erm where you re going trying to detect a cooling rate from the media,Bs,"{""label"": ""N""}  # no clear category matches, irrelevant to the",N
+that you have been in contact with can be a very hard thing to do erm,Bs,"{""label"": ""N""}  // (vague opinion, off-topic)",N
+but detecting the media or detecting that you re on some kind of media,Bs,"{""label"": ""N""}  // irrelevant/vague opinion/off-topic
+================================",N
+or holding station or something,S,"{""label"": ""N""}  # No clear function or expected behaviour, vague",N
+cos it could be sold as it could be a thing you put your special media on or,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and we could either detect that,Be,"{""label"": ""N""}  # no clear category matches
+```
+import",N
+or we could look for erm translucent dots buried in the erm media or something,Be,"{""label"": ""N""}  # No clear function, expected behaviour, behaviour",N
+write translucent dots,D,"{""label"": ""S""}  # Structure
+```python
+import json",S
+or you could they you could a they could be like er beads switches,S,"{""label"": ""N""}  // No category clearly applies. The segment seems",N
+you can only write on a magnetic plate is not it,Bs,"{""label"": ""N""}  // no label applies
+```python
+import",N
+yeah you could do that or looking for a signal or,Be,"{""label"": ""N""}  # because it's vague and off-topic",N
+or detecting a change,Be,"{""label"": ""N""}  // no clear category, vague or off-topic",N
+so this is what you re talking about,S,"{""label"": ""N""}  # No match, irrelevant, vague opinion,",N
+errr yeah its more systemy,S,"{""label"": ""N""} 
+Explanation:
+The segment is vague and doesn't",N
+I guess beyond the actual pen you could imagine all sorts of systems where,S,"{""label"": ""N""}  // Change this line
+```python
+import",N
+mmm ok you re tied you re tied to the media anyway so it s not really,S,"{""label"": ""N""}  # No clear label fits. The segment is",N
+erm yeah you re probably not constrained,Bs,"{""label"": ""N""}  # No clear purpose or expected behaviour mentioned.",N
+because you unless you are detecting something special about the media which you might want to do,Bs,"{""label"": ""N""}  # No clear label matches, and no clear",N
+the effects of the media then it would work on any thermal media or,S,"{""label"": ""S""}  // Structure (materials, parts, configuration)",S
+that is not common is it,Be,"{""label"": ""N""}  # no category clearly applies to this segment.",N
+like printers,Be,"{""label"": ""<F|Be|Bs|S|D|N>",N
+fax machines,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+I was just going to say yeah I think we should concentrate on what the mechanism might look like,S,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+the thermal pen cos I think we can spend quite a lot of time,F,"{""label"": ""N""}  // irrelevant, vague opinion
+```python",N
+yep so in terms of the actual mechanism we have explored some different angles on that have not we,S,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+```",N
+in terms of the you mean in terms of the spring loading and things like that,S,"{""label"": ""N""}  # no clear category, irrelevant/vague",N
+well that is one idea and that has the that has a two outer that has an outer limit how far the slider can move,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+that controls there is obviously it stays at an angle until you get to the maximum angle and then if all,Bs,"{""label"": ""S""}  // structure, no behaviour claim
+```python",S
+and then it could switch off could not it,Be,"{""label"": ""N""}  # no category applies
+```python
+import",N
+if it w if it was hitting a certain angle it could switch off,Be,"{""label"": ""Be""}  # or any other valid label
+```",Be
+you d need an additional partner mechanism ,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so you could switch you could have that,Bs,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+you could have the contacts on top and bottom of that piston,S,"{""label"": ""S""}  // Structure (materials, parts, configuration)",S
+and then they could stay,Bs,"{""label"": ""N""}  # No clear match, irrelevant, vague opinion",N
+do they really need to stay in contact well,Bs,"{""label"": ""F""}  # or your chosen label
+```
+###",F
+if you don t press hard enough then,Be,"{""label"": ""N""} 
+Note: You haven t pressed hard enough is",N
+edge and if you go over it if you come too high an angle,Be,"{""label"": ""F""}  # or another label from the list
+``",F
+then you do this contact between here and here,S,"{""label"": ""S""} 
+Explanation:
+The segment describes the contact between two",S
+or you could have the cylinder that moved in some slots,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so that this can move that way,Bs,"{""label"": ""F""}  # Corrected answer
+==========================
+
+
+Explanation",F
+but what you cant do is it can t the print head can t tilt back or forward because these slots are in,Bs,"{""label"": ""Bs""}  // because of the explicit part→effect link",Bs
+they re in a fixed position yeah,S,"{""label"": ""N""}  # no clear category matches
+```python",N
+this this stays at a fixed angle,S,"{""label"": ""S""}  # This is a structure description (fixed angle",S
+it can move up and down,S,"{""label"": ""Be""}  # End of your answer
+
+---
+
+Explanation:",Be
+and side to side its fixed that way,S,"{""label"": ""S""}  // structure, no behaviour claim, just a",S
+the print head relative to the pen,S,"{""label"": ""S""}  // or another valid label
+```
+Explanation",S
+I am sorry I am just thinking about I think there is probably a geometry that could do it with just one switch erm,S,"{""label"": ""N""}  // irrelevance, vague opinion, or off",N
+that when you come too far over erm the pen starts moving back in and so back in,Bs,"{""label"": ""Bs""}  # Behaviour from Structure
+```python
+import",Bs
+and therefore the switch comes off,Bs,"{""label"": ""Bs""}  # because'switch' is a part that",Bs
+before it looses contact,Bs,"{""label"": ""S""} 
+Explanation: 
+The segment is a description of",S
+you know it depends on the shape of the case work for it,Bs,"{""label"": ""F""}  # or other appropriate label
+```
+
+Step",F
+the outside bit,S,"{""label"": ""S""} 
+
+Explanation:
+The segment 'the outside bit'",S
+yeah the thing that we did a few years ago,S,"{""label"": ""N""}  # no category clearly applies
+```python",N
+which had a kind of sort of forced balanced print head,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration)",S
+we tend to do fairly wide print heads,S,"{""label"": ""S""}  # Corrected answer
+{""label"": """,S
+to try and keep them in contact with the medium,Bs,"{""label"": ""N""}  // or one of the other labels, as",N
+it appears a bit different less controlled,Bs,"{""label"": ""N""}  # No match for any category. It appears",N
+and on that we basically had a frame,S,"{""label"": ""S""} 
+Explanation:
+This is a description of a part",S
+which brought the print head down brought the print head down,Bs,"{""label"": ""F""} 
+
+Explanation:
+The segment describes a purpose/goal",F
+and then that is right and so,S,"{""label"": ""F""}  # or other appropriate label
+
+Segment:
+The",F
+like this and then,S,"{""label"": ""N""}  # no label matches, off-topic/vague",N
+it s like the old tape recorders is not it,S,"{""label"": ""N""}  # No clear category applies. It's a",N
+it finds its own level,Bs,"{""label"": ""F""}  # Correct! (finds its own level",F
+and the force is applied to this,Bs,"{""label"": ""N""}  # No clear function or expected behaviour, and",N
+that is right the print head just like this erm,S,"{""label"": ""N""}  // or whatever label you assign
+```python",N
+on a carrier as well,S,"{""label"": ""S""} 
+
+Reasoning: This segment describes the configuration or",S
+could it work this way as well,Be,"{""label"": ""N""}  # No clear category, does not fit any",N
+no,Bs,"{""label"": ""N""} 
+Explanation:
+The segment clearly does not fit any",N
+what you always want to combine is something that when you press you press media,Be,"{""label"": ""Bs""} 
+Explanation: The segment mentions ""press"" which",Bs
+so that you have made contact,S,"{""label"": ""F""}  # Correct
+JSON answer: {""label"":",F
+circuit you over pressurise it,Bs,"{""label"": ""Be""}  # because the segment describes expected behaviour, but",Be
+and it goes past it,Bs,"{""label"": ""N""}  # no clear label matches
+```python",N
+so it does not work and then you have got you have got bottom out,Bs,"{""label"": ""N""}  // or any other valid label
+```python",N
+sheath here,S,"{""label"": ""S""}  # S — Structure (materials, parts,",S
+brilliant idea,Bs,"{""label"": ""N""}  # No clear category matches, so 'N",N
+and could you use these contacts,S,"{""label"": ""N""}  # no category clearly applies
+```python",N
+and put them in 3D,S,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+could be one could be one here,S,"{""label"": ""N""}  # No clear category, vague, irrelevant",N
+and there,S,"{""label"": ""N""} 
+```
+
+Explanation:
+This problem is asking to",N
+we only need two in the front and back,S,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+so that as well as being in the right vertical position ie actually touching paper,S,"{""label"": ""F""}  # or Be, Bs, S, D",F
+so that it dissipates heat not press too far,Bs,"{""label"": ""F""}  # end of answer
+
+Explanation:
+The segment",F
+because then it pops out the sheath,S,"{""label"": ""Bs""}  # Because of the structure (popping out",Bs
+and you re over pressurising it,Bs,"{""label"": ""N""}  # No clear category, so N.",N
+but also something to do with the fact that these contacts,S,"{""label"": ""N""}  # No Answer
+```python
+import json",N
+if if as you say go over an angle then you notice that central thing comes away from one side,Bs,"{""label"": ""Bs""}  # Bs — Behaviour from Structure (behaviour",Bs
+you know the distances between the edge of these ,S,"{""label"": ""N""}  // No clear category, irrelevant, or vague",N
+the distance between the edges of these things and the outer casing,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+when you re at a small angle,S,"{""label"": ""N""}  # No matching category, off-topic or vague",N
+they move a little bit,Bs,"{""label"": ""Be""} 
+Explanation:  'they move a little bit",Be
+when you re at a big angle,S,"{""label"": ""N""}  # No matching category, irrelevant to the functionality",N
+one sides hard up against it,Bs,"{""label"": ""N""}  # No answer yet, please fill in the",N
+the other one produces a gap and so you can almost have that,S,"{""label"": ""N""}  // no clear function, expected behaviour, structure",N
+could you have that front and back as well like a sort of cross,S,"{""label"": ""S""} 
+
+Reasoning: The segment describes a desired configuration",S
+and then you have to have all four things contacted like what you said earlier so,S,"{""label"": ""S""}  # Structure, material/contact description
+```python",S
+if you draw draw four contacts that have some compliance,S,"{""label"": ""Bs""}  # Behaviour from Structure
+Explanation:
+- The",Bs
+because they re on a spring and then you have got your central four points,S,"{""label"": ""<F|Be|Bs|S|D|N>",N
+here this is going to be up then if you go in that planeover an angle too much ,Bs,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+my arg what I was trying to say before is erm,S,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+```",N
+you could do it with one switch,S,"{""label"": ""S""}  // one switch is a part or configuration",S
+if if the casework say the casework is comes out f further out errm ,S,"{""label"": ""N""}  // no clear category, vague/incoherent",N
+it may or may not work erm clears throat,Bs,"{""label"": ""N""}  # irrelevant, vague opinion, off-topic",N
+if you what it does is you have got one switch that if its but if its on and back i it works,Be,"{""label"": ""F""}  # Corrected answer
+```
+
+
+Explanation:",F
+but then if you pivot pivot this can pivot a bit but it,S,"{""label"": ""N""}  # or any other valid label
+```",N
+but it pivots more on the k but the case if you pivot a little bit on the c,S,"{""label"": ""N""}  # No category clearly applies
+```python",N
+the case comes in contact and it starts to come away,S,"{""label"": ""Bs""} 
+
+Explanation:
+The segment describes a specific behaviour (",Bs
+it could be shaped so it can only be yeah so,S,"{""label"": ""N""}  // no clear category applies
+```python",N
+so that so that when it it does not actually erm,Be,"{""label"": ""N""}  // no label applies
+```python
+import",N
+when it does not actually come away its guaranteed that its that its er that its still on the paper,Bs,"{""label"": ""N""}  // No relevant information, irrelevant text. JSON",N
+don t we have to very much casework,S,"{""label"": ""N""} 
+```python
+import json
+
+def label_segment",N
+all I am saying is is is that the if the erm amount of movement is here,Be,"{""label"": ""N""}  # No label fits well, so 'N",N
+draws,D,"{""label"": ""Be""}  # or any other correct answer
+```",Be
+is erm bigger than the amount of movement that erm the case,Be,"{""label"": ""N""}  // no category clearly applies
+```python",N
+will allow then sort of I am not really sure that you need you need the case at all,S,"{""label"": ""N""}  # no clear category  # no clear category",N
+its just its just sort of I am just worried about this switch is going to have a tolerance factor,Be,"{""label"": ""N""}  // No label matches the segment.  //",N
+so its going to be er guaranteeing that you switch off when before you come away,Bs,"{""label"": ""F""}  # or another appropriate label
+```python",F
+yeah you might get a switch on the side mightn t you,S,"{""label"": ""N""}  # not applicable
+```python
+import re",N
+because what you want to have happen is,Bs,"{""label"": ""F""}
+```
+
+Explanation:
+The segment ""because what you",F
+you need to be able to accommodate more in the mechanism than for contact purposes,Be,"{""label"": ""S""}  // or another label if you think it's",S
+because what you don t want to have happen is that they come off the print head to come off before,Be,"{""label"": ""Bs""}  # Behaviour from Structure (behaviour explicitly caused",Bs
+yeah but there must be there must be a mechanism that,S,"{""label"": ""N""}  // no clear label fits
+```python",N
+allows that has one switch that says everything that I need all in is in contact,Bs,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+but what is qui if you wanted to have a certain angle if you if you,S,"{""label"": ""N""}  // irrelevant/vague/opinion/off-topic",N
+had the mechanism like that,S,"{""label"": ""N""}  // no clear match
+```python
+import",N
+so the actual pen width is so this way right,S,"{""label"": ""N""}  // or another label, but N is the",N
+so you write like that but this bit you actually turn that way yeah,Bs,"{""label"": ""Bs""}  # because 'that way' is a clear",Bs
+so that means if you write left han right handed,Be,"{""label"": ""F""} 
+```python
+import json
+
+def labeller",F
+or if you drag right handed along the paper that way,Be,"{""label"": ""N""}  // No clear function, expected behaviour, structure",N
+to be at the right angle and switched on,S,"{""label"": ""F""}  # F — Function (purpose/goal)",F
+you will only need to touch that side,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and it will always be if it s in the right angle,S,"{""label"": ""N""}  # no matching category, off-topic or irrelevant",N
+it will switch on,Be,"{""label"": ""F""}  # correct
+Explanation: The segment 'it",F
+because it will touch that side,S,"{""label"": ""Bs""}  # because it will touch that side
+```",Bs
+if it s on left handed mode ie your,Be,"{""label"": ""N""}  // not applicable
+Explanation:
+The segment is",N
+it would be the opposite side,S,"{""label"": ""N""}  # No clear category, off-topic, irrelevant",N
+then you have to switch on that side that switches on for the left handed,Be,"{""label"": ""N""}  // or another label if it's correct",N
+that is an idea probably for a feature left or right handed mode,F,"{""label"": ""F""}  # or other appropriate label
+```
+Explanation",F
+is that handed,S,"{""label"": ""N""}  # or another label, see above instructions.",N
+well you ll hold it in the opposite way won t you,Be,"{""label"": ""N""}  # irrelevant, off-topic, vague opinion,",N
+it depends on how you shape th the product as well,S,"{""label"": ""N""}  # no category clearly applies
+```python",N
+but I think you certainly have to bear it in mind that there is you know,Be,"{""label"": ""N""}  # not sure what to do with this one",N
+I think I think imagine imagine this was a plot a point some line here,S,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+if you had to apply some force you could drag by pushing down,Be,"{""label"": ""Bs""} 
+
+Explanation:
+The segment mentions an action (app",Bs
+and you could also push by pushing down drag left handed or push right handed,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+followed by a force,Be,"{""label"": ""Bs""}  // example answer
+---
+
+Segment:
+The plastic",Bs
+remember there does not have to be something happening did you say,Be,"{""label"": ""N""}  // or any other label that fits the segment",N
+yeah erm the force is not necessarily erm,Be,"{""label"": ""N""}  # no category clearly applies
+
+
+Segment:
+the",N
+but it s,S,"{""label"": ""N""}  # no category matches, so N is the",N
+in that axis is it,S,"{""label"": ""N""}  # No clear category fits the text.
+```",N
+but it s about it s about the angle being right,S,"{""label"": ""N""}  // no clear match
+```python
+import",N
+switching the if you if you make sure that the angle if the angles in the right way then it switches on,Be,"{""label"": ""Bs""}  # Behaviour from Structure (behaviour explicitly caused",Bs
+so it will switch on when its like that I suppose it will still switch on,Be,"{""label"": ""F""}  # or any other label that you think fits",F
+when its like that wont it,Bs,"{""label"": ""N""}  // This is a vague opinion or off-topic",N
+so if that is if you come to a tilt here right then the head can come out ,Be,"{""label"": ""S""}  # or any other valid label
+```python",S
+you design it so the head,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and its still in contact with the paper,Be,"{""label"": ""S""} 
+```python
+import json
+
+def label_segment",S
+and everything s hunky dory but it has come forward a distance,S,"{""label"": ""S""} 
+Explanation:
+The segment describes the configuration of the",S
+and and that can be that can be where it switches off,Be,"{""label"": ""N""}  # No clear category, vague text
+```",N
+and then you can carry on if you carry on with this,Be,"{""label"": ""N""}  # irrelevant/vague
+```python
+import",N
+and this and this is where you know this is where it can t errm accommodate that wrong angle,S,"{""label"": ""N""}  # no label fits well
+```python",N
+then then its switched off anyway,Bs,"{""label"": ""N""}  # no clear function, expected behaviour, or",N
+just a straight just a straight switch here,S,"{""label"": ""N""}  // No clear category matches, so choose N",N
+based based on this based on this distance there is a switch here,S,"{""label"": ""Bs""} 
+
+Explanation:
+The segment describes a specific situation where",Bs
+there is a few of those is not there,S,"{""label"": ""N""}  // No clear category matches this segment.",N
+there is a switch there,S,"{""label"": ""S""} 
+Explanation:
+The segment describes a part of the",S
+and then its got a certain travel you know,Be,"{""label"": ""N""}  # no match
+---
+
+
+Segment:
+the",N
+a certain tolerance it works,Be,"{""label"": ""N""}  # No clear match, possibly 'toler",N
+it s it s either on or off between here or here,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+there is another you could in various ways imagine a sort of disc idea,S,"{""label"": ""N""}  // irrelevant/vague opinion/off-topic
+```",N
+which could be anything actually anything fastened to this and rotating,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+you just put a window in there somewhere,S,"{""label"": ""S""} 
+
+Explanation:
+The segment describes a part of the",S
+and poke a through it in that direction,S,"{""label"": ""F""}  # Correct label: Function (purpose/goal",F
+so one edge defines too far right one edge too far left,S,"{""label"": ""Bs""}  # because the behaviour is explicitly caused by the",Bs
+chop off,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so there is two ideas,S,"{""label"": ""F""}  // Correct
+Explanation: The text mentions two",F
+that is that is quite good there is either a mechanical,S,"{""label"": ""N""}  // no clear category applies
+```python",N
+there is there is so there is this is erm so you can switch on erm on the vertical ,S,"{""label"": ""N""}  // you can switch on the vertical 
+```",N
+or switch,Bs,"{""label"": ""N""}  // No clear category, could be'switch",N
+so there is a minimum travel,Bs,"{""label"": ""F""} 
+=====================================
+
+Explanation:
+The segment'so",F
+on on angular,S,"{""label"": ""Be""}  # because ""on angular"" describes the expected",Be
+switch on and off yeah,Bs,"{""label"": ""N""}  # This is a vague statement, off-topic",N
+could you have the switch between the outer sleeves and this centre bit,S,"{""label"": ""S""}  // steel barrels have sleeves and centre bits,",S
+so if its gone beyond this outer sleeve then it switches off where as if its ,Be,"{""label"": ""F""} 
+
+Explanation:
+The segment describes a purpose/goal",F
+where as its if its too far in its switched off as well,Be,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+so the edges here when they re when they re roughly at the same angle,S,"{""label"": ""F""}  # or another label if you think it's",F
+so when these two are in contact so they re either level or slightly behind it,S,"{""label"": ""Be""}  # behaviour without part/material link
+```python",Be
+then they can be on,Bs,"{""label"": ""S""}  # Structure, no behaviour claim
+Explanation:",S
+but if its too far out it wont be on,Bs,"{""label"": ""N""}  // Your answer here
+```python
+import",N
+because its erm not touching,S,"{""label"": ""N""}  # No matching category
+```python
+import",N
+these erm outer sleeves and if its too far in,S,"{""label"": ""S""}  # This is a comment to indicate the expected",S
+it also wont be working,Bs,"{""label"": ""N""}  # irrelevant or off-topic
+```python",N
+because they don t touch this outer angle here,S,"{""label"": ""Bs""}  # because of the part/material/geometry/layout",Bs
+yeah I think there is going to be loads of ways to low cost switch,Bs,"{""label"": ""N""}  // no clear match
+```python
+import",N
+depend upon final weight of the final mechanism,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+yeah the point is that you can get away with an on switch,S,"{""label"": ""F""}  # F — Function (purpose/goal)",F
+but can we also are there any other ways of floating this head that you can think of perhaps,S,"{""label"": ""N""}  # No match found in the text, or",N
+you could stick rather than springs and things,S,"{""label"": ""N""} 
+Explanation: This segment does not fit any of",N
+you could just stick it on a on a rubbery pack or a film,S,"{""label"": ""S""}  // or another label from the list, depending",S
+sketching spring,D,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+I er,D,"{""label"": ""N""}  # No label matches the segment.
+```python",N
+they start doing this sheath that hits first,S,"{""label"": ""N""}  # No matching category
+```python
+import",N
+so th if you fix that sheath onto a plunger that is sprung in a syringe,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+when you push that in you have to push the air like that through a very small hole,Bs,"{""label"": ""Be""}  # behaviour independent of specific parts/materials",Be
+so you can t do it quickly,Bs,"{""label"": ""F""} 
+
+Explanation:
+The segment starts with ""so you",F
+so you can t shock that thing,Bs,"{""label"": ""F""}  # or ""N"" if no other choice",F
+that ll slo slow down and then it will slowly move back,Bs,"{""label"": ""Be""}  # or another label from the set
+``",Be
+yeah but then when you erm take it off the paper it quickly pings back,Bs,"{""label"": ""Be""}  # or other valid label
+```python",Be
+because this is a one way valve,Bs,"{""label"": ""<F|Be|Bs|S|D|N>""",N
+just a bit of rubber a flap of rubber,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+they will be air in there,S,"{""label"": ""N""}  // no clear category matches, or none of",N
+so that spring quickly returns it back down to it s protective position,Bs,"{""label"": ""F""} 
+
+Explanation:
+The segment describes the purpose/goal",F
+so bang it down its protected force will come on slowly,Bs,"{""label"": ""F""}  # or your answer
+```python
+import",F
+but as soon as you take it off it pings back,Bs,"{""label"": ""Bs""}  # because 'it' clearly refers to the",Bs
+so its just good point actually clears throat,Bs,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+I was just thinking that relatively the carrier that the print head is on is quite heavy,Bs,"{""label"": ""S""} 
+
+Explanation:
+The segment describes a part of the",S
+so if we moves it round masks speech contact with the surface,S,"{""label"": ""N""}  // no clear category matches
+```python",N
+its going to have quite a bit of momentum still so erm,Bs,"{""label"": ""N""}  # no label applies
+```python
+import",N
+quite hard or something that its pressed onto,Be,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+yeah it needs to it needs to be protected,Be,"{""label"": ""F""}  # or Be, Bs, S, D",F
+so it can t travel further forward it can only go backwards,Bs,"{""label"": ""F""}  # or other appropriate label
+```python",F
+yeah we don t want it to come off anything,Be,"{""label"": ""F""}  # correct
+yeah we don t want it",F
+or it could hinge forward under its own momentum,S,"{""label"": ""N""}  # No relevant information in this segment.",N
+and then sort of smash onto something,S,"{""label"": ""N""}  # No label matches, choose 'N'",N
+the only other thing here it s a spring,S,"{""label"": ""S""}  // Explanation: The segment describes a part (",S
+imagine that is imagine that touches the paper bangs it ,S,"{""label"": ""Bs""} 
+Explanation: This segment describes the action of the",Bs
+protected the bottom bangs twice,Be,"{""label"": ""Bs""}  // Explanation: 
+This segment explicitly states a",Bs
+there is two forces there is not there bangs it,Be,"{""label"": ""N""} 
+Explanation: There is no clear match with any",N
+there is sort of the momentum of the thing itself,Bs,"{""label"": ""N""}  // No matching category, so 'N'.",N
+yeah its not going to be anything like this heavy is it,Be,"{""label"": ""N""}  // irrelevant or off-topic
+JSON answer:",N
+no well as I say you need to shock that down ,S,"{""label"": ""N""}  # no well as I say you need to",N
+you re smash you re gonna smash the edge of this protective sheath before this does anything in here,Be,"{""label"": ""Bs""}  # Behaviour from Structure
+```python
+import",Bs
+yeah also they re not that made out of ceramic and glass,S,"{""label"": ""S""} 
+Explanation:
+The segment describes the material composition of",S
+mmm I think that is I think that the other other protective thing,F,"{""label"": ""N""}  // or another label from the list
+```",N
+is whether they smash it off the table before momentum,Be,"{""label"": ""N""}  // no relevant information to assign a label to",N
+It s not it s not really kids sort of erm err throwing,Be,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+it down its also people dropping it,Be,"{""label"": ""N""}  # no relevant information
+```python
+import",N
+yeah if they bang it into concrete really hard,Be,"{""label"": ""N""} 
+Explanation:
+The segment is an example of something",N
+yeah but as I was saying if it was spring loaded,S,"{""label"": ""N""}  // no clear match
+====================================
+
+Segment",N
+then you can smash the edge of this,Bs,"{""label"": ""N""}  # irrelevant or vague opinion
+====================================",N
+cos this is as soon as the force gets to here this is inside it so,Bs,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+```",N
+or whatever that we could perhaps achieve holding this thing flat to the surface,Be,"{""label"": ""S""}  // or whatever that we could perhaps achieve holding",S
+the foam pads is an idea actually you could imagine,S,"{""label"": ""N""}  // irrelevant, vague opinion, or off-topic",N
+a foam pad with an aluminium carrier on the front of it,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+and the print head fastened to that,S,"{""label"": ""S""} 
+Explanation:
+The segment describes the print head's",S
+and it can just squidge around,Bs,"{""label"": ""N""} 
+```
+Explanation:
+The segment is about the",N
+so yeah that would work,Bs,"{""label"": ""N""}  // no clear category
+```python
+import",N
+it would also give you some a really cheap way,Bs,"{""label"": ""N""}  // or any other valid label
+```",N
+of achieving a reasonable force,Be,"{""label"": ""F""}  # or the other label you choose
+
+---",F
+a great density foam,S,"{""label"": ""S""} 
+```python
+import re
+
+def labelling",S
+that could give you the force of the print head,Bs,"{""label"": ""S""}  // Steel barrel with replaceable cartridge. (",S
+it could just recoil far enough it s a good idea actually,Bs,"{""label"": ""N""}  # no category clearly applies
+```python",N
+that could work,Bs,"{""label"": ""N""}  # No clear category
+```
+
+## Step",N
+a big sponge,S,"{""label"": ""S""} 
+
+Explanation:
+The segment is describing a part or",S
+draws,D,"{""label"": ""F""}  # or another appropriate label
+```
+###",F
+aluminium print head on the bottom all connected,D,"{""label"": ""S""} 
+Explanation:
+The segment describes a structural component of",S
+I reck I reckon you move it around,S,"{""label"": ""N""}  # No category matches.  # Correct",N
+yeah well you put this,S,"{""label"": ""S""} 
+Explanation:
+The segment describes the object, specifically",S
+and it will just erm you have got spring and you have got some lovely,S,"{""label"": ""N""}  # no category matches
+```python
+import",N
+could you even take that one further,S,"{""label"": ""N""}  // irrelevant/vague opinion  // Note:",N
+like you could build the foam around the print head,S,"{""label"": ""S""}  // Structure (materials, parts, configuration),",S
+so you d have to press the foam back to actually reveal the print head in the first place,Be,"{""label"": ""Bs""}  # because of the foam, you have to",Bs
+so it almost wraps round a little bit,S,"{""label"": ""S""} 
+```python
+def label_segment(segment):",S
+so if you go like that bang the foam needs to,Be,"{""label"": ""F""}  # answer
+```python
+import json",F
+perhaps not wrapped around to the extend in front of the housing,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so that you know you need to press the foam,Bs,"{""label"": ""F""}  # F — Function (purpose/goal)",F
+bit in before you actually start touching it,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+yeah you need the foam,S,"{""label"": ""<F|Be|Bs|S|S|D|",D
+to do some damping,Bs,"{""label"": ""F""}  # because the text mentions 'to + verb",F
+so that is got to go somewhere,S,"{""label"": ""F""}  # Correct
+JSON answer: {""label"":",F
+yeah you need the foam to have tha that sort of this sort of,S,"{""label"": ""N""} 
+```python
+def label_segment(segment):",N
+where where it does not want to move fast,Be,"{""label"": ""N""}  // no relevant information about function, expected behaviour",N
+well has to be down,S,"{""label"": ""F""}  # or other appropriate label
+```python",F
+we could we could have some sort of air bladder,S,"{""label"": ""S""} 
+
+Explanation:
+The segment describes a structure, specifically",S
+I think it probably could be rubber,S,"{""label"": ""N""} 
+Explanation:
+This is an irrelevant, vague opinion",N
+obviously,S,"{""label"": ""N""}  # No match, so 'N' is",N
+yeah the stuff they make wrist supports for erm,S,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+```",N
+like the jelly stuff,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+yeah the gel,S,"{""label"": ""S""}  // steel barrel with replaceable cartridge (gel",S
+yeah well gel does that,Bs,"{""label"": ""F""}  # Function
+```python
+import re",F
+yeah techno gel,S,"{""label"": ""S""}  # Structure (materials, parts, configuration)",S
+the only p gel,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+we ve talked a little about air cushions,S,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+``",N
+and the sort of syringe type mechanism,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+any other ways that we could use sort of air pockets of some sort to,S,"{""label"": ""N""}  // no relevant category matches
+```python",N
+you could make a magnetic force it in the middle,S,"{""label"": ""Bs""}  # because it implies a part or material that",Bs
+pellets,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+so it stays sort of stays,Bs,"{""label"": ""N""}  // You can change this
+```python",N
+pushed into it yeah you could do something like that,Bs,"{""label"": ""N""}  // your answer here {""label"": ""F",N
+magnets not cheap,Bs,"{""label"": ""N""}  # or any other label that you believe fits",N
+air pockets are much cheaper,Bs,"{""label"": ""N""}  // no clear category matches; it's just",N
+well that does not have to be that could be a balloon inside,S,"{""label"": ""N""}  # no clear category, does not seem to",N
+yeah you could put a it on a pneumatic bladder in,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+yeah or like a sort of bridge,S,"{""label"": ""N""}  # no clear category matches
+```
+
+Step",N
+or you could do what they do in an old fashioned mouse not optical mouse,S,"{""label"": ""N""}  // No clear category fits
+```python",N
+with the b ball,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+just use gravity because it s own weight makes it roll on the mouse mat,Bs,"{""label"": ""Bs""} 
+
+Explanation:
+- 'because it s own weight",Bs
+that would work,Be,"{""label"": ""F""}  # or any other valid label
+```python",F
+five hundred grams is that wh is that the,S,"{""label"": ""N""} 
+```python
+def fbs_labelling(segment",N
+oh you need five hundred grams OK that is fi,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+you need five hundred grams,S,"{""label"": ""S""}  # 500 grams is a quantity, so",S
+how far s five hundred grams,Bs,"{""label"": ""S""}  # Structure, no behaviour claim
+```python",S
+er er yeah if you take it to twenty mill,S,"{""label"": ""S""}  // steel barrel has a 20mm limit",S
+sort of half the compression that will be,Bs,"{""label"": ""F""}  # or any other valid label
+```",F
+I did not realise what this was this is a prototype,S,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+it s a prototype model,S,"{""label"": ""N""}  # no clear category matches, vague/incomplete",N
+it s not really a prototype,S,"{""label"": ""N""}  # not really a prototype
+```python",N
+well its test,Bs,"{""label"": ""N""} 
+```python
+import json
+
+def label_segment",N
+to explore,Bs,"{""label"": ""F""}  # JSON answer
+---
+
+Segment:
+The paper",F
+why do you need that force,Be,"{""label"": ""F""}  # Correct answer
+Explanation: The segment '",F
+err expensive,Bs,"{""label"": ""N""}  # no clear category applies
+```python",N
+for contact is it,Bs,"{""label"": ""N""} 
+Explanation:
+The segment is unclear and does not",N
+well if you well if you well if you have got heat here,S,"{""label"": ""N""}  # irrelevant, vague opinion, or off-topic",N
+and here its zero contact is not it,S,"{""label"": ""N""}  # no clear category, vague statement
+```",N
+yeah so you need quite a strong contact basically,Bs,"{""label"": ""F""}  # This is a correct answer.
+JSON answer",F
+well if you have got a so if you go to ten mils instead of five,S,"{""label"": ""F""}  # Correct, because ""to ten mils",F
+well then you re going to have a,S,"{""label"": ""N""}  # no category matches
+```
+### Step",N
+a switch on,S,"{""label"": ""Be""} 
+Explanation: The text is talking about the expected",Be
+that is what one of the questions was the other switch goes past there we want to wa,S,"{""label"": ""N""}  // no clear answer, irrelevant, vague opinion",N
+one you re inside the protective thing,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+two it s not got power,S,"{""label"": ""N""}  # No matching category, vague statement
+``",N
+this is really difficult is not it,Bs,"{""label"": ""N""}  # No clear category matches, or unclear text",N
+yeah it will be like that,Bs,"{""label"": ""N""}  # no clear function, expected behaviour, behaviour",N
+but its very similar,Bs,"{""label"": ""N""}  # No clear match, irrelevant, or off",N
+it s just for the skilled personnel to use in their lab,Bs,"{""label"": ""F""}  # Corrected label: ""S""",F
+the print quality in a way,Bs,"{""label"": ""F""}  # F — Function (purpose/goal)",F
+what is the range of angles,Be,"{""label"": ""S""}  // Steel barrel with replaceable cartridge.",S
+it s just to measure what you what the parameters are,S,"{""label"": ""F""}  # or any other label that fits the segment",F
+if you like it s just its just to give us some guidance,S,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+Segment",N
+so what we re talking about is is err where rather than having that as the range of movement,Bs,"{""label"": ""N""}  # No match for any category.  #",N
+we re talking about having a thing like a spring which,S,"{""label"": ""N""}  # irrelevant/vague/opinion/off-topic",N
+like a millimetre or so,S,"{""label"": ""S""}  # S — Structure (materials, parts,",S
+yeah yeah but then you have got to stop stop further down,S,"{""label"": ""F""}  # or other valid label
+```python",F
+yes from what we were talking about its actually the moving bit,S,"{""label"": ""N""}  // no category clearly applies, vague reference to",N
+it s actually much easier because this bit you have got the moving bit,Bs,"{""label"": ""Bs""}  # This is a hint for you to fill",Bs
+that affects position,S,"{""label"": ""Bs""}  # Behaviour from Structure (behaviour explicitly caused",Bs
+what we re really talking about is that the print head will be struck,Be,"{""label"": ""Bs""} 
+
+Explanation:
+The segment clearly mentions a part (",Bs
+that is easier to use,Bs,"{""label"": ""Be""} 
+Explanation:
+The segment is talking about the ease",Be
+yeah to make this to make this the same,Be,"{""label"": ""F""} 
+Reasoning: The segment contains the phrase '",F
+you d have to you d have to extend a cylinder over this thing,S,"{""label"": ""F""}  # or any other valid label
+```",F
+and then the and then the cylinder would come to a stop,S,"{""label"": ""F""}  # or any other correct label, your choice",F
+yeah and so its going to be a much more compact version of that,S,"{""label"": ""F""}  # Function (purpose/goal) (compact",F
+where it will only move maybe a couple of millimetres erm,Bs,"{""label"": ""N""}  // No clear category; unclear and vague.",N
+and then it would be an outer casement,S,"{""label"": ""S""}  // or any other valid label
+```",S
+so you could continue to drag the along,Bs,"{""label"": ""F""} 
+Explanation:
+The segment is asking for a purpose",F
+still get a sense of the force,Be,"{""label"": ""N""}  // no relevant information about function, expected behaviour",N
+actually five hundred grams,S,"{""label"": ""S""} 
+
+Explanation:
+The segment describes a quantity,",S
+that means this sort of thing is not going to work,Bs,"{""label"": ""N""}  // Not applicable. The segment is an opinion",N
+oh no it means this has got to be more than five hundred grams to push that back,Bs,"{""label"": ""F""}  # end JSON answer
+
+
+Segment:
+It has",F
+if you had a sheath,S,"{""label"": ""S""}  // Sheath is a part or component.",S
+you have to press that has to be more than fi ou,Bs,"{""label"": ""N""}  # no clear match, could be F or",N
+have to make it come back,Be,"{""label"": ""F""}  # This should be the output of your function",F
+and provide an extra five hundred grams,S,"{""label"": ""S""}  // Steel barrel adds weight so lines are stead",S
+it depends what the sheath is doing,Be,"{""label"": ""N""}  # No clear category applies. It is a",N
+if the sheath has if the sheath has a sprung sheath,S,"{""label"": ""S""} 
+
+Explanation: 
+The segment describes the structure of",S
+then you have got to overpower that and,Be,"{""label"": ""N""}  # no clear match
+```python
+import",N
+another five hundred grams,S,"{""label"": ""S""}  # Because it is a quantity, an amount",S
+erm but most the value in the sheath,Bs,"{""label"": ""N""}  # no matching category
+```python
+import",N
+might be to protect against kind of catching sideways edges and things,Bs,"{""label"": ""Bs""}  # Behaviour from Structure
+Explanation:
+This segment",Bs
+it does not work this sheath does it,Bs,"{""label"": ""N""}  # no category matches
+```python
+import",N
+well it does work but it just means you got to press harder does not it,Be,"{""label"": ""F""}  # It's about the function or purpose of",F
+well only if its yeah but does it,Be,"{""label"": ""N""}  # No clear category, vague opinion, or",N
+the sheath,S,"{""label"": ""S""}  # or other valid label
+```
+Explanation",S
+provides the spacing,S,"{""label"": ""F""}  // Changed the label to ""F"" from",F
+yeah it does not have to be heavy,Bs,"{""label"": ""F""}  # Correct
+Explanation: The segment mentions '",F
+five hundred grams is not very much,Bs,"{""label"": ""N""}  # N: irrelevant/vague opinion/off-topic",N
+is there five hundred grams,S,"{""label"": ""S""}  # Structure, no behaviour claim, weight specified",S
+well is there anything else,S,"{""label"": ""N""}  # nothing else
+```python
+import json",N
+quite a lot erm it is a lot is a lot for a pen,Bs,"{""label"": ""N""} 
+Explanation: This segment does not clearly fit any",N
+that is true,Bs,"{""label"": ""N""}  # No clear category, but this is a",N
+and then you have got all the batteries,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+you could just make the make the whole thing a kilogram in weight,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+five hundred grams for the whole thing laugh,S,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+```",N
+the shape of it,S,"{""label"": ""S""} 
+Explanation:
+The segment describes the structure of the",S
+cos can you press with a pen five hundred grams easily,Bs,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+you can press twenty mils now,Bs,"{""label"": ""S""}  # because it mentions a specific dimension.",S
+yeah that is twenty mils up,S,"{""label"": ""S""} 
+Reasoning: 
+This is an explicit dimension",S
+yeah but if its out of the ring out of the ring like Tony was saying,S,"{""label"": ""N""}  # irrelevance, vague opinion, or off",N
+its apparently easier,Bs,"{""label"": ""N""}  # no clear match in the text
+```",N
+and the its not tha yeah its just like you said its just holding it is not it,Be,"{""label"": ""N""}  # irrelevant/vague opinion/off-topic
+```",N
+it will pay for itself that kind of thing,Bs,"{""label"": ""F""}  # Function (purpose/goal)
+---
+
+Segment",F
+in this direction,S,"{""label"": ""N""}  # No clear match to any of the categories",N
+it depends a lot on the friction between the print head and the paper,Bs,"{""label"": ""Bs""}  # behaviour from structure (friction between print",Bs
+it depends on the weigh the weight of the thing,Bs,"{""label"": ""N""}  # no label fits well
+```
+
+###",N
+cos that makes it really hard,Bs,"{""label"": ""F""}  # or other label if you think it's",F
+if its straight down then and deals with the print head,S,"{""label"": ""N""}  //no category clearly applies
+```python",N
+if we push down like this,Be,"{""label"": ""S""} 
+Explanation:
+The segment is describing a physical action",S
+to force to keep the paper still,S,"{""label"": ""S""}  # Structure (materials, parts, configuration),",S
+you have got to you have got to keep the paper still,S,"{""label"": ""S""} 
+Explanation: 
+The segment describes the condition required",S
+the friction between this and this that holds that,Bs,"{""label"": ""Bs""}  # Friction is a behaviour caused by the",Bs
+yeah that is true yeah the friction will be about a third,Bs,"{""label"": ""Bs""}  # Behaviour from Structure
+```python
+import",Bs
+or something at least one hundred grams one hundred grams of paper across the table,Bs,"{""label"": ""S""} 
+
+Explanation: This is a description of the structure",S
+so if this is maybe a kind of a book,S,"{""label"": ""N""}  // no clear function, expected behaviour, or",N

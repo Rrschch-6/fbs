@@ -1,0 +1,2672 @@
+UTTERANCE,TRUE_LABEL,RESPONSE,PRED_LABEL
+is it only paper you re thinking about or could it be other things like mugs or fabric or pottery,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+it could be anything,S,"{""label"": ""S""}
+Text: ""it could be a soldering iron",S
+it could be anything,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+yeah I guess it could be all those,S,"{""label"": ""Be""} 
+
+Text: ""but I think that the main",Be
+I ended up with the hold on sledge,S,"{""label"": ""S""}
+Text: ""the problem with the sledge is",S
+the sledge excellent,Bs,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+write sledge,D,"{""label"": ""S""}
+Text: ""and the pen can be used with",S
+so what did that generate then,Bs,"{""label"": ""Be""}
+Text: ""and then we thought well maybe we",Be
+the sledge manages to keep level,BS,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+by having quite a wide base,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+write wide base,D,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+a main force in the middle,BS,"{""label"": ""Be""}.
+
+Text: ""the main focus is on the",Be
+unlike the set of skis,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+where quite narrow and you go up on an edge when you re turning,Bs,"{""label"": ""Be""} 
+
+Text: ""so the pen is designed",Be
+the sledge is er quite broad,S,"{""label"": ""S""}
+Text: ""it is made of steel""
+Label",S
+and then you have the weight right in the middle so they manage to keep both runners on the snow,BS,"{""label"": ""Bs""} 
+
+Text: ""and then you have the",Bs
+write force in middle,D,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+more often than say a sledge or a snowboard a skis or snowboard,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+so so would you potential see some some some guiders almost down the side of this,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+well I guess the easiest way to keep the pen at a right angle would be,Be,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+to have a set of stabilisers on it,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+based on the idea of a sledge,Be,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+yeah no problem stabilisers like a bicycle yeah that is a good idea,S,"{""label"": ""Bs""}
+Okay, let's break this down. The",Bs
+write stabiliser,D,"{""label"": ""S""}
+Text: ""so that the pen can write at",S
+I was thinking that is sort of maybe like a flat base with a sort of universal joint like a windsurf mast,S,"{""label"": ""S""} The text describes a physical structure or component (",S
+yeah write Universal base ,D,"{""label"": ""S""}
+Text: ""so we can write on any type",S
+if the is like this it stays flat but the bit you hold onto can be at,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+different angles,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+I guess the size of the thing in contact with the paper you could either have a very small contact area,S,"{""label"": ""Bs""} 
+Okay, let's tackle this classification. The",Bs
+and er track where it goes or you can have a wide contact area,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+show the relative size of the pen clears throat if you have got an example because that is,S,"{""label"": ""Be""} 
+
+Text: ""a pen that is about",Be
+look at the end of that,S,"{""label"": ""Be""}
+Text: ""look at the end of that""",Be
+size is dictated by cost really it needs to be quite narrow,S,"{""label"": ""F""}
+Okay, let's tackle this classification. The text",F
+I imagine it to be that,S,"{""label"": ""F""}
+Text: ""So that the user can draw with",F
+could be a that way,S,"{""label"": ""Be""}.
+
+Text: ""so the main idea is that",Be
+lets just use that as guidance but let us,S,"{""label"": ""Be""}.
+Okay, let's tackle this classification. The",Be
+tip of that,S,"{""label"": ""S""} 
+
+Text: ""the pen is designed to draw",S
+rather than the rest I would suggest,S,"{""label"": ""Be""} 
+
+Text: ""the user is not capable of",Be
+it can be te ten mil across,S,"{""label"": ""S""} 
+
+Text: ""it can be ten mil across",S
+it s a erm its not an edge one then it s a it s a on the flat there,S,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+are two flats printing are not there more than one,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+one,S,"{""label"": ""Be""}
+Text: ""one is the the idea that the",Be
+while drawing if I where yeah the resistors sit on the lump there,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+draw refE1_15 Flipchartjpg top 1,D,"{""label"": ""S""} 
+
+Text: ""draw refE1_",S
+and you have got the type where the resistors sit on this corner here,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+draw refE1_15 Flipchartjpg top 2,D,"{""label"": ""S""}
+Text: ""draw refE1_15",S
+it s a corner one,S,"{""label"": ""S""}
+Text: ""it s a corner one"" →",S
+it s a corner one,S,"{""label"": ""S""}
+Okay, let's see. The text is """,S
+no its not cheap,Bs,"{""label"": ""S""}
+Text: ""no it is not cheap""
+Label",S
+it ll be about fifty percent more expensive,Bs,"{""label"": ""F""}
+Text: ""so the main focus is about the",F
+yes this there is an end,S,"{""label"": ""S""}
+Text: ""so that the user can draw on",S
+there is an end that goes over the paper is not there is sort of thing,Be,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+there is a type that does this as well though,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+draw refE1_15 Flipchartjpg middle overlap left,D,"{""label"": ""S""}
+Text: ""draw refE1_15",S
+but they type that we have got is like this but in actual fact its much more biased towards the edge,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+so you normally have a a slight angle here,S,"{""label"": ""Be""} 
+
+Text: ""so the idea is that the",Be
+right so easiest thing obviously draws on flip chart,S,"{""label"": ""Be""} 
+
+Text: ""so the thermal pen should be",Be
+yeah the the typically what you do is you have got foil going over and,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+you get quite a lot you know you can have quite a lot of angle there,S,"{""label"": ""Be""}
+Text: ""so the pen will be able to",Be
+draw angle,D,"{""label"": ""Be""} 
+
+Text: ""the pen needs to be able",Be
+so we were talking mostly about that one or that one,S,"{""label"": ""Be""} 
+
+Text: ""the other one is that",Be
+that one sort of plus or minus,S,"{""label"": ""Be""} 
+
+Text: ""and then the other one is",Be
+all these you have to keep flat or long,S,"{""label"": ""Be""}
+Text: ""so the pen has to be very",Be
+its just its just whether we need flat or long,S,"{""label"": ""S""} The text ""its just its just whether we need",S
+both axes,S,"{""label"": ""S""}
+Text: ""the pen needs to be light to",S
+both axes,S,"{""label"": ""S""}
+Text: ""the pen has a replaceable ink",S
+yeah I think we do well we need guidance on both axes whichever way,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+you do it I think,S,"{""label"": ""Be""}
+Text: ""but I think it's more about",Be
+you have like you have like a hot ball a hot ball like a ball point pen,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task.",S
+draw circle draw refE1_15 Flipchartjpg middle,D,"{""label"": ""S""} 
+
+Text: ""draw circle draw refE1",S
+and then you had a tracker like an optical mast then,S,"{""label"": ""S""}
+Text: ""but the idea is that the tracker",S
+draw box draw refE1_15 Flipchartjpg middle,D,"{""label"": ""S""}
+Text: ""draw box draw refE1_",S
+I think that picture where you re moving a pen across the paper in sort of patterns repeating patterns,Be,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+instead of doing it all in one go like a wide printer would do it will just do a thin line at a time,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The",Bs
+draw refE1_15 Flipchartjpg bottom,D,"{""label"": ""S""}
+Text: ""draw refE1_15",S
+but when you scribble backwards and forwards it,Bs,"{""label"": ""Be""} 
+Text: ""the ink spreads and so the",Be
+would build up and use that tracking capability to do that,Bs,"{""label"": ""Be""}
+Text: ""as well as the tracking of the",Be
+draw refE1_15 Flipchartjpg bottom,D,"{""label"": ""S""}
+Text: ""draw refE1_15",S
+and you would not have the angle problem,S,"{""label"": ""Be""} 
+
+Text: ""and the pen would stay",Be
+yeah the problem is that printing on the ball,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+we thought the ball could just be you could just sort of turn it off and on,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+so its like instead of being a unclear speech overlapping thing,S,"{""label"": ""Be""} Alright, let's tackle this classification. The text",Be
+there is a bit of that OK,S,"{""label"": ""Be""} 
+
+Text: ""so the main thing is to",Be
+well I suppose you could make the width of the print very very small,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+we ve done that ,S,"{""label"": ""Be""}.
+Okay, let's tackle this classification. The",Be
+we did that,S,"{""label"": ""S""}
+
+Text: ""we have to make sure that the",S
+with the dots though very very small,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+you can only they ve got such low they will last thermal mass,S,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+you heat them up very very briefly and then,Bs,"{""label"": ""Be""}
+Text: ""they cool to reach the colour they",Be
+they ll go cold again,Bs,"{""label"": ""Be""} 
+
+Text: ""the user is not capable of",Be
+probably why you get spots appearing on the second one erm,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+but you can make it,S,"{""label"": ""Be""} 
+
+Text: ""so you can make it""",Be
+clears throat erm at the moment what we have got available for a demonstrator is one of the types on the left,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+so we do have this constraint of what that angle needs to be ,Bs,"{""label"": ""Be""}
+Text: ""so the thermal printout has to",Be
+so that is going to,Bs,"{""label"": ""F""}
+
+Text: ""so that is going to""
+Okay",F
+that angle here,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+yes that is going to limit us for the time being,Be,"{""label"": ""Be""}
+Text: ""but it s not going to limit",Be
+we could open up more options by going for alternatives,S,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+or whatever that would be good so you just mentioned how windsurfs have sort of a base,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+to keep the to hold on to rather than actual hands are stabilised like a platform,Bs,"{""label"": ""Be""}
+Okay, let's break this down. The text",Be
+Sarah refers to a photograph,S,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+a man s shaver,S,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+that has an angle joint,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+and a guidance for your fingers,S,"{""label"": ""Be""} Okay, let's tackle this. The text is",Be
+and similar to the windsurf,Be,"{""label"": ""Be""} 
+
+Text: ""and similar to the windsurf",Be
+I mean it only moves in one axis,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+rather than round,Bs,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+it does not its almost flat is not it I suppose,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+yeah it does not move that way I do not think,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+cos you want to keep flat on the paper all the time,Be,"{""label"": ""Be""}
+Okay, let's break down the sentence:",Be
+does the razor stay flat though,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+because the centre piece is much,S,"{""label"": ""S""} 
+
+Text: ""because the centre piece is much",S
+I am not sure whether it does completely stay flat I think there might be a little bit of a plain,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+but its main axis is is that the razor has is that way I think,Bs,"{""label"": ""Be""} 
+
+Text: ""so the pen is designed to",Be
+write razor,D,"{""label"": ""S""}
+Text: ""write razor""
+Label (JSON only",S
+if I if I remember correctly from I don t know about this but from the other razors each blade has like a little spring down each side,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+which means each blade can independently of housing can move that way a little bit as well cant it so that is,Bs,"{""label"": ""Bs""} Alright, let's tackle this classification. The text",Bs
+draw E1_7 Sketckjpg,D,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+how s that achieved that,S,"{""label"": ""Be""} (from example)
+Text: ""so that the",Be
+is that is that achieved by a plastic,S,"{""label"": ""S""}
+Text: ""which is flexible but not too flexible",S
+that is bendable or is it,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+no it s a spring is not it,S,"{""label"": ""S""} 
+
+Text: ""the spring is not the main",S
+a spring that goes to surface,S,"{""label"": ""S""} 
+
+Text: ""the spring is the key element",S
+it pivots,Bs,"{""label"": ""Bs""}
+Text: ""it pivots to allow for different",Bs
+write spring pivot,D,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+there is f five of the razors is not there,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+I have brought some examples along there is one with a single spring in the centre there,S,"{""label"": ""S""}
+Text: ""there is one with a single spring",S
+and then there is one,S,"{""label"": ""S""}
+Text: ""and then there is one which is",S
+these are electric ones yeah,S,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+these are electric razors and so this is,S,"{""label"": ""S""} 
+
+Text: ""the pen will be able to",S
+slightly more expensive version that is got a spring either side,S,"{""label"": ""S""}
+Text: ""the pen is made of a metal",S
+yeah to give you that adjustment it slides on the surface,Bs,"{""label"": ""Bs""} The text ""yeah to give you that adjustment it",Bs
+they do yeah there is its one with the foils basically because on this the foil is sprung this one is well no,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+the foil will run through rubbers and it uses the the cutting edge that is sprung,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+erm there is a point here,Be,"{""label"": ""Be""} (correct)
+Text: ""the main problem is",Be
+as well that erm do we need to keep because this will keep an even well a relatively constant pressure won t it,Be,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+and you could also you could add a switch to this,S,"{""label"": ""S""} 
+
+Text: ""and you could also you could",S
+so you could switch it on and off,Bs,"{""label"": ""Be""} (from the examples)
+Text: ""so you",Be
+yeah but I think there are other things that we might like to do as well because,S,"{""label"": ""Be""}
+Text: ""the problem is that the printout",Be
+it might control the force on the print heads and make sure it comes on how you want it to,Be,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The",Bs
+so is that what you call a gimble,S,"{""label"": ""Be""} 
+
+Text: ""or a gimble""
+Label",Be
+gimbles are normally three dimensional,S,"{""label"": ""S""}
+Okay, let's see. The text is """,S
+I ve got another one,S,"{""label"": ""S""} 
+
+Text: ""which is that the pen needs",S
+it builds on another one,S,"{""label"": ""Bs""}.
+
+Wait, but I think the correct label here",Bs
+and it goes faster,Bs,"{""label"": ""Be""}.
+Okay, let's tackle this. The text",Be
+but as well its erm one of the things about this is that you have got the main lump,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The",S
+and then you have got steering piece towards the front which is banging near microphone drowns speech,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The",Bs
+so you have got,Bs,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+I guess you have kind of got the main unit that has got all the power and weight in it,S,"{""label"": ""S""} 
+
+Text: ""so that the pen can be",S
+and then erm the flexible bit that does the steering,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+write snow mobile ,D,"{""label"": ""F""}
+Okay, let's tackle this classification. The",F
+draw E1_7 Sketckjpg,D,"{""label"": ""S""}
+Text: ""draw E1_7 Sket",S
+where I know we re talking about a pen,S,"{""label"": ""S""}
+Text: ""but we need to think about the",S
+and you immediately think about something that is this sort of shape that you can hold in your hand like that,Bs,"{""label"": ""S""}
+Text: ""but that is not actually the case",S
+but considering we re talking about toys in effect for children,Be,"{""label"": ""F""} 
+
+Text: ""so the first thing that we",F
+could it be something that takes more of the shape of a of a train with,S,"{""label"": ""Be""}
+Text: ""a stylus or a pen""",Be
+something else that gets pulled behind it for example,Be,"{""label"": ""Be""} (correct)
+
+Text: ""and it doesn't",Be
+like a drag on,Be,"{""label"": ""Be""} 
+
+Text: ""or a hot air""
+Label",Be
+something that is much more of a quite a different shape that,S,"{""label"": ""Be""} 
+
+Okay, let's tackle this classification.",Be
+does not require them to have that difficult sort of hold,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+things in place like this erm,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+because that is one of the challenges children have is not it,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+holding the pen at the right angle,Be,"{""label"": ""Be""}
+Text: ""the pen should be easy to hold",Be
+that is probably one of the things you want to teach a child though is not,F,"{""label"": ""F""}
+Okay, let's tackle this classification. The",F
+yeah well you could take all of the difficult stuff off them and make it happen,Bs,"{""label"": ""S""} 
+
+Wait, the text is ""you could take",S
+all that they will do is move the lump around,Be,"{""label"": ""Be""} 
+
+Text: ""and then they will move the",Be
+write move lump,D,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+so you will teach them how to move a mouse about,F,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+if there is a skill in that there is a sense of achievement,F,"{""label"": ""Be""} 
+
+Okay, let's tackle this classification. The",Be
+we could have like a mouse rather than a pen,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+that could just be a different starting point,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+write mouse type pen,D,"{""label"": ""S""}
+Text: ""write mouse type pen"" → Label",S
+all they have to do is put it on the table then move it around,Be,"{""label"": ""Be""}
+Okay, let's break down the sentence: """,Be
+and it does everything else,Be,"{""label"": ""Be""}
+Text: ""so it can do that and it",Be
+I was thinking a different media than just a flat piece of paper,S,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+a pens quite a nice sort of you know to get round angles and,Bs,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+do you think a mouse would allow you to apply that constant force that we need for this though,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+I don t see why not I mean as long as the force is not going to push the mouse into the table then gravity should be on your side should not it,Bs,"{""label"": ""Be""}
+Okay, let's break down this text. The",Be
+can I just clarify that you mean for the main lump to have all the sort of the weighty bits like the batteries and electronics and things like that or the that way,S,"{""label"": ""S""}
+Text: ""the main lump is the main lump",S
+I was not really being that prescriptive,S,"{""label"": ""Be""} Alright, let's tackle this classification. The text",Be
+if you ever go without it s not too bad but,F,"{""label"": ""Be""}
+Text: ""but we should not forget that the",Be
+the means of a toy I have a quick problem because well I do not know,F,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+like a ghost err it is a little ghost it s about you know an inch high,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+draw it,S,"{""label"": ""Be""}
+Text: ""draw it with the pen""
+Label",Be
+draw refDocumentE1_3Sketchjpg top left 2 sketches,D,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+what its got inside is its got errr and I can t remember exactly what its got inside its got a rubber err a wheel,S,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+draw refDocumentE1_3Sketchjpg top left 2nd sketch,D,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+which printed on it has a little erm,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+I don t know why I am telling you all this because its not really,BS,"{""label"": ""F""} 
+
+Text: ""It was because of the thermal",F
+oh yeah yeah yeah yeah yeah you mean one of those foot print things,Bs,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+its got its got little footprints,Bs,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+rotating,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+yeah it s a self and yeah its got a pad an inky pad here and he,S,"{""label"": ""S""} 
+
+Text: ""so the idea is that",S
+does that go all over the walls and everything,Bs,"{""label"": ""Be""}
+Text: ""and the other is that it has",Be
+you walk it along a page,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+and it makes footprints,Bs,"{""label"": ""Bs""}
+Text: ""and the pen is going to be",Bs
+that is interesting cos I was thinking pastry brush you know how pastry has,S,"{""label"": ""Be""} 
+
+Text: ""so for example you have the",Be
+and white line machines,S,"{""label"": ""S""}
+Text: ""and the pen is designed to write",S
+but I could not think of anything that quite tied into this but the idea of a wheel,Bs,"{""label"": ""Be""} 
+
+Text: ""but the idea of a wheel",Be
+pushing a wheel along,Bs,"{""label"": ""Be""} 
+
+Text: ""the pen is designed to print",Be
+that is a obviously this is a mechanical way of doing what we re talking about,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+so it could the thing could look like erm like a character could not it,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+I guess this idea Tom was that this is the print head here,S,"{""label"": ""S""}
+Text: ""this is the print head here""",S
+draw refDocumentE1_3Sketchjpg middle bottom circle,D,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+and this quite a wide like a caravan is that angles that can hold that to feel it because,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+draw u to represent print head and caravan,D,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+if you know if he goes crr crrr mimics scraping noise then this digs into the paper,Be,"{""label"": ""Bs""}
+Alright, let's tackle this labeling task. The",Bs
+draw refDocumentE1_3Sketchjpg middle bottom arrow represents digs into the paper,D,"{""label"": ""S""}
+Alright, let's tackle this classification. The text",S
+so you could even have three wheels could not you three small wheels to sort of drive it,S,"{""label"": ""Bs""}
+Okay, let's break this down. The sentence",Bs
+write wheels to guide,D,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+draw refDocumentE1_3Sketchjpg middle circle,D,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+and you could have a cross section it could be kind of kind of like this,S,"{""label"": ""Be""} (from the example)
+Okay, let's tackle",Be
+draw refDocumentE1_3Sketchjpg middle m,D,"{""label"": ""S""}
+Text: ""the pen is designed to draw thin",S
+so you can look down here and you can see a hole with the print head in it,S,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+so see where you re going,Bs,"{""label"": ""Be""}
+Text: ""so that you can get the most",Be
+draw refDocumentE1_3Sketchjpg middle details,D,"{""label"": ""S""} 
+
+Text: ""draw refDocumentE1_",S
+you could stick three ball bearings in here and,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+draw refDocumentE1_3Sketchjpg middle 3 circles within circle,D,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+and just roll around on the surface,Bs,"{""label"": ""Be""} 
+
+Text: ""and the pen itself is a",Be
+you put in holes to see where your feet are going,S,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+its just so you could acquire lots of stuff where you re actually marking,Bs,"{""label"": ""F""}
+Okay, let's tackle this classification. The text",F
+yeah its sort of it s a compromise between erm here with a pen,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+you want to see what you re doing don t you you want to see,Be,"{""label"": ""Be""}
+Text: ""so that you can see what you",Be
+but with this type of toy you don t do you,Be,"{""label"": ""Be""} (correct)
+Text: ""you can do a",Be
+probably aware pattern appears as an edge so you can go right up to,Bs,"{""label"": ""Be""}
+Text: ""probably aware pattern appears as an",Be
+rather that the middle of something big if its big than it does not matter much so long as its at an edge of the big thing where the,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+but even with paper suppose you could still get to it its not like hoovering a room when you can t get to an edge is it,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+it becomes more complex to the user as well you can rotate it so you can get to this corner or,Bs,"{""label"": ""Be""}
+Text: ""the pen is made of a thermal",Be
+rotate it to get to that one,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+it is an interesting idea,Bs,"{""label"": ""Be""}
+Text: ""the pen has to be small enough",Be
+add some wheels to it,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+I bought erm a tram,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+well the distance between the rails and the what I was thinking the distance between the rails and the overhead wires always changing as it has to follow this articulating,Bs,"{""label"": ""Be""}
+Text: ""well the distance between the rails and",Be
+yeah nice idea,Be,"{""label"": ""Be""}
+Text: ""so the first thing we need to",Be
+it is a bit like the suspension on a car,S,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+as well the car sort of has this inertia it flies along in a straight line,Bs,"{""label"": ""Be""}
+Text: ""and we can print thermo reactive d",Be
+with suspension and all sorts of things as the wheels pump up and down,Bs,"{""label"": ""Be""}
+Okay, let's tackle this labeling task.",Be
+as well stay in contact with the road if you have got a decent car,Bs,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+well that is that is the other thing I suppose we haven t considered anything like erm air pockets,S,"{""label"": ""Be""}
+Text: ""but the problem is that if you",Be
+or anything like that that could be like a little suspension,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+draw refDocumentE1_3Sketchjpg 3 lines left ie bottom,D,"{""label"": ""S""}.
+
+Text: ""draw refDocumentE1_",S
+suspension,S,"{""label"": ""S""}
+Text: ""the printout needs to stay in",S
+that is the sort of thing about children they do things jerkily quickly,Be,"{""label"": ""Be""}
+Text: ""so the main thing is that the",Be
+use a gyroscope,S,"{""label"": ""S""}
+Text: ""the pen has to be light enough",S
+gyroscope,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+write GIROSCOPE and Air suspension,D,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+stick a big gyroscope in it,S,"{""label"": ""Bs""} 
+
+Text: ""so that it stays in the",Bs
+so they cannot jerk it around,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+yeah ok that is a good idea Tony,Bs,"{""label"": ""Be""} 
+
+Text: ""but the problem is that the",Be
+we should have a target aged child here should not we,Be,"{""label"": ""F""}
+Okay, let's tackle this classification. The text",F
+to because erm well I think well erm like this I say about this obviously it was not a problem,Be,"{""label"": ""Be""} 
+
+Text: ""we have to think about the",Be
+if you do not if you do not let it gimble that way,S,"{""label"": ""Be""}
+Text: ""then the pen will not print correctly",Be
+then you would get you can make your own lines cant you you can make different thicknesses,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+draw refDocumentE1_3Sketchjpg 2 lines right ie top,D,"{""label"": ""S""}
+Text: ""draw refDocumentE1_3",S
+so so it might if the if the applications for somebody who got,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+then you add a feature by taking out you know,Be,"{""label"": ""Be""}
+Text: ""you have to make sure that the",Be
+yeah because if if if if erm yeah if say if the the pen is printed in just dotted lines,Be,"{""label"": ""Bs""}
+Okay, let's break this down. The",Bs
+draw refDocumentE1_3Sketchjpg dotted line right ie top,D,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+you can you can if this pen if you do not let it go that way you could make it print dotted line print dotted line,Be,"{""label"": ""Be""}
+Okay, let's break down the text:",Be
+oh so you just have you just have one print out one,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+one one nozzle dot touching,Be,"{""label"": ""Bs""} 
+
+Text: ""and the pen needs to be",Bs
+so I guess what you re saying is any mechanism,S,"{""label"": ""Be""} 
+
+Text: ""that would allow the user to",Be
+you can have it switch on switch off one could be easy line and then you can switch it off so that,Bs,"{""label"": ""F""} 
+
+Text: ""so that you can write on",F
+you could,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+write vary the angle to have different width of line,D,"{""label"": ""Be""} 
+
+Okay, let's tackle this classification.",Be
+you could use it just so at the corner of the printer head,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+well you could do that just electronically by activating one of the channels on the print heads,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+write or do this electronically,D,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+I think that is the way to do it because,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+otherwise you can overheat the print head and might damage it,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The sentence",Bs
+so part of the thing here is we need to erm hold it down,S,"{""label"": ""Be""}
+Text: ""so the pen will have a certain",Be
+otherwise it going to overheat as its firing if there is no where for the heat to go,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+could we put erm can we detect the heat that the,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+and therefore switch it off,Be,"{""label"": ""S""} ??
+
+Wait, the text ""and therefore switch",S
+or know what s going on,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+er that is only going to stop it getting dangerously hot,Be,"{""label"": ""Bs""}
+Text: ""so the idea is that the pen",Bs
+all we need to do for print quality and performance and things,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+is to keep those dots on the paper when they re being fired,S,"{""label"": ""Be""}
+Text: ""the pen needs to be small enough",Be
+the other thing which you will picture sort of erm to an extent that one as well is the actual steering erm is actually,F,"{""label"": ""Be""} 
+
+Text: ""so the pen will have",Be
+at the moment the hand steers it directly by making movements with the hand,Be,"{""label"": ""Be""} 
+
+Text: ""so we need to think of",Be
+but if you had like a joystick,S,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+that then moved the angle of the print head errm,Bs,"{""label"": ""Bs""} 
+
+Text: ""the print head can be angled",Bs
+that might work too but maybe a bit more expensive I suppose,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+I think the interesting thing is to use is as they steer that its built into the steering,Be,"{""label"": ""F""} 
+
+Text: ""so the main thing is to",F
+actually tilts the whole body as it steers,Bs,"{""label"": ""Bs""} 
+
+Text: ""it allows the user to steer",Bs
+so in order to maintain that angle,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+write integrate the steering into angle like snowmobile,D,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+it compensates for the lean of the rider into the corner,Bs,"{""label"": ""Be""} 
+
+Text: ""it is designed to be used",Be
+so it s flat,S,"{""label"": ""S""} (correct)
+
+Text: ""so it s flat",S
+so if we had something like that,S,"{""label"": ""Be""} 
+
+Text: ""we could do a lot of",Be
+you could steer this angle of the pen as it moves to the other end,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+its taken us probably three places we can go we can either well its something you control,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+or you take all the opportunities for control away from people apart from moving around,Be,"{""label"": ""Be""} 
+
+Text: ""and that's the main reason",Be
+and you make the pen or whatever it is do everything,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+erm or we give some feedback erm,Be,"{""label"": ""Be""}
+Text: ""but they have to be in the",Be
+so that people know when they re doing the right thing,Be,"{""label"": ""F""}
+Okay, let's tackle this classification. The text",F
+write feed back to user when doing it right,D,"{""label"": ""Be""} 
+Text: ""if we could do that with",Be
+erm or the last one is it is possible to hold it the wrong way,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+but it forces you to hold it the right way possibly base on shapes,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+write make the shape so it can only be done one way,D,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+well for the the third you can make it erm hard make it compliant to,Be,"{""label"": ""F""} (correct)
+Text: ""so that it can",F
+I know I know what you re saying but it would be difficult,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+because you would overheat the edge of the print head,Bs,"{""label"": ""Bs""} 
+
+Text: ""and the heat from the pen",Bs
+if its not touching,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+but there could be some electronics maybe saying this end of the print heads overheating it must be touching at the other end,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+so I shall switch this,S,"{""label"": ""Be""} 
+
+Text: ""and then you can see the",Be
+yeah probably there must be some way of detecting that,Be,"{""label"": ""Be""}
+Text: ""the pen will detect the pressure and",Be
+can I just explore that last one in a little more detail,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+because when organisations,Be,"{""label"": ""Be""} 
+
+Text: ""and when they actually do that",Be
+making sure they can only be correct in one way so the design and shape of the thing,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+so it can only be done in one way and that s the correct way,S,"{""label"": ""Be""} The text ""so it can only be done in",Be
+because then there is less sort of learning to be done by the user and children I think if they are you know,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+if they don t get the results pretty quickly they will just give up on it erm,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+so it would be quite good shape of,Be,"{""label"": ""Be""} 
+
+Text: ""so it would be quite good",Be
+it would only let it work in one particular way,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+you could build it in different ways so you could have it,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+so that there was only one way of doing it,Be,"{""label"": ""F""}  
+Text: ""so that it could be used",F
+but then err you can have switches on it so that supposing supposing it,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+you have got the print head and three balls around it to support it,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+with pressure sensors on those balls,S,"{""label"": ""S""}
+Okay, let's break down the text """,S
+so if the child presses harder it activates all the bearings,Bs,"{""label"": ""Bs""}
+Okay, let's break down the sentence: """,Bs
+and prints out a very erm heavy line,Bs,"{""label"": ""Be""} 
+
+Text: ""and prints out a very heavy",Be
+but if the child does not press hard then you activate every other one,Be,"{""label"": ""Bs""}
+Alright, let's tackle this classification. The text",Bs
+so you get a faint line,Bs,"{""label"": ""Be""}
+Text: ""and the ink is very light""",Be
+write interaction between how child presses so activation of print head,D,"{""label"": ""Bs""} 
+
+Text: ""write interaction between how child presses",Bs
+so clears throat the actual kind of the erm the print head is isolated from what the child s doing,Be,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+but the sensors,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+attend to what the child s doing,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+and the thing responds accordingly,Be,"{""label"": ""Be""} 
+
+Text: ""and the thing responds accordingly""",Be
+and so you can trick the child into doing,Be,"{""label"": ""Be""} 
+
+Text: ""and the child is then able",Be
+and you could also make it so that even if the child s because erm clears throat its not direct you can make it sort of software,S,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+so that even if the child s really uncoordinated basically you get a reasonable result,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task.",Be
+but if the child s very coordinated you can actually do some quite sophisticated things,Be,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+you could even have sort of some feedback,F,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+in terms of colour LEDs on the pen,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+saying that he s done a good or she s done a good job or,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+that is a bit that is a bit peachy I think somehow,Bs,"{""label"": ""Be""}
+Text: ""the pen is a bit peachy",Be
+yeah you know because i if they re doing something and it produces a result,Bs,"{""label"": ""Be""}
+Okay, let's break down the text:",Be
+that is what they want is not it,Be,"{""label"": ""F""}
+Text: ""the problem is that the pen is",F
+that is what they want and saying well done is not really you know so what,Be,"{""label"": ""F""}
+Okay, let's tackle this classification. The text",F
+spirit level in the pen,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+3D spirit level the dot and the ring you the dot,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task.",S
+write spirit level in the pen,D,"{""label"": ""F""}
+Okay, let's tackle this. The text is",F
+if it goes off centre you know the dots outside the ring,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+the pen would not work,Be,"{""label"": ""Be""} 
+
+Text: ""the pen would not work""",Be
+so you have got to come in,Be,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+could we sorry could we actually see what they re doing I mean,F,"{""label"": ""Be""} 
+
+Wait, the user is asking for a classification",Be
+are they drawing pictures or making invitations or Christmas cards or,Be,"{""label"": ""Be""}
+Text: ""are they drawing pictures or making invitations",Be
+as well as electronics,S,"{""label"": ""S""} To determine the appropriate label for the text ""as",S
+and some of the control,F,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+and user interface features and things whereas,Be,"{""label"": ""Be""} 
+
+Text: ""and user interface features and things",Be
+erm this kind of functional end of the mechanics,F,"{""label"": ""F""}
+
+Text: ""so the main purpose of the pen",F
+it does affect a little bit,Be,"{""label"": ""Be""} (from the examples)
+
+Text: ""the pen",Be
+control draw,Be,"{""label"": ""Be""} 
+
+Text: ""the pen is designed to draw",Be
+yeah because its really hard to draw a picture with a mouse is not it,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+you could have games built into it could not you,F,"{""label"": ""Be""} 
+
+Text: ""the thermal pen is designed to",Be
+you could have something like colouring in,Be,"{""label"": ""Be""} I think the label for the text ""you could",Be
+could try and tell you on some screen,F,"{""label"": ""Be""} (this is the expected answer)
+
+Text: """,Be
+or try some sort of coordination task,F,"{""label"": ""Be""}
+Text: ""and we can print thermo reactive d",Be
+there is a huge amount of possibilities you could do mazes or anything with,F,"{""label"": ""Be""} The text ""there is a huge amount of",Be
+once more let us explore this spirit level in more detail I corrected the transcript,Be,"{""label"": ""Be""} Alright, let's tackle this classification. The text",Be
+because the other thing that you use to make sure things are level,Be,"{""label"": ""Bs""}
+Okay, let's tackle this. The text",Bs
+that is come out in the sort of DIY world is these laser levellers and things like that if,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+you had like a little laser,S,"{""label"": ""S""} Alright, let's break down the text ""you",S
+that made sure that it was level of some sort erm,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+you know the child can actually see a line,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+and that its at the right angle then,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+because they can see that the line is right and then that would work,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+although maybe they are a bit young for that laugh,Be,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+you could project something onto the paper in front of the pen,Be,"{""label"": ""Be""} 
+
+Text: ""the pen is not a thermal",Be
+write Laser level,D,"{""label"": ""S""}
+Text: ""The pen uses a laser to align",S
+like dam busters,S,"{""label"": ""S""}
+Text: ""like a pen""
+Label (JSON",S
+write Dam busters shine a light in front of,D,"{""label"": ""F""}
+Text: ""the pen and the paper will be",F
+just like star wars,S,"{""label"": ""S""}
+Text: ""but we have to think about the",S
+erm I was going to say an optical mouse,S,"{""label"": ""S""}
+Text: ""but the problem is that the thermal",S
+I was going to say an optical mouse,S,"{""label"": ""S""}
+Text: ""but we have to have some sort",S
+if you lift it off the page you can,Bs,"{""label"": ""Be""}
+Text: ""it can be used with any type",Be
+actually see its got the pattern it creates separates into two areas,Bs,"{""label"": ""Be""} 
+
+Text: ""actually see its got the pattern",Be
+so its when it s actually on the surface two points meet,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+if you lift an optical mouse,Bs,"{""label"": ""Be""}
+Text: ""the sensor is exposed to the mouse",Be
+slightly off the page you will see the pattern it creates,Bs,"{""label"": ""Be""} 
+
+Text: ""the pattern is created by the",Be
+yeah sort of the triangle thing,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+is in two sort of distinct spots,Bs,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+and when its actually sat on the surface they match up and that is when it starts tracking,Bs,"{""label"": ""Bs""}
+Text: ""and that is when it starts tracking",Bs
+write use optical mouse mechanism,D,"{""label"": ""Bs""}
+Alright, let's tackle this classification. The text",Bs
+turn the light on I don t know how to operate,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+yeah well if you left it a few minutes,Be,"{""label"": ""Be""} 
+
+Text: ""it would be a bit",Be
+when you talked about the little light in front of the erm pen,S,"{""label"": ""S""}
+Text: ""and the pen is going to be",S
+but if there is sort of feedback from the print head to know its in the right angle,S,"{""label"": ""Bs""}
+Alright, let's tackle this classification. The text",Bs
+and then the light goes on only but only when the print head is on there is this little light comes on,Be,"{""label"": ""Bs""}
+Okay, let's break down the sentence:",Bs
+so the child gets his feedback that way oh its in the right direction so I can draw,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+I think if I was in their shoes using this I d prefer they d be something where I decide whether its in the right position,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+or whether I want something lighting up and saying der derrr,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+that kind of thing,S,"{""label"": ""Be""} 
+
+Text: ""there are a number of specific",Be
+well there is a bit of training there is not it,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+write Light,D,"{""label"": ""F""}
+Text: ""write Light""
+Label (JSON only",F
+true but it its kind of patronising to have these sort of lights,Bs,"{""label"": ""Be""} 
+
+Text: ""so if you have the pen",Be
+its not a comforting a comforting noise,Bs,"{""label"": ""Be""} 
+
+Text: ""its not a comforting a comforting",Be
+its not its not its not a comforting noise,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+The thing I bought with me my wife does not know I stole it,S,"{""label"": ""S""} 
+
+Text: ""It is a thermal pen that",S
+also quite relevant because that is a product from,S,"{""label"": ""S""}
+Text: ""the same company as the thermal pen",S
+stabiliser that is just come out,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+if I run upstairs I have got one of those in my drawer,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The",S
+there are pens that,S,"{""label"": ""S""}
+Okay, let's see. The text is """,S
+you do have to hold in a certain orientation,Bs,"{""label"": ""Be""}
+Text: ""and you have to keep the pen",Be
+yeah I think that is what I tried its really hard,Be,"{""label"": ""Be""}
+Text: ""the first one is the thermal pen",Be
+because I don t hold my pen in the way that they expect you do,Bs,"{""label"": ""Be""}
+Text: ""so it is possible that the pen",Be
+they expect you to some people write like this don t they,Be,"{""label"": ""Be""} 
+
+Text: ""they expect you to some people",Be
+that is what I join my fingers up at the top where as that one expects that,Bs,"{""label"": ""Be""}
+Text: ""that is what I join my fingers",Be
+you do more of that which I don t do,Bs,"{""label"": ""Be""}
+Text: ""but then again it is not the",Be
+that is because you did not have that pen when you were little,Bs,"{""label"": ""Be""}
+Text: ""but if you have that pen it",Be
+if you had had it you would write in the right way rather that the wrong,Bs,"{""label"": ""Be""} The text discusses the expected behavior of the product",Be
+you would do it properly,Bs,"{""label"": ""Be""} Alright, let's tackle this. The text is",Be
+you get inking pens,S,"{""label"": ""S""} Alright, let's tackle this classification. The text",S
+that are really hard to use,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+because they look they look like little erm they they they go straight down like that sketching,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+draw Document E1_3Sketcjjpg,D,"{""label"": ""S""}
+Text: ""draw Document E1_3Sk",S
+you could have thumb holes or something like that,S,"{""label"": ""S""}
+Text: ""so that you can have a better",S
+this this this one that is this one has sort of that sort of thing,S,"{""label"": ""Be""} 
+
+Text: ""this is the one that",Be
+it does not force you to use it but it,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+helps you,Bs,"{""label"": ""Be""}
+Text: ""helps you draw with the pen",Be
+print heads,S,"{""label"": ""S""}
+Text: ""the pen is designed to draw thin",S
+to use straight up and down otherwise they don t otherwise they don t work,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+because they work thr they th they re like a little er tube,S,"{""label"": ""Bs""}
+Text: ""they re like a little er tube",Bs
+and when you push on it erm it opens a valve which lets the erm which lets the ink through,Bs,"{""label"": ""Bs""} (Correct)
+Text: ""and it is a",Bs
+is that those gold and silver type things,S,"{""label"": ""S""}
+Text: ""and the other thing is the print",S
+that people use for making cards,Bs,"{""label"": ""S""}
+Okay, let's see. The text is """,S
+no it s like you get them for erm drafting pens,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+I think work like that they have got they re like that,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+because they they come in different bits of tube,S,"{""label"": ""S""}
+Okay, let's break down the text:",S
+and they give you a very accurate width of line,Bs,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+OK but you cannot you cannot use them in any orientation,Bs,"{""label"": ""Be""}
+Okay, let's break down the text:",Be
+you have to use in straight up and down,BS,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+and so if you put it on the edge the you would go on the edge of the tube,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+and it just it would just sort of it just the edge just goes on,S,"{""label"": ""Be""}
+Text: ""and the other thing is the print",Be
+you will never get it you just crease the paper,Bs,"{""label"": ""Be""}
+Text: ""so the pen has to be small",Be
+the good thing about this is you get feedba feedback s inherent is not it,Bs,"{""label"": ""Be""}
+Text: ""the problem is that the paper is",Be
+if you re not doing it properly it wont work,Bs,"{""label"": ""Be""}
+Text: ""the pen is designed to be used",Be
+it will probably it will probably be that if you do it on the edge,S,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+the print head will be close enough to be to the edge of the PCB,S,"{""label"": ""Be""}
+Okay, let's tackle this. The sentence is",Be
+and you ll lift the whole the whole thing off,S,"{""label"": ""Be""} To determine the appropriate label for the text ""and",Be
+so you probably wont be able to do this this sort of touch towards the edge,Bs,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+because the print head the resistors are in,S,"{""label"": ""Bs""} The text ""because the print head the resist",Bs
+PCB yeah,S,"{""label"": ""S""} 
+
+Text: ""PCB yeah"" is a",S
+just the kind of thing that you could do,Bs,"{""label"": ""Be""}.
+
+Text: ""so that the pen is easy",Be
+with the erm styling,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+so it just feels right you not do you are limited to what you can do,Bs,"{""label"": ""Be""} 
+
+Text: ""so the main idea is to",Be
+if you put your fingers in the wrong place,Bs,"{""label"": ""Be""} (correct answer)
+Text: ""then the print",Be
+and if we cut all that for I mean this version,S,"{""label"": ""S""}.
+
+Text: ""and the other thing is the",S
+it could be much chunkier,S,"{""label"": ""Bs""} (I think this is Bs because it's about",Bs
+and this thing could go in the hole this lot could go in the hole,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+and perhaps you can mirror it so it works for left handed people as well,Be,"{""label"": ""Be""}
+Okay, let's break down the sentence:",Be
+but you could just make a hole to hold it in either way,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+you d have to certainly with the first go realize where to put their fingers,Bs,"{""label"": ""Be""}
+Text: ""the pen is not going to be",Be
+it might not even work,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+if one of their fingers is not in the right hole,S,"{""label"": ""Be""} 
+
+Text: ""the pen will not be able",Be
+also you feed it back to the wrist,Be,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+there is all different things,S,"{""label"": ""Be""} 
+
+Text: ""the pen will have a small",Be
+yeah hand sizes as well,Bs,"{""label"": ""Be""}.
+
+Okay, let's tackle this classification. The",Be
+you know you could you feed it back,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+so its kind of like a watch or something on your wrist,S,"{""label"": ""S""}
+Text: ""so it can be used for different",S
+well you could have a battery pack in that could not you,S,"{""label"": ""S""}
+Text: ""but the problem is that you need",S
+or a rucksack,S,"{""label"": ""S""}
+Okay, let's see. The text here is",S
+or a rucksack laugh,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+laugh ghostbusters,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+write battery pack on wrist,D,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+write mould the unit to right position for,D,"{""label"": ""Be""} 
+
+Text: ""the pen to be used with",Be
+if you have got if you have got a switch there there there and there,S,"{""label"": ""S""} Alright, let's tackle this classification. The text",S
+draw Document E1_4Sketcjjpg crosses indicate position of switchs,D,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+and it only works if all four switches are down,Bs,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+and those switch positions guarantee that the head is down then,Be,"{""label"": ""Bs""}
+Okay, let's tackle this. The sentence is",Bs
+yeah that is the control approach is not it,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+yeah that is the yeah and you design it in such a way that,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+that is a reasonably comfortable position,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+and if you don t put it in that position,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+it does not work,Bs,"{""label"": ""Be""}
+Text: ""it does not work"" → Label",Be
+it d be nice though if you naturally pick it up and it works,Bs,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+yeah but that is you can do the two together can you,Be,"{""label"": ""Be""}
+Text: ""so the idea is that the pen",Be
+the other thing to to think about is in almost all cases when I look at pens the apart from re wired sort of micropens,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+the th tip is actually the narrowest part of the product,S,"{""label"": ""S""}
+Text: ""the th tip is actually the narrow",S
+whereas in what we re looking at it could actually be as wide or wider,S,"{""label"": ""Be""} The text ""whereas in what we re looking",Be
+so its more like a paintbrush is not it like a DIY paintbrush,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+it s more like a roller like a roller yeah,S,"{""label"": ""S""}
+Text: ""so the first thing is that the",S
+its there is a prototype,S,"{""label"": ""S""}
+Text: ""its the first time we have had",S
+if you had like if you if you had it connected to one side like that,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The",Bs
+draw Document E1_17 Flipchartjpg,D,"{""label"": ""S""}
+Okay, let's see. The text is """,S
+or a it would be here the print head you could have then going to there then going to there is,S,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+draw Document E1_17 Flipchartjpg,D,"{""label"": ""S""}
+Text: ""draw Document E1_18",S
+that you don t smudge it,Bs,"{""label"": ""Be""}
+Alright, let's tackle this labeling task. The",Be
+it would have flexibility because of the metal on which it s hinged if you like,S,"{""label"": ""Bs""} 
+Text: ""the pen is made of metal",Bs
+yeah I think actually I wonder if you intuitively know how to use a roller,Be,"{""label"": ""Be""} The text ""yeah I think actually I wonder if",Be
+because you re older than eleven and intuitive if you have never seen it before,Bs,"{""label"": ""Be""}
+Text: ""because you re older than eleven and",Be
+my two year old rolls paints,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+but I think it could be the pen I mean it could be we could shape it so it does make it like a finer tip,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The",Bs
+yeah but there is an inherent size issue with holding it this way is not there,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+because you re not going to have you you you used to have these pens that were ginormous and,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+it had lots of different pens inside it,S,"{""label"": ""S""}
+Alright, let's tackle this classification. The text",S
+yeah and they re all like this round,S,"{""label"": ""Be""} Okay, let's tackle this. The text is",Be
+and it made it really difficult to write with at the right angle,Bs,"{""label"": ""Be""} 
+
+Text: ""so the pen needs to be",Be
+so I think there is an issue about how big or how,S,"{""label"": ""Be""} Okay, let's tackle this. The text is",Be
+big,S,"{""label"": ""Be""}
+Text: ""but not only that but it also",Be
+you might not hold it,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+yeah I think that is worth considering it actually,Be,"{""label"": ""Be""}
+Text: ""we can then use that as a",Be
+the not having it in a pen shape,S,"{""label"": ""Be""} 
+
+Text: ""the not having it in a",Be
+the not holding it like a pen,Be,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+but actually holding it in a different way like that or,Be,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+yeah there are two there are two sides to this I think,Bs,"{""label"": ""Be""} (correct)
+Text: ""and that is that",Be
+either you want to teach children to hold a pen properly,F,"{""label"": ""F""}
+
+Text: ""or you want to help them to",F
+if you wanted to do that you d give them a,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+yeah but you have got to be taught how to hold a pen,F,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+a lot better as write like this as well,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+different people will write,Bs,"{""label"": ""Be""} 
+
+Text: ""it s a new way of",Be
+with not smudging the ink,Bs,"{""label"": ""Be""} 
+
+Text: ""with the printout needs to",Be
+different people will hold the pen between these two fingers and write like that,Bs,"{""label"": ""Be""} 
+Text: ""but the pen will have to",Be
+they should not be allowed,Be,"{""label"": ""S""}??
+Okay, let's tackle this. The",S
+is it a training aid or toy that we re is it for fun,F,"{""label"": ""F""}
+Text: ""the pen is a toy but it",F
+its for fun,F,"{""label"": ""F""}
+Text: ""its for fun and also for educational",F
+its mainly really for fun really I think erm,F,"{""label"": ""F""} 
+
+Text: ""the thermal pen is designed to",F
+because if you want to teach a child something about pens,F,"{""label"": ""F""}
+Okay, let's tackle this. The text is",F
+you d give them a pen would not you,Be,"{""label"": ""F""} 
+
+Text: ""the pen is a thermal",F
+no well it depends it could be funit could teach you something,F,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+an added bonus I suppose,F,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+it could teach you something else,F,"{""label"": ""F""}
+Text: ""it could be used in other applications",F
+its going to be quite a fat lump probably,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+so it s not going to be that kind of pen that you use in future,S,"{""label"": ""Be""}
+Okay, let's break down the sentence: """,Be
+so it does not feel much like a pen,Be,"{""label"": ""Be""} 
+
+Text: ""and the pen is supposed to",Be
+you know it could I think it could be more of a decorator s thing you know,F,"{""label"": ""Be""} 
+
+Wait, let me check again. The text",Be
+if you want to put a row of smilies in,Be,"{""label"": ""F""}.
+Okay, let's see. The text is",F
+paper and pen along the edges of you know,S,"{""label"": ""S""}
+Text: ""and the pen and the paper along",S
+on the wall,S,"{""label"": ""S""}
+Text: ""the main focus is that style pen",S
+you re never gonna draw a whole pic you re never gonna draw paint the Sistine chapel,Bs,"{""label"": ""Be""} 
+
+Text: ""you re never gonna draw a",Be
+no you d need more batteries,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+its more of sort of decorative kind of features,F,"{""label"": ""Be""}.
+
+The text ""its more of sort of decorative",Be
+things like that you know,Be,"{""label"": ""Be""} (from the examples)
+Text: ""so the",Be
+there is another degree of freedom to this thing,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+if you go fast it will be a paler colour,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+if you go slowly it will be darker wont it,Be,"{""label"": ""Be""}
+Alright, let's break down the sentence: """,Be
+yeah if you go fast well maybe if you go fast if there is no feedback from the paper it does not matter how fast its going,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+then it might produce gaps but it might produce gaps in places of,Bs,"{""label"": ""Be""} 
+
+Text: ""the ink is more likely to",Be
+the thing would be cool,Bs,"{""label"": ""F""} 
+
+Text: ""the thing would be cool""",F
+if you drive it faster,Bs,"{""label"": ""Be""}
+Text: ""the pen can be more responsive""",Be
+that mark is the same as that,Bs,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+that is what you will end up with but erm you won t end up with a long smooth line erm that is faint erm,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+definitely gaps in it head on all the time you don t have the head on,Bs,"{""label"": ""Be""} 
+Text: ""so the head is moving back",Be
+yeah you could turn it off off and on very fast could not we,S,"{""label"": ""Be""} 
+
+Text: ""the pen needs to be able",Be
+for the usefulness er well I am just I am just trying to think about what erm what the pen does really erm,F,"{""label"": ""F""}
+Okay, let's tackle this classification. The",F
+if it s if it s a if its fun its got to do,F,"{""label"": ""Be""} The text ""if it s if it s a",Be
+sort of a wider range of features,F,"{""label"": ""Be""} The text ""sort of a wider range of features",Be
+features somehow,F,"{""label"": ""S""} 
+Text: ""the pen is designed to draw",S
+I think it might self regulate,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+I think people might visit around how does it work,Bs,"{""label"": ""Be""}
+Text: ""I think people might visit around how",Be
+or they use it more slowly I think that is,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+but I am thinking it will it will be more fun,F,"{""label"": ""Be""} 
+
+Text: ""but we need to think about",Be
+if you can get something you know if you can get a faint line or,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+a faint line,Bs,"{""label"": ""Be""} 
+
+Text: ""a faint line"" → Label",Be
+you had a drawing there that you did was that for any particular purpose,S,"{""label"": ""F""}
+
+Text: ""the pen is designed to draw thin",F
+I ve seen a pen that somebody s created,S,"{""label"": ""S""}
+Text: ""which is a thermal pen that uses",S
+where its actually got this kind of loop in it,Be,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+so that if you hold it with your index finger actually through this,Bs,"{""label"": ""F""}
+
+Okay, let's tackle this classification. The text",F
+so it s you you almost wear it like a glove,S,"{""label"": ""Be""}.
+Okay, let's tackle this classification. The",Be
+deep breath in yeah or like a sort of ring on your finger with the pen attached to it,S,"{""label"": ""S""} 
+
+Text: ""so it needs to be able",S
+but it forces you to hold it in a very specific way,Bs,"{""label"": ""Bs""} 
+
+Okay, let's tackle this classification.",Bs
+um that is intriguing sort of like a like a could be like a finger puppet could not it,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+yeah cos wearing it like a finger puppet,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+the feel of it might be fun,Bs,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+exactly so you can make you can make the footprints,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+I I think I think the sort of design not very good at,S,"{""label"": ""Be""}
+Alright, let's tackle this labeling task. The",Be
+Tom does that help regulate the angle,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+that would also tie in quite well the sort of cyber view,Bs,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+of having a pack on your wrist,S,"{""label"": ""Be""} 
+
+Text: ""so that you can draw on",Be
+or sort of cyber arm is not it,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+thermal print head,S,"{""label"": ""S""}.
+Okay, let's tackle this classification. The",S
+lightning coming out of his nose,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+is the issue of left and right handedness erm how we re going to resolve that,Be,"{""label"": ""Be""} 
+
+Text: ""the pen is designed for right",Be
+can you turn the print head round or,S,"{""label"": ""Be""} 
+
+Text: ""is it possible to do that",Be
+it does not matter because as long as you have got as long as you have got features that can be either mirrored features the same on each side,S,"{""label"": ""Be""}
+
+Text: ""the other thing is that the pen",Be
+you have got them all like that,S,"{""label"": ""S""}
+Text: ""so that the pen can draw on",S
+you have got some area to work with and then,S,"{""label"": ""Be""}.
+Okay, let's tackle this classification. The",Be
+you have to keep the area of the mirror image,S,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+quite good,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+in fact in some ways we should think about the fact it is not even a pen,F,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+because a pen you you will always learn to write from left to right whether you re left handed or right handed,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+so actually what you end up doing is left handed people is you smudge over over your work which is a problem,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+but actually with this you re dragging it you re not pushing it are you most people will drag it,Be,"{""label"": ""Be""}.
+Okay, let's tackle this classification. The",Be
+mostly dragging it,Be,"{""label"": ""Be""} The text ""mostly dragging it"" describes an action",Be
+mmm because you were wired to drag it,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+will be dragged,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+that is an interesting point,Bs,"{""label"": ""Be""} 
+
+Wait, what is the label for the text",Be
+mmm so you want a design then to sort of force people to drag,Be,"{""label"": ""Be""} 
+
+Text: ""so that they have to move",Be
+it which is not something you do with a marker pen,Bs,"{""label"": ""S""} I think the label for the text ""it which",S
+you draw a line when you drag,Bs,"{""label"": ""Be""}
+Text: ""it needs to be able to draw",Be
+generally you might do with a marker pen,Bs,"{""label"": ""S""}
+Text: ""and you can actually see the image",S
+with a marker pen you tend to drag yeah,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+but what I am saying is the analogy of teaching people to write is not actually valid in the sense that,Be,"{""label"": ""Be""} 
+
+Text: ""the pen is not a tool",Be
+when you re writing you re not actually dragging usually apart from if you re right handed,Be,"{""label"": ""Be""} 
+
+Text: ""you re not actually dragging",Be
+if you re right handed you drag,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+if you re left handed you push,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+so do they do a left handed version of this,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+that s more interesting cos commercially lost that would be a loss leader just about,Bs,"{""label"": ""F""}
+Okay, let's tackle this classification. The",F
+well it must it must cost twice as much,Bs,"{""label"": ""Be""}
+Okay, let's break down the text """,Be
+its gonna cost twice as much,Bs,"{""label"": ""Be""} (Wait, is this a cost-related claim?",Be
+but schools or something schools must buy two sets,S,"{""label"": ""S""} 
+
+Text: ""and they are more expensive than",S
+yeah its not worth its not really for schools,Bs,"{""label"": ""Be""}
+Okay, let's break down the text """,Be
+well they had that in my school when I was in primary school everybody had a red fountain pen and I had a special green fountain pen because I was left handed,S,"{""label"": ""S""}
+Text: ""and that pen is actually the one",S
+erm protecting the print head which I haven t really thought very much about,F,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+but as it it might be a nuisance or bad thing,Be,"{""label"": ""Be""} 
+
+Text: ""and the other thing is the",Be
+to have the print head projecting down out of the bottom of this most of the time,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The",Bs
+because it may catch on things like the edge of the table or something like that,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+and so erm perhaps there is something else a rounded lump or something,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+as it approaches the page causes the print head to come down,Be,"{""label"": ""Bs""}
+Okay, let's tackle this labeling task. The",Bs
+which may carriage be sprung also,S,"{""label"": ""S""}.
+Okay, let's tackle this. The text",S
+like a see saw,S,"{""label"": ""Bs""}  (correct)
+Text: ""like a see",Bs
+comes down,Bs,"{""label"": ""Be""}
+Alright, let's tackle this classification. The",Be
+like a nodding birds yeah,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+if you have your printing head ,S,"{""label"": ""S""} 
+
+Text: ""that needs to be in contact",S
+draw E1_4 Sketchjpg,D,"{""label"": ""S""}
+Okay, let's look at the text """,S
+and you have got you have got your spring like that ,S,"{""label"": ""Be""} Let's analyze the given text: ""and",Be
+draw E1_4 Sketchjpg,D,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+and you have got a switch or something here ,S,"{""label"": ""S""}
+Text: ""to be used to turn the pen",S
+draw E1_4 Sketchjpg,D,"{""label"": ""S""}
+Text: ""draw E1_5 Sketchjpg",S
+and you have got a case there ,S,"{""label"": ""S""} 
+
+Text: ""and that is the one that",S
+draw E1_4 Sketchjpg,D,"{""label"": ""S""} (from the examples)
+
+Text: ""draw E",S
+and then when you you can only push this,Bs,"{""label"": ""Be""} 
+
+Text: ""and then when you you can",Be
+and then when you push this up so that all the faces are touching,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this labeling task. The",Bs
+that is when the switch goes,Bs,"{""label"": ""Be""} 
+
+Text: ""that is when the switch goes",Be
+erm so you get so so what this is is is maybe this is not erm err susceptible to knocks and things because its on a sp spring,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+yeah and you get protected by a case,S,"{""label"": ""S""}
+Text: ""it is made of a very soft",S
+but the other thing is the opposite of this being here,S,"{""label"": ""Be""}
+Alright, let's tackle this classification. The",Be
+and these two things being on springs,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+so that when these get pushed back,Bs,"{""label"": ""F""} 
+
+Text: ""so that when these get",F
+they ll spring back and then they will switch on the,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+that is true that works as well,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+that works even better cos it s not leaking its protected then,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+a sheath,S,"{""label"": ""S""}
+Text: ""the printout needs to stay in",S
+a print head,S,"{""label"": ""S""}
+Text: ""print head""
+Label (JSON only",S
+yeah do you need to stop the print head going sideways,Be,"{""label"": ""Be""}
+Text: ""but if you can do that with",Be
+draw arrow not sure which drawing,D,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+cos you want it to travel forwards when its going that direction,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+yeah you don t want people to go that that that is an interesting point,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+put wheels on the side to make it,S,"{""label"": ""Bs""}
+Text: ""make it easier to move around""",Bs
+I I don t think there might not be a problem with that,Bs,"{""label"": ""Be""}
+Text: ""but we don t know how the",Be
+in fact it might be something that they might want to do to produce interesting effects,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+distorted smiley faces,Be,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+and I think we might get away with that,Be,"{""label"": ""Be""}
+Text: ""but we have to make sure that",Be
+but what if what if a child held the pen can I just borrow that,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+rather than holding it width ways,Be,"{""label"": ""Be""} Let's analyze the text ""rather than holding it",Be
+so this is across the pen,Be,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+thinking of holding it that way,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+providing just enough pressure,Bs,"{""label"": ""Be""} 
+
+Okay, let's tackle this classification. The",Be
+providing probably be alright,Bs,"{""label"": ""Be""} 
+
+Text: ""providing we could provide",Be
+but we could try and stop them from doing it,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+it is sort of like a its like a calligraphy pen is not it if you erm,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+because you get thick you get thick and thin,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+because you get the edge,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+that business of withdrawing the print head when it s not in use or something like that,Be,"{""label"": ""Be""} 
+
+Text: ""but the question is whether we",Be
+well yeah well it s a sheath is not it that is the word you said was not it a sheath that,S,"{""label"": ""S""}
+Text: ""and it s the sheath that",S
+a sheaf,S,"{""label"": ""S""}
+Text: ""a sheaf of paper"" →",S
+write sheath protecting the head,D,"{""label"": ""S""}
+Text: ""the pen is designed to draw thin",S
+or it could be deployed on contact or something,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+OK it is fundamental the other thing that I am now going to look at is ,F,"{""label"": ""F""}
+
+Text: ""the other thing that I am now",F
+two two problems one is over pressurising the print head on the paper,Be,"{""label"": ""Bs""} The text mentions ""over pressurising the",Bs
+or abuse of the pen so somebody could go like that,Be,"{""label"": ""Be""} 
+
+Text: ""or abuse of the pen so",Be
+and that will probably break it and,Be,"{""label"": ""Bs""} 
+
+Wait, the text is ""and that will",Bs
+the sheath,S,"{""label"": ""S""}
+Text: ""the sheath is made of a",S
+does not fix that does it er no the sheath does not fix that,Bs,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+you go like that you hit the printer,Bs,"{""label"": ""Be""} (as in the example)
+
+Another example:
+Text",Be
+whereas the other way round bangs table,Bs,"{""label"": ""Be""}.
+Okay, let's tackle this labeling task.",Be
+well the sheath protect that is not it so,Be,"{""label"": ""S""}
+Text: ""well the sheath protect that is",S
+the sheaths so spring both and the things happen,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this labeling task. The",Bs
+yeah so expect there is more travel if you smash there,Be,"{""label"": ""Be""} 
+
+Okay, let's tackle this classification. The",Be
+Draw 2 crosses over Tom s sheath Document E1_4 Sketchjpg,D,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+yeah that means you can t move both yeah yeah that is right yeah,S,"{""label"": ""Be""}
+Text: ""so the pen is going to be",Be
+so I its what AJ suggested that this moves back,Bs,"{""label"": ""Be""}
+Text: ""and then it moves forward""
+Label",Be
+to to start to as a switch,S,"{""label"": ""Be""}
+Text: ""to get a better idea of the",Be
+whereas the alternative is for that to move back,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+well I suppose you could design it such a way as it only goes,Be,"{""label"": ""Bs""}
+Text: ""that the user can only draw in",Bs
+at a certain speed back so if you went if you just went like that it would go back quite,Bs,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+slowly but if too quickly,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+you you could have them both moving back and,Bs,"{""label"": ""Be""} 
+
+Text: ""for the pen to be able",Be
+you could have you could balance springs and things like that,S,"{""label"": ""Bs""}  {""label"": ""Bs""}  {""label",Bs
+you could have viscous back,Bs,"{""label"": ""S""} 
+
+Text: ""you could have a viscous",S
+if that thing s on a spring and that is on a,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+Draw unknown sheet,D,"{""label"": ""S""}
+Text: ""Draw unknown sheet"" → Label:",S
+of some sort which could be quite simple,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+viscous,Bs,"{""label"": ""S""}
+Text: ""and the ink has to be visc",S
+write viscous damper,D,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+and if you bang it down its effectively solid,S,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+cheap,Bs,"{""label"": ""S""}
+Text: ""the thermal print paper"" → Label",S
+leaking syringe,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+cheap syringe,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+write leaky syringe,D,"{""label"": ""Bs""}
+Text: ""write leaky syringe"" →",Bs
+where s the sheath gone,S,"{""label"": ""S""}
+Text: ""it s a bit awkward"" →",S
+heat source,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+laser light,S,"{""label"": ""S""}
+Text: ""the pen is designed to draw thin",S
+any other ways in which we could try I mean we could put a cap over it that is how other people do it ,S,"{""label"": ""S""}
+Text: ""so the pen is designed to be",S
+that is way too low tech for this,Bs,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+that will protect it but it still is not it,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+what about a cap,S,"{""label"": ""S""}
+Okay, let's see. The text is """,S
+like a spring loaded cap,Be,"{""label"": ""S""} Alright, let's tackle this labeling task. The",S
+that comes out of the way,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+yeah like a button there,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+that s nice yeah,Bs,"{""label"": ""Be""}
+Text: ""so that the pen can be used",Be
+write sprung loaded cap,D,"{""label"": ""S""}
+Text: ""the cap is sprung loaded so that",S
+that that slides the,Be,"{""label"": ""Be""}
+Alright, let's tackle this labeling task.",Be
+the button,S,"{""label"": ""S""}
+Okay, let's see. The text is just",S
+then it could not get lost could it,Bs,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+mmm it could also turn off the comforting hum,Be,"{""label"": ""Be""} 
+Okay, let's tackle this. The",Be
+when you put the cap back on,Bs,"{""label"": ""S""}
+Text: ""the pen is ready to use""",S
+I quite like the idea of a comforting hum,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+a comforting hum,Be,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+write comforting hum,D,"{""label"": ""Bs""}? 
+
+Wait, the text is ""write comforting",Bs
+when it s working right,Bs,"{""label"": ""Be""}
+Text: ""the printout needs to be in",Be
+what like a sings dum dum dum dum dum dum,Bs,"{""label"": ""Be""} 
+
+Text: ""the main thing is that the",Be
+like rolf harris,Bs,"{""label"": ""S""}
+Text: ""and that is the concept that we",S
+the cap is quite interesting though,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+because if it hinges that way,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+it will make people much more likely to to drag it across there if it s clear as well,Bs,"{""label"": ""Be""} 
+
+Text: ""it is a bit more likely",Be
+yeah but you can still see things or,Bs,"{""label"": ""Be""}
+Text: ""you can see the lines in the",Be
+if you had not just an activation button not an,S,"{""label"": ""Be""}
+Text: ""activation button but also a way to",Be
+activation button but a button that made the print head come out,S,"{""label"": ""S""}
+Text: ""so the main idea is that the",S
+a non a non clickable pen,S,"{""label"": ""S""} 
+
+Text: ""the pen is not clickable",S
+so you had to you know obviously not up there,S,"{""label"": ""Be""}
+Text: ""so you had to you know obviously",Be
+you can only write when it s up,Be,"{""label"": ""Be""} 
+
+Text: ""you can only write when it",Be
+if you if you go like that it would sort of go out a little bit,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+and then if you push it up it would go out more,Be,"{""label"": ""Bs""}
+Text: ""and it would go in more""",Bs
+I mean you can still damage it,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+so it s a it s a dead man s handle for a pen basically,S,"{""label"": ""S""}
+Okay, let's break this down. The",S
+write a dead man handle for the pen,D,"{""label"": ""F""}
+Text: ""the pen should be as small as",F
+you could have a little slider on it,S,"{""label"": ""S""}
+Alright, let's break down the text ""you",S
+could it could do this kind of thing round the edge,S,"{""label"": ""Be""} The text ""could it could do this kind",Be
+yeah yeah and then and then you coul it could just be sprung,Be,"{""label"": ""Be""} 
+
+Text: ""so the printout needs",Be
+and then when you put it down its held open by,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+and then any pressure on the tip,Be,"{""label"": ""Bs""} 
+
+Text: ""the pen is supposed to be",Bs
+it s more is not it,Bs,"{""label"": ""F""} Okay, let's tackle this. The text is",F
+you re not going to be using it for hours on end are you,Be,"{""label"": ""Be""} 
+
+Text: ""so you can get it in",Be
+it s for little pieces of,Be,"{""label"": ""F""} Alright, let's tackle this classification. The text",F
+I would say long car journeys though,Be,"{""label"": ""Be""} (from the example given, it's Be)",Be
+you could have a and that open up,S,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+draw,D,"{""label"": ""Be""} 
+
+Text: ""so that the user can draw",Be
+a little bit annoying on long car journeys laugh,Be,"{""label"": ""Be""} Alright, let's tackle this. The text is",Be
+you could have a cap that goes like that,S,"{""label"": ""S""}
+Text: ""and you could have a cap that",S
+draw,D,"{""label"": ""Be""}
+Text: ""draw"" is a verb, and",Be
+and then you could also have the same spring here,S,"{""label"": ""S""}
+Text: ""which is a sort of a support",S
+that any force by a certain amount would force the cap to shut again,Bs,"{""label"": ""Bs""}
+Text: ""the user is likely to hold the",Bs
+a double action cap,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+so you button but it s got an override of pressure,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this labeling task. The",Bs
+on the pen,S,"{""label"": ""S""}
+Text: ""the pen has a replaceable tip",S
+I am thinking of something a bit like erm the flap on a video tape,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+uh huh what the flap,S,"{""label"": ""Be""}
+Text: ""the user is not capable of keeping",Be
+like a garage door type of thing,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+yeah push the button then it goes open,Bs,"{""label"": ""Be""}
+Text: ""it is important that the pen is",Be
+write garage door type mechanism,D,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+but that is probably overly complicated,Bs,"{""label"": ""Be""}
+Text: ""but that is probably overly complicated""",Be
+garage door,S,"{""label"": ""S""}
+Text: ""the pen is designed to draw thin",S
+well it could be a roller,S,"{""label"": ""S""}
+Text: ""or a hot air"" → Label",S
+a roller door,S,"{""label"": ""S""}
+Text: ""the pen is made of plastic""",S
+write roller door,D,"{""label"": ""S""} 
+
+Text: ""write roller door""
+Label (",S
+as you cool that down,Bs,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+yeah a button here that ,S,"{""label"": ""S""} 
+
+Text: ""is pressed to initiate the heating",S
+there is a slider that opens the pen,Be,"{""label"": ""S""}
+Text: ""the pen has a button to reset",S
+but then regardless of whether you have got the button pressed down or not you press hard and it comes back down,Be,"{""label"": ""Be""} 
+
+Okay, let's break this down.",Be
+so it does not matter if you drag it thuds hand on table it ll just,Bs,"{""label"": ""Be""}
+Okay, let's tackle this labeling task.",Be
+or you just keep that button pressed but,Bs,"{""label"": ""Be""}
+Alright, let's tackle this labeling task. The",Be
+thud yeah if you re very sort of cover that comes down,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+are you just whacking this pen there,Be,"{""label"": ""Be""} 
+
+Text: ""the pen is just like a",Be
+it s got a cap on,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The",S
+how much did that pen cost,Bs,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+errrr well about five pence or something,Bs,"{""label"": ""S""}
+Text: ""so that you can write on the",S
+yeah is that refillable,Be,"{""label"": ""S""}
+Text: ""so the pen has a replaceable",S
+like this is not refillable,Be,"{""label"": ""S""}
+Text: ""and we can print thermo reactive d",S
+I assume it has a cover that comes on as well,Bs,"{""label"": ""S""}
+Text: ""It is a thermal pen that can",S
+that is nice it s erm holdable,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+so one one pence two pence six pence,Bs,"{""label"": ""S""} 
+
+Text: ""the problem is that the pen",S
+twenty pence,Bs,"{""label"": ""S""}
+Text: ""the pen is made of metal""",S
+you could put a time delay on it,S,"{""label"": ""Be""} 
+
+Text: ""you could put a time delay",Be
+that is a good way of protecting it,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The sentence",Be
+write time delay,D,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+you could say it has to be in contact with the paper for a second and then the thing will deployed,Bs,"{""label"": ""Bs""}
+Okay, let's break down the sentence:",Bs
+that is easy,Bs,"{""label"": ""Be""}
+Text: ""that is easy to use""
+Label",Be
+and that way it s protected from being banged,Bs,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+is there is there an issue anyway erm guys with there being or having to be or a benefit by having like a stand by mode,F,"{""label"": ""Be""} (according to the examples, this is a Be",Be
+so its either completely switched off,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+with or without the cap on it,Be,"{""label"": ""S""}
+Text: ""the pen has a cap""
+Label",S
+or there is like a stand by mode,F,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+where its sort of semi warm but its ready for action quickly,Be,"{""label"": ""Be""}.
+
+Text: ""the pen has a small size",Be
+it has a home so a docking station,S,"{""label"": ""S""}
+Text: ""it has a home so a docking",S
+we could charge it in there as well plus,Bs,"{""label"": ""S""} 
+Okay, let's see. The text is",S
+it might be over budget,Bs,"{""label"": ""S""} 
+
+Text: ""so the problem is that the",S
+yeah so a docking station what would the docking station look like charge,S,"{""label"": ""S""} The text ""yeah so a docking station what would",S
+write docking station cradle,D,"{""label"": ""S""}
+Text: ""the pen is designed to be used",S
+well it would just be a cradle,S,"{""label"": ""S""}
+Text: ""so the idea is that the pen",S
+it would just be somewhere for it to live when you re not using it,Bs,"{""label"": ""S""}
+Text: ""it would be an accessory for the",S
+like a little protector like an inkwell,S,"{""label"": ""S""}
+Text: ""so that the ink doesn't dry",S
+laugh like a quill,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+a quill that means it s not something that you could put in your pencil case,Bs,"{""label"": ""S""}
+Text: ""a quill that means it s",S
+well I think there is an issue actually there,Be,"{""label"": ""Be""} The text ""well I think there is an",Be
+as well with children sometimes using lots of types of pens at the same time,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+if you had erm written something or smudged something with some other type of err pen or even a,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+pencil or a crayon or something like that,Be,"{""label"": ""S""} (this is the correct answer)
+
+Text: """,S
+and then you used this on the same paper would it make the print head dirty,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+and would there need to be some way of cleaning the print head potentially,F,"{""label"": ""Bs""} 
+
+Wait, the text is ""and would there",Bs
+or would it be good to have some way of cleaning the print head,F,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+like we could have a cap on it,S,"{""label"": ""S""} 
+
+Text: ""but you can't do that",S
+that actually erm sort of goes past it,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+is there any danger if you got ink from another pen or paint can it short,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+it would not short it,Bs,"{""label"": ""S""} 
+
+Text: ""the pen is very small",S
+it would not short it,Bs,"{""label"": ""Bs""} 
+
+Text: ""it would not short it""",Bs
+but it might burn into the head so,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+the good thing you could clean this you can get,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task.",Be
+a crayon would be all right because that would melt,Bs,"{""label"": ""Bs""} 
+Okay, let's tackle this. The",Bs
+you can clean it but erm I have got a way of cleaning it with a knife,Bs,"{""label"": ""Be""} (correct)
+Text: ""you can clean it",Be
+but paint would be a problem would not it you d imagine that,Be,"{""label"": ""Be""}
+Text: ""so the pen needs to be able",Be
+you could clean it off but you could not get the kids to do it,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+unless you er unless you did it automatically,Be,"{""label"": ""Be""} 
+
+Text: ""and then it will automatically print",Be
+I mean if you leave the top off that for twenty minutes it dries out,Be,"{""label"": ""Bs""}
+Okay, let's break down the sentence: """,Bs
+yes we could just up the age limit it s not a problem,Be,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+write cleaning mechanism,D,"{""label"": ""S""} 
+
+Text: ""the pen is designed to write",S
+OK want to do some more detail a bit more mechanism,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+well we we have got various things haven t we,S,"{""label"": ""Be""} 
+
+Text: ""but in the case of the",Be
+we just have to contact it,Bs,"{""label"": ""Be""} 
+
+Text: ""we need to think of designs",Be
+pressure contacts,S,"{""label"": ""S""}
+Text: ""the printout needs to stay in",S
+or its got to be got to be depressed,Bs,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+imagine you have piece of metal,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+spring switch,S,"{""label"": ""S""}
+Text: ""the main issue is the contact between",S
+is there a could you measure I am thinking of for example if a child decides to try to write on his clothes or on their skin or whatever,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+erm it may not be such a good idea,Bs,"{""label"": ""Be""} 
+
+Text: ""the problem is that when you",Be
+erm potentially feedback,Bs,"{""label"": ""Be""}
+Text: ""and we can print thermo reactive d",Be
+how quick the how quick the head cools down if its on the actual paper its supposed to be on versus if it was on some different media sort of,Bs,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+how hot,Bs,"{""label"": ""Be""} 
+
+Text: ""the pen is not going to",Be
+how hot does it get,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The question is",Be
+err it does get quite hot well,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+the tiny dots can get quite hot,Bs,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+and there is next to no thermal lapse,S,"{""label"": ""Be""}
+Alright, let's tackle this. The text is",Be
+so they cold again very quickly,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+if you wear it on your skin it would just be,Bs,"{""label"": ""S""} 
+
+Text: ""a thermal pen and then you",S
+we need to test this but I,Bs,"{""label"": ""Be""}
+Alright, let's tackle this labeling task. The",Be
+mechanically the the,S,"{""label"": ""D""}
+Text: ""the thermal pen"" → Label:",D
+well there is potential for a safety issue,Bs,"{""label"": ""Be""}
+Text: ""the pen is not a writing instrument",Be
+but erm where you re going trying to detect a cooling rate from the media,Bs,"{""label"": ""Be""}
+Alright, let's tackle this classification. The",Be
+that you have been in contact with can be a very hard thing to do erm,Bs,"{""label"": ""Be""} I think the label for the text ""that you",Be
+but detecting the media or detecting that you re on some kind of media,Bs,"{""label"": ""S""} 
+
+Text: ""it is not possible to have",S
+or holding station or something,S,"{""label"": ""S""}
+Text: ""or something that can be held in",S
+cos it could be sold as it could be a thing you put your special media on or,S,"{""label"": ""S""}
+Text: ""it could be a thing you put",S
+and we could either detect that,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+or we could look for erm translucent dots buried in the erm media or something,Be,"{""label"": ""F""} 
+
+Text: ""or we could look for translucent",F
+write translucent dots,D,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+or you could they you could a they could be like er beads switches,S,"{""label"": ""S""}
+Text: ""so that you can have the pen",S
+you can only write on a magnetic plate is not it,Bs,"{""label"": ""S""} 
+Text: ""but the pen is not that",S
+yeah you could do that or looking for a signal or,Be,"{""label"": ""Be""}
+Text: ""if you can get the signal that",Be
+or detecting a change,Be,"{""label"": ""Be""}
+Text: ""the other ideas on the paper there",Be
+so this is what you re talking about,S,"{""label"": ""Be""}
+Text: ""but that is not what we re",Be
+errr yeah its more systemy,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+I guess beyond the actual pen you could imagine all sorts of systems where,S,"{""label"": ""Be""} 
+Okay, let's tackle this classification. The",Be
+mmm ok you re tied you re tied to the media anyway so it s not really,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+erm yeah you re probably not constrained,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+because you unless you are detecting something special about the media which you might want to do,Bs,"{""label"": ""Bs""} 
+
+Text: ""the other thing is that the",Bs
+the effects of the media then it would work on any thermal media or,S,"{""label"": ""S""}
+Alright, let's tackle this classification. The text",S
+that is not common is it,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+like printers,Be,"{""label"": ""S""}
+Text: ""like printers"" → Label: S",S
+fax machines,Be,"{""label"": ""S""}
+Text: ""the pen needs to be small and",S
+I was just going to say yeah I think we should concentrate on what the mechanism might look like,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+the thermal pen cos I think we can spend quite a lot of time,F,"{""label"": ""F""}
+Okay, let's tackle this. The text is",F
+yep so in terms of the actual mechanism we have explored some different angles on that have not we,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+in terms of the you mean in terms of the spring loading and things like that,S,"{""label"": ""S""}
+Text: ""the other one is that you have",S
+well that is one idea and that has the that has a two outer that has an outer limit how far the slider can move,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+that controls there is obviously it stays at an angle until you get to the maximum angle and then if all,Bs,"{""label"": ""Be""} 
+
+Text: ""the angle at which the pen",Be
+and then it could switch off could not it,Be,"{""label"": ""Be""}
+Text: ""and the pen could be used in",Be
+if it w if it was hitting a certain angle it could switch off,Be,"{""label"": ""Be""}.
+Okay, let's break down the sentence:",Be
+you d need an additional partner mechanism ,S,"{""label"": ""Bs""} 
+
+Text: ""to maintain contact with the paper",Bs
+so you could switch you could have that,Bs,"{""label"": ""Be""} 
+
+Text: ""so you could switch you",Be
+you could have the contacts on top and bottom of that piston,S,"{""label"": ""S""}
+Text: ""you could have the contacts on top",S
+and then they could stay,Bs,"{""label"": ""Be""} The text ""and then they could stay"" is",Be
+do they really need to stay in contact well,Bs,"{""label"": ""Be""}
+Text: ""they can be used in the same",Be
+if you don t press hard enough then,Be,"{""label"": ""Be""} 
+
+Text: ""the printout will not be",Be
+edge and if you go over it if you come too high an angle,Be,"{""label"": ""Be""}
+Alright, let's tackle this labeling task.",Be
+then you do this contact between here and here,S,"{""label"": ""Bs""}
+Text: ""the pen can be used as a",Bs
+or you could have the cylinder that moved in some slots,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+so that this can move that way,Bs,"{""label"": ""F""} 
+
+Text: ""and the pen is supposed to",F
+but what you cant do is it can t the print head can t tilt back or forward because these slots are in,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+they re in a fixed position yeah,S,"{""label"": ""S""}
+Text: ""they re in a fixed position yeah",S
+this this stays at a fixed angle,S,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+it can move up and down,S,"{""label"": ""Be""}
+Text: ""it can move up and down""",Be
+and side to side its fixed that way,S,"{""label"": ""S""}
+Alright, let's tackle this classification. The text",S
+the print head relative to the pen,S,"{""label"": ""S""}
+Text: ""the print head relative to the pen",S
+I am sorry I am just thinking about I think there is probably a geometry that could do it with just one switch erm,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+that when you come too far over erm the pen starts moving back in and so back in,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+and therefore the switch comes off,Bs,"{""label"": ""S""} Alright, let's tackle this labeling task. The",S
+before it looses contact,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+you know it depends on the shape of the case work for it,Bs,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+the outside bit,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+yeah the thing that we did a few years ago,S,"{""label"": ""S""} 
+
+Text: ""was to try and create a",S
+which had a kind of sort of forced balanced print head,Bs,"{""label"": ""S""}
+Text: ""which was a bit of a problem",S
+we tend to do fairly wide print heads,S,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+to try and keep them in contact with the medium,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+it appears a bit different less controlled,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+and on that we basically had a frame,S,"{""label"": ""S""}
+Text: ""so that the pen can be held",S
+which brought the print head down brought the print head down,Bs,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+and then that is right and so,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+like this and then,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+it s like the old tape recorders is not it,S,"{""label"": ""Be""} I think the label for the text ""it s",Be
+it finds its own level,Bs,"{""label"": ""Be""} 
+
+Text: ""it has to be able to",Be
+and the force is applied to this,Bs,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+that is right the print head just like this erm,S,"{""label"": ""S""}
+Text: ""so that it can be used by",S
+on a carrier as well,S,"{""label"": ""S""}
+Text: ""with a carrier and a tip""",S
+could it work this way as well,Be,"{""label"": ""Be""} 
+
+Text: ""the pen needs to be light",Be
+no,Bs,"{""label"": ""D""}
+Text: ""the pen is made of plastic""",D
+what you always want to combine is something that when you press you press media,Be,"{""label"": ""Bs""} I need to classify the given text using the F",Bs
+so that you have made contact,S,"{""label"": ""F""} 
+
+Text: ""so that you have made contact",F
+circuit you over pressurise it,Bs,"{""label"": ""Bs""} 
+
+Text: ""the pen tip is made of",Bs
+and it goes past it,Bs,"{""label"": ""Be""} 
+
+Text: ""and it goes past it""",Be
+so it does not work and then you have got you have got bottom out,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+sheath here,S,"{""label"": ""S""}
+Text: ""the pen is a thermal pen""",S
+brilliant idea,Bs,"{""label"": ""Be""} 
+Text: ""this is to be a thermal",Be
+and could you use these contacts,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+and put them in 3D,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+could be one could be one here,S,"{""label"": ""Be""}
+Text: ""could be one could be one here",Be
+and there,S,"{""label"": ""D""}
+Okay, let's tackle this. The text is",D
+we only need two in the front and back,S,"{""label"": ""S""}
+Alright, let's tackle this classification. The text",S
+so that as well as being in the right vertical position ie actually touching paper,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+so that it dissipates heat not press too far,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The sentence is",Be
+because then it pops out the sheath,S,"{""label"": ""Bs""}
+Alright, let's tackle this classification. The text",Bs
+and you re over pressurising it,Bs,"{""label"": ""Bs""} 
+
+Text: ""so the pen is over press",Bs
+but also something to do with the fact that these contacts,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+if if as you say go over an angle then you notice that central thing comes away from one side,Bs,"{""label"": ""Be""}
+Alright, let's tackle this labeling task. The",Be
+you know the distances between the edge of these ,S,"{""label"": ""Be""}
+Text: ""and the edge of the paper""",Be
+the distance between the edges of these things and the outer casing,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+when you re at a small angle,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+they move a little bit,Bs,"{""label"": ""Be""}
+Text: ""they move a little bit""
+Okay",Be
+when you re at a big angle,S,"{""label"": ""Be""} 
+
+Text: ""the pen is going to be",Be
+one sides hard up against it,Bs,"{""label"": ""Bs""}
+Text: ""one side is hard up against it",Bs
+the other one produces a gap and so you can almost have that,S,"{""label"": ""Bs""} 
+Okay, let's tackle this classification. The",Bs
+could you have that front and back as well like a sort of cross,S,"{""label"": ""Be""}
+Text: ""but the problem is that the paper",Be
+and then you have to have all four things contacted like what you said earlier so,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The",S
+if you draw draw four contacts that have some compliance,S,"{""label"": ""Bs""} Alright, let's tackle this labeling task. The",Bs
+because they re on a spring and then you have got your central four points,S,"{""label"": ""Bs""}
+Okay, let's break down the text:",Bs
+here this is going to be up then if you go in that planeover an angle too much ,Bs,"{""label"": ""Be""} 
+
+Text: ""but the problem is that if",Be
+my arg what I was trying to say before is erm,S,"{""label"": ""Be""}
+Text: ""this is the same as the one",Be
+you could do it with one switch,S,"{""label"": ""S""}
+Text: ""you could do it with one switch",S
+if if the casework say the casework is comes out f further out errm ,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The",S
+it may or may not work erm clears throat,Bs,"{""label"": ""Be""}
+Text: ""the problem is that the pen is",Be
+if you what it does is you have got one switch that if its but if its on and back i it works,Be,"{""label"": ""Be""} Let's analyze the text: ""if you",Be
+but then if you pivot pivot this can pivot a bit but it,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+but it pivots more on the k but the case if you pivot a little bit on the c,S,"{""label"": ""Bs""}
+Okay, let's tackle this. The text",Bs
+the case comes in contact and it starts to come away,S,"{""label"": ""Bs""}
+Text: ""the case comes in contact and it",Bs
+it could be shaped so it can only be yeah so,S,"{""label"": ""Bs""}
+Okay, let's tackle this labeling task. The",Bs
+so that so that when it it does not actually erm,Be,"{""label"": ""F""}
+
+Text: ""so that it can be used for",F
+when it does not actually come away its guaranteed that its that its er that its still on the paper,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+don t we have to very much casework,S,"{""label"": ""Be""} Alright, let's tackle this classification. The text",Be
+all I am saying is is is that the if the erm amount of movement is here,Be,"{""label"": ""Be""} The text ""all I am saying is is",Be
+draws,D,"{""label"": ""Be""} Alright, let's tackle this classification. The text",Be
+is erm bigger than the amount of movement that erm the case,Be,"{""label"": ""Be""} Alright, let's tackle this labeling task. The",Be
+will allow then sort of I am not really sure that you need you need the case at all,S,"{""label"": ""S""}
+Text: ""but you can also make the pen",S
+its just its just sort of I am just worried about this switch is going to have a tolerance factor,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+so its going to be er guaranteeing that you switch off when before you come away,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+yeah you might get a switch on the side mightn t you,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+because what you want to have happen is,Bs,"{""label"": ""F""} 
+
+Text: ""that the pen is able to",F
+you need to be able to accommodate more in the mechanism than for contact purposes,Be,"{""label"": ""Bs""}
+Okay, let's tackle this. The sentence is",Bs
+because what you don t want to have happen is that they come off the print head to come off before,Be,"{""label"": ""Bs""} The text explains that the issue is with the",Bs
+yeah but there must be there must be a mechanism that,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+allows that has one switch that says everything that I need all in is in contact,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The",Bs
+but what is qui if you wanted to have a certain angle if you if you,S,"{""label"": ""Be""}
+Alright, let's tackle this classification. The",Be
+had the mechanism like that,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+so the actual pen width is so this way right,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+so you write like that but this bit you actually turn that way yeah,Bs,"{""label"": ""Be""}
+Okay, let's tackle this labeling task.",Be
+so that means if you write left han right handed,Be,"{""label"": ""F""} 
+
+Text: ""you can write left or right",F
+or if you drag right handed along the paper that way,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+to be at the right angle and switched on,S,"{""label"": ""Be""}
+Text: ""to be at the right angle and",Be
+you will only need to touch that side,Be,"{""label"": ""Be""}
+Alright, let's tackle this labeling task. The",Be
+and it will always be if it s in the right angle,S,"{""label"": ""Be""}
+Text: ""the other thing is the printout",Be
+it will switch on,Be,"{""label"": ""Be""} 
+
+Text: ""it will switch on"" →",Be
+because it will touch that side,S,"{""label"": ""Bs""} 
+
+Text: ""because of the way the pen",Bs
+if it s on left handed mode ie your,Be,"{""label"": ""S""} 
+
+Text: ""if it s on left handed",S
+it would be the opposite side,S,"{""label"": ""S""} 
+Text: ""the other way around""
+Label",S
+then you have to switch on that side that switches on for the left handed,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+that is an idea probably for a feature left or right handed mode,F,"{""label"": ""F""}
+
+Text: ""so we need to have a pen",F
+is that handed,S,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+well you ll hold it in the opposite way won t you,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+it depends on how you shape th the product as well,S,"{""label"": ""Be""} 
+
+Text: ""it depends on how you",Be
+but I think you certainly have to bear it in mind that there is you know,Be,"{""label"": ""Be""} 
+
+Text: ""the paper is a bit more",Be
+I think I think imagine imagine this was a plot a point some line here,S,"{""label"": ""Be""}
+Text: ""you can draw a line with the",Be
+if you had to apply some force you could drag by pushing down,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+and you could also push by pushing down drag left handed or push right handed,Be,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+followed by a force,Be,"{""label"": ""Be""}
+Text: ""the pen is to be used in",Be
+remember there does not have to be something happening did you say,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+yeah erm the force is not necessarily erm,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+but it s,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+in that axis is it,S,"{""label"": ""Be""} 
+
+Text: ""in that axis is it""",Be
+but it s about it s about the angle being right,S,"{""label"": ""Be""} 
+
+Text: ""the pen s nib is made",Be
+switching the if you if you make sure that the angle if the angles in the right way then it switches on,Be,"{""label"": ""Be""}
+Text: ""it's a very small pen with",Be
+so it will switch on when its like that I suppose it will still switch on,Be,"{""label"": ""Be""}
+Text: ""it will switch on when its like",Be
+when its like that wont it,Bs,"{""label"": ""Be""} The text ""when its like that wont it",Be
+so if that is if you come to a tilt here right then the head can come out ,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+you design it so the head,S,"{""label"": ""F""}
+Okay, let's tackle this classification. The text",F
+and its still in contact with the paper,Be,"{""label"": ""Be""}
+Alright, let's tackle this classification. The",Be
+and everything s hunky dory but it has come forward a distance,S,"{""label"": ""Be""} 
+
+Text: ""but it has come forward a",Be
+and and that can be that can be where it switches off,Be,"{""label"": ""Be""}
+Text: ""and and that can be that can",Be
+and then you can carry on if you carry on with this,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task.",Be
+and this and this is where you know this is where it can t errm accommodate that wrong angle,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+then then its switched off anyway,Bs,"{""label"": ""Be""} Let's analyze the sentence ""then then its",Be
+just a straight just a straight switch here,S,"{""label"": ""S""} 
+
+Text: ""the switch is a straight switch",S
+based based on this based on this distance there is a switch here,S,"{""label"": ""Bs""}
+Okay, let's tackle this labeling task. The",Bs
+there is a few of those is not there,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+there is a switch there,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+and then its got a certain travel you know,Be,"{""label"": ""S""}
+Okay, let's break down the text: """,S
+a certain tolerance it works,Be,"{""label"": ""Be""}
+Text: ""so it is important to get the",Be
+it s it s either on or off between here or here,Be,"{""label"": ""Bs""} (as per the examples, ""between here or",Bs
+there is another you could in various ways imagine a sort of disc idea,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+which could be anything actually anything fastened to this and rotating,S,"{""label"": ""Bs""}
+Text: ""which could be anything actually anything fast",Bs
+you just put a window in there somewhere,S,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+and poke a through it in that direction,S,"{""label"": ""Be""} 
+
+Okay, let's tackle this. The",Be
+so one edge defines too far right one edge too far left,S,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+chop off,S,"{""label"": ""S""}
+Text: ""chop off the tip""
+Label",S
+so there is two ideas,S,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+that is that is quite good there is either a mechanical,S,"{""label"": ""Be""}
+Text: ""that is that is quite good there",Be
+there is there is so there is this is erm so you can switch on erm on the vertical ,S,"{""label"": ""Be""} 
+
+Text: ""there is this is the first",Be
+or switch,Bs,"{""label"": ""S""} The text ""or switch"" is classified as **",S
+so there is a minimum travel,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+on on angular,S,"{""label"": ""Be""} 
+
+Text: ""contour""
+Label (JSON",Be
+switch on and off yeah,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+could you have the switch between the outer sleeves and this centre bit,S,"{""label"": ""S""}
+Text: ""so we have to think about how",S
+so if its gone beyond this outer sleeve then it switches off where as if its ,Be,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+where as its if its too far in its switched off as well,Be,"{""label"": ""Be""}
+Text: ""so the problem is the problem is",Be
+so the edges here when they re when they re roughly at the same angle,S,"{""label"": ""Be""}
+Text: ""so the edges here when they",Be
+so when these two are in contact so they re either level or slightly behind it,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+then they can be on,Bs,"{""label"": ""S""}
+Text: ""then they can be on""
+Label",S
+but if its too far out it wont be on,Bs,"{""label"": ""Bs""} 
+Text: ""its not so much the material",Bs
+because its erm not touching,S,"{""label"": ""Bs""}
+Text: ""because it's not touching the paper",Bs
+these erm outer sleeves and if its too far in,S,"{""label"": ""S""}
+Text: ""they are in the same direction as",S
+it also wont be working,Bs,"{""label"": ""Be""}
+Text: ""it is also about the media""",Be
+because they don t touch this outer angle here,S,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+yeah I think there is going to be loads of ways to low cost switch,Bs,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+depend upon final weight of the final mechanism,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+yeah the point is that you can get away with an on switch,S,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+but can we also are there any other ways of floating this head that you can think of perhaps,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+you could stick rather than springs and things,S,"{""label"": ""S""} 
+
+Text: ""you could use a piece of",S
+you could just stick it on a on a rubbery pack or a film,S,"{""label"": ""S""}.
+
+Text: ""it needs to be able to",S
+sketching spring,D,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+I er,D,"{""label"": ""D""}
+Text: ""um"" → {""label"": """,D
+they start doing this sheath that hits first,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+so th if you fix that sheath onto a plunger that is sprung in a syringe,S,"{""label"": ""Bs""}
+Okay, let's break down the text: """,Bs
+when you push that in you have to push the air like that through a very small hole,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+so you can t do it quickly,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+so you can t shock that thing,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+that ll slo slow down and then it will slowly move back,Bs,"{""label"": ""Be""}.
+
+Text: ""the pen has a replaceable",Be
+yeah but then when you erm take it off the paper it quickly pings back,Bs,"{""label"": ""Bs""}
+Okay, let's break down the sentence: """,Bs
+because this is a one way valve,Bs,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+just a bit of rubber a flap of rubber,S,"{""label"": ""S""} The text ""just a bit of rubber a",S
+they will be air in there,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+so that spring quickly returns it back down to it s protective position,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this. The sentence is",Bs
+so bang it down its protected force will come on slowly,Bs,"{""label"": ""Bs""} 
+
+Text: ""so bang it down its protected",Bs
+but as soon as you take it off it pings back,Bs,"{""label"": ""Bs""}
+Alright, let's tackle this classification. The sentence",Bs
+so its just good point actually clears throat,Bs,"{""label"": ""Be""}
+Text: ""so we have to make sure that",Be
+I was just thinking that relatively the carrier that the print head is on is quite heavy,Bs,"{""label"": ""Bs""} 
+
+Text: ""the print head is on the",Bs
+so if we moves it round masks speech contact with the surface,S,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+its going to have quite a bit of momentum still so erm,Bs,"{""label"": ""Be""}
+Text: ""and the other one is the idea",Be
+quite hard or something that its pressed onto,Be,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+yeah it needs to it needs to be protected,Be,"{""label"": ""F""}
+Okay, let's tackle this classification. The text",F
+so it can t travel further forward it can only go backwards,Bs,"{""label"": ""Be""} 
+
+Text: ""so the pen is designed to",Be
+yeah we don t want it to come off anything,Be,"{""label"": ""Be""} 
+
+Text: ""it is designed to be used",Be
+or it could hinge forward under its own momentum,S,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+and then sort of smash onto something,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+the only other thing here it s a spring,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+imagine that is imagine that touches the paper bangs it ,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+protected the bottom bangs twice,Be,"{""label"": ""S""} 
+
+Text: ""the thermal pen needs to be",S
+there is two forces there is not there bangs it,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+there is sort of the momentum of the thing itself,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+yeah its not going to be anything like this heavy is it,Be,"{""label"": ""Be""}.
+Okay, let's tackle this. The text",Be
+no well as I say you need to shock that down ,S,"{""label"": ""Bs""} 
+
+Text: ""and it needs to be a",Bs
+you re smash you re gonna smash the edge of this protective sheath before this does anything in here,Be,"{""label"": ""Be""}
+Okay, let's tackle this labeling task. The",Be
+yeah also they re not that made out of ceramic and glass,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+mmm I think that is I think that the other other protective thing,F,"{""label"": ""Be""}
+Okay, let me try to figure out the",Be
+is whether they smash it off the table before momentum,Be,"{""label"": ""Be""}
+Text: ""is whether they smash it off the",Be
+It s not it s not really kids sort of erm err throwing,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+it down its also people dropping it,Be,"{""label"": ""Be""}
+Text: ""it down its also people dropping it",Be
+yeah if they bang it into concrete really hard,Be,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+yeah but as I was saying if it was spring loaded,S,"{""label"": ""Be""} 
+
+Text: ""you could have a pen that",Be
+then you can smash the edge of this,Bs,"{""label"": ""Be""}
+Text: ""so that the printout stays in",Be
+cos this is as soon as the force gets to here this is inside it so,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+or whatever that we could perhaps achieve holding this thing flat to the surface,Be,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+the foam pads is an idea actually you could imagine,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+a foam pad with an aluminium carrier on the front of it,S,"{""label"": ""S""} 
+
+Text: ""it is designed to allow the",S
+and the print head fastened to that,S,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+and it can just squidge around,Bs,"{""label"": ""Be""} Okay, let's tackle this. The text is",Be
+so yeah that would work,Bs,"{""label"": ""Be""}
+Text: ""but in that case the pen would",Be
+it would also give you some a really cheap way,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+of achieving a reasonable force,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+a great density foam,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+that could give you the force of the print head,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+it could just recoil far enough it s a good idea actually,Bs,"{""label"": ""Be""}
+Text: ""but the problem is that if it",Be
+that could work,Bs,"{""label"": ""Be""} 
+
+Text: ""so that the pen can be",Be
+a big sponge,S,"{""label"": ""S""} 
+
+Text: ""with the sponge we can absorb",S
+draws,D,"{""label"": ""Be""} 
+
+Text: ""draws"" is a verb",Be
+aluminium print head on the bottom all connected,D,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+I reck I reckon you move it around,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+yeah well you put this,S,"{""label"": ""S""}
+Text: ""and the pen is supposed to be",S
+and it will just erm you have got spring and you have got some lovely,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+could you even take that one further,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+like you could build the foam around the print head,S,"{""label"": ""Bs""} 
+
+Text: ""but then the pen would be",Bs
+so you d have to press the foam back to actually reveal the print head in the first place,Be,"{""label"": ""Bs""}
+Okay, let's break down the sentence: """,Bs
+so it almost wraps round a little bit,S,"{""label"": ""Be""}
+Text: ""the problem is that it is not",Be
+so if you go like that bang the foam needs to,Be,"{""label"": ""Bs""} (from the example)
+Text: ""so if",Bs
+perhaps not wrapped around to the extend in front of the housing,S,"{""label"": ""Be""} 
+
+Text: ""the pen is not a thermal",Be
+so that you know you need to press the foam,Bs,"{""label"": ""F""} 
+
+Text: ""because the foam is soft and",F
+bit in before you actually start touching it,Bs,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+yeah you need the foam,S,"{""label"": ""S""} 
+
+Text: ""the foam is the main part",S
+to do some damping,Bs,"{""label"": ""Be""}
+Text: ""to do some damping""
+Label (",Be
+so that is got to go somewhere,S,"{""label"": ""F""}
+Text: ""so that is got to go somewhere",F
+yeah you need the foam to have tha that sort of this sort of,S,"{""label"": ""Bs""}
+Okay, let's tackle this labeling task. The",Bs
+where where it does not want to move fast,Be,"{""label"": ""Be""} 
+
+Text: ""so that the pen can be",Be
+well has to be down,S,"{""label"": ""Be""} (correct)
+Text: ""well has to be",Be
+we could we could have some sort of air bladder,S,"{""label"": ""S""}
+Text: ""which would hold the printout in",S
+I think it probably could be rubber,S,"{""label"": ""S""}
+Alright, let's tackle this labeling task. The",S
+obviously,S,"{""label"": ""Be""}
+Text: ""so that the pen can be used",Be
+yeah the stuff they make wrist supports for erm,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+like the jelly stuff,S,"{""label"": ""S""} 
+
+Text: ""so that you can print in",S
+yeah the gel,S,"{""label"": ""S""}
+Okay, let's see. The text is just",S
+yeah well gel does that,Bs,"{""label"": ""Bs""}
+Okay, let's break down the text ""yeah",Bs
+yeah techno gel,S,"{""label"": ""S""} 
+
+Text: ""but the problem is that the",S
+the only p gel,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+we ve talked a little about air cushions,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+and the sort of syringe type mechanism,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+any other ways that we could use sort of air pockets of some sort to,S,"{""label"": ""Be""} Okay, let's tackle this. The text is",Be
+you could make a magnetic force it in the middle,S,"{""label"": ""Bs""} 
+
+Text: ""and the pen would be a",Bs
+pellets,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+so it stays sort of stays,Bs,"{""label"": ""Be""}
+Text: ""so it stays sort of stays""",Be
+pushed into it yeah you could do something like that,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+magnets not cheap,Bs,"{""label"": ""S""}
+Text: ""magnets not cheap""
+Label",S
+air pockets are much cheaper,Bs,"{""label"": ""S""}
+Text: ""the pen is made of plastic""",S
+well that does not have to be that could be a balloon inside,S,"{""label"": ""S""} 
+
+Text: ""or a hot air gun""",S
+yeah you could put a it on a pneumatic bladder in,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+yeah or like a sort of bridge,S,"{""label"": ""Be""} 
+
+Text: ""which allows for the pen to",Be
+or you could do what they do in an old fashioned mouse not optical mouse,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+with the b ball,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+just use gravity because it s own weight makes it roll on the mouse mat,Bs,"{""label"": ""Bs""} 
+Okay, let's tackle this. The text",Bs
+that would work,Be,"{""label"": ""Be""}
+Text: ""that would work""
+Label (JSON",Be
+five hundred grams is that wh is that the,S,"{""label"": ""S""}.
+
+Text: ""so that the pen can be",S
+oh you need five hundred grams OK that is fi,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+you need five hundred grams,S,"{""label"": ""S""} 
+
+Text: ""you need five hundred grams of",S
+how far s five hundred grams,Bs,"{""label"": ""S""} 
+
+Text: ""s the paper and the pen",S
+er er yeah if you take it to twenty mill,S,"{""label"": ""Be""} 
+
+Text: ""and you get a really clear",Be
+sort of half the compression that will be,Bs,"{""label"": ""Be""}
+Alright, let's tackle this classification. The text",Be
+I did not realise what this was this is a prototype,S,"{""label"": ""S""}
+Text: ""The pen is designed to be used",S
+it s a prototype model,S,"{""label"": ""S""}
+Text: ""the pen is a thermal pen""",S
+it s not really a prototype,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The",S
+well its test,Bs,"{""label"": ""Be""} 
+
+Text: ""the pen needs to be able",Be
+to explore,Bs,"{""label"": ""F""}
+Okay, let's see. The text is """,F
+why do you need that force,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+err expensive,Bs,"{""label"": ""Be""}??
+Okay, let's tackle this. The",Be
+for contact is it,Bs,"{""label"": ""Be""}
+Text: ""so that the user can move the",Be
+well if you well if you well if you have got heat here,S,"{""label"": ""Bs""}
+Okay, let's tackle this labeling task. The",Bs
+and here its zero contact is not it,S,"{""label"": ""S""}
+Text: ""and we can print thermo reactive d",S
+yeah so you need quite a strong contact basically,Bs,"{""label"": ""Be""}
+Okay, let's break down the sentence:",Be
+well if you have got a so if you go to ten mils instead of five,S,"{""label"": ""S""}
+Text: ""then the pen will be less flexible",S
+well then you re going to have a,S,"{""label"": ""Be""} 
+
+Text: ""to have a heat source""",Be
+a switch on,S,"{""label"": ""S""}
+Text: ""a switch on"" → Label",S
+that is what one of the questions was the other switch goes past there we want to wa,S,"{""label"": ""Be""}
+Text: ""but that is what we have to",Be
+one you re inside the protective thing,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+two it s not got power,S,"{""label"": ""S""}
+Text: ""but we have to make it work",S
+this is really difficult is not it,Bs,"{""label"": ""Be""} 
+
+Text: ""this is really difficult is",Be
+yeah it will be like that,Bs,"{""label"": ""Be""}.
+Okay, let's tackle this classification. The",Be
+but its very similar,Bs,"{""label"": ""Be""}  {""label"": ""Be""}  {""label",Be
+it s just for the skilled personnel to use in their lab,Bs,"{""label"": ""F""} 
+
+Text: ""but the user is not the",F
+the print quality in a way,Bs,"{""label"": ""Be""}
+Text: ""the print quality in a way that",Be
+what is the range of angles,Be,"{""label"": ""Be""}
+Text: ""the pen needs to be held at",Be
+it s just to measure what you what the parameters are,S,"{""label"": ""Be""}
+Text: ""it s just to measure what you",Be
+if you like it s just its just to give us some guidance,S,"{""label"": ""F""}
+Text: ""so it is just a way of",F
+so what we re talking about is is err where rather than having that as the range of movement,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+we re talking about having a thing like a spring which,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+like a millimetre or so,S,"{""label"": ""S""}
+Text: ""so we need to have a structure",S
+yeah yeah but then you have got to stop stop further down,S,"{""label"": ""Be""}
+Text: ""and then when you have written all",Be
+yes from what we were talking about its actually the moving bit,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+it s actually much easier because this bit you have got the moving bit,Bs,"{""label"": ""Be""} 
+Text: ""and the other one you have",Be
+that affects position,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+what we re really talking about is that the print head will be struck,Be,"{""label"": ""S""}
+Alright, let's tackle this classification. The text",S
+that is easier to use,Bs,"{""label"": ""Be""}
+Text: ""the pen is more compact""
+Label",Be
+yeah to make this to make this the same,Be,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+you d have to you d have to extend a cylinder over this thing,S,"{""label"": ""Bs""}
+Okay, let's tackle this. The text is",Bs
+and then the and then the cylinder would come to a stop,S,"{""label"": ""Bs""}
+Text: ""the cylinder is made of plastic""",Bs
+yeah and so its going to be a much more compact version of that,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The",S
+where it will only move maybe a couple of millimetres erm,Bs,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+and then it would be an outer casement,S,"{""label"": ""S""} 
+
+Text: ""the casing is made of a",S
+so you could continue to drag the along,Bs,"{""label"": ""Be""} 
+
+Text: ""and that is why we need",Be
+still get a sense of the force,Be,"{""label"": ""Be""}.
+
+Okay, let's tackle this classification. The",Be
+actually five hundred grams,S,"{""label"": ""S""}
+Text: ""the user will be holding the pen",S
+that means this sort of thing is not going to work,Bs,"{""label"": ""Bs""}
+Text: ""the problem is that the pen is",Bs
+oh no it means this has got to be more than five hundred grams to push that back,Bs,"{""label"": ""Bs""}
+Okay, let's tackle this classification. The text",Bs
+if you had a sheath,S,"{""label"": ""S""}
+Text: ""it would be a place to put",S
+you have to press that has to be more than fi ou,Bs,"{""label"": ""Be""}
+Okay, let's tackle this labeling task.",Be
+have to make it come back,Be,"{""label"": ""Be""} The text ""have to make it come back""",Be
+and provide an extra five hundred grams,S,"{""label"": ""S""}
+Text: ""the pen is made of a plastic",S
+it depends what the sheath is doing,Be,"{""label"": ""S""}
+Text: ""the sheath is designed to be",S
+if the sheath has if the sheath has a sprung sheath,S,"{""label"": ""S""}
+Text: ""then the pen can be held in",S
+then you have got to overpower that and,Be,"{""label"": ""Be""}
+Text: ""the pen needs to be able to",Be
+another five hundred grams,S,"{""label"": ""S""}
+Text: ""but we are not going to make",S
+erm but most the value in the sheath,Bs,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+might be to protect against kind of catching sideways edges and things,Bs,"{""label"": ""Be""}
+Text: ""but the problem with that is that",Be
+it does not work this sheath does it,Bs,"{""label"": ""Be""} The text ""it does not work this sheath",Be
+well it does work but it just means you got to press harder does not it,Be,"{""label"": ""Be""} 
+
+Text: ""and the pen is the main",Be
+well only if its yeah but does it,Be,"{""label"": ""Be""}.
+
+Okay, let's tackle this classification. The",Be
+the sheath,S,"{""label"": ""S""}  (correct)
+Text: ""the sheath",S
+provides the spacing,S,"{""label"": ""Be""}.
+
+Text: ""the spacing is important for the",Be
+yeah it does not have to be heavy,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+five hundred grams is not very much,Bs,"{""label"": ""S""}
+Text: ""so that the pen can be used",S
+is there five hundred grams,S,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+well is there anything else,S,"{""label"": ""Be""}
+Text: ""well is there anything else""
+Label",Be
+quite a lot erm it is a lot is a lot for a pen,Bs,"{""label"": ""Be""} Alright, let's tackle this labeling task. The",Be
+that is true,Bs,"{""label"": ""Be""}
+Text: ""so the main purpose is to be",Be
+and then you have got all the batteries,S,"{""label"": ""S""}
+Okay, let's tackle this. The text",S
+you could just make the make the whole thing a kilogram in weight,S,"{""label"": ""S""}
+Okay, let's tackle this. The text is",S
+five hundred grams for the whole thing laugh,S,"{""label"": ""S""}
+Okay, let's tackle this labeling task. The",S
+the shape of it,S,"{""label"": ""S""}
+Text: ""the shape of it"" is the",S
+cos can you press with a pen five hundred grams easily,Bs,"{""label"": ""Bs""}
+Text: ""cos can you press with a pen",Bs
+you can press twenty mils now,Bs,"{""label"": ""S""}
+Text: ""so the pen is a thermal pen",S
+yeah that is twenty mils up,S,"{""label"": ""S""}
+Alright, let's tackle this classification. The text",S
+yeah but if its out of the ring out of the ring like Tony was saying,S,"{""label"": ""Be""} 
+
+Text: ""so we need to think of",Be
+its apparently easier,Bs,"{""label"": ""Be""}
+Okay, let's tackle this. The text is",Be
+and the its not tha yeah its just like you said its just holding it is not it,Be,"{""label"": ""Be""}
+Okay, let's tackle this classification. The",Be
+it will pay for itself that kind of thing,Bs,"{""label"": ""F""}
+Okay, let's tackle this classification. The text",F
+in this direction,S,"{""label"": ""Be""}
+Okay, let's tackle this classification. The text",Be
+it depends a lot on the friction between the print head and the paper,Bs,"{""label"": ""Bs""} 
+
+Text: ""it is not the same as",Bs
+it depends on the weigh the weight of the thing,Bs,"{""label"": ""S""}
+Okay, let's tackle this classification. The text",S
+cos that makes it really hard,Bs,"{""label"": ""Be""}
+Text: ""so the main idea is that the",Be
+if its straight down then and deals with the print head,S,"{""label"": ""Bs""} 
+
+Text: ""the pen needs to be small",Bs
+if we push down like this,Be,"{""label"": ""Be""} 
+
+Text: ""then the pen will be held",Be
+to force to keep the paper still,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
+you have got to you have got to keep the paper still,S,"{""label"": ""Be""}
+Text: ""you have got to you have got",Be
+the friction between this and this that holds that,Bs,"{""label"": ""Bs""} 
+
+Text: ""the friction between this and this",Bs
+yeah that is true yeah the friction will be about a third,Bs,"{""label"": ""Be""} 
+
+Text: ""but it is not the only",Be
+or something at least one hundred grams one hundred grams of paper across the table,Bs,"{""label"": ""S""}
+Alright, let's tackle this classification. The text",S
+so if this is maybe a kind of a book,S,"{""label"": ""Be""}
+Okay, let's tackle this. The text",Be
